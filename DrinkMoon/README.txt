@@ -4,3 +4,4 @@ Para esse MOD funcionar é necessário:
 -Content Patcher
 
 Obrigado por jogar! <3
+Criadores: Mateus e Luigi
