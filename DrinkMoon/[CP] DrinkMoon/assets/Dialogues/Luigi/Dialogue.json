@@ -1,0 +1,116 @@
+{
+  // ESPECIAIS
+  "Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto?$0",
+  "Resort_Entering": "Quem diria que um lugar tão bonito assim existia!$1",
+  "Resort_Leaving": "Bom, não posso ficar aqui pra sempre...$0#$b#Posso?$1",
+  "Resort_Shore": "É bom tirar um tempo pra pensar, fazer projetos consecutivamente cansa.$1",
+  "Resort_Shore_2": "Ah, ficar chutando a água aqui é incrível!$1",
+  "Resort_Umbrella": "Ah, hora de passar protetor solar!$1",
+  "Resort_Umbrella_2": "Talvez eu possa adicionar algo sobre a praia nos meus projetos!$1",
+  "Resort_Wander": "Hmm, será que existem mistérios nessa ilha?$0#$b#Ah, queria ter tempo de explorar tudo!$1",
+  "Resort_Bar": "Que sede, tem água ai?",
+  "Resort": "Bom, esse tempo definitivamente é perfeito!$0",
+  "danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
+  "divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
+  "secondChance_Guys": "...Ok, só mais uma chance!$1",
+  "breakUp": "...!$8#$b#Entendo, não posso te contrariar...$2",
+
+  // DIALOGO COMUM
+  //segunda-feira
+  "Mon": "Oi, precisa de algo?#$b#Estou meio ocupado agora...",
+  "Mon2": "Opa @, tudo tranquilo?#$e#Eu tô de boas, teremos novidades em breve do meu Projetinho.$1",
+  "Mon4": "Você sabia que eu participo de uma sessão de RPG?#$b#Jogam eu o Mateus, Guilherme e o Ronaldo, além do Seba que é o Mestre.$1",
+  "Mon6": "Eu falo pro Ronaldo ficar de boa, mas ele nunca me escuta...$6#$e#Tem alguma sugestão @?",
+  "Mon8": "O Projetinho foi um sucesso!$1#$b#Quero fazer mais desses!$1",
+  "Mon10": "Estou feliz de estarmos juntos hoje!$1#$b#Quer dizer... todos nós...$4",
+
+  //terça-feira
+  "Tue": "O Vale do Orvalho é bem grande!$1#$b#Não vou conseguir explorar tudo em um dia.",
+  "Tue2": "Ei @, já estou me acostumando com o Vale.#$e#É só ter internet que fica tudo certo!$1",
+  "Tue4": "É impressionante a habilidade do Clint pra forjar armas e ferramentas!$1",
+  "Tue6": "Meu Projetinho está quase finalizado.$1#$e#Esteja preparado, vai ser incrível.$1^Esteja preparada, vai ser incrível.$1",
+  "Tue8": "Que bom te ver @!$1#$b#Como vão as coisas? Algum projeto em mente?",
+  "Tue10": "@, quer dar uma volta por aí?#$b#Não me entenda errado, é só pra comer algo.$4",
+
+  //quarta-feira
+  "Wed": "Andei explorando por aí, e encontrei um lugar com internet!$1",
+  "Wed2": "Um pouco de proteção nunca é demais quando se trata de projetos grandes!$1",
+  "Wed4": "Hm...#$e#...#$e#Ah, foi mal @, não tinha te visto aí!$8",
+  "Wed6": "Em breve...$1",
+  "Wed8": "Ei, quer me ajudar nas minas?#$b#Podemos ir comer algo depois!$1",
+  "Wed10": "Posso te ajudar com o treinamento de combate se quiser!$1#$b#Não, você com certeza já sabe...",
+
+  //quinta-feira
+  "Thu": "Se precisar de alguma coisa, pode chamar o Mateus, ele te da apoio moral.",
+  "Thu2": "Estou fazendo minha rotina de sempre, nada demais!$1",
+  "Thu4": "Se eu me distrair, tenho que me focar em dobro.#$b#As vezes acontece... na verdade acontece bastante...$2",
+  "Thu6": "Se algo é difícil, é porque estou no caminho certo!$1",
+  "Thu8": "Bom, hora de continuar minha aventura!$1",
+  "Thu10": "Vamos nessa! Nossa jornada só começou!$4",
+
+  //sexta-feira
+  "Fri": "Preciso continuar o meu Projeto, não importa a circunstância!$1",
+  "Fri2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
+  "Fri4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
+  "Fri6": "Estou sem tempo, vou indo nessa!#$b#Foi mal @, mas tenho algo para terminar!$1",
+  "Fri8": "Vamos nessa, não posso ficar de corpo mole!$1",
+  "Fri10": "Espero que não esteja muito ocupado com a fazenda.^Espero que não esteja muito ocupada com a fazenda.#$b#Vamos sair um dia desses, ok?$4",
+
+  //sabado
+  "Sat": "Tenho que dormir mais horas... mas tenho coisas pra terminar também.",
+  "Sat2": "Ainda estou trabalhando pra deixar tudo perfeito, mas sempre acho que posso fazer melhor.",
+  "Sat4": "As vezes o Ronaldo encontra alguns geodos na mina, então levamos pro Clint pra dar uma olhada!$1",
+  "Sat6": "Ei @, os dias tem sido muito corridos!$1#$b#Então qual é a boa nova?",
+  "Sat8": "Ah, a melhor parte de acabar um projeto por completo, é começar outro!$1",
+  "Sat10": "Quais são as boas novas?$1#$b#Só estou fazendo meu treino diário, tenho que ficar forte pra te proteger...$4",
+
+  //domingo
+  "Sun": "Quero continuar ajudando a Guilda dos Aventureiros, parece ser um desafio interessante!$1",
+  "Sun2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
+  "Sun4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
+  "Sun6": "Preciso ajudar o pessoal da Vila, assim vou conseguir me tornar um verdadeiro herói!$1",
+  "Sun8": "Como Protetor do Vale, tenho que ajudar quem precisa.#$e#Esse é o meu dever!$1",
+  "Sun10": "Acho que tenho que fazer um Projetinho maior um dia desses!$1",
+  
+  // FESTIVAIS
+
+  //Egg Festival
+  "spring_13": "Ah, tava precisando comer algo doce!$1#$e#As cenouras subterrâneas são bem enjoativas.$2",
+  //Flower Dance
+  "spring_24": "Eu sou obrigado a dançar?$2#$b#Vou ficar parecendo um robo.$1",
+  //Luau
+  "summer_11": "O que você vai levar, o festival é na praia.",
+  //Dance of the Moonlight Jellies
+  "summer_28": "Vamos nessa, as águas-vivas estão esperando!$1",
+  //Stardew Valley Fair
+  "fall_16": "Será que tem algum mini-jogo de combate?!$1",
+  //Spirit's Eve
+  "fall_27": "Esse festival vai ser divertido!$1",
+  //Festival of Ice
+  "winter_8": "Quero ver quem é o mais habilidoso na pesca hoje!$1",
+  //Night Market
+  "winter_17": "O Guilherme me pediu ajuda pra ficar de olho no Mateus durante o Mercado Noturno.",
+  //Feast of the Winter Star
+  "winter_25": "Qual é o seu amigo secreto?#$b#Tô brincando!$1#$b#Sério, não fala.",
+
+  // PRIMAVERA
+  "spring_1": "Um ano se passou muito rápido!$8#$b#Será que é porque estou me divertindo?$1",
+
+  // VERAO
+  "summer_1": "Ah, não consigo, eu definitivamente vou morrer de calor...$2",
+
+  // OUTONO
+  "fall_1": "Já é Outono?!$8#$b#Acho que a gente não vai voltar pra casa tão cedo.",
+
+  // INVERNO
+  "winter_1": "Pelo menos minha roupa é quentinha, o frio não me atinge!$1",
+
+  // EVENTO
+  "Evento_AutoD_Bom": "Bom... você tem razão eu fico muito focado nos meus projetos...$6#$b#As vezes até desapareço por ai...$6",
+  "Evento_AutoD_Neutro": "Ei era só uma brincadeira, não precisa se desculpar...$2",
+  "Evento_AutoD_Ruim": "...$5",
+
+  "Evento_Minas_Bom": "Vou agradecer a ajuda!$1#$b#Você pode ficar com os minérios, só preciso das pedras mesmo.$0",
+  "Evento_Minas_Neutro": "Acho que você tem razão...$0#$b#Bom, se você mudar de idéia vamos ficar descansando por aqui...$0",
+  "Evento_Minas_Ruim": "...$2#$b#Não acho isso mas, se você mudar de idéia vamos ficar descansando por aqui...$2",
+}
