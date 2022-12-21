@@ -1,0 +1,88 @@
+{
+    // PRIMAVERA, VERAO E OUTONO
+    //6:00 fica com relaxando no saco de dormir, 07:10~08:30 vai escutar rap perto da arvore na cidade, 11:00~11:30 vai olhar pro lago, 14:00~14:40 vai ver o cachorro, 17:00 vai treinar, 22:30 vai dormir
+    "Mon": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+    
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 vai para o SeedShop comprar coisas, 15:00 vai pagar as compras, 15:30 vai jogar perto do poste, 21:00 vai dormir
+    "Tue": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.001\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.001\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 fica na frente do SeedShop fechado, 15:30 vai jogar perto do poste, 21:00 vai dormir.
+    "Wed": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.002\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.002\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 vai para o SeedShop comprar coisas, 15:00 vai pagar as compras, 15:30 vai jogar perto do poste, 21:00 vai dormir
+    "Thu": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.003\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.003\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 vai para o SeedShop comprar coisas, 15:00 vai pagar as compras, 15:30 vai jogar perto do poste, 21:00 vai dormir
+    "Fri": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.004\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.004\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 vai para o SeedShop comprar coisas, 15:00 vai pagar as compras, 15:30 vai jogar perto do poste, 21:00 vai dormir
+    "Sat": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+
+    //6:00 Acorda e vai pra fonte da cidade, 11:00 vai jogar do lado do Mateus, 13:20 vai para o SeedShop comprar coisas, 15:00 vai pagar as compras, 15:30 vai jogar perto do poste, 21:00 vai dormir
+    "Sun": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.002\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.002\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    // INVERNO
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Mon": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1600 Town 54 71 0/1800 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Tue": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.001\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.001\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+    
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Wed": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.002\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.002\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+    
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Thu": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.003\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.003\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+    
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Fri": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.004\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.004\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+    
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Sat": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
+    
+    //6:00 vai treinar na cidade, 12:00 vai para a Praia cantar, 16:00 vai olhar o cachorro na Cidade, 18:00 vai olhar as flores na Cidade, 21:00 vai dormir
+    "winter_Sun": "610 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.002\"/1200 Beach 28 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.002\"/1600 Town 54 71 0/1900 Town 16 62 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+    
+    // ESPECIAIS
+
+    //Chuva
+    //6:00 vai para o Saloon para se esconder da chuva, 13:00 começa a ver se danificou algo com a chuva, 16:00 começa a treinar, 21:00 começa a fazer rap denovo.
+    "rain": "610 Saloon 29 7 1 \"Strings\\schedules\\Gustavo:chuva.000\"/1300 Saloon 29 7 1 gustavo_musica \"Strings\\schedules\\Gustavo:chuva.001\"/1600 Saloon 29 7 1 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.004\"/2100 Saloon 29 7 1 gustavo_musica \"Strings\\schedules\\Gustavo:musica:003\"",
+    
+    //Egg Festival
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "spring_13": "610 BusStop 29 25 0/900 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Flower Dance
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "spring_24": "610 Town 7 89 2 gustavo_musica/900 Forest 74 47 2/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Luau
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "summer_11": "610 Town 55 105 1/900 Beach 35 4 2 gustavo_musica \"Strings\\schedules\\Mateus:musica.000\"/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.004\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Dance of the Moonlight Jellies
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "summer_28": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/1900 Town 55 105 1/2100 Beach 30 14 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:moonlightjellies.000\"",
+
+    //Stardew Valley Fair
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "fall_16": "610 BusStop 29 25 0/900 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Spirit's Eve
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "fall_27": "610 BusStop 14 4 1 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/1000 BusStop 7 4 2 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1600 BusStop 6 11 1/1800 BusStop 29 25 0/2100 Town 24 44 2/2350 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Festival of Ice
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_8": "610 Town 7 89 2 gustavo_musica/900 Forest 74 47 2/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Night Market
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_16": "610 BusStop 10 5 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Beach 37 31 1/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+    //Feast of the Winter Star
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_25": "610 BusStop 29 25 0/900 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.000\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.000\"/2230 BusStop 10 5 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
+
+}
