@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="4" height="4" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" name="townInterior" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
+  <image source="townInterior.png" width="512" height="1088"/>
+ </tileset>
+ <layer id="2" name="Back" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="Buildings" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,2061,2062,0,
+897,2093,2094,897,
+0,0,0,0
+</data>
+ </layer>
+ <layer id="4" name="Paths" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+866,0,0,866,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <layer id="5" name="Front" width="4" height="4">
+  <data encoding="csv">
+0,2029,2030,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+ <layer id="6" name="AlwaysFront" width="4" height="4">
+  <data encoding="csv">
+0,0,0,0,
+0,0,0,0,
+0,0,0,0,
+0,0,0,0
+</data>
+ </layer>
+</map>

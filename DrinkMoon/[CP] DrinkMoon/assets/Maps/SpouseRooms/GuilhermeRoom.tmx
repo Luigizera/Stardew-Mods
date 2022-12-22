@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="7" height="11" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="12">
+ <tileset firstgid="1" name="townInterior" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
+  <image source="townInterior.png" width="512" height="1088"/>
+ </tileset>
+ <layer id="2" name="Back" width="7" height="11">
+  <data encoding="csv">
+223,223,223,223,223,223,0,
+223,223,223,223,223,223,0,
+107,107,107,107,107,107,0,
+200,201,200,201,200,201,0,
+232,233,232,233,232,233,0,
+264,232,249,250,251,265,0,
+232,232,281,282,283,233,0,
+264,265,264,265,264,265,0,
+232,233,232,233,232,233,0,
+264,265,264,265,264,265,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="Buildings" width="7" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,69,
+75,75,75,75,75,75,69,
+678,679,107,107,107,107,69,
+710,711,1389,584,816,1518,69,
+780,0,0,0,0,0,69,
+0,0,560,561,562,335,69,
+0,0,0,0,0,0,69,
+0,0,505,506,507,0,69,
+2092,2092,537,538,539,2092,69,
+0,0,0,0,0,0,168,
+1,1,1,1,1,1,1
+</data>
+ </layer>
+ <objectgroup id="7" name="Buildings">
+  <object id="5" name="TileData" x="48" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="6" name="TileData" x="64" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.2&quot;"/>
+   </properties>
+  </object>
+  <object id="7" name="TileData" x="32" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.3&quot;"/>
+   </properties>
+  </object>
+  <object id="9" name="TileData" x="16" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.4&quot;"/>
+   </properties>
+  </object>
+  <object id="11" name="TileData" x="48" y="96" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.5&quot;"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="Front"/>
+ <layer id="4" name="Front" width="7" height="11">
+  <data encoding="csv">
+1034,1035,1130,1131,0,0,0,
+1250,1251,0,0,0,0,0,
+876,877,0,552,0,1486,0,
+748,0,0,0,0,0,0,
+0,0,528,529,530,0,0,
+0,0,0,0,0,0,0,
+0,0,473,474,475,0,0,
+2060,2060,834,352,835,2060,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="5" name="Paths" width="7" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="6" name="AlwaysFront" width="7" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,2058,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,320,0,0,0,
+435,433,0,0,0,434,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,
+0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
