@@ -1,0 +1,116 @@
+{
+  // ESPECIAIS
+  "Introduction": "Opa, tudo bem?#$b#Meu nome é Gustavo, eu e meus amigos nos perdemos por aqui...#$b#Você sabe se tem algum acampamento aqui por perto?",
+  "Resort_Entering": "Caramba cheguei até aqui, e ir pra casa que é bom nada.",
+  "Resort_Leaving": "Ah, queria ficar só mais uns 10 minutos.$2",
+  "Resort_Leaving_2": "Aaah, hora de voltar pro Vale?$2",
+  "Resort_Shore": "A água daqui ta limpinha!$1",
+  "Resort_Shore_2": "HMMMMMM...$6#$e#Uma musiquinha agora cairia bem...$6",
+  "Resort_Umbrella": "Ai, ai...#$b#Cansei, hora de escutar uma musiquinha...",
+  "Resort_Umbrella_2": "Bom, acho que vou ter que escutar um Rap.",
+  "Resort_Wander": "Será que os papagaios cantam comigo?!$1",
+  "Resort_Bar": "Barzinho daora!$1",
+  "Resort": "Cara, da pra fazer uma festa de arrasar nessa ilha!$1",
+  "danceRejection": "Não.",
+  "divorced": "Não quero mais falar com você, pode ir embora?$2",
+  "dumped_Guys": "...$2#$b#%Gustavo parece não querer conversar",
+  "secondChance_Guys": "Eh, acho que tudo tem um recomeço...$2",
+  "breakUp": "Ah... não esperava por essa...$2",
+
+  // DIALOGO COMUM
+  //segunda-feira
+  "Mon": "Quem é você mesmo...?",
+  "Mon2": "Só uma musiquinha pra alegrar o meu dia!$1#$b#O que acha?",
+  "Mon4": "Gosto de treinar na floresta com o Boneco de Treino, mas tem algo estranho...$6#$e#Mesmo sendo de madeira, ele não fica com marcas de soco.$6",
+  "Mon6": "Tenho que aperfeiçoar minha técnica, e tenho a força necessária pra isso!",
+  "Mon8": "Você viu a nova música que lançaram?#$b#Vou ver agora, tava esperando faz tempo!$1#$b#Aff, ta em inglês...$2",
+  "Mon10": "@, sabia que você estava escondendo uma rima de amor!$4",
+
+  //terça-feira
+  "Tue": "Gosto de ficar passeando pelo Vale, é bem relaxante.",
+  "Tue2": "Vou ficar bom em Inglês pra conseguir expandir meu leque de Rap!",
+  "Tue4": "Guilherme-sensei parece impressionado com minhas habilidades, não vou decepciona-lo!$1",
+  "Tue6": "Ei, o que você acha de treinar Taijutsu comigo?#$b#Seria divertido!$1",
+  "Tue8": "Guilherme-sensei não pode descobrir que estou treinando os Punhos Supremos, se não ele me mata!$7",
+  "Tue10": "Os dias estão passando voando quando fico com você!$4#$b#É impressionante...$4",
+
+  //quarta-feira
+  "Wed": "Bom, meu treino diário está dando frutos!$1#$e#Em breve vou ficar mais forte que um Herói!$1",
+  "Wed2": "Hmm... será que eu foco mais no meu treino ninja ou meu treino de rap?$6#$e#De qualquer forma, os dois são divertidos!$1",
+  "Wed4": "Não importa quantas vezes eu treine, o Boneco sempre parece intácto!$2#$e#Tenho que ficar mais forte!",
+  "Wed6": "Meu \"Punhos Supremos do Gustas\" melhora a cada dia.#$b#Estou quase alcançando a velocidade da luz!$1",
+  "Wed8": "A fazenda deve te deixar bem forte!$1#$b#Plantar é algo que exige muita força.",
+  "Wed10": "Estarei aqui se precisar!$1#$e#Melhor, sempre estou!$4",
+
+  //quinta-feira
+  "Thu": "Será que o cachorro da vila vai sair da casinha algum dia?$6#$e#Queria brincar com ele!$1",
+  "Thu2": "Ei, se você encontrar o Vitão um dia desses tome cuidado...#$b#Ele vai tentar vender alguns planos pra você.",
+  "Thu4": "Quero aperfeiçoar meus golpes até ficar perfeito, e então eu passo pro próximo!$1",
+  "Thu6": "Talvez eu devesse descansar um dia...$6#$b#Não, não posso deixar minha preguiça me levar denovo.",
+  "Thu8": "Vou trabalhar nas minhas rimas, tinha dado uma pausa por causa dos treinos.#$b#Mas agora volto com tudo YEAHH!$1",
+  "Thu10": "Preciso terminar uma rima pra alguém especial...$4#$e#Não disse nada...$4",
+
+  //sexta-feira
+  "Fri": "Talvez eu devesse trollar o Mateus um dia desses!$1",
+  "Fri2": "Uma musiquinha pra alegrar o dia, em breve te vejo cheio de alegria!$1",
+  "Fri4": "Eu quero virar o melhor ninja de Taijutsu já existente, pra isso vou usar o Boneco de Treino!$1",
+  "Fri6": "Você viu meu Boneco de Treino por aí?!$2#$b#Acho que o Guilherme pegou pra ele denovo!$5",
+  "Fri8": "@, confio em você pra não contar pro Guilherme-sensei sobre meu treino secreto!$1",
+  "Fri10": "Qual seu plano pra hoje?!$1#$b#Podiamos tomar um sorvete, o que acha?$4",
+
+  //sabado
+  "Sat": "Precisa de algo?$1",
+  "Sat2": "Gosto de escutar alguns Raps de Anime, é meu passatempo preferido!$1",
+  "Sat4": "Vou focar em treinos mais pesados, minhas técnicas não vão melhorar se continuar assim.",
+  "Sat6": "Eu vou fazendo essa rima pra começar, logo tudo vai se acabar!$1#$b#... não, tenho que ser mais criativo.$6",
+  "Sat8": "Ei, já passamos por muita coisa, quero te dizer que foi bem divertido!$4#$b#Só isso mesmo.",
+  "Sat10": "Oi @...#$b#Só estava pensando que é legal conversar com você...$4",
+
+  //domingo
+  "Sun": "Mais um dia, hora de continuar meu treinamento!$1",
+  "Sun2": "Eae @, beeem tranquilinho!$1#$b#Você tem treinado Rap também?",
+  "Sun4": "Começando meu speed flow secreto, minha técnica não é brincadera!$1#$b#Pego você de despreparado dessa maneira, vou acabando essa rima no papo reto!$1#$e#O que achou?",
+  "Sun6": "Não vejo a hora de me tornar um Sensei também!$1",
+  "Sun8": "Não é hora de ficar parado @, vamos treinar!$1^Não é hora de ficar parada @, vamos treinar!$1#$e#Tem outros planos pra hoje?$2",
+  "Sun10": "Vamos ficar juntos pra sempre, o que me diz?$4",
+  
+  // FESTIVAIS
+
+  //Egg Festival
+  "spring_13": "Terei que ser o mais rápido?$6#$b#Não, esse festival não é pra mim, sou mais força bruta.",
+  //Flower Dance
+  "spring_24": "Como será que vou lançar o passinho hoje?$6",
+  //Luau
+  "summer_11": "O que será que eu vou colocar no sopão?$6#$b#Alguma sugestão?",
+  //Dance of the Moonlight Jellies
+  "summer_28": "Faz um tempo que não sinto a brisa do mar de noite!$1",
+  //Stardew Valley Fair
+  "fall_16": "Wow, um festival cheio de jogos!$1#$b#Aqui vou eu!$1",
+  //Spirit's Eve
+  "fall_27": "Não acredito em monstros e essas coisas...#$b#Acho que são todos pessoas fantasiadas.$1",
+  //Festival of Ice
+  "winter_8": "Vou tomar cuidado pra não quebrar nenhuma escultura de gelo hoje!$1",
+  //Night Market
+  "winter_16": "Vou dar uma olhada nas lojinhas do Mercado Noturno hoje!$1#$e#Espero achar algum fone melhor.",
+  //Feast of the Winter Star
+  "winter_25": "Será que meu amigo secreto está pronto pra receber o meu presente?$6#$b#Ele vai gostar muito!$1",
+
+  // PRIMAVERA
+  "spring_1": "Que as flores me guiem, a primavera chegou!$1",
+  
+  // VERAO
+  "summer_1": "Tá um pouco quente, não?#$b#Ou sou só eu aqui?",
+  
+  // INVERNO
+  "winter_1": "Treinar no frio é a melhor sensação!$1#$b#Hora de me aquecer!$1",
+  
+  //EVENTOS
+  "Evento_Rimas_Bom": "...!$4",
+  "Evento_Rimas_Neutro": "Mano, vou seguindo com meu rap eu não paro...$3",
+  "Evento_Rimas_Ruim": "Foi muito facil ganhar, mas eu não quero parar...$3",
+
+  "Evento_Punho_Bom": "Você tem razão, agora me lembrei!$10",
+  "Evento_Punho_Neutro": "Mas não tô nem machucado...$11",
+  "Evento_Punho_Ruim": "Eu nunca usaria uma técnica dessas!$11"
+
+}
