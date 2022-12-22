@@ -23,6 +23,9 @@
 
     // ESPECIAIS
 
+    //Chuva
+    "rain": "610 Town 91 51 2 \"Strings\\schedules\\Seba:chuva.000\"/1300 Town 91 51 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/2200 Town 91 51 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+
     //Egg Festival
     //6:00 acorda e vai esperar o pessoal para o festival.
     "spring_13": "610 BusStop 18 5 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 BusStop 18 5 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
