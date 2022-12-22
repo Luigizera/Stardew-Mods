@@ -19,7 +19,7 @@
     // ESPECIAIS
     // Chuva
     //6:00 vai para o Saloon para se esconder da chuva, 13:00 começa a ver se o caderno não molhou, 16:00 começa a jogar Dragon Force, 21:00 começa a ler denovo.
-    "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:chuva.001\"/1400 Mine 22 9 1/1600 22 6 0 square_3_3/2000 22 4 0/2200 19 4 2 ronlado_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+    "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:chuva.001\"/1400 Mine 22 9 1/1600 22 6 0 square_3_3/2000 22 4 0/2200 19 4 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
 
     //Egg Festival
     //6:00 acorda e vai esperar o pessoal para o festival.
