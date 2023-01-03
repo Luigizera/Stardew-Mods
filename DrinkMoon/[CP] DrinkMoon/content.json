@@ -2270,7 +2270,7 @@
          "Target": "data/festivals/spring24",
          "Entries": 
          {
-            "Luigi": "Eae, vai dançar hoje?$1#$b#Não, não é um convite."
+            "Luigi": "Já escolheu o seu par pra dança?$1"
          }
       },
 
