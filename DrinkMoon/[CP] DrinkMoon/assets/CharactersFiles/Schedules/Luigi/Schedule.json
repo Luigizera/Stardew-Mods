@@ -1,0 +1,60 @@
+{
+    // PRIMAVERA E OUTONO
+
+    //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
+    "Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    "Tue": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.001\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"",
+    
+    "Wed": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+    
+    "Thu": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.003\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"",
+    
+    "Fri": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.004\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"",
+    
+    "Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
+    
+    "Sun": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 AdventureGuild 4 13 0/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+
+    // ESPECIAIS
+    // Chuva
+    //6:00 vai para o Saloon para se esconder da chuva, 13:00 começa a ver se o caderno não molhou, 16:00 começa a jogar Dragon Force, 21:00 começa a ler denovo.
+    "rain": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:chuva.001\"/1300 Mine 16 4 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/1400 Mine 22 9 1/1500 14 10 3/1600 14 7 2 luigi_espada \"Strings\\schedules\\Luigi:espada.004\"/1800 14 7 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/2000 14 7 2 square_3_3/2200 14 7 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.001\"",
+
+    //Egg Festival
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "spring_13": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Flower Dance
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "spring_24": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Luau
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "summer_11": "610 Town 57 100 2 luigi_notebook/900 Beach 42 5 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+
+    //Dance of the Moonlight Jellies
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "summer_28": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 57 100 2 luigi_notebook/2130 Beach 31 11 2 luigi_notebook \"Strings\\schedules\\Luigi:moonlightjellies.000\"",
+
+    //Stardew Valley Fair
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "fall_16": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Spirit's Eve
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "fall_27": "610 BusStop 17 15 1 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1200 BusStop 16 10 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1600 BusStop 28 22 2 luigi_espada/2100 Town 24 44 2/2350 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Festival of Ice
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_8": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Night Market
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_17": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 20 20 2 \"Strings\\schedules\\Luigi:nightmarket.000\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+    //Feast of the Winter Star
+    //6:00 acorda e vai esperar o pessoal para o festival.
+    "winter_25": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+}
