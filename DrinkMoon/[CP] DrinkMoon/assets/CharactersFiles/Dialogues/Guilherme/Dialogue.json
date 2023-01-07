@@ -28,7 +28,7 @@
   "Mon10": "O que acha de tomar um sorvete um dia desses?$4",
 
   //terça-feira
-  "Tue": "Ei, tenho uma pergunta pra você...#$q 2005/2006 Tuequestion_followup#...Você já ouviu falar de Naruto?#$r 2006 -10 Tuequestion_ruim#Aquele anime ruim?#$r 2006 0 Tuequestion_neutro#Sim, é legalzinho!#$r 2005 15 Tuequestion_bom#NARUTOOOOOOO!!!",
+  "Tue": "Ei...#$q 2005/2006 Tuequestion_followup#...Você já ouviu falar de Naruto?#$r 2006 -10 Tuequestion_ruim#Aquele anime ruim?#$r 2006 0 Tuequestion_neutro#Sim, é legalzinho!#$r 2005 15 Tuequestion_bom#NARUTOOOOOOO!!!",
   "Tuequestion_followup": "Quero virar um bom ninja um dia!$1",
   "Tuequestion_bom": "SASUKEEEEE !!!$5#$b#Haha, esse é o verdadeiro espírito ninja!$1",
   "Tuequestion_neutro": "Eh...Acho legal também!$1#$b#Você devia assistir comigo um dia desses...",
