@@ -498,7 +498,7 @@
          "Target": "Data/NPCGiftTastes",
          "Entries": 
          {
-            "Mateus": "Nem ferrando! Como você sabia?!/60 64 72 126 127 166 194 195 196 201 206 210 213 216 217 220 221 223 800/Obrigado!/108 113 167 184 286 287 288 395 635/MEEEEEE!/93 110 111 112 168 169 170 171 172/Olha esse cara, que crime!/80 82 84 86 247 378 380 382 384 386 388 390 393/Não sei pra que eu vou usar isso, mas já vai passando!/16 18 20 22 421/"   
+            "Mateus": "Nem ferrando! Como você sabia?!/60 64 72 126 127 166 194 195 196 201 206 207 210 213 216 217 220 221 223 800/Obrigado!/108 113 167 184 286 287 288 395 635/MEEEEEE!/93 110 111 112 168 169 170 171 172/Olha esse cara, que crime!/80 82 84 86 247 378 380 382 384 386 388 390 393/Não sei pra que eu vou usar isso, mas já vai passando!/16 18 20 22 421/"   
          }
       },
 
@@ -1559,7 +1559,7 @@
          "Target": "Data/NPCGiftTastes",
          "Entries": 
          {
-            "Gustavo": "Meu deus! Isso é incrível!/108 194 195 206 210 211 220 221 237 241 395 463 464/Haha, que fofo!/18 22 115 216 217 223 224 233 591 593 595 597/Oxe?!/90 93 110 111 112 167 168 169 170 171 172/Cadê o Vitão pra dar ban?/86 378 380 382 384 386 388 390/Valeu pelo presente!/16 18 20 22 421/"   
+            "Gustavo": "Meu deus! Isso é incrível!/74 108 194 195 206 210 211 220 221 233 237 241 350 395 436 463 464 908/Haha, que fofo!/18 22 115 216 217 223 224 233 591 593 595 597/Oxe?!/90 93 110 111 112 167 168 169 170 171 172/Cadê o Vitão pra dar ban?/86 378 380 382 384 386 388 390/Valeu pelo presente!/16 18 20 22 421/"   
          }
       },
 
