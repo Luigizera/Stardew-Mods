@@ -24,47 +24,50 @@
 
     // VERÃO
     //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "summer_Mon": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 55 6 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "summer_Mon": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
     //6:00~6:20 acorda e vai jogar perto do ônibus, 7:50~09:00 vai para o parquinho para ler/escrever no caderno, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "summer_Tue": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 55 6 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "summer_Tue": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
     //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "summer_Wed": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 55 6 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.002\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "summer_Wed": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
     //6:00~6:20 acorda e vai jogar perto do ônibus, 7:50~09:00 vai para o parquinho para ler, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "summer_Thu": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Beach 55 6 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "summer_Thu": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
     //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "summer_Fri": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 55 6 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "summer_Fri": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
     //6:00~6:20 acorda e vai jogar perto do ônibus, 7:50~09:00 vai para o parquinho para ler, 13:00 vai para o Saloon jogar Dragon Force, 21:00 vai dormir perto do ônibus.
-    "summer_Sat": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 55 6 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "summer_Sat": "610 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
     //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar Dragon Force, 21:00 vai dormir perto do ônibus.
-    "summer_Sun": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 55 6 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 Beach 44 22 2 square_7_7/1500 Town 32 97 1 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.002\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "summer_Sun": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+
+    //Alex Schedule fix
+    "summer_16": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
     // INVERNO
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Mon": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "winter_Mon": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1030 Town 52 71 0/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Tue": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.001\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "winter_Tue": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.001\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1030 Town 52 71 0/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Wed": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.002\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "winter_Wed": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.002\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1030 Town 52 71 0/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Thu": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "winter_Thu": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1030 Town 52 71 0/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.002\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Fri": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "winter_Fri": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1030 Town 52 71 0/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Sat": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "winter_Sat": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1030 Town 52 71 0/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
     
     //6:00 fica na cama com frio, 13:00 vai até o Saloon jogar, 21:00 vai dormir perto do ônibus
-    "winter_Sun": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+    "winter_Sun": "610 BusStop 7 5 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/710 Town 41 57 0/900 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.000\"/1030 Town 52 71 0/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 BusStop 7 5 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
     // ESPECIAIS
 

@@ -16,8 +16,10 @@
   "chuva.000": "Hmm... verificando...$12#$b#Certo, isso parece em ordem!$14#$e#Nenhum problema detectado aqui também...$12#$e#%Luigi parece estar verificando se molhou muito o notebook.",
   "chuva.001": "Ah... me molhei todo vindo pra cá.$9#$b#Espero que uma batalha me deixe seco denovo!$10",
 
-  "dormindo.000": "%Luigi está a mimir...",
+  "dormindo.000": "%Luigi está a dormindo, isso é uma raridade...",
   "dormindo.001": "%Luigi está em um sono pesado...",
+
+  "frio.000": "Acho que não tô legal hoje...$2",
 
   "nightmarket.000": "Só vim ficar de vigia pra ver se o Mateus não compra nenhum quadro.",
 

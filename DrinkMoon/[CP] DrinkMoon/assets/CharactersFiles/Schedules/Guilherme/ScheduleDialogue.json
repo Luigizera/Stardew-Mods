@@ -13,22 +13,22 @@
   "jutsu.004": "Nunca vou desistir SENSEI!!!$9#$e#%Guilherme está se enchendo de determinação.",
   "jutsu.005": "Preciso de mais foco...$9#$b#Em breve vou realizar um Jutsu incrível, só espere para ver!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
 
-  "lista.000": "Cara, se o Mateus continuar comprando coisas inúteis, a gente não vai ter dinheiro pra comprar isso...$5#$e#Vou ter que dar uma bronca nele!$5#$e#%Guilherme está focado nas compras.",
-  "lista.001": "Hmm, deixa eu dar uma olhada na minha lista...$0#$e#Certo! Precisamos disso... e disso...$10#$e#%Guilherme está focado nas compras.",
+  "lista.000": "Cara, se o Mateus continuar comprando coisas inúteis, a gente não vai ter dinheiro pra comprar isso...$5#$b#Vou ter que dar uma bronca nele!$5#$e#%Guilherme está focado nas compras.",
+  "lista.001": "Hmm, deixa eu dar uma olhada na minha lista...#$e#Certo! Precisamos disso... e disso...$10#$e#%Guilherme está focado nas compras.",
   "lista.002": "Que pechincha! vou levar isso!$10#$e#%Guilherme está focado nas compras.",
-  "lista.003": "Acho que vou conseguir comprar alguns tomates...$0#$e#Será que da pra levar mais alguma coisa...?$0#$e#%Guilherme está focado nas compras.",
+  "lista.003": "Acho que vou conseguir comprar alguns tomates...#$e#Será que da pra levar mais alguma coisa...?#$e#%Guilherme está focado nas compras.",
 
-  "chuva.000": "O chute na porta do Bar foi muito potente.$0#$b#Vai custar caro reparar isso...$2#$e#Espero que o Dono não descubra!$2",
+  "chuva.000": "O chute na porta do Bar foi muito potente.#$b#Vai custar caro reparar isso...$2#$e#Espero que o Dono não descubra!$2",
   "chuva.001": "Bom, parece estar tudo em ordem...#$b#Nada tão molhado aqui!$10",
 
   "dormindo.000": "%Guilherme está a mimir...",
   "dormindo.001": "%Guilherme está dormindo...",
 
-  "frio.000": "Cara...ta nevando!$0#$b#POR QUÊ?!$5",
-  "frio.001": "Força Guilherme, você consegue levantar...$0",
+  "frio.000": "Cara...ta nevando!$2#$b#POR QUÊ?!$5",
+  "frio.001": "Força Guilherme, você consegue levantar...$2",
   "frio.002": "Aah... por que é tão difícil levantar?!$2",
   "frio.003": "VAMOS, TÁ FRIO MAS DÁ PRA LEVANTAAR!$5",
-  "frio.004": "Ah, esse inverno tem que passar rápido antes que eu pegue um resfriado!$2#$b#Até rimei!$1",
+  "frio.004": "Ah, esse inverno tem que passar rápido antes que eu pegue um resfriado!$2",
   "frio.005": "Cara, me ajuda a levantar?$2#$e#Vou ficar louco se não conseguir levantar...$2",
 
   "moonlightjellies.000": "%Guilherme está tentando dormir..."

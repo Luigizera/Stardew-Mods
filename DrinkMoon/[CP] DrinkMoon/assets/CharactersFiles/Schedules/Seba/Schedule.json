@@ -21,6 +21,10 @@
     //6:00~8:30 Acorda e vai pegar madeira, 13:00~15:20 vai guardar a madeira, 16:00~17:50 vai pro Saloon ficar bem tranquilinho, 18:00 vai ver o cachorro, 21:00 vai dormir
     "Sun": "610 ScienceHouse 2 18 3 \"Strings\\schedules\\Seba:vendendo.001\"/1300 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/1600 Saloon 39 22 2/2100 Town 52 71 0/2200 BusStop 18 5 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
+    //VERAO
+    //6:00 Acorda e fica bem tranquilinho, 12:00 vai pra praia relaxar e ler manga, 16:00 vai pro Saloon, 21:00 vai ver o cachorro, 22:00 vai dormir
+    "summer": "610 BusStop 29 13 3/1200 Beach 29 34 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1600 Saloon 1 18 0/2100 Town 52 71 0/2200 BusStop 18 5 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+
     // ESPECIAIS
 
     //Chuva

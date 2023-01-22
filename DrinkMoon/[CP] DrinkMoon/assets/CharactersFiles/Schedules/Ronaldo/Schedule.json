@@ -16,6 +16,9 @@
     
     "Sun": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.002\"/1300 AdventureGuild 10 12 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.001\"/2200 BusStop 17 5 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
 
+    //INVERNO
+    "winter_Tue": "610 Town 23 26 1 ronaldo_celular/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 BusStop 17 5 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+
     // ESPECIAIS
     // Chuva
     //6:00 vai para o Saloon para se esconder da chuva, 13:00 começa a ver se o caderno não molhou, 16:00 começa a jogar Dragon Force, 21:00 começa a ler denovo.
