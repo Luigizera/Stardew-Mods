@@ -1,6 +1,14 @@
 {
   // ESPECIAIS
   "Introduction": "Salve!$1#$b#Meu nome é Mateus, mas geral me chama de Matias.#$b#Tem algum mecânico aqui por perto?",
+  "danceRejection": "Lamento estou compromissado, Confia.",
+  "divorced": "Criminoso! Sai daqui!$5",
+  "dumped_Guys": "Não é possível, não creio!$5",
+  "secondChance_Guys": "Ah... Olha esse cara... da pa dale?$5#$b#Só há um jeito de descobrir, só bora!$1",
+  "breakUp": "Hmpf...Sucumba.$5",
+  "MovieInvitation": "Uma boa escolha, estarei lá!$8",
+
+  // RESORT
   "Resort_Entering": "Já que deu merda e a gente já tá aqui...#$b#Por que não dar uma relaxada?$1",
   "Resort_Leaving": "Bem tranquilinho, bem tranquilinho.$1",
   "Resort_Leaving_2": "Não conta pro Guilherme, sem querer eu derrubei o celular dele na àgua.",
@@ -12,15 +20,10 @@
   "Resort_Wander": "Deve ter tesouros de pirata por aqui, melhor ficar esperto!$1",
   "Resort_Bar": "Bartender, o de sempre!#$b#Nem eu sei qual o de sempre...$2",
   "Resort": "Ouvi dizer que tem um barco quebrado na ilha!#$b#Você encontrou algum pirata por aí?",
-  "danceRejection": "Lamento estou compromissado, Confia.",
-  "divorced": "Criminoso! Sai daqui!$5",
-  "dumped_Guys": "Não é possível, não creio!$5",
-  "secondChance_Guys": "Ah... Olha esse cara... da pa dale?$5#$b#Só há um jeito de descobrir, só bora!$1",
-  "breakUp": "Hmpf...Sucumba.$5",
 
   // DIALOGO COMUM
   //segunda-feira
-  "Mon": "Terça-feira fico um pouco inspirado sabe?$1#$b#Acho que é um bom dia para falar sobre a vida, verdade e universo.",
+  "Mon": "Tô com sono, vô dormi.",
   "Mon2": "Pô mano, ninguêm quer jogar isso aqui comigo...$2#$b#Mesmo assim não vou desistir de floodar aqueles criminosos!$5#$e#Ah você está interessado? Você parece ser uma pessoa daora, se quiser qualquer dia desses ta convidado!$1#$b#Mal posso esperar por um bom e velho ARAMZINHO?!$1",
   "Mon4": "Eae, bem tranquilinho?$1#$e#Cara dormir no chão é uma merda#$b#Aquele saco de dormir é muito Jhonsons.",
   "Mon6": "Cara eu tava fazendo design de uns personagens pra um certo jogo...$2#$b#Me lembre de nunca mais converter uma blusa xadrez vermelha...$2#$b#...#$b#PRA PIXELS !!! $5#$b#Era só isso mesmo queria desabafar, enfim...Bora de gameplay?$1",
@@ -28,7 +31,7 @@
   "Mon10": "Não conta pra eles, mas eu tô escondendo o celular do Guilherme.#$b#Quero dar uma trollada nele!$1",
 
   //terça-feira
-  "Tue": "Acho que a pior parte de tudo, é que nenhuma casa daqui parece ter internet.$2#$b#COMO VOU FAZER MINHAS DIÁRIAS NO LOSK ARK?!$5",
+  "Tue": "Acho que a pior parte de tudo, é que nenhuma casa daqui parece ter internet.$2#$b#COMO VOU FAZER MINHAS DIÁRIAS NO GENSHIN?!$5",
   "Tue2": "Cara, imagine a cena...#$b#...Jogo de 50 minutos...#$b#...Nexus exposto...#$b#...Eu...#$b#...Riven 0/18...#$b#...Após eu contribuir para o time inimigo conseguir MASSACRAR o time aliado...$5#$b#...Vejo uma luz no fim do túnel...#$b#...Uma oportunidade de OURO...#$b#...Rapidamente aplico meu teleporte na base inimiga!$5#$b#...E com um único golpe...#$b#...a história foi feita!$1#$b#Nunca vou me esquecer dessa vitória.$1",
   "Tue4": "Quer um conselho? Não confie no Luigi enquanto ele joga Ragnarok Online...#$b#'Por quê?' você deve estar se perguntando...#$b#O personagem dele tinha uma Habilidade...E advinha quem foi a cobaia?$5#$b#EU!#$b#E o pior de tudo, é que a Habilidade precisava de um item para funcionar...$5#$b#E ELE NÃO TINHAAAAAA!$5#$e#NÃO TINHAAAAAAAA!$5",
   "Tue6": "Sabe eu tinha um grande sonho...#$b#E o caminho era longo, várias pedras bloqueando a passagem...#$b#Espinhos por todo lado...#$b#Sem descanso, com apenas um único objetivo em mente...#$b#...Passar Dragon Force no mais difícil!",
@@ -76,7 +79,7 @@
   "Sun4": "Pega coquinha e senta aqui do lado para assistir o Campeonato!$1",
   "Sun6": "Já sabe que dia é hoje né?#$b#Não vou perder uma jogada!$1",
   "Sun8": "Já vai de direita, toma de esquerda, vai pra cima, escorrega 2 e TA LÁÁÁÁ!$1#$b#Essa narração foi incrível!#$b#Devia ter escutado @.",
-  "Sun10": "Nosso time é o melhor!$1",
+  "Sun10": "Nosso time é o melhor!$1#$b#Com certeza vou estar nele algum dia, junto com você é claro!$4",
   
   // FESTIVAIS
   //Egg Festival
@@ -100,10 +103,8 @@
   //Feast of the Winter Star
   "winter_25": "Mano, eu não tenho dinheiro pra dar um presente!#$b#O QUE EU FAÇO?!$5",
 
-
-
   // PRIMAVERA
-  "spring_1": "Tilapia, Atum, Polvo...#$b#Ah, o Guilherme me mandou a lista de peixes da primavera!#$b#O melhor de tudo isso é que eu nem vou pescar",
+  "spring_1": "Tilapia, Atum, Polvo...#$b#Ah, o Guilherme me mandou a lista de peixes da primavera...$2#$b#O melhor de tudo isso é que eu nem vou pescar!$1",
   "spring_2": "Seguinte, você é um pessoa legal...#$b#...#$b#...E é por isso que eu preciso perguntar...#$b#...#$b#...Essa pergunta vai definir tudo...#$b#...#$b#...Espero que responda com sabedoria...#$b#...#$b#...Saiba que está é questão de vida ou morte...#$b#...#$b#...Está preparado?...#$b#...#$b#...#$b#...#$b#...Não sei se posso confiar em você...#$b#...#$b#...#$b#...#$b#...Ah, quer saber que se dane!...$5#$b#...#$b#...Vou lançar a pergunta...#$b#...#$b#...Sem ressentimentos depois em...$5#$b#...#$b#...Lá vai em...#$b#...#$b#...#$b#...Tamanha determinação...#$b#...#$b#...Você é digno de receber esta pergunta...#$b#...#$b#...Aqui vou eu!...#$b#...#$q 1000/1001 springquestion_2_followup#...Mano, você conhece o Sonic?#$r 1000 15 springquestion_2_bom#Sim mano!#$r 1001 -5 springquestion_2_neutro#Meu Deus cara, Era só isso?#$r 1001 -10 springquestion_2_ruim#Não ué!",
   "springquestion_2_followup": "$p 1000#Sonic é o meu AMIGOO, Sonic é o meu HERÓI!$1|Hmf, essas pessoas que não conhecem o Ouriço azul...ai ai.$2",
   "springquestion_2_bom": "Perfeito, vamos falar um pouco sobre ele...#$b#Brincadeirinha! você já deve saber o quão incrivel ele é!$1",
@@ -112,10 +113,66 @@
 
   // VERAO
   "summer_1": "Mano, como ficou quente tão rápido?#q 1010/1011#Você acha que eu deveria comprar um Chapéu de Palha?#$r 1010 15 summerquestion_1_bom#Acho que sim!#$r 1011 0 summerquestion_1_neutro#Acho que você devia economizar.#$r 1011 -10 summerquestion_1_ruim#Acho que não é uma boa idéia",
-  "summerquestion_1_followup": "$p 1010#Bom, vou comprar um bem bonito!$1|Vocês só sabem economizar dinheiro...$2#$b#Vou comprar um pra você também, aí você vai ver como é necessário!$1",
+  "summerquestion_1_followup": "$p 1010#Bom, vou comprar um bem bonito!$1|Esquece... vocês só sabem economizar dinheiro...$2#$b#Vou comprar um pra você também, aí você vai ver como é necessário!$1",
   "summerquestion_1_bom": "Sabia que você ia entender a necessidade!$1",
   "summerquestion_1_neutro": "Não.",
   "summerquestion_1_ruim": "Ah, achei que você ia entender a necessidade disso...$2",
+
+  //segunda-feira
+  "summer_Mon": "Ah, ta muito quente, não vou conseguir andar mais nenhum centímetro...$7#$b#Ouf... cansei...$2#$b#Ai minha barriga...$2",
+  "summer_Mon2": "E aí @, planeja comprar algumas coisas hoje?$1#$b#Tenho algumas recomendações se precisar, principalmente se for comida!$6#$b#Isso se o estoque de verão não for diferente.",
+  "summer_Mon4": "O Guilherme nunca vai ganhar de mim no \"Rei da Pradaria\" se ele continuar andando pra frente e atirando...$8",
+  "summer_Mon6": "Eae @!$1#$b#Sabe, tava querendo tomar um sorvete... mas acho que o Guilherme não vai deixar...$2#$b#Então, vou ter que pegar escondido.$8",
+  "summer_Mon8": "Argh!$7#$b#Que susto @, achei que era o Guilherme...$1#$b#Não... não fiz nada de errado... confia...#$b#...#$b#Com licença...$8",
+  "summer_Mon10": "Ah, parece que meu time não jogou bem ontem...$2#$b#Com certeza essa semana vai, vamos torcer juntos @!$1",
+
+  //terça-feira
+  "summer_Tue": "@! É você!$1#$b#Não esqueço o nome de um novo desafiante.$8",
+  "summer_Tue2": "Ué!? Cadê meu celular!?$7#$b#Ah, ta na minha mão.#$b#Que susto...$1",
+  "summer_Tue4": "@, você parece um oponente digno... venha pra uma batalha no joguinho agora!$8^@, você parece uma oponente digna... venha pra uma batalha no joguinho agora!$8#$b#Ah, você não tem um celular, esqueci disso...$2",
+  "summer_Tue6": "Já completei o arcade mais de 10 vezes, mas não gosto de salvar o meu record...#$b#Se eu não colocar meu \"Nickname\" inteiro não tem valor!$1",
+  "summer_Tue8": "Sabe @, tenho que derrotar meu oponente com estilo, então...#$b#Não vou tirar meu chapéu tão facilmente!$8#$b#Pera, deixei meu chapéu no saco de dormir!$7",
+  "summer_Tue10": "@... @...$8#$b#Temos que ir comprar os novos chapéus de verão, bora!$1#$b#Relaxa, ganhei uma aposta contra o Guilherme, então eu posso.",
+
+  //quarta-feira
+  "summer_Wed": "Vou treinar minha jogatina, então não me atrapalhe, ok?$8",
+  "summer_Wed2": "Acho que não tem problema eu comprar uma pizza hoje.$1#$b#Só uminha... juro...#$b#...#$b#Adeus @, foi bom te conhecer.$8",
+  "summer_Wed4": "@, preciso de um água urgente...$7#$b#Você tá com seu regador aí?!$7#$b#Se tiver no seu bolso, pode jogar tudo em mim, sério!$7",
+  "summer_Wed6": "Socorro, eu vou... passar mal...$2#$b#Brh-$7#$b#%Mateus sucumbiu ao calor.",
+  "summer_Wed8": "Ei, vou comprar mais alguns chapéus!$1#$b#Achei incrível a coleção de verão, não vou resistir!$1",
+  "summer_Wed10": "@, vamos passar no Gus, preciso de um copo de água.#$b#Vamos logo, não sei quanto tempo vou aguentar!$7",
+
+  //quinta-feira
+  "summer_Thu": "Eu gosto de Joja-Cola, o gosto é meio estranho...#$b#Mas honestamente, acho que esse é o toque especial.$1",
+  "summer_Thu2": "Gosto de jogar na praia, o problema é que não da pra ver a tela do celular, o sol é muito forte...$2#$b#Hm? Nadar? Eu?#$b#Nããã... zero vontade.",
+  "summer_Thu4": "@! Não conta pra ninguém...#$b#Olha só esse chapéu que eu comprei!$1#$b#Não é estiloso?$1#$b#Agora sim me sinto no \"Rei da Pradaria\"!$1",
+  "summer_Thu6": "A única cor que eu vejo é da vitória, sempre azul!$1#$b#Quando fica vermelho é só editar e pintar por cima... ninguém desconfia.$6",
+  "summer_Thu8": "Já perdi várias vezes nos jogos... porém...#$b#Sempre tem espaço pra mais uma!$6#$b#Mas não vai ser hoje.$8",
+  "summer_Thu10": "Ei @, faz um tempo que a gente não joga uma partida juntos...#$b#Preciso avaliar suas habilidades, mas não duvido que estejam altas!$4",
+
+  //sexta-feira
+  "summer_Fri": "Ei... me dá um copo de água...$2#$b#Espera onde você ta ind-$7#$b#%Você finge que nunca viu ele na vida.",
+  "summer_Fri2": "Vou tomar uma Joja-Cola geladinha hoje!$1#$b#Pode ter certeza disso.",
+  "summer_Fri4": "Acho que vou comprar mais alguns chapéus por aí, ta faltando lembrancinhas pro pessoal!$1",
+  "summer_Fri6": "O Guilherme fala pra eu não gastar, mas não consigo me controlaaaaar!#$b#%Mateus começa a cantar, está extremamente desafinado.",
+  "summer_Fri8": "@ me espera! Só mais um joguinho! Prometo que vai ser rápido!$1#$b#%Você sente que é melhor correr.",
+  "summer_Fri10": "Quero ir algum dia na praia com você @!$1#$b#Relaxa, preparei o celular pra uma jogatina de \"Volleyball Masters Beach Edition XV\"!$4#$b#Nem sei da onde eu tirei esse jogo, mas parece estar num clima de praia!$1",
+
+  //sabado
+  "summer_Sat": "Sábado. Dia de Jogo. Adeus.",
+  "summer_Sat2": "Foi mal @, tenho algo importante pra fazer hoje.#$b#Vou ver o jogo em FULL HD.$8",
+  "summer_Sat4": "Estou me preparando pra assistir as partidas.#$b#Esses campeonatos tem alguns horários duvidosos pra começar...$2",
+  "summer_Sat6": "Hmm...#$b#%Mateus está focado em assistir o jogo.",
+  "summer_Sat8": "@, sei que desviar dos seus adversários é complicado...#$b#Mas essa jogada que eu acabei de ver no campeonato foi feia demais!$5",
+  "summer_Sat10": "@, assiste comigo o campeonato!$1#$b#Vamos torcer ao mesmo tempo, combinado?!$4",
+
+  //domingo
+  "summer_Sun": "O jogo de ontem foi legalzinho, mas tô com preguiça de continuar vendo o resto...",
+  "summer_Sun2": "Não consegui pegar a qualidade perfeita da transmissão ontem...$2#$b#Ah... por que tem que ser tão cruel internet?!$2",
+  "summer_Sun4": "Assisti o campeonato ontem com meu chapéu de número 1.#$b#Me sinto revigorado nesse clima quente!$1",
+  "summer_Sun6": "Não conta pro Guilherme, tive que pagar pra assistir na TV do Gus o jogo.#$b#E como valeu a pena!$1",
+  "summer_Sun8": "Cansei, meu time não ganha... vou virar comediante e fazer cantadas ruins.#$b#Nisso eu sei que sou bom!$1",
+  "summer_Sun10": "Gato, você não é-$4^Gata, você não é-$4#$b#@! Era meme! Era meme! Volta aqui!$7",
 
   // OUTONO
   "fall_1": "O tempo ta fresquinho hoje...#$b#Gostei.$1",
@@ -125,8 +182,64 @@
   "winter_27": "Eae!$1#$q 1015/1016#Ei o que você vai me dar hoje de aniversário?#$r 1016 0 winterquestion_27_neutro#Mas, hoje não é seu aniversário#$r 1015 20 winterquestion_27_bom#OQUÊ?! É HOJE?!#$r 1016 -29 winterquestion_27_ruim#Nada.",
   "winterquestion_27_followup": "$p 1015#Você tinha que ver sua cara quando eu perguntei isso!$1|Você não caiu nos meus planos dessa vez!$5#$b#Mas na próxima, você vai ver!$1",
   "winterquestion_27_bom": "Haha, você caiu que nem um patinho!$1#$b#Hoje não é meu aniversário!",
-  "winterquestion_27_neutro": "Droga, meus planos malegnos!$2",
+  "winterquestion_27_neutro": "Droga, meus planos malégnos!$2",
   "winterquestion_27_ruim": "...$2",
+
+  //segunda-feira
+  "winter_Mon": "Preciso me esquentar urgemente-#$b#urgemem...$2#$b#Minwa linwua congelow, tewo certewa!$7",
+  "winter_Mon2": "Se eu pudesse, andava por aí dentro do meu saco de dormir...$2#$b#Esse frio é complicado...$2",
+  "winter_Mon4": "Não importa o quanto eu tente, não consigo ficar quente!$7#$b#Olha até rimei.#$b#Pera, não é hora pra isso!$7",
+  "winter_Mon6": "Os meus dedos já estão aquecidos, agora falta o resto!$7",
+  "winter_Mon8": "Tenho que ficar blindado nesse frio pra não pegar um resfriado.#$b#O pai ta preparado pra qualquer problema, igual nos jogos!$8",
+  "winter_Mon10": "@ chega aqui, vamos se esquentar...$4#$b#Em uma jogatina até a mort-#$b#%Ir embora pareceu uma boa opção.",
+
+  //terça-feira
+  "winter_Tue": "Como você consegue ficar de boa nesse frio?",
+  "winter_Tue2": "Você recebeu uma quest especial de Matias!$1#$b#Jogar uma partidinha comigo!$1#$b#Não tem como recusar, né?#$b#Né?$2",
+  "winter_Tue4": "@, eu juro que eu vou congelar!$7#$b#Bora, jogar algo pra eu me esquentar?",
+  "winter_Tue6": "Objetivo 1: encontrar um lugar com fogueira.#$b#Obstáculo: encontrar!$2",
+  "winter_Tue8": "Onde está a fogueira quando precisamos dela?!$7",
+  "winter_Tue10": "Se criar uma fogueira na vida real fosse igual nos jogos, iria criar pra gente sentar e comer marshmallows juntos!$4",
+
+  //quarta-feira
+  "winter_Wed": "Muito ocupado na fazenda?^Muito ocupada na fazenda?#$b#Eu entendo, nem todos tem tempo de jogar comigo...$2",
+  "winter_Wed2": "Vamos @, a Joja-Cola deve estar geladinha, tenho que correr pra pegar a minha!$1",
+  "winter_Wed4": "Eu me sinto dentro de uma geladeira gigante, onde eu sou o peru de natal!$7",
+  "winter_Wed6": "@, não desista dos seus sonhos...  eu com certeza vou congelar dessa pra melhor... diga que pelo menos eu tentei...!$2#$b#%Créditos começam a subir.",
+  "winter_Wed8": "Tinha visto que os jogos estão em promoção de natal, melhor aproveitar @!$1#$b#Vou aproveitar agora, antes que-$10#$b#Já acabou?! o site mentiu pra mim!$11",
+  "winter_Wed10": "Amor, tenho que dar uma farmadinha no joguinho online...#$b#Sei que vai entender... eu te amo.$4#$b#%Mateus usou charme.#$b#%Não foi efetivo.",
+
+  //quinta-feira
+  "winter_Thu": "Como eu fico na forma anti-frio, os jogos não me ensinaram essa forma especial!$7",
+  "winter_Thu2": "Imagina uma fogueira e um chocolate quente, seria o sonho!$1",
+  "winter_Thu4": "Vou assistir os jogos de inverno no sábado!$1#$b#Só não posso esquecer.",
+  "winter_Thu6": "Vou comprar algumas tocas pro pessoal...#$b#E uns extras... é claro.$8",
+  "winter_Thu8": "Eu quase me esqueci!$7#$b#Preciso anotar como sobrevivi no inverno.$12#$b#É um momento histórico!$13",
+  "winter_Thu10": "\"Guia de Sobrevivência Invernal do Matias\", esse título me parece bom!$1#$b#O que achou do título @?",
+
+  //sexta-feira
+  "winter_Fri": "Esse tempo dá um sono...#$b#Seria tão bom ficar deitado mais uns 5... não, 30... melhor, 60 minutinhos.$1",
+  "winter_Fri2": "Não sei se quero fazer um boneco de neve... muito trabalho.",
+  "winter_Fri4": "Vou jogar alguns jogos novos de inverno, será que eu acho algum divertido?$1",
+  "winter_Fri6": "Pleno inverno, sábado chegando... e você ainda não está preparado pro campeonato de amanhã?$2",
+  "winter_Fri8": "Melhor momento pra comprar tocas para o frio!$1#$b#Agora tenho uma boa desculpa pra comprar chapéus.$8",
+  "winter_Fri10": "Disse pro Guilherme que comprei algumas tocas... mas a verdade é que comprei muito mais chapéus do que tocas, hora de ficar estiloso!$8",
+
+  //sabado
+  "winter_Sat": "Sem tempo, os jogos começaram!$1",
+  "winter_Sat2": "Foi mal @, tenho um compromisso muito sério hoje...#$b#...#$b#...$10#$e#%Mateus está assistindo o jogo.",
+  "winter_Sat4": "@, que horas são?#$b#Ah! Vou perder os jogos de inverno!$7#$e#Ufa, sorte que ta no começo...$10",
+  "winter_Sat6": "Jogão hoje em!$1#$b#Vou até conferir denovo que horas que começa.$10",
+  "winter_Sat8": "O jogo de hoje eu não vou perder por nada!$1#$e#Não vou perder o jogo mesm-$10#$b#Já começou?!$11",
+  "winter_Sat10": "@, aqui seu chapéu, torça comigo nos jogos de inverno!$1",
+
+  //domingo
+  "winter_Sun": "Se continuar assim vou pegar um resfriado!$2",
+  "winter_Sun2": "@, preciso me esquentar urgente, te vejo por aí!",
+  "winter_Sun4": "Pelo menos não fiquei em último no site de apostas.#$b#... pelo menos, né?$2",
+  "winter_Sun6": "As apostas deram errado denovo...$2#$b#O que eu faço agora @?!$7",
+  "winter_Sun8": "Há! pode estar frio, mas só preciso de um joguinho pra me aquecer!$1#$b#Aprendi novas técnicas com o jogo de ontem, hora de colocar em prática!$8",
+  "winter_Sun10": "Amor, tenho algo pra te dizer...$4#$b#O jogo de ontem foi muito incrível, sério!$1",
 
   // EVENTO
   "Evento_Chapeu_Bom": "Obrigado, isso significa muito pra mim!$4#$b#Bom, vou te dar uma explicação porque eu ainda não posso contar pra eles sobre isso.$1",

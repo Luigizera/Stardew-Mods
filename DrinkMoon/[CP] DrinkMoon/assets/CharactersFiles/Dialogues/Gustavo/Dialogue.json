@@ -1,6 +1,14 @@
 {
   // ESPECIAIS
   "Introduction": "Opa, tudo bem?#$b#Meu nome é Gustavo, eu e meus amigos nos perdemos por aqui...#$b#Você sabe se tem algum acampamento aqui por perto?",
+  "danceRejection": "Não.",
+  "divorced": "Não quero mais falar com você, pode ir embora?$2",
+  "dumped_Guys": "...$2#$b#%Gustavo parece não querer conversar",
+  "secondChance_Guys": "Eh, acho que tudo tem um recomeço...$2",
+  "breakUp": "Ah... não esperava por essa...$2",
+  "MovieInvitation": "O Vitão te corrompeu né?$8#$b#Bom, pelo menos ele passa alguns filmes bons.",
+
+  // RESORT
   "Resort_Entering": "Caramba cheguei até aqui, e ir pra casa que é bom nada.",
   "Resort_Leaving": "Ah, queria ficar só mais uns 10 minutos.$2",
   "Resort_Leaving_2": "Aaah, hora de voltar pro Vale?$2",
@@ -11,11 +19,6 @@
   "Resort_Wander": "Será que os papagaios cantam comigo?!$1",
   "Resort_Bar": "Barzinho daora!$1",
   "Resort": "Cara, da pra fazer uma festa de arrasar nessa ilha!$1",
-  "danceRejection": "Não.",
-  "divorced": "Não quero mais falar com você, pode ir embora?$2",
-  "dumped_Guys": "...$2#$b#%Gustavo parece não querer conversar",
-  "secondChance_Guys": "Eh, acho que tudo tem um recomeço...$2",
-  "breakUp": "Ah... não esperava por essa...$2",
 
   // DIALOGO COMUM
   //segunda-feira
@@ -96,13 +99,126 @@
   "winter_25": "Será que meu amigo secreto está pronto pra receber o meu presente?$6#$b#Ele vai gostar muito!$1",
 
   // PRIMAVERA
-  "spring_1": "Que as flores me guiem, a primavera chegou!$1",
+  "spring_1": "Que as flores me guiem, a primavera chegou!$1#$b#Hora de terminar algumas rimas de primavera.",
   
   // VERAO
   "summer_1": "Tá um pouco quente, não?#$b#Ou sou só eu aqui?",
+
+  //segunda-feira
+  "summer_Mon": "Tenho que fazer uma rima de verão!$1#$b#Mas por onde eu começo...?$6#$e#Ah, desculpa, o que você disse mesmo?",
+  "summer_Mon2": "Acho que o Sensei não vai brigar comigo se eu me atrasar um pouquinho pro treino...#$b#Talvez...#$b#...#$b#Melhor não ele me dá medo com raiva!$7",
+  "summer_Mon4": "Tenho que tomar cuidado pra não dormir demais!$1#$b#Nenhuma rima vai sair direito se eu acordar tarde.",
+  "summer_Mon6": "Toma muito cuidado com o Mateus, ele gosta de \"Pão com Feijão\", dá pra acreditar nisso?!$7",
+  "summer_Mon8": "Você não fica cansado de trabalhar nesse calor?^Você não fica cansada de trabalhar nesse calor?#$b#Você deve ser ridiculamente forte, sério!$7",
+  "summer_Mon10": "Tô com saudades de jogar um Warframe no meu Xbox...#$b#Amor, você tem internet em casa?$1",
+
+  //terça-feira
+  "summer_Tue": "Tá tão quente que parece que eu vou derreter...#$b#Sério cara, isso é perigoso!$7",
+  "summer_Tue2": "Ei @, se você achar algum Disco Raro, pode me dar?#$b#Eu posso colocar na minha caixinha de som pra testar, não tem nada que ela não possa fazer!$1",
+  "summer_Tue4": "Esse verão ta de matar, o segredo é não parar de rimar!$1#$b#Porque uma rima boa só te leva pra um lugar, e esse lugar é com certeza o seu lar!$1#$b#O que achou da rima?#$b#Talvez eu deva melhorar algumas partes...$6",
+  "summer_Tue6": "Treinar nesse calor é pedir pra ser um treino intenso...$2#$b#Se eu tivesse um ventilador, poderia ficar até amanhã, mas...",
+  "summer_Tue8": "Estive pensando, se chover não vai ficar tão quente assim...#$b#Então, hora de fazer a \"Música da Chuva\"!$1",
+  "summer_Tue10": "Amor vou cantar uma música pra você!$1#$b#Lá vai...#$b#...#$b#...#$b#Não consigo começar se você ficar me olhando assim...$4",
+
+  //quarta-feira
+  "summer_Wed": "@, @...?$6#$b#Ah, você é o fazendeiro, agora me lembrei!$1^Ah, você é a fazendeira, agora me lembrei!$1#$b#Faz um tempão que não te vejo.",
+  "summer_Wed2": "Solta o som DJ!$1#$b#Parapapapapapa pa pa pa pa!$3#$b#%Gustavo parece entretido.",
+  "summer_Wed4": "Minha garganta ta toda desgastada agora...$2#$b#Preciso de um copo de água urgente!$2",
+  "summer_Wed6": "Realmente, não dá pra treinar nesse calor, é a pior sensação de todas!$2",
+  "summer_Wed8": "Será que tem algum \"Atumalaka\" pelo rio?#$b#É uma espécie rara de sapo!$1",
+  "summer_Wed10": "O que acha de ir na praia hoje?#$b#É o melhor momento pra nadar, com esse calor eu não vou me segurar!$1",
+
+  //quinta-feira
+  "summer_Thu": "Espera, espera, espera!$7#$b#Ah, você me desconcentrou... eu tava tendo uma idéia de rima muito boa...$2",
+  "summer_Thu2": "Preciso de mais água, minha garganta ta secando muito rápido.$2#$b#As rimas não vão sair se o verão continuar a me atrapalhar.$2",
+  "summer_Thu4": "Meu treino já ta dando frutos, se liga no tanquinho do pai!$1",
+  "summer_Thu6": "Ei @, você tem um ventilador em casa?#$b#Se tiver, preciso dele urgente!$1#$b#Não consigo treinar direito com esse calor.",
+  "summer_Thu8": "Vou pedir pro Sensei comprar um refri geladinho!$1#$b#Na verdade, é melhor eu pedir um suco, vai que ele compra Joja-Cola!$7#$e#Não da pra rimar de garganta seca, isso é fato!$1",
+  "summer_Thu10": "Amor, isso é urgente!$1#$b#Vamos tomar um sorvete! Vamos! Vamos!$1#$b#Por favor, só um sorvetinho!$2",
+
+  //sexta-feira
+  "summer_Fri": "Esse tempo me lembra de quando eu brincava de \"O Chão é Lava\"!$1#$b#Só que agora é a coisa real!$7",
+  "summer_Fri2": "Eu vejo Joja-Cola no rio o tempo todo, imagina o perigo de tomar aquilo!$7",
+  "summer_Fri4": "Acho que consigo correr uma maratona hoje!$1#$b#O problema é que é uma maratona de 1 metro.#$b#Sério, tá quente de mais pra testar meu limite, eu faço isso depois.$2",
+  "summer_Fri6": "Não sou muito bom com dinheiro, então o Sensei cuida disso pra gente!$1#$b#O lado bom, é que tenho mais tempo pra rimar!$1",
+  "summer_Fri8": "Eu não te contei né, mas parece que o Willy vende chiclete!$1#$b#É tipo umas coisas coloridas, vai entender por que ele vende isso.",
+  "summer_Fri10": "Amor, já ouviu o termo \"Atumalakar\"?#$b#É quando você ri bem alto!$1",
+
+  //sabado
+  "summer_Sat": "O verão chegou e eu nem terminei minha rima de primavera...#$b#Um fracasso completo!$2",
+  "summer_Sat2": "Estou treinando meus ataques, mas parece que ficaram mais lentos...#$b#Ou será que eu que tô rápido demais?$6#$b#Não, não faz sentido.",
+  "summer_Sat4": "Foi mal, sem tempo pra falar, pois uma rima de verão tenho que lançar!$1#$b#Vamos nessa!$3#$b#%Gustavo começou a rimar do nada.",
+  "summer_Sat6": "Quando o calor chega, meus ataques ficam que nem... pedreira?#$b#Argh não, muito ruim!$5",
+  "summer_Sat8": "Ei, não vem com esse papo de Joja-Cola pra cima de mim não.$8#$b#Vejo aquilo descendo o riacho o tempo todo.$8",
+  "summer_Sat10": "Rimar nesse calor é um verdadeiro desafio.#$b#Mas por você eu consigo fazer isso!$4",
+
+  //domingo
+  "summer_Sun": "Esse negócio de \"Memórias de Verão\" é tudo uma mentira, tenho certeza disso.",
+  "summer_Sun2": "Ei @, você tem algum Suco sobrando aí?#$b#Pode ser de qualquer sabor, só tô com sede mesmo!$1",
+  "summer_Sun4": "Se liga nessas cicatrizes na minha mão!$1#$b#Uou, isso sim que é trabalho duro!$1",
+  "summer_Sun6": "Tô errando alguns versos muito fáceis...#$b#Deve ser o calor, né?$2",
+  "summer_Sun8": "Preciso treinar... mas tá calor...$8#$b#Mas eu PRECISO treinar... mas tá calor...$8#$b#%Gustavo está em um ciclo infinito.",
+  "summer_Sun10": "Estou começando a acreditar nesse negócio de \"Memórias de Verão\", graças a você @.#$b#E então, vamos fazer as nossas?!$4",
   
   // INVERNO
   "winter_1": "Treinar no frio é a melhor sensação!$1#$b#Hora de me aquecer!$1",
+
+  //segunda-feira
+  "winter_Mon": "Vou fazer um boneco de neve agora mesmo!$1",
+  "winter_Mon2": "@! Já colocou suas decorações de natal?!$1",
+  "winter_Mon4": "O inverno vai chegando, e os presentes eu vou dando!$1#$b#Acho que ainda tenho tempo pra melhorar isso...$6",
+  "winter_Mon6": "Que tal um teste de resistência agora mesmo? Está pronto?#$b#3... 1... VAI!$1#$b#%Gustavo parece estar elétrico hoje.",
+  "winter_Mon8": "@, quer vir tomar um café comigo?#$b#É sempre bom nesse clima frio!$1",
+  "winter_Mon10": "Amor, precisa de ajuda pra fazer uma rima natalina?!$1#$b#Já preparei o beat remixado natalino, agora é só rimar!$1",
+
+  //terça-feira
+  "winter_Tue": "Esse frio não é forte o suficiente pra me derrubar!$1",
+  "winter_Tue2": "Espera um minutinho...$1#$b#...#$b#E eu começ-$3#$b#%Gustavo começou a rimar do nada.",
+  "winter_Tue4": "Será que eu faço um boneco de neve pequeno que nem o Seba, ou alto que nem eu?$6#$b#Hmm...$6",
+  "winter_Tue6": "Meu corpo de ferro não pega resfriado tão fácil!$1#$b#Mas quando pega...#$b#Não quero nem lembrar...$2",
+  "winter_Tue8": "Dessa vez é o Sensei que tá se atrasando pros treinos...$2#$b#Parece que ele não gosta MESMO do frio.",
+  "winter_Tue10": "@, vamos fazer uma guerra de bolinha de neve!$1#$b#Eu começo...#$b#Não vou pegar leve.$8#$b#%Você sente um instinto assassino vindo de Gustavo.",
+
+  //quarta-feira
+  "winter_Wed": "Já nos apresentamos?#$b#Prazer, eu sou-#$b#Ah, você é o @!^Ah, você é a @!#$b#Foi mal, não te reconheci.",
+  "winter_Wed2": "Hora de correr na velocidade do relâmpago amarelo!$1#$b#Nada pode me parar!$1",
+  "winter_Wed4": "Primeiro preciso aquecer a minha voz, talvez um cafézinho ajude!$1#$b#Depois é só começar a rima.",
+  "winter_Wed6": "Se eu parar de treinar nesse frio eu tô maluco!$1",
+  "winter_Wed8": "Hoje é meu dia, vou treinar que nem louco!$1#$b#Só tenho que tomar cuidado pra não derrumar uma árvore sem querer.",
+  "winter_Wed10": "@, hipoteticamente o que você gostaria de receber de presente?$4#$b#Claro, hipoteticamente, sem pretenções nenhumas.$4",
+
+  //quinta-feira
+  "winter_Thu": "Correr nesse frio é a melhor sensação de todas!$1",
+  "winter_Thu2": "Dormir nesse frio até que é bom... se eu não tivesse em um saco de dormir duro no chão.",
+  "winter_Thu4": "Já faz um bom tempo que não consigo ler alguns mangás.#$b#Cara preciso colocar isso em dia agora mesmo!$1",
+  "winter_Thu6": "Tenho que tomar mais cuidado pra não escorregar nessa neve.#$b#Tomei um tombo feio ontem...$2",
+  "winter_Thu8": "@! Socorro!$2#$b#Ontem derrubei outra árvore perto da cidade, não sei o que eu faço!$2",
+  "winter_Thu10": "@, vamos treinar hoje?$1#$b#Vou tomar cuidado pra não derrubar nenhuma árvore... só se você pedir, é claro.$4",
+
+  //sexta-feira
+  "winter_Fri": "Meu treino nem começou mas já tô animadasso!$1#$b#Vamos nessa, o frio não vai me vencer!$1",
+  "winter_Fri2": "@, vem comigo, preciso treinar meus socos...#$b#Calma! Só preciso que você segure a árvore pra ela não cair!$7",
+  "winter_Fri4": "Vou voltar a minha rotina, aquecer o corpo, mente e alma com socos consecutivos!$1",
+  "winter_Fri6": "E se eu lutasse taijutsu mandando o rap ao mesmo tempo?$6#$b#Cara, nunca parei pra pensar o quão foda seria isso...!$6",
+  "winter_Fri8": "Ei @, me ajuda a fazer um boneco de neve depois?#$b#Quero fazer um bem forte com 7 gominhos e segurando um peso de 75 quilos!$1#$b#Parando pra pensar...#$b#Se bem que a parte dos 7 gominhos é meio difícil...$2",
+  "winter_Fri10": "Foi mal @, hoje preciso treinar, sabe como é, não posso ficar fora de forma nem um segundo!$1#$b#Só assim posso te proteger...$4",
+
+  //sabado
+  "winter_Sat": "Ah, parece que minha garganta piorou...$2#$b#Droga, bem quando eu tava pegando o jeito da coisa...$2",
+  "winter_Sat2": "Mano, vou fazer um sorvete de neve, o que você acha?$6#$b#Será que fica bom?$6",
+  "winter_Sat4": "@ vou ir treinar, se precisar, já sabe onde me encontrar!$1#$b#Claro, se eu estiver onde você ta pensando...#$b#O lugar que você ta pensando é o mesmo que eu tô pensando?$6",
+  "winter_Sat6": "Ainda tenho mais quanto tempo até virar um bloco de gelo?$7#$b#Ah, ta suave, só preciso dar uma treinada que passa.",
+  "winter_Sat8": "Oi.#$e#O quê?#$e#Quê foi mano?$5#$e#Ta bom, ta bom, calma...$7#$b#Deixa eu respirar um pouco...#$e#Ok, você ta lindo hoje... feliz?$4^Ok, você ta linda hoje... feliz?$4#$e#...$8#$e#Sai fora maluco, todo dia isso!$5",
+  "winter_Sat10": "@, ta bonito hoje!$4^@, ta bonita hoje!$4#$b#Só falo verdades, e a verdade é essa...$4",
+
+  //domingo
+  "winter_Sun": "Um cafézinho agora seria perfeito, na moral.",
+  "winter_Sun2": "Que horas são?#$b#Bom, não importa vou treinar, falou...$1",
+  "winter_Sun4": "Olá @, aceitas um café?$1#$b#Esse é bem forte, pra começar o dia acelerado!$1",
+  "winter_Sun6": "@ Eu- T- Velocida- Rápid-#$b#%Gustavo parece estar acelerado hoje.",
+  "winter_Sun8": "Eu tô sentindo...!$7#$b#Tô sentindo @!$7#$b#Argh!$7#$b#...$7#$b#O Deus da músic-$3#$b#%Você parou de prestar atenção.",
+  "winter_Sun10": "Poxa, queria dormir um pouco mais hoje, mas meu corpo não permite mais.#$b#A cafeina bateu forte!$1",
+
   
   //EVENTOS
   "Evento_Rimas_Bom": "...!$4",

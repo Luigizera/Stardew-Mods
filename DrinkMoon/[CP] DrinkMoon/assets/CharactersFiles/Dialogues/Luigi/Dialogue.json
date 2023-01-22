@@ -1,6 +1,13 @@
 {
   // ESPECIAIS
   "Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto?$0",
+  "danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
+  "divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
+  "secondChance_Guys": "...Ok, só mais uma chance!$1",
+  "breakUp": "...!$8#$b#Entendo, não posso te contrariar...$2",
+  "MovieInvitation": "Vamos nessa!$1#$b#Só espero que não seja um filme de terror...$2",
+
+  // RESORT
   "Resort_Entering": "Quem diria que um lugar tão bonito assim existia!$1",
   "Resort_Leaving": "Bom, não posso ficar aqui pra sempre...$0#$b#Posso?$1",
   "Resort_Shore": "É bom tirar um tempo pra pensar, fazer projetos consecutivamente cansa.$1",
@@ -10,10 +17,6 @@
   "Resort_Wander": "Hmm, será que existem mistérios nessa ilha?$0#$b#Ah, queria ter tempo de explorar tudo!$1",
   "Resort_Bar": "Que sede, tem água ai?",
   "Resort": "Bom, esse tempo definitivamente é perfeito!$0",
-  "danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
-  "divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
-  "secondChance_Guys": "...Ok, só mais uma chance!$1",
-  "breakUp": "...!$8#$b#Entendo, não posso te contrariar...$2",
 
   // DIALOGO COMUM
   //segunda-feira
@@ -57,7 +60,7 @@
   "Fri10": "Espero que não esteja muito ocupado com a fazenda.^Espero que não esteja muito ocupada com a fazenda.#$b#Vamos sair um dia desses, ok?$4",
 
   //sabado
-  "Sat": "Tenho que dormir mais horas... mas tenho coisas pra terminar também.",
+  "Sat": "Tenho que dormir mais horas... mas tenho coisas pra terminar também.#$b#As vezes fica difícil escolher...$2",
   "Sat2": "Ainda estou trabalhando pra deixar tudo perfeito, mas sempre acho que posso fazer melhor.",
   "Sat4": "As vezes o Ronaldo encontra alguns geodos na mina, então levamos pro Clint pra dar uma olhada!$1",
   "Sat6": "Ei @, os dias tem sido muito corridos!$1#$b#Então qual é a boa nova?",
@@ -99,11 +102,127 @@
   // VERAO
   "summer_1": "Ah, não consigo, eu definitivamente vou morrer de calor...$2",
 
+  //segunda-feira
+  "summer_Mon": "Preciso de um refresco urgente...$2",
+  "summer_Mon2": "Você tem gelo aí?#$b#Ah, esquece essa idéia não vai funcionar...$2",
+  "summer_Mon4": "Esse calor ta intenso, melhor ficar esperto pra não queimar meu notebook.$1",
+  "summer_Mon6": "Ainda não terminei de programar, vou fazer o resto de noite.$1",
+  "summer_Mon8": "Tenho que tomar cuidado pro meu notebook não pegar fogo!$8#$b#Ele começou a fazer uns barulhos estranhos recentemente, deve estar esquentando demais...$2",
+  "summer_Mon10": "Só queria um sorvetinho...$2#$b#Você vem comigo comprar?!$1#$b#Não sou bom pra conversar com as pessoas, só entrego objetivos...$4",
+
+  //terça-feira
+  "summer_Tue": "Hmm...$7#$b#%Luigi parece bravo, melhor não incomodar.",
+  "summer_Tue2": "Não posso parar agora...$7#$b#%Luigi parece bravo, melhor não incomodar.",
+  "summer_Tue4": "...$7#$b#%Luigi está estranho, melhor não incomodar.",
+  "summer_Tue6": "Ei, vou fazer uma careta e você me diz se eu tô parecendo um vilão.#$b#Hmm...$7#$b#E então?",
+  "summer_Tue8": "Esses dias vi um personagem maligno na internet.#$b#Vou tentar replicar algumas coisas dele, tipo...#$b#Hmm...$7#$b#Ou até mesmo...#$b#Não posso parar agora...$7#$b#Ei por que você ta rindo, era pra parecer maligno!$8",
+  "summer_Tue10": "Você acha que eu daria um bom vilão?#$b#Ei, para de rir, tô falando sério! Olha pra minha cara!$7#$b#Hahaha, é brincadeira...$4",
+
+  //quarta-feira
+  "summer_Wed": "Calor, né...?#$b#é...#$b#...#$b#Já estou de saida.$2",
+  "summer_Wed2": "Ei, você já viu a estátua de ouro do prefeito por aí?",
+  "summer_Wed4": "Já encontrei alguns bixos pequenos por aí, acho que a mina ta consumindo minha cabeça...#$b#Espera, você já viu também @?$8#$b#Não adianta esconder, sua cara revela.$1",
+  "summer_Wed6": "Vou pro andar 40 pegar gelo, é a maneira mais eficiente!$1",
+  "summer_Wed8": "Se você planeja explorar as minas, recomendo o andar 40... lá é friozinho e não é muito perigoso!$1",
+  "summer_Wed10": "Você seria corajoso de explorar os andares 80 pra baixo nesse calor...$6^Você seria corajosa de explorar os andares 80 pra baixo nesse calor...$6#$b#Não vou te proibir, a verdade é que sei que você é... e você faria do mesmo jeito...$4",
+
+  //quinta-feira
+  "summer_Thu": "O que você falaria pra uma pessoa normalmente?#$b#É uma pesquisa de campo.",
+  "summer_Thu2": "Desculpa te perguntar @, me conte sua rotina.#$b#É uma pesquisa de campo, não vai durar muito, prometo!$1",
+  "summer_Thu4": "Eu salvarei a Princesa!$1#$b#Não, muito clichê...$6#$b#Mas a verdade, é que eu gosto até disso.#$b#Vou anotar esse diálogo!$1",
+  "summer_Thu6": "Bem-vindo jogador, pode me dizer o seu nome?$1#$b#Acho que se eu imitar um NPC vou me sair bem...$6#$e#%Luigi parece mais confiante.",
+  "summer_Thu8": "Diálogo 1.#$b#Diálogo 2.#$b#Diálogo 3.#$b#Ah, foi mal, tava pensando em alguns diálogos recentemente, é pro novo projeto!$1",
+  "summer_Thu10": "Já tenho uma lista perfeita de diálogos!$1#$b#Só preciso agora é saber qual deles vai fazer você ficar mais apaixonado por mim...$4^Só preciso agora é saber qual deles vai fazer você ficar mais apaixonada por mim...$4",
+
+  //sexta-feira
+  "summer_Fri": "Melhor eu levar meus cobres pra inspeção...",
+  "summer_Fri2": "Tenho que entregar coisas pro pessoal hoje, até mais!$1",
+  "summer_Fri4": "Tava pensando em colocar que eu queria uma esmeralda no boletim, mas não sei como pagar...$2",
+  "summer_Fri6": "Nada no boletim hoje, vou ficar tranquilo!$1#$b#A não ser que você tenha um pedido.",
+  "summer_Fri8": "Sempre dou uma olhada no boletim pra ver se tem alguém pedindo algo.#$b#Geralmente consigo entregar coisas da mina!$1",
+  "summer_Fri10": "Não se preocupa, não tô me desgastando muito com as requisisix-#$b#Oh droga...$7#$b#Quero dizer, requisições dos moradores, isso!$1",
+
+  //sabado
+  "summer_Sat": "Acho que entreguei o que eu precisava pro Gus...#$b#Será que esqueci algo?$2#$b#Não, acho que não...#$b#Acho...$2",
+  "summer_Sat2": "Você sabia que dá pra equipar bombas no estilingue?#$b#O poder de fogo aumenta muito!$1",
+  "summer_Sat4": "O lado bom do verão é a praia...#$b#Só que eu não gosto de ir na praia...$2",
+  "summer_Sat6": "O Ronaldo tem um estilingue com bombas guardadas, melhor tomar cuidado com ele!$1",
+  "summer_Sat8": "Vou estar por aí se precisar de mim, mas manda um aviso antes, ok?$1#$b#Tipo um sinalizador, ou algo parecido.#$b#Não, não sou o Batman.$7",
+  "summer_Sat10": "Para de me encarar, não tá tão quente aqui... sério...$4",
+
+  //domingo
+  "summer_Sun": "Que calor...$2#$b#Meu cachecol? Qual problema?",
+  "summer_Sun2": "Não vou tirar meu cachecol, é minha marca.#$b#É tipo trocar a cor da Joja-Cola pra vermelho, não faz sentido!$1",
+  "summer_Sun4": "Esse cachecol me da mais 10 de defesa!$1#$b#Isso se a gente tivesse em um jogo, claro.",
+  "summer_Sun6": "Já preparou sua armadura @?#$b#Então ta marcado, é hora de aventura!$1",
+  "summer_Sun8": "Por mais quanto tempo tenho que ficar andando de um lado pro outro?$6#$b#Sério, ta muito quente!$7",
+  "summer_Sun10": "Vou em uma expedição na mina em breve, me deseje sorte.#$b#Esquece, eu não preciso, você é minha sorte!$4",
+
   // OUTONO
   "fall_1": "Já é Outono?!$8#$b#Acho que a gente não vai voltar pra casa tão cedo.",
 
   // INVERNO
   "winter_1": "Pelo menos minha roupa é quentinha, o frio não me atinge!$1",
+
+  //segunda-feira
+  "winter_Mon": "Acho que vou virar \"Luigivete\" nesse frio!$8#$b#Sorte que eu tenho esse chachecol.",
+  "winter_Mon2": "Ah cara... eu com certeza vou pegar um resfriado nesse frio...$2#$b#Melhor ir comprar um remédio na Clínica.",
+  "winter_Mon4": "Acho que vou correr um pouco pra me esquentar, não quero virar \"Luigivete\"!$1",
+  "winter_Mon6": "Definitivamente não quero virar um sorvete...$2#$b#Já pensou sou servido com casquinha e tudo? Que perigo!$8",
+  "winter_Mon8": "Me ajuda @, não quero virar \"Luigivete\"!$8#$b#Se eu congelar aqui, quem vai terminar os projetinhos?$2",
+  "winter_Mon10": "Meu cachecol pode ser bom, mas ele não segura tudo...$2#$b#O quê?#$b#Não, não precisa me esquentar...$4",
+
+  //terça-feira
+  "winter_Tue": "Droga, acho que peguei um resfriado...$2",
+  "winter_Tue2": "Atchim!$8#$e#Atchim!$8#$e#Atchim!$8#$e#Ei, você vai ficar falando \"Saúde\" até amanhã...$6",
+  "winter_Tue4": "Ah não, é aquela sensação denovo...$7#$e#Atchim!$8#$e#Atchim!$8#$e#Vai ser isso o dia todo...$7#$b#Atchim!$8",
+  "winter_Tue6": "Pelo menos posso ficar do andar 80 pra baixo nas minas.#$b#Lá é muito quente, então sem espirros hoje!$1",
+  "winter_Tue8": "@... preciso de ajuda, não consigo parar de espirrar...$7#$e#Atchim!$8",
+  "winter_Tue10": "@, não fica muito perto... sabe como é... espirros...$7#$e#Atchim!$8#$b#Pelo menos não tá pior que antes...",
+
+  //quarta-feira
+  "winter_Wed": "Foi mal, tô ocupado agora...$6#$b#Preciso ir comprar um café.",
+  "winter_Wed2": "Tenho que começar o dia cheio de energia, se não o frio vai me dominar...$2#$b#Então, é hora do café!",
+  "winter_Wed4": "Eae @, tem planos pra hoje?$1#$b#Quero terminar meu projeto logo, mas acho que ta longe ainda...",
+  "winter_Wed6": "Preciso pegar um café, você vem comigo @?#$b#Tenho outros projetos pra terminar, não quero perder pro frio.$1",
+  "winter_Wed8": "Minha aventura começa quando eu pegar meu café e trabalhar no meu novo projeto!$1",
+  "winter_Wed10": "@! Bora tomar um café?$1#$b#Nesse clima tenho certeza que é mais gostoso.",
+
+  //quinta-feira
+  "winter_Thu": "Preciso melhorar minha habilidade de combate ainda mais.#$b#Mas parece que já tô no meu máximo...$2",
+  "winter_Thu2": "@, pretende ir para a mina hoje?$1#$b#Espero que não esteja sendo consumido por ela.",
+  "winter_Thu4": "Vou ficar entre os andares 80 pra baixo das minas, é bem quente lá.#$b#Então, não preciso me preocupar com o frio!$1",
+  "winter_Thu6": "Você já descobriu pra que serve a chave da caveira?#$b#E quem é esse tal de Sr.Qi?#$b#Tenho tantas perguntas...$2",
+  "winter_Thu8": "@, já melhorou sua habilidade de combate?#$b#O melhor momento pra treinar é agora, se aquecer no calor da batalha!$1",
+  "winter_Thu10": "Vejo que tem treinado sua habilidade de combate, esse é meu @...$4^Vejo que tem treinado sua habilidade de combate, esse é minha @...$4",
+
+  //sexta-feira
+  "winter_Fri": "Vou estar ocupado por hoje, então... com licença.$6",
+  "winter_Fri2": "...?#$e#...#$e#...$6#$e#Eh...$6#$b#Pode parar de me encarar...?$6",
+  "winter_Fri4": "Tenho que explorar a mina hoje, talvez ache algo que me ajude no meu projeto.",
+  "winter_Fri6": "A melhor parte de finalizar um projeto, é adicionar novos conteúdos depois!$1",
+  "winter_Fri8": "Vou fazer umas melhorias no meus projetos, sempre bom revisitar eles depois de um tempo!$1",
+  "winter_Fri10": "@! Vou congelar!$8#$b#%Luigi.exe parou de responder.",
+
+  //sabado
+  "winter_Sat": "Já te vi antes, mas não me lembro...$6",
+  "winter_Sat2": "Quando chega a primavera?#$b#Não me entenda mal, mas eu não quero pegar outro resfriado...$6",
+  "winter_Sat4": "Preciso aprender novas técnicas de combate e depois...#$b#%Luigi parece focado.",
+  "winter_Sat6": "Comparado aos andares 40 pra baixo...#$b#Esse frio não é tão forte assim...$6",
+  "winter_Sat8": "Nunca te contei né?$1#$b#Esse cachecol foi um presente, então não tiro ele desde então.#$b#Além de que ele me ajuda muito em combate e pra tempos frios.$1",
+  "winter_Sat10": "@, vamos em uma aventura de inverno, o que acha?$4",
+
+  //domingo
+  "winter_Sun": "O inverno tá sendo maior do que eu esperava...#$b#Pelo menos tomar um café fica mais gostoso!$1",
+  "winter_Sun2": "Vou ficar terminando alguns projetos hoje.#$b#Nada especial!$1",
+  "winter_Sun4": "Não tem um tema escuro pra neve não?$6",
+  "winter_Sun6": "Natal e ano novo chegando... né?$6#$b#Vou ter que fazer um update pra isso...$7",
+  "winter_Sun8": "Mesmo chegando no final da mina, estou impressionado que não tinha nenhum tipo de \"Rei Demônio\" ou algo do gênero...",
+  "winter_Sun10": "Ontem a tela do meu computador congelou...$2#$b#Literalmente!$8",
+
+  // ESPECIAIS
+  "Hospital": "De que adianta ser forte, mas perder pra uma gripe...$2",
+  "Hospital8": "@, não se preocupe, é só minha gripe atacando denovo...$6#$b#Mas sério, a coisa ta feia...$2",
 
   // EVENTO
   "Evento_AutoD_Bom": "Bom... você tem razão eu fico muito focado nos meus projetos...$6#$b#As vezes até desapareço por ai...$6",
