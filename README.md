@@ -3,7 +3,6 @@ Alguns mods que eu fiz para Stardew Valley!
 
 # DrinkMoon
 Para esse MOD funcionar é necessário:
-
 -SMAPI
 -Content Patcher
 
