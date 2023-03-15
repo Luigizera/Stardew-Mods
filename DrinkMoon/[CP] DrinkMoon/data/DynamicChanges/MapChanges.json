@@ -1,0 +1,43 @@
+{
+	"Changes": 
+	[
+		//Mapas Alterados
+		{
+			//Adiciona o Vitão no Cinema
+			"Action": "EditMap",
+			"Target": "Maps/MovieTheater",
+			"FromFile": "assets/Maps/MapPatches/DMMovieTheater.tmx",
+			"FromArea": { "X": 6, "Y": 4, "Width": 1, "Height": 2 },
+			"ToArea": { "X": 6, "Y": 4, "Width": 1, "Height": 2 },
+			"PatchMode": "Replace",
+			"When":
+			{
+			   "HasSeenEvent": "1186001"
+			}
+		},
+   
+		{
+			//Adiciona a Barraca no Ponto de Ônibus
+			"Action": "EditMap",
+			"Target": "Maps/BusStop",
+			"FromFile": "assets/Maps/MapPatches/DMBusStop.tmx",
+			"FromArea": { "X": 9, "Y": 1, "Width": 3, "Height": 5 },
+			"ToArea": { "X": 9, "Y": 1, "Width": 3, "Height": 5 },
+			"PatchMode": "Replace"
+		},
+   
+		{
+			//Altera o Cinema
+			"Action": "Load",
+			"Target": "Maps/Town-Theater",
+			"FromFile": "assets/Maps/NewMaps/Town-Theater.tmx"
+		},
+   
+		{
+			//Altera o Cinema (Joja)
+			"Action": "Load",
+			"Target": "Maps/Town-TheaterCC",
+			"FromFile": "assets/Maps/NewMaps/Town-TheaterCC.tmx"
+		},
+	]
+}

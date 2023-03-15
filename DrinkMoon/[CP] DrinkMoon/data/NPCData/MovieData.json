@@ -1,0 +1,841 @@
+{
+	"Changes": 
+	[
+		//Configs Cinema
+		{
+			//Cinema Foods
+			"Action": "EditData",
+			"Target": "Data/ConcessionTastes",
+			"Entries": 
+			{
+				"Luigi": 
+				{
+					"Name": "Luigi",
+					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Star Cookie", "Stardrop Sorbet"],
+					"LikedTags": ["Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Joja Cola", "JojaCorn", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Truffle Popcorn"],
+					"DislikedTags": ["Apple Slices", "Black Licorice", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Rock Candy", "Sour Slimes"] 
+				},
+				"Mateus": 
+				{
+					"Name": "Mateus",
+					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Joja Cola", "Nachos", "Personal Pizza", "Star Cookie", "Stardrop Sorbet"],
+					"LikedTags": ["Black Licorice", "Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Jasmine Tea", "Jawbreaker", "JojaCorn", "Kale Smoothie", "Panzanella Salad", "Popcorn", "Rock Candy", "Salted Peanuts", "Sour Slimes"],
+					"DislikedTags": ["Apple Slices", "Salmon Burger", "Truffle Popcorn"] 
+				},
+				"Guilherme": 
+				{
+					"Name": "Guilherme",
+					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
+					"LikedTags": ["Cappuccino Mousse Cake", "Hummus Snack Pack", "Ice Cream Sandwich", "Rock Candy", "Sour Slimes"],
+					"DislikedTags": ["Truffle Popcorn", "Salted Peanuts", "Salmon Burger", "Black Licorice", "Apple Slices", "Star Cookie", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad","JojaCorn", "Joja Cola"] 
+				},
+				"Gustavo": 
+				{
+					"Name": "Gustavo",
+					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Hummus Snack Pack", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
+					"LikedTags": ["Apple Slices", "Cappuccino Mousse Cake", "Fries", "Kale Smoothie", "Panzanella Salad", "Rock Candy", "Salted Peanuts", "Sour Slimes", "Star Cookie"],
+					"DislikedTags": ["Black Licorice", "Jasmine Tea", "Jawbreaker", "Salmon Burger", "Truffle Popcorn", "JojaCorn", "Joja Cola"] 
+				},
+				"Ronaldo": 
+				{
+					"Name": "Ronaldo",
+					"LovedTags": ["JojaCorn", "Joja Cola", "Chocolate Popcorn", "Cotton Candy", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Sour Slimes"],
+					"LikedTags": ["Cappuccino Mousse Cake", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Star Cookie", "Stardrop Sorbet"],
+					"DislikedTags": ["Apple Slices", "Black Licorice", "Hummus Snack Pack", "Rock Candy", "Truffle Popcorn"] 
+				},
+				"Seba": 
+				{
+					"Name": "Seba",
+					"LovedTags": ["Black Licorice", "Chocolate Popcorn", "Ice Cream Sandwich", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
+					"LikedTags": ["Apple Slices", "Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Salmon Burger", "Salted Peanuts", "Sour Slimes", "Star Cookie"],
+					"DislikedTags": ["Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad", "Rock Candy", "Truffle Popcorn", "JojaCorn", "Joja Cola"] 
+				}
+			}
+		 },
+		 
+		 {
+			//Cinema Tastes
+			"Action": "EditData",
+			"Target": "Data/MoviesReactions",
+			"Entries": 
+			{
+				"Luigi": 
+				{
+					"NPCName": "Luigi",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Ah, eu realmente não gosto de filmes de terror...$2"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/shake Luigi 2000/pause 500/message \"Luigi está em choque.\"",
+								"Text": "Ah! Não dá mais pra assistir!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Nunca mais me chame pra assistir filmes de terror.$5"
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "action",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Um filme de ação!?$1#$b#Isso vai ser legal!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Wow, que incrível!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "comedy",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Essa foi boa!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Deu pra dar umas boas risadas!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "sci-fi",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Isso deve ter sido uma escolha de Steins;Gate!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Pera, é sério isso?!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme foi melhor do que eu esperava!$1"
+							}
+							},
+							"ID": "reaction_3"
+						},
+						{
+							"Tag": "summer_movie_0", //Journey Of The Prairie King: The Motion Picture
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Filmes de jogos costumam ser ruins, vamos ver se esse me surpreende!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/shake Luigi 2000/pause 500/message \"Luigi parece completamente imerso.\"",
+								"Text": "Ai sim!$1#$b#Ops, acho que falei alto demais...$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme foi muito bom!$1#$b#Valeu por me chamar pra assistir."
+							}
+							},
+							"ID": "reaction_4"
+						}
+					]
+				},
+	
+				"Mateus": 
+				{
+					"NPCName": "Mateus",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Por que você fez isso comigo...?$2"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/shake Mateus 2000/pause 500/message \"Mateus está em choque.\"",
+								"Text": "Ah! Não consigo! Chega!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Nunca mais me chame pra assistir filmes de terror... sério.$2"
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "action",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Um filme de ação!?$1#$b#Isso vai ser legal!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Wow, que incrível!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "comedy",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Essa foi boa!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Deu pra dar umas boas risadas!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "sci-fi",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Sci-fi?#$b#Acho que não vai ser tão interessante..."
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/message \"Mateus está dormindo.\"",
+								"Text": ""
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Eh... o que aconteceu no filme?"
+							}
+							},
+							"ID": "reaction_3"
+						},
+						{
+							"Tag": "summer_movie_0", //Journey Of The Prairie King: The Motion Picture
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Eu conheço esse, acho que vai ser bom!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/shake Mateus 2000/pause 500/message \"Mateus parece completamente imerso.\"",
+								"Text": "Que épico!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme foi incrível!$1#$b#Me chame mais vezes pra assistir."
+							}
+							},
+							"ID": "reaction_4"
+						}
+					]
+				},
+	
+				"Guilherme": 
+				{
+					"NPCName": "Guilherme",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não sou muito fã de filmes de terror, mas espero que seja bom."
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/jump Guilherme 7/pause 500/message \"Guilherme deu um pulinho.\"",
+								"Text": "Esse me pegou de surpresa!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não foi tão assustador assim..."
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "action",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Um filme de ação?#$b#Espero que seja épico!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Olha esses efeitos visuais!$8#$b#Olha esse slow motion!$8"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme tinha uns efeitos visuais incríveis!$1"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "comedy",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme com certeza vai ser bom!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Classica, classica!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Foi bom demais, me chama mais vezes pra assistir!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "sci-fi",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não vejo a hora de assistir esse filme!$1#$b#Será que vai ter um plot twist interessante?"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Então era isso?!$8#$b#Que incrível!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse plot twist foi insano!$1#$b#Quero ver mais desses."
+							}
+							},
+							"ID": "reaction_3"
+						},
+						{
+							"Tag": "summer_movie_0", //Journey Of The Prairie King: The Motion Picture
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não tenho boas memórias com esse jogo...$2#$b#Mateus sempre ganha de mim."
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "/shake Guilherme 2000/pause 500/message \"Guilherme parece completamente imerso.\"",
+								"Text": "É realmente igual no jogo!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Que filme bom!$1#$b#Espero que tenha continuação."
+							}
+							},
+							"ID": "reaction_4"
+						}
+					]
+				},
+	
+				"Gustavo": 
+				{
+					"NPCName": "Gustavo",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Espero dar umas risadas com esse filme!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Que tosco!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Você viu a cara daquele monstro?$1#$b#Muito feio!$1"
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "classic",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Sempre é bom ver os clássicos!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hm..."
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Realmente passou uma vibe antiga!$1"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "comedy",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse filme com certeza vai ser bom!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Classica, classica!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Foi bom demais, me chama mais vezes pra assistir!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "sci-fi",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Parece ser bacaninha.#$b#Vamos indo?"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Quê?$6"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Cara, não entendi nada, mas foi bom!$1"
+							}
+							},
+							"ID": "reaction_3"
+						},
+					]
+				},
+	
+				"Ronaldo": 
+				{
+					"NPCName": "Ronaldo",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não curto filmes de terror...$2"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Oxe, como isso é possível?!"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Achei meio desnecessário algumas coisas desse filme.$2"
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "documentary",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse documentário é sobre o que mesmo?"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Nossa... não sabia disso!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esse documentário foi interessante, espero ver mais desses!$1"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "comedy",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Espero dar umas boas risadas!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Hahahaha!$1#$b#Esse aí é foda!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Ri muito mano, valeu a pena!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "classic",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Não sou um fã de clássicos, mas vamos ver né..."
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Ué...$2"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Realmente, não gosto muito de clássicos.$2"
+							}
+							},
+							"ID": "reaction_3"
+						},
+					]
+				},
+	
+				"Seba": 
+				{
+					"NPCName": "Seba",
+					"Reactions": 
+					[
+						{
+							"Tag": "horror",
+							"Response": "dislike",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Acho filmes de terror legais, espero gostar desse."
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Ué, isso era pra ser um susto?"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Achei fraco esse filme, meio decepcionante...$2"
+							}
+							},
+							"ID": "reaction_0"
+						},
+						{
+							"Tag": "sci-fi",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Será que vai ter naves espaciais nesse filme?"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Esses efeitos tão melhores que meus mangas!$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Que filme bom cara!$1#$b#Vamos assistir denovo outro dia, ok?"
+							}
+							},
+							"ID": "reaction_1"
+						},
+						{
+							"Tag": "action",
+							"Response": "love",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Quero ver esses efeitos especiais, coreografia e história!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Eita, isso é possível?!"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Que incrível, esse filme está na minha lista!$1"
+							}
+							},
+							"ID": "reaction_2"
+						},
+						{
+							"Tag": "classic",
+							"Response": "like",
+							"Whitelist": [],
+							"SpecialResponses": 
+							{
+							"BeforeMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Espero gostar desse filme!$1"
+							},
+							"DuringMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Ah, que fofo.$1"
+							},
+							"AfterMovie": 
+							{
+								"ResponsePoint": null,
+								"Script": "",
+								"Text": "Foi legalzinho!$1"
+							}
+							},
+							"ID": "reaction_3"
+						},
+					]
+				}
+			}
+		 },
+	]
+}

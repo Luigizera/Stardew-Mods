@@ -1,0 +1,21 @@
+{
+	"Changes": 
+	[
+
+		{
+			//Gift Tastes
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": 
+			{
+				"Guilherme": "Ah, pra mim?! Obrigado!/60 66 72 104 128 130 223 233 336 346 348 395/Isso é incrivel! Valeu!/80 82 195 201 206 210 211 217 220 221 224 241 421/MEEeeu amigo!/16 20 24 188 190 196 205 209 225 234 242 266 396 398 399 406 414 418 613 635/Isso era pra ser um presente?!/86 273 378 380 382 384 386 388 390 393/Um presente? Tamo junto!/591 593 595 597/",
+				"Gustavo": "Meu deus! Isso é incrível!/74 108 194 195 206 210 211 220 221 233 237 241 350 395 436 463 464 908/Haha, que fofo!/18 22 115 216 217 223 224 233 591 593 595 597/Oxe?!/90 93 110 111 112 167 168 169 170 171 172/Cadê o Vitão pra dar ban?/86 378 380 382 384 386 388 390/Valeu pelo presente!/16 18 20 22 421/",
+				"Luigi": "Nossa isso é demais! Obrigado!/60 72 74 82 104 124 166 220 287 288 337 910 928/Como você sabia?!/64 66 216 217 223 224 227 228 233 241 336 350 395 768 769 787/Paia.../167 346 348/...?//Valeu pelo presente./18 22/",
+				"Mateus": "Nem ferrando! Como você sabia?!/60 64 72 126 127 166 194 195 196 201 206 207 210 213 216 217 220 221 223 800/Obrigado!/108 113 167 184 286 287 288 395 635/MEEEEEE!/93 110 111 112 168 169 170 171 172/Olha esse cara, que crime!/80 82 84 86 247 378 380 382 384 386 388 390 393/Não sei pra que eu vou usar isso, mas já vai passando!/16 18 20 22 421/",
+				"Ronaldo": "Nossa mano! Isso é incrível valeu!/60 66 72 74 107 125 166 206 221 303 346 348 903/Obrigadão mano!/64 82 88 213 216 217 223 224 233 241 336 395 444/Ah não.../343 392 393 419/Pra que isso cara?/118 432 723 724 725 726 766/Valeu pelo presente./119 121 122/",
+				"Seba": "Wow, tem certeza?!/60 72 74 107 166 220 221 303 346 348 350/Obrigado!/88 96 97 98 99 104 106/Não faz o meu estilo.../18 66 82 789/Só... não./16 309 310 311 388 709 734/Obrigado pelo presente./119 121 122/"
+			}
+		}
+
+	]
+}

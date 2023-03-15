@@ -1,0 +1,151 @@
+{
+	"Changes": 
+	[
+		//Festival Dialogues
+		{
+			//Egg Festival Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/spring13",
+			"Entries": 
+			{
+			    "Guilherme": "Sem o treino necessário, eles não vão ser tão rápidos na caça aos ovos.",
+			    "Guilherme_spouse": "Hmpf... com nosso treinamento ninja, você está imbatível nessa caça aos ovos!$1#$e#Enfim, vai querer um omelete?$1[195]#$b#O Gus fez uma comida incrível.$1",
+				"Gustavo": "Esse festival tá incrível!$1#$b#Comida boa e chocolate, que dia!$1",
+			    "Gustavo_spouse": "Ei amor, boa sorte na caçada aos ovos!$1#$b#O que eu tô falando? Sei que não precisa de sorte!$1#$e#Ei, isso é pra você![174]#$b#O Gus fez um ovo enorme!$1",
+				"Luigi": "Você viu aquele coelho rosa gigante na lojinha?!$1#$b#Cara, eu queria ter um desses.",
+			    "Luigi_spouse": "Ei amor, achei isso nas minas!$1[107]#$b#Eu não sabia o que fazer com esse ovo então trouxe pro festival pra esconder...#$b#Mas o prefeito falou que não da pra esconder esse ovo direito...$2",
+				"Mateus": "Consegui pegar escondido alguns ovos escondido!$1#$e#Não questione as habilidades de um mestre.$8",
+            	"Mateus_spouse": "Ei amor, vai querer um ovinho frito?$1#$b#Consegui pegar alguns escondido, esse é pra você!$4[194]",
+				"Ronaldo": "Hmm... esse ponche tem um gosto bom!$1",
+				"Seba": "Tô bem tranquilinho, e você?"
+
+			}
+		},
+		{
+			//Flower Dance Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/spring24",
+			"Entries": 
+			{
+				"Guilherme": "Já dancei algumas vezes...$1#$b#Não, não sou bom.",
+				"Guilherme_spouse": "Meu treinamento deve ter aprimorado minha habilidade de dança...#$b#O que acha de testarmos?$4",
+				"Gustavo": "Eae, vai dançar hoje?$1#$b#Não, não é um convite.",
+				"Gustavo_spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
+				"Luigi": "Já escolheu o seu par pra dança?$1",
+				"Luigi_spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
+				"Mateus": "Ah cara, eu não sou muito bom em dançar...$7",
+            	"Mateus_spouse": "Ei, não sou muito bom em dança...#$b#Mas, se for com você, eu daria um arraso!$4",
+				"Ronaldo": "Ah, queria que a Ruivinha estivesse aqui pra eu dançar...$2",
+				"Seba": "Só vou aproveitar o show."
+			}
+		},
+		{
+			//Luau Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/summer11",
+			"Entries": 
+			{
+				"Guilherme": "As comidas do festival estavam ótimas!$1",
+				"Guilherme_spouse": "Amor, você devia comer!$1#$e#Gus nunca decepciona nas comidas.",
+				"Gustavo": "Que medo de tomar aquele sopão!#$b#Não vou mentir quero experimentar!$1",
+				"Gustavo_spouse": "Amor, vamos experimentar aquele sopão, parece incrível!$1",
+				"Luigi": "Ah... e se o plano der errado, o que eu faço depois?#$b#%Luigi parece estar confuso sobre algo.",
+				"Luigi_spouse": "Amor, fala pro Mateus que o plano não vai dar certo!#$b#Ele quer ir na lojinha do Pierre pegar uma carambola escondido.",
+				"Mateus": "%Mateus está devorando os lanches.",
+            	"Mateus_spouse": "Ei, quer um pedaço amor?#$e#%Mateus está devorando os lanches.",
+				"Ronaldo": "O pessoal ta dançando bem!$1#$e#Hã? eu não vou não.",
+				"Seba": "Quero ver quem vai ser o corajoso que vai experimentar aquele sopão.$1"
+			}
+		},
+		{
+			//Moonlight Jellies Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/summer28",
+			"Entries": 
+			{
+				"Guilherme": "A praia tá muito bonita hoje!$1",
+				"Guilherme_spouse": "Não é só a praia que está bonita hoje...$4",
+				"Gustavo": "Essa brisa é bem refrescante.",
+				"Gustavo_spouse": "A brisa do mar é bem refrescante, escrevo essa rima pensando nos seus olhos brilhantes.$4",
+				"Luigi": "Ah... queria que viesse algum monstro marinho pra batalhar comigo...$2",
+				"Luigi_spouse": "Já pensou se viesse um monstro marinho por aqui amor?#$b#Seria uma batalha épica!$1",
+				"Mateus": "Hmm... o que comprar hoje?",
+            	"Mateus_spouse": "Hmm... o que comprar hoje?#$e#Quer alguma coisa amor?#$b#É na conta do Guilherme não se preocupe.$1",
+				"Ronaldo": "Ei, da pra ver o Luigi daqui!$1",
+				"Seba": "Ah, meu deus Mateus!"
+			}
+		},
+		{
+			//Stardew Valley Fair Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/fall16",
+			"Entries": 
+			{
+				"Guilherme": "Acabei de ver meu futuro e...#$b#Acho que vamos falir se o Mateus não parar de comprar coisas escondido.$5",
+				"Guilherme_spouse": "Eu vi meu futuro e...#$e#... fica por isso mesmo!$4",
+				"Gustavo": "Acho que estou fazendo algo errado...$2#$b#A máquina de força sempre fica toda vermelha, eu tô perdendo?$2",
+				"Gustavo_spouse": "Finalmente descobri, quando a barrinha da máquina fica vermelha significa que eu venci!$1",
+				"Luigi": "Wow, essas armas são de qualidade!$1#$b#Acho que vou comprar uma barra de ouro, preciso aprimorar minha espada.",
+				"Luigi_spouse": "Ei amor, comprei uma barra de ouro pra você!$1[336]#$b#Vou comprar mais algumas pra aprimorar minha espada.",
+				"Mateus": "Já terminei de comprar as coisas da lojinha.$1#$b#A dificuldade daqueles jogos eram coisa de criança.$8",
+            	"Mateus_spouse": "Aqui, pra você amor.[241]#$e#Esses hamburgers são incríveis, eles tão dando de graça lá em cima!$1",
+				"Ronaldo": "Ei, pega um lanchão!$1#$b#Aproveita que ta de graça.",
+				"Seba": "Cara, só faltou colocar um sapato nessa galinha que ficaria perfeito!$1"
+			}
+		},
+		{
+			//Spirit's Eve Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/fall27",
+			"Entries": 
+			{
+				"Guilherme": "Wow, olha esses esqueletos!$8",
+				"Guilherme_spouse": "Você já lutou contra um desses esqueletos?$8#$b#Eles são muito grandes de perto!$8",
+				"Gustavo": "Alô, tem alguém em casa?#$b#%Gustavo está encarando a janela.",
+				"Gustavo_spouse": "Se ninguém na casa vai me responder, a força bruta vou recorrer.#$b#%Gustavo está encarando a janela.",
+				"Luigi": "Minhas habilidades de aventureiro nunca falham, chegar aqui foi moleza.$1",
+				"Luigi_spouse": "Sabia que ia chegar aqui amor, não foi tão difícil né?$1",
+				"Mateus": "Não vou ir mais pra frente, esse é meu limite...",
+            	"Mateus_spouse": "Bom, você já sabe...#$b#Não vou dar mais nem 1 passo.",
+				"Ronaldo": "Eu não vou ali não...#$e#Talvez eu vá...#$b#Mas não agora.",
+				"Seba": "Foi muito fácil chegar aqui, sem meme."
+			}
+		},
+		{
+			//Festival of Ice Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/winter8",
+			"Entries": 
+			{
+				"Guilherme": "Acho que vou entrar nesse iglu.#$b#Parece aconchegante!$1",
+				"Guilherme_spouse": "Amor, vamos entrar nesse iglu?#$b#Parece aconchegante!$1",
+				"Gustavo": "Que porquinho fofo!$1",
+				"Gustavo_spouse": "Ei, podemos comprar um porquinho e vesitir ele assim?!$1",
+				"Luigi": "Os bonecos de neve ficaram estilosos!$1#$b#Acho que vou fazer um também.",
+				"Luigi_spouse": "Amor, vamos fazer um boneco de neve também?$1#$b#Vamos, vai ser divertido.$1",
+				"Mateus": "Haha, aquela escultura ficou muito boa!$1",
+            	"Mateus_spouse": "Amor, o que achou daquela escultura?#$b#Muito boa né?$1",
+				"Ronaldo": "Já pensou se alguem cair nessa água gelada?$1#$e#Por que você ta me olhando assim?",
+				"Seba": "Pra onde foi toda a madeira?!$2#$b#Pelo menos agora eu tenho uma desculpa.$1"
+			}
+		},
+		{
+			//Christmas Dialogue
+			"Action": "EditData",
+			"Target": "data/festivals/winter25",
+			"Entries": 
+			{
+				"Guilherme": "M- ajwudwa-$7#$b#Nã- cownsiguo-$7#$b#%A lingua de Guilherme parece estar presa.",
+				"Guilherme_spouse": "M- ajwudwa-$7#$b#Amwor- nãu- cownsiguo-$7#$b#%A lingua de Guilherme parece estar presa.",
+				"Gustavo": "GUILHERME-SENSEI!$2#$b#EU VOU TE AJUDAR NÃO SE PREOCUPA!$2",
+				"Gustavo_spouse": "GUILHERME-SENSEI!$2#$b#@ ME AJUDA A LINGUA DELE TA PRESA!$2",
+				"Luigi": "Estou de olho pra ver se o Mateus não compra nada a mais.",
+				"Luigi_spouse": "Não posso sair daqui ainda amor, preciso ver se o Mateus não vai comprar nada a mais!$1",
+				"Mateus": "Quase esqueço de comprar o presente!$2",
+            	"Mateus_spouse": "Já sabe o que vai dar pro seu amigo secreto amor?#$b#Eu ainda tô meio indeciso, mas acho que essa pessoa vai gostar.$1",
+				"Ronaldo": "Meu deus Guilherme, você é muito pão cara!$5",
+				"Seba": "Esse frangão ta com uma cara boa!$1"
+			}
+		},
+	]
+}

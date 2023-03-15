@@ -1,0 +1,43 @@
+{
+	"Changes": 
+	[
+		//Dialogues
+		{
+			"Action": "Load",
+			"Target": "Characters/Dialogue/Guilherme, Characters/Dialogue/Gustavo, Characters/Dialogue/Luigi, Characters/Dialogue/Mateus, Characters/Dialogue/Ronaldo, Characters/Dialogue/Seba",
+			"FromFile": "assets/CharactersFiles/Dialogues/{{TargetWithoutPath}}/Dialogue.json"
+		},
+   
+		//Married Dialogues
+		{
+			//Married Dialogue Guilherme
+			"Action": "Load",
+			"Target": "Characters/Dialogue/MarriageDialogueGuilherme",
+			"FromFile": "assets/CharactersFiles/Dialogues/Guilherme/MarriageDialogue.json"
+		},
+
+   
+		{
+			//Married Dialogue Gustavo
+			"Action": "Load",
+			"Target": "Characters/Dialogue/MarriageDialogueGustavo",
+			"FromFile": "assets/CharactersFiles/Dialogues/Gustavo/MarriageDialogue.json"
+		},
+
+   
+		{
+			//Married Dialogue Luigi
+			"Action": "Load",
+			"Target": "Characters/Dialogue/MarriageDialogueLuigi",
+			"FromFile": "assets/CharactersFiles/Dialogues/Luigi/MarriageDialogue.json"
+		},
+
+   
+		{
+			//Married Dialogue Mateus
+			"Action": "Load",
+			"Target": "Characters/Dialogue/MarriageDialogueMateus",
+			"FromFile": "assets/CharactersFiles/Dialogues/Mateus/MarriageDialogue.json"
+		},
+	]
+}

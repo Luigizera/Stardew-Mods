@@ -1,0 +1,59 @@
+{
+	"Changes": 
+	[
+		//Portraits Estações
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
+			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		//Portraits Estações Nevando
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/Ronaldo",
+			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_{{season}}_{{weather}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "winter",
+				"Weather": "snow"
+			}
+		},
+
+		//Portraits Halloween
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
+			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		//Portraits Evento Cosplay
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
+			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+	]
+}

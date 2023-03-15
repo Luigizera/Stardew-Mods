@@ -1,0 +1,35 @@
+{
+	"Changes": 
+	[
+		//Schedules
+		{
+			"Action": "Load",
+			"Target": "Characters/schedules/Guilherme, Characters/schedules/Gustavo, Characters/schedules/Mateus, Characters/schedules/Seba",
+			"FromFile": "assets/CharactersFiles/Schedules/{{TargetWithoutPath}}/Schedule.json"
+		},
+
+		{
+			//Schedule Luigi/Ronaldo
+			"Action": "Load",
+			"Target": "Characters/schedules/Luigi, Characters/schedules/Ronaldo",
+			"When": { "HasFlag": "landslideDone" },
+			"FromFile": "assets/CharactersFiles/Schedules/{{TargetWithoutPath}}/Schedule.json"
+		},
+
+		{
+			//Fake Schedule Luigi/Ronaldo
+			"Action": "Load",
+			"Target": "Characters/schedules/Luigi, Characters/schedules/Ronaldo",
+			"When": { "HasFlag |contains=landslideDone": false },
+			"FromFile": "assets/CharactersFiles/Schedules/{{TargetWithoutPath}}/FakeSchedule.json"
+		},
+   
+		//Schedule Dialogue
+		{
+			
+			"Action": "Load",
+			"Target": "Strings/schedules/Guilherme, Strings/schedules/Gustavo, Strings/schedules/Luigi, Strings/schedules/Mateus, Strings/schedules/Ronaldo, Strings/schedules/Seba",
+			"FromFile": "assets/CharactersFiles/Schedules/{{TargetWithoutPath}}/ScheduleDialogue.json"
+		},
+	]
+}

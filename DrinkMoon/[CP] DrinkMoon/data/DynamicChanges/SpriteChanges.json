@@ -1,0 +1,58 @@
+{
+	"Changes": 
+	[
+		//Sprites Estações
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Guilherme, Characters/Gustavo, Characters/Luigi, Characters/Mateus, Characters/Ronaldo, Characters/Seba",
+			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		//Sprites Halloween
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Guilherme, Characters/Gustavo, Characters/Luigi, Characters/Mateus, Characters/Ronaldo, Characters/Seba",
+			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+				"LocationName": "Temp", 
+				"DayEvent": "spirit's eve", 
+				"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		//Sprites Evento Cosplay
+		{
+			"Action": "EditImage",
+			"Target": "Characters/Guilherme, Characters/Gustavo, Characters/Luigi, Characters/Mateus, Characters/Ronaldo, Characters/Seba",
+			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+		
+		//Sprites Evento RPG
+		{
+			//Sprite Guilherme Evento RPG
+			"Action": "EditImage",
+			"Target": "Characters/Guilherme, Characters/Luigi, Characters/Mateus, Characters/Ronaldo",
+			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithouPath}}/{{TargetWithouPath}}_RPG.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
+			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+	]
+}

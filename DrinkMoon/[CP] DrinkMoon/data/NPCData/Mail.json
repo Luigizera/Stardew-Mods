@@ -1,0 +1,33 @@
+{
+	"Changes": 
+	[
+		//Mail
+		{
+			"Action": "EditData",
+			"Target": "Data/Mail",
+			"Entries": 
+			{
+			   "MateusDerrota": "Olá @,^^Nossa jogatina foi muito boa, queria te agradecer por jogar com a gente, vamos tentar o nosso melhor da proxima vez, ok?^^ -Mateus %item object 217 1%%[#]Derrota contra Mateus",
+			   "MateusVitoria": "Olá @,^^Fiquei impressionado com a sua habilidade de conseguir me derrotar, foram poucas as pessoas que conseguiram fazer isso, então como recompensa fique com isso, você merece.^^ -Mateus %item object 206 1%%[#]Vitória contra Mateus",
+			   "MateusSegredo": "Olá @,^^Seguinte, só estou mandando essa carta para você se lembrar de manter segredo, em breve vou realizar o meu evento dos chapéus e preciso que você não saia espalhando por aí sobre ele.^^ -Mateus[#]Segredo dos Chapéus",
+			   "MateusChapeus": "Olá @,^^Foi mal por te puxar para aquele arbusto, eu tinha ficado em choque com a situação, achei que eles estavam te perseguindo também... enfim, esquece.^^ -Mateus %item object 815 1%%[#]Evento dos Chapéus",
+			   "GuilhermeReembolso": "Ei colega,^^Foi uma boa idéia pegar o reembolso, o melhor de tudo é que o Mateus não foi muito longe dessa vez, valeu pela ajuda!^^ -Guilherme %item object 400 6%%[#]Reembolso Necessário",
+			   "GuilhermeNinjutsu": "Ei @,^^Esse treinamento de Jutsus foi divertido, infelizmente não conseguimos nenhum resultado ainda... mas a esperança é a última que morre!^Enfim, vejo você em outro dia de treinamento!^^ -Sensei Guilherme %item object 115 1%%[#]Treinando Ninjutsu",
+			   "GuilhermeTaijutsu": "Ei @,^^Foi engraçado ficar vendo você e o Gustavo tentando fazer flexões, os dois tem braços mundo finos pra fazer isso!^Enfim, vejo você em outro dia de treinamento!^^ -Sensei Guilherme %item object 115 1%%[#]Treinando Taijutsu",
+			   "GuilhermeFeliz": "Ei @,^^Valeu por me dar determinação, estava meio pra baixo últimamente por não conseguir resultados, mas finalmente eu entendi, vou continuar treinando duro pra conseguir usar um Ninjutsu!^^ -Guilherme %item object 99 1%%[#]Momento de Dúvida",
+			   "GuilhermeTronco": "Ei @,^^Agora que eu consegui dominar a arte do Ninjutsu, vou focar em aprimora-la ao máximo!^Obrigado @, você foi uma pessoa muito importante para o meu desenvolvimento ninja.^^ -Com amor, Guilherme %item object 446 1%%[#]Transformação Ninja",
+			   "GustavoRimas": "Salve @,^^A nossa batalha de rimas foi empolgante! O que acha de fazermos mais vezes?! Seria muito divertido!^^ -Gustavo[#]Batalha de Rimas",
+			   "GustavoBoneco": "Salve @,^^O boneco é perfeito, estou me preparando para mover ele pra floresta (não sei o porquê, mas ele é muito pesado), não quero quebrar nada da cidade sem querer sabe?^Deixei algumas madeiras pra você que sobraram do boneco, espero que seja útil, te vejo por aí!^^ -Gustavo %item object 709 20%%[#]Contruindo Boneco de Treino",
+			   "GustavoPunhos": "Salve @,^^Ah!^Que incrível!^Que épico!^Finalmente!^^Dominar o Punhos Supremos do Gustas vou um trabalho difícil pra caramba, eu com certeza quero usar ele denovo, mas... o Sensei não parece muito confiante com minha habilidade atual, então... Hora de aperfeiçoar!^^ -Gustavo %item object 773 1%%[#]Punhos Supremos do Gustas",
+			   "GustavoBatalha": "Salve @,^^No final o poder da amizade sempre prevalece, vamos comemorar!^^ -Gustavo %item object 350 1%%[#]Batalha contra Boneco de Treino",
+			   "LuigiAutoD": "Oi @,^^Foi mal, eu estava muito concentrado no projetinho, sabe como é, não posso parar até estar perfeito, hora de continuar produzindo!^^ -Luigi %item object 395 1%%[#]Luigi Introdução",
+			   "LuigiMinas": "Oi @,^^Nossa exploração na mina foi perfeita, em breve terei a quantidade de pedras necessárias pra começar a por a mão na massa com o projetinho!^^ -Luigi[#]Procurando Pedras",
+			   "LuigiEncontro": "Oi @,^^Relaxa, o raio não foi tão forte quanto o esperado, estou bem. ^Além disso, obrigado, você foi muito importante pra eu conseguir seguir com o projetinho, estarei focado como sempre!^^ -Luigi %item object 201 1%%[#]Encontro com Luigi",
+			   "LuigiCosplay": "Oii @!^^Esse evento foi muito divertido!^Passei dias planejando ele e coletando os recursos necessários, espero que você também tenha gostado, foi uma grande experiência pra alguém como eu!^^ -Luigi %item object 74 1%%[#]Evento de Cosplay",
+			   "RonaldoMinas": "Opa @,^^Não consegui te falar nosso dia a dia nas minas, mas é basicamente:^-Entrar na mina^-Pegar pedra^-Correr^É isso.^^ -Ronaldo %item object 2 100%%[#]Ronaldo Introdução",
+			   "RonaldoCelular": "Opa @,^^Por sorte a Ruivinha só ouviu o final... pera, isso era pra ser sorte? Não sei, mas vamos fingir que sim.^Hora de comemorar!^^ -Ronaldo %item object 303 1%%[#]Saudades Dela",
+			   "SebaAnime": "Bom dia @,^^Seguinte, eu tinha te convidado pra minha sessão de RPG, mas... preciso confiar que você é uma pessoa boa, porque já tive muitas pessoas saindo do meu RPG no meio, e isso não é legal, então até lá... vamos ser amigos ok?^^ -Seba %item object 18 1%%[#]Convite do Seba",
+			}
+		},
+	]
+}

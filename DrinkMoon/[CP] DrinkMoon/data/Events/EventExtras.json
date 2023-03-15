@@ -1,0 +1,96 @@
+{
+	"Changes": 
+	[
+		// Eventos Sprites/Portraits
+		{
+			//Sprite BonecoTreino
+			"Action": "Load",
+			"Target": "Characters/BonecoTreino",
+			"FromFile": "assets/CharactersFiles/EventFiles/BonecoTreino.png"
+		},
+   
+		{
+			//Sprite HealthBarBoss
+			"Action": "Load",
+			"Target": "Characters/HealthBarBoss",
+			"FromFile": "assets/CharactersFiles/EventFiles/HealthBar.png"
+		},
+   
+		{
+			//Sprite HealthBarGustavo
+			"Action": "Load",
+			"Target": "Characters/HealthBarGustavo",
+			"FromFile": "assets/CharactersFiles/EventFiles/HealthBar.png"
+		},
+   
+		{
+			//Sprite HealthBarPlayer
+			"Action": "Load",
+			"Target": "Characters/HealthBarPlayer",
+			"FromFile": "assets/CharactersFiles/EventFiles/HealthBar.png"
+		},
+   
+		{
+			//Sprite Pilar
+			"Action": "Load",
+			"Target": "Characters/Pilar",
+			"FromFile": "assets/CharactersFiles/EventFiles/Pilar.png"
+		},
+		 
+		{
+			//Sprite LanternLights
+			"Action": "Load",
+			"Target": "Characters/LanternLights",
+			"FromFile": "assets/CharactersFiles/EventFiles/LanternLights.png"
+		},
+   
+		{
+			//Sprite Purple
+			"Action": "Load",
+			"Target": "Characters/Purple",
+			"FromFile": "assets/CharactersFiles/EventFiles/Purple.png"
+		},
+   
+		{
+			//Sprite CosplayEvent
+			"Action": "Load",
+			"Target": "Characters/CosplayEvent",
+			"FromFile": "assets/CharactersFiles/EventFiles/CosplayEvent.png"
+		},
+   
+		{
+			//Sprite RpgSlime
+			"Action": "Load",
+			"Target": "Characters/RpgSlime",
+			"FromFile": "assets/CharactersFiles/EventFiles/Rpg_Slime.png"
+		},
+   
+		{
+			//Sprite AngryRoger
+			"Action": "Load",
+			"Target": "Characters/AngryRoger",
+			"FromFile": "assets/CharactersFiles/EventFiles/AngryRoger.png"
+		},
+   
+		{
+			//Sprite gusTexto
+			"Action": "Load",
+			"Target": "Characters/gusTexto",
+			"FromFile": "assets/CharactersFiles/EventFiles/gusTexto.png"
+		},
+   
+		{
+			//Sprite Vitao
+			"Action": "Load",
+			"Target": "Characters/Vitao",
+			"FromFile": "assets/CharactersFiles/Sprites/Vitao/Vitao.png"
+		},
+
+		{
+			//Portrait Vitao
+			"Action": "Load",
+			"Target": "Portraits/Vitao",
+			"FromFile": "assets/CharactersFiles/Portraits/Vitao/Vitao.png"
+		},
+	]
+}
