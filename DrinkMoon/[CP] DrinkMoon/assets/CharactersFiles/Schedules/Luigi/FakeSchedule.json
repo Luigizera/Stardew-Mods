@@ -2,7 +2,7 @@
     // FAKE SCHEDULE
 
     //6:00~9:30 acorda e vai pra montanha programar, 13:00 vai olhar as pedras no caminho da mina, 15:00 vai olhar o centro comunitário, 17:00 Vai olhar o boletim, 18:00 vai ficar andando em volta de uma árvore, 23:00 vai programar no ônibus
-    "Mon": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+    "spring": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
     "Tue": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"",
     "Wed": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
     "Thu": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"",
@@ -11,5 +11,5 @@
     "Sun": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
 
     // Chuva
-    "rain": "610 Saloon 36 8 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/1330 Saloon 29 22 2/1500 Saloon 38 18 0/1600 Saloon 33 9 0/1700 Saloon 36 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/2200 Saloon 36 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\""
+    "rain": "610 Custom_DMBarraca 12 12 luigi_dormindo/900 Custom_DMBarraca 12 10 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2200 Custom_DMBarraca 12 12 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\""
 }
