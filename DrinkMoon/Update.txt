@@ -1,0 +1,59 @@
+DrinkMoon Update 1.2.0
+- Ajustes 
+	- Melhoria geral no código, baseado em: https://github.com/Rafseazz/Ridgeside-Village-Mod
+	- Melhoria nos Mapas
+	- Correções nos Sprites
+	- Correções nos Portraits
+	- Ajuste no evento do Cinema
+	- NPCs realocados para "DMBarraca"
+	- Realocação de rotina dos NPCs
+
+- Updates 
+	- Novo mapa adicionado: "DMBarraca"			(01/03/2023)
+	- Rework no Cabelo Luigi				(14/03/2023)
+	- Espírito de Primavera:				(26/02/2023 - 26/02/2023)
+		- Sprite de Primavera para Ronaldo 		(26/02/2023)
+		- Portrait de Primavera para Ronaldo 		(26/02/2023)
+	- Memórias de Verão:					(24/02/2023 - 07/03/2023)
+		- Sprite de Verão para Guilherme 		(26/02/2023)
+		- Portrait de Verão para Guilherme 		(26/02/2023)
+		- Sprite de Verão para Gustavo 			(24/02/2023)
+		- Portrait de Verão para Gustavo 		(24/02/2023)
+		- Sprite de Verão para Luigi 			(25/02/2023)
+		- Portrait de Verão para Luigi 			(25/02/2023)
+		- Sprite de Verão para Mateus 			(02/03/2023)
+		- Portrait de Verão para Mateus 		(02/03/2023)
+		- Sprite de Verão para Ronaldo 			(26/02/2023)
+		- Portrait de Verão para Ronaldo 		(26/02/2023)
+		- Sprite de Verão para Seba			(07/03/2023)
+		- Portrait de Verão para Seba			(07/03/2023)
+	- Recordações de Outono:				(24/02/2023 - 14/03/2023)
+		- Sprite de Outono para Guilherme 		(26/02/2023)
+		- Portrait de Outono para Guilherme 		(26/02/2023)
+		- Sprite de Outono para Gustavo 		(24/02/2023)
+		- Portrait de Outono para Gustavo 		(24/02/2023)
+		- Sprite de Outono para Luigi 			(25/02/2023)
+		- Portrait de Outono para Luigi 		(25/02/2023)
+		- Sprite de Outono para Mateus			(14/03/2023)
+		- Portrait de Outono para Mateus		(14/03/2023)
+		- Sprite Original realocado para Outono de Ronaldo
+		- Portrait Original realocado para Outono de Ronaldo
+		- Sprite de Outono para Seba			(05/03/2023)
+		- Portrait de Outono para Seba			(05/03/2023)
+	- Lembrança de Inverno:					(24/02/2023 - 14/03/2023)
+		- Sprite de Inverno para Guilherme 		(26/02/2023)
+		- Portrait de Inverno para Guilherme 		(26/02/2023)
+		- Sprite de Inverno para Gustavo 		(24/02/2023)
+		- Portrait de Inverno para Gustavo 		(24/02/2023)
+		- Sprite de Inverno para Luigi 			(25/02/2023)
+		- Portrait de Inverno para Luigi 		(25/02/2023)
+		- Sprite de Inverno para Mateus			(14/03/2023)
+		- Portrait de Inverno para Mateus		(13/03/2023)
+		- Sprite de Inverno para Ronaldo 		(25/02/2023)
+		- Portrait de Inverno para Ronaldo 		(25/02/2023)
+		- Portrait de Inverno Nevando para Ronaldo 	(05/03/2023)
+		- Sprite de Inverno para Seba			(05/03/2023)
+		- Portrait de Inverno para Seba			(05/03/2023)
+
+
+Observações: Infelizmente se houver algum mapa com a versão anterior, os NPCs serão duplicados ao aplicar o update. O principal motivo é a alteração da "NPCDispositions" onde se encontra o Spawn padrão dos NPCs.
