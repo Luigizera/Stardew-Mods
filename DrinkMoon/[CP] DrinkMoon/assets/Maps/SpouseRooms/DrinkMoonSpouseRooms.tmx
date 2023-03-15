@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="24" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="24">
+ <tileset firstgid="1" name="paths" tilewidth="16" tileheight="16" tilecount="36" columns="4">
+  <image source="paths.png" width="64" height="144"/>
+ </tileset>
+ <tileset firstgid="37" name="townInterior" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
+  <image source="townInterior.png" width="512" height="1088"/>
+ </tileset>
+ <layer id="2" name="Back" width="24" height="10">
+  <data encoding="csv">
+259,259,259,259,259,259,337,337,339,337,337,339,2196,2196,2196,2196,2196,2196,305,306,307,305,306,307,
+259,259,259,259,259,259,337,337,339,337,337,339,2196,2196,2196,2196,2196,2196,305,306,307,305,306,307,
+143,143,143,143,143,143,149,149,149,149,149,149,143,143,143,143,143,143,149,149,149,149,149,149,
+236,237,236,237,236,237,1341,1341,1341,1341,1341,1341,236,236,236,236,236,236,643,643,643,643,643,643,
+268,269,268,269,268,269,1341,1336,1337,1338,1339,1341,268,268,288,289,290,268,643,643,643,643,643,643,
+300,268,285,286,287,301,1341,1368,1369,1370,1371,1341,268,268,320,321,322,268,643,643,643,643,643,643,
+268,268,317,318,319,269,1341,1400,1401,1402,1403,1341,268,268,352,353,354,268,643,643,643,643,643,643,
+300,301,300,301,300,301,1341,1341,1341,1341,1341,1341,268,268,268,268,268,268,643,643,1341,643,643,643,
+268,269,268,269,268,269,1341,1341,1341,1341,1341,1341,268,268,268,268,268,268,643,643,643,643,643,643,
+300,301,300,301,300,301,1341,1341,1341,1341,1341,1341,268,268,268,268,268,268,643,643,643,643,643,643
+</data>
+ </layer>
+ <layer id="3" name="Buildings" width="24" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+111,111,111,111,111,111,117,117,117,117,117,117,111,111,111,111,111,111,117,117,117,117,117,117,
+714,715,143,143,143,143,149,149,149,149,716,717,523,524,143,143,716,717,714,715,143,143,143,143,
+746,747,1425,620,852,1554,418,419,2127,2127,748,749,555,556,1305,1407,748,749,746,747,1479,1480,1513,1514,
+816,0,0,0,0,0,0,852,0,0,1216,0,0,0,0,0,528,0,816,0,0,0,0,870,
+0,0,596,597,598,371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,871,
+0,0,0,0,0,0,0,892,893,0,0,351,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,541,542,543,0,1216,924,925,1216,0,1351,254,0,1066,692,693,694,0,654,1178,0,0,0,
+2128,2128,573,574,575,2128,0,0,0,0,0,0,468,0,0,724,725,726,0,0,0,0,2184,532,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="Buildings">
+  <object id="1" name="TileData" x="48" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="2" name="TileData" x="64" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.2&quot;"/>
+   </properties>
+  </object>
+  <object id="3" name="TileData" x="32" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.3&quot;"/>
+   </properties>
+  </object>
+  <object id="4" name="TileData" x="16" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.4&quot;"/>
+   </properties>
+  </object>
+  <object id="5" name="TileData" x="48" y="96" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GuilhermeRoom.5&quot;"/>
+   </properties>
+  </object>
+  <object id="6" name="TileData" x="144" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="7" name="TileData" x="128" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="8" name="TileData" x="112" y="64" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.2&quot;"/>
+   </properties>
+  </object>
+  <object id="9" name="TileData" x="96" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.3&quot;"/>
+   </properties>
+  </object>
+  <object id="10" name="TileData" x="112" y="96" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.4&quot;"/>
+   </properties>
+  </object>
+  <object id="11" name="TileData" x="128" y="96" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;GustavoRoom.4&quot;"/>
+   </properties>
+  </object>
+  <object id="12" name="TileData" x="240" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;LuigiRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="13" name="TileData" x="224" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;LuigiRoom.2&quot;"/>
+   </properties>
+  </object>
+  <object id="14" name="TileData" x="208" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;LuigiRoom.3&quot;"/>
+   </properties>
+  </object>
+  <object id="15" name="TileData" x="192" y="128" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;LuigiRoom.4&quot;"/>
+   </properties>
+  </object>
+  <object id="16" name="TileData" x="272" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;LuigiRoom.5&quot;"/>
+   </properties>
+  </object>
+  <object id="17" name="TileData" x="320" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Arcade_Prairie"/>
+   </properties>
+  </object>
+  <object id="18" name="TileData" x="336" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Arcade_Minecart"/>
+   </properties>
+  </object>
+  <object id="19" name="TileData" x="352" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="ColaMachine"/>
+   </properties>
+  </object>
+  <object id="20" name="TileData" x="368" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="ColaMachine"/>
+   </properties>
+  </object>
+  <object id="21" name="TileData" x="304" y="112" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;MateusRoom.2&quot;"/>
+   </properties>
+  </object>
+  <object id="22" name="TileData" x="320" y="112" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;MateusRoom.1&quot;"/>
+   </properties>
+  </object>
+  <object id="23" name="TileData" x="304" y="48" width="16" height="16">
+   <properties>
+    <property name="Action" value="Message &quot;MateusRoom.3&quot;"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer id="6" name="Front" width="24" height="10">
+  <data encoding="csv">
+1070,1071,1166,1167,0,0,189,190,1424,1424,961,961,1366,1367,1243,439,1254,1255,439,378,441,1415,1416,1417,
+1286,1287,0,0,0,0,221,222,222,0,0,0,1398,1399,1145,1243,1286,1287,345,411,376,345,1449,1450,
+912,913,0,588,0,1522,386,252,2095,2095,912,913,1381,2180,1273,1375,912,913,912,913,1447,1512,1481,1482,
+784,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,784,0,0,0,0,0,
+0,0,564,565,566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,509,510,511,0,0,582,583,0,0,0,0,0,0,660,661,662,0,622,1146,0,0,0,
+2096,2096,870,388,871,2096,0,0,0,0,0,0,0,0,0,781,745,1177,0,0,0,0,2152,500,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="7" name="Paths" width="24" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="9" name="AlwaysFront" width="24" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+471,469,0,0,0,470,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
