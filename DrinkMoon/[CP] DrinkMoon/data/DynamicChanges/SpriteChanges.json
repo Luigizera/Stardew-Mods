@@ -46,7 +46,7 @@
 			//Sprite Guilherme Evento RPG
 			"Action": "EditImage",
 			"Target": "Characters/Guilherme, Characters/Luigi, Characters/Mateus, Characters/Ronaldo",
-			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithouPath}}/{{TargetWithouPath}}_RPG.png",
+			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}_RPG.png",
 			"When": 
 			{ 
 			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
