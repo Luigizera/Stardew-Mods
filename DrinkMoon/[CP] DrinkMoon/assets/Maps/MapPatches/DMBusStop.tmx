@@ -1113,14 +1113,9 @@
     <property name="Action" value="Message &quot;BusStop.1&quot;"/>
    </properties>
   </object>
-  <object id="8" name="TileData" x="160" y="64" width="16" height="16">
-   <properties>
-    <property name="Action" value="LockedDoorWarp 8 16 Custom_DMBarraca 900 2000 Guilherme 1000"/>
-   </properties>
-  </object>
   <object id="10" name="TileData" x="160" y="80" width="16" height="16">
    <properties>
-    <property name="Action" value="LockedDoorWarp 8 16 Custom_DMBarraca 900 2000 Guilherme 500"/>
+    <property name="Action" value="LockedDoorWarp 8 16 Custom_DMBarraca 900 2000 Guilherme 1000"/>
    </properties>
   </object>
  </objectgroup>
