@@ -19,7 +19,7 @@
 
     // ESPECIAIS
     // Chuva
-    "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:chuva.001\"/1400 Mine 22 9 1/2000 Custom_DMBarraca 12 12 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+    "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:chuva.001\"/1400 Mine 22 9 1/2000 Custom_DMBarraca 12 15 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
 
     //Egg Festival
     "spring_13": "610 Custom_DMBarraca 12 15 ronaldo_frio/700 BusStop 27 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 12 15 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
