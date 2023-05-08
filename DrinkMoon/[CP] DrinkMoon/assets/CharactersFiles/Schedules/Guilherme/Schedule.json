@@ -46,7 +46,7 @@
 
     // ESPECIAIS
     //Chuva
-    "rain": "610 Custom_DMBarraca 10 14 2 guilherme_dormindo/800 Custom_DMBarraca 5 10 2 guilherme_jogando \"Strings\\schedules\\Guilherme:chuva.000\"/1600 Custom_DMBarraca 5 10 2 guilherme_jutsu \"Strings\\schedules\\Guilherme:jutsu.000\"/2100 Custom_DMBarraca 10 14 2 guilherme_dormindo",
+    "rain": "610 Custom_DMBarraca 10 14 2 guilherme_dormindo/800 Custom_DMBarraca 5 10 2 guilherme_jogando \"Strings\\schedules\\Guilherme:chuva.000\"/1600 Custom_DMBarraca 5 10 2 guilherme_jutsu \"Strings\\schedules\\Guilherme:jutsu.000\"/2100 Saloon 33 6 2 guilherme_jogando \"Strings\\schedules\\Guilherme:jogando.003\"",
 
     //Egg Festival
     "spring_13": "610 BusStop 30 22 2 guilherme_jogando/900 Town 12 15 2 guilherme_jogando \"Strings\\schedules\\Guilherme:jogando.005\"/1320 Town 43 58 0/1530 Town 25 61 1 guilherme_jogando2 \"Strings\\schedules\\Guilherme:jogando.005\"/1740 Town 22 100 2 guilherme_jutsu \"Strings\\schedules\\Guilherme:jutsu.003\"/2100 Custom_DMBarraca 10 14 2 guilherme_dormindo \"Strings\\schedules\\Guilherme:dormindo.001\"",
