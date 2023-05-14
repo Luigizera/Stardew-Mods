@@ -354,7 +354,7 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 60 65 0",
+					"Value": "Seba 60 65 2",
 					"Delimiter": "/"
 				},
 			]
