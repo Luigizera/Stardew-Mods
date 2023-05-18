@@ -1,124 +1,113 @@
 {
-  "Changes": 
-  [
-	  {
-   
-      "Action": "EditData",
-      "Target": "Characters/Dialogue/Ronaldo",
-      "Entries": 
-      {
-        // ESPECIAIS
-        "Introduction": "Opa mano, prazer sou Ronaldo!$1#$b#O que era pra eu te perguntar mesmo?$2#$b#Ah esquece, prazer!$1",
-        "MovieInvitation": "Tô dentro, pra mim não tem tempo ruim!$1",
-            
-        // RESORT
-        "Resort_Entering": "Isso que é vida!$1",
-        "Resort_Leaving": "Ah... já é hora de ir?$2",
-        "Resort_Shore": "Ah... a água ta fresquinha!$1",
-        "Resort_Shore_2": "Isso que é vida!$1#$b#Queria poder nadar todo dia.",
-        "Resort_Umbrella": "Melhor passar um protetor solar.",
-        "Resort_Wander": "Depois de passar tanto tempo nas minas, esse é o lugar que eu quero ficar!$1",
-        "Resort_Bar": "Vocês tem algo forte pra tomar?$1",
-        "Resort": "Cara, essa viagem acabou valendo a pena no fim das contas!$1",
-            
-        // DIALOGO COMUM
-        //segunda-feira
-        "Mon": "Opa, bão?$1",
-        "Mon2": "Salve @, alguma novidade?#$b#Estou procurando um lugar com Wi-Fi melhor.$1",
-        "Mon4": "@, como vai?$1#$b#Espero não estar te atrapalhando.",
-        "Mon6": "Você acha que a Ruivinha vai ficar brava se a gente não voltar tão cedo?$2#$b#Ah... só queria ir pra casa logo.$2",
-        "Mon8": "Algum dia ainda vou ver a Ruivinha denovo!$4#$b#Pode apostar!$4",
-        "Mon10": "Eae @, bora dar um passeio por aí?$1",
-            
-        //terça-feira
-        "Tue": "Ei, você é um fazendeiro?^Ei, você é uma fazendeira?",
-        "Tue2": "As vezes vou no Museu pra doar alguns livros que eu encontro.$1",
-        "Tue4": "@, se precisar de ajuda pode contar comigo!$1#$b#Não, hoje não tá ligado...?",
-        "Tue6": "Que saudade das festas, preciso de uma cervejinha gelada!$1",
-        "Tue8": "Hora de voltar para as minas, quero encontrar alguns artefatos raros!$1",
-        "Tue10": "Queria fazer uma festinha um dia desses com o pessoal, o que você acha?$1",
-            
-        //quarta-feira
-        "Wed": "Preciso te dizer...#$b#Esse vale é realmente enorme!$1",
-        "Wed2": "Ou, tem algum banheiro por aqui, tô apertado!$2",
-        "Wed4": "Não ligue pra mim, só estou apreciando a paisagem.",
-        "Wed6": "Eae @, como é viver no campo?$1#$b#Honestamente, não gosto muito de dormir no chão.",
-        "Wed8": "Saudades da Ruivinha @...$2#$b#Acho que você sabe como é esse sentimento...$2",
-        "Wed10": "Ei, que olhos grandes você tem!$1#$b#Eu nunca tinha notado.#$b#Ah, foi um elogio! Um elogio! Calma!$2",
-            
-        //quinta-feira
-        "Thu": "Que horas são?#$b#Quero ir pra casa, tá ficando tarde.",
-        "Thu2": "Preciso desvendar o próximo projetinho do Luigi, você me ajuda?",
-        "Thu4": "Encontro alguns livros nas minas, sou muito bom nisso!$1",
-        "Thu6": "@ é você?#$b#Que susto, nem te reconheci.$1",
-        "Thu8": "Ei @, se você encontrar algum diamante, me mostra?!$1#$b#É uma gema rara, então quero ver de perto!$1",
-        "Thu10": "@, bora fazer algo divertido tipo, fazer uma música?$#$b#Parece que não, mas gosto de rap!$1",
-            
-        //sexta-feira
-        "Fri": "Quero voltar pra casa logo, a Ruivinha ta me esperando...$2",
-        "Fri2": "Ah, parece que não vamos voltar pra casa tão cedo...$2",
-        "Fri4": "Poxa, mó vontade de assistir um filme hoje!$1#$b#Gosto mais daqueles engraçados.",
-        "Fri6": "Bom dia... bão dia... boum dia...#$b#Ah @, bwon dia mano!$1",
-        "Fri8": "Opa @, vou andar por aí.#$b#E depois falar com a Ruivinha!$1",
-        "Fri10": "Não temos muito sucesso explorando nas minas... parece que tudo conspira contra a gente...$2#$b#Argh! Que raiva!$5",
-            
-        //sabado
-        "Sat": "Só tô zanzando por ai, esse lugar é grande.",
-        "Sat2": "Sem tempo irmão, falou!",
-        "Sat4": "Ah, que fome, melhor passar no Saloon um dia desses.",
-        "Sat6": "Preciso que você me responda...#$b#Pão com ovo ou com requeijão?",
-        "Sat8": "Isso que você falou foi muito lindo!$1#$b#Não, não fale mais nada... já entendi a mensagem.",
-        "Sat10": "Oxi, acho que esqueci a mina na picareta.#$b#Quer dizer... A picareta na mina!$1",
-            
-        //domingo
-        "Sun": "Sem tempo irmão.#$b#Preciso procurar algo pra comer!$1",
-        "Sun2": "Pera, eu falei isso?#$b#Não tô lembrado não, que dia foi isso?",
-        "Sun4": "Espero que a Ruiva não esteja triste sem mim...#$b#Porque eu tô!$2",
-        "Sun6": "Acho que eu devia fazer um rap com o Gustavo um dia desses!$1",
-        "Sun8": "Queria poder dormir mais umas duas horas, mas tenho que minerar...$2#$b#Me sinto naquele jogo de blocos...$2",
-        "Sun10": "ALÔ GALERA! VAMO ACORDA!$5#$b#Opa @, foi mal tava treinando pra aula de acordar...#$e#Acordar a rapazeada de dia!$1",
-            
-        // FESTIVAIS
-            
-        //Egg Festival
-        "spring_13": "Vou esconder alguns doces no bolso, não conta pra ninguém.",
-        //Flower Dance
-        "spring_24": "Vai ter bebida no festival?$1",
-        //Luau
-        "summer_11": "Beleza, o festival começa as...#$b#Ah... esqueci.$2",
-        //Dance of the Moonlight Jellies
-        "summer_28": "Vamos ver as águas-vivas hoje!$1#$e#Que hora que começa o festival mesmo?",
-        //Stardew Valley Fair
-        "fall_16": "Vou dar uma explorada no festival.#$b#Vai que eu acho comida grátis?!$1",
-        //Spirit's Eve
-        "fall_27": "Mesmo hoje sendo Halloween não vou ter medo de nada!$1#$e#Aquilo foi um vulto?!",
-        //Festival of Ice
-        "winter_8": "Não gosto do cheiro de peixe, acho que vou ficar longe no festival.",
-        //Night Market
-        "winter_17": "O que é esse Mercado Noturno que todo mundo fala?",
-        //Feast of the Winter Star
-        "winter_25": "Já me planejei e comprei o presente!$1#$e#Pera, esse não é meu amigo secreto!",
-            
-        // PRIMAVERA
-        "spring_1": "Ah cara, já se passou um ano e a gente ainda tá aqui?!",
-            
-        // VERAO
-        "summer_1": "Quentão hoje né?#$b#Eu tô de boa.$1",
-            
-        // OUTONO
-        "fall_1": "Olha as folhas caindo!$1",
-            
-        // INVERNO
-        "winter_1": "Tô tentando pegar um floco de neve com a lingua!$1",
-            
-        // ESPECIAIS
-        "winterTown_23_26": "Ah, hoje não deu pra ir na Mina por causa que o Luigi não tá bem...$6#$b#Ei... como assim que mina?$6#$b#%Parece que alguêm confundiu as coisas...",
-            
-        // EVENTO
-        "Evento_Celular_Bom": "...!",
-        "Evento_Celular_Neutro": "Sei que não... mas queria que fosse...$2",
-        "Evento_Celular_Ruim": "Esse não é o ponto...$2",
-      }
-    }
-  ]
-}     
+  // ESPECIAIS
+  "Introduction": "Opa mano, prazer sou Ronaldo!$1#$b#O que era pra eu te perguntar mesmo?$2#$b#Ah esquece, prazer!$1",
+  "MovieInvitation": "Tô dentro, pra mim não tem tempo ruim!$1",
+
+  // RESORT
+  "Resort_Entering": "Isso que é vida!$1",
+  "Resort_Leaving": "Ah... já é hora de ir?$2",
+  "Resort_Shore": "Ah... a água ta fresquinha!$1",
+  "Resort_Shore_2": "Isso que é vida!$1#$b#Queria poder nadar todo dia.",
+  "Resort_Umbrella": "Melhor passar um protetor solar.",
+  "Resort_Wander": "Depois de passar tanto tempo nas minas, esse é o lugar que eu quero ficar!$1",
+  "Resort_Bar": "Vocês tem algo forte pra tomar?$1",
+  "Resort": "Cara, essa viagem acabou valendo a pena no fim das contas!$1",
+
+  // DIALOGO COMUM
+  //segunda-feira
+  "Mon": "Opa, bão?$1",
+  "Mon2": "Salve @, alguma novidade?#$b#Estou procurando um lugar com Wi-Fi melhor.$1",
+  "Mon4": "@, como vai?$1#$b#Espero não estar te atrapalhando.",
+  "Mon6": "Você acha que a Ruivinha vai ficar brava se a gente não voltar tão cedo?$2#$b#Ah... só queria ir pra casa logo.$2",
+  "Mon8": "Algum dia ainda vou ver a Ruivinha denovo!$4#$b#Pode apostar!$4",
+  "Mon10": "Eae @, bora dar um passeio por aí?$1",
+
+  //terça-feira
+  "Tue": "Ei, você é um fazendeiro?^Ei, você é uma fazendeira?",
+  "Tue2": "As vezes vou no Museu pra doar alguns livros que eu encontro.$1",
+  "Tue4": "@, se precisar de ajuda pode contar comigo!$1#$b#Não, hoje não tá ligado...?",
+  "Tue6": "Que saudade das festas, preciso de uma cervejinha gelada!$1",
+  "Tue8": "Hora de voltar para as minas, quero encontrar alguns artefatos raros!$1",
+  "Tue10": "Queria fazer uma festinha um dia desses com o pessoal, o que você acha?$1",
+
+  //quarta-feira
+  "Wed": "Preciso te dizer...#$b#Esse vale é realmente enorme!$1",
+  "Wed2": "Ou, tem algum banheiro por aqui, tô apertado!$2",
+  "Wed4": "Não ligue pra mim, só estou apreciando a paisagem.",
+  "Wed6": "Eae @, como é viver no campo?$1#$b#Honestamente, não gosto muito de dormir no chão.",
+  "Wed8": "Saudades da Ruivinha @...$2#$b#Acho que você sabe como é esse sentimento...$2",
+  "Wed10": "Ei, que olhos grandes você tem!$1#$b#Eu nunca tinha notado.#$b#Ah, foi um elogio! Um elogio! Calma!$2",
+
+  //quinta-feira
+  "Thu": "Que horas são?#$b#Quero ir pra casa, tá ficando tarde.",
+  "Thu2": "Preciso desvendar o próximo projetinho do Luigi, você me ajuda?",
+  "Thu4": "Encontro alguns livros nas minas, sou muito bom nisso!$1",
+  "Thu6": "@ é você?#$b#Que susto, nem te reconheci.$1",
+  "Thu8": "Ei @, se você encontrar algum diamante, me mostra?!$1#$b#É uma gema rara, então quero ver de perto!$1",
+  "Thu10": "@, bora fazer algo divertido tipo, fazer uma música?$#$b#Parece que não, mas gosto de rap!$1",
+
+  //sexta-feira
+  "Fri": "Quero voltar pra casa logo, a Ruivinha ta me esperando...$2",
+  "Fri2": "Ah, parece que não vamos voltar pra casa tão cedo...$2",
+  "Fri4": "Poxa, mó vontade de assistir um filme hoje!$1#$b#Gosto mais daqueles engraçados.",
+  "Fri6": "Bom dia... bão dia... boum dia...#$b#Ah @, bwon dia mano!$1",
+  "Fri8": "Opa @, vou andar por aí.#$b#E depois falar com a Ruivinha!$1",
+  "Fri10": "Não temos muito sucesso explorando nas minas... parece que tudo conspira contra a gente...$2#$b#Argh! Que raiva!$5",
+
+  //sabado
+  "Sat": "Só tô zanzando por ai, esse lugar é grande.",
+  "Sat2": "Sem tempo irmão, falou!",
+  "Sat4": "Ah, que fome, melhor passar no Saloon um dia desses.",
+  "Sat6": "Preciso que você me responda...#$b#Pão com ovo ou com requeijão?",
+  "Sat8": "Isso que você falou foi muito lindo!$1#$b#Não, não fale mais nada... já entendi a mensagem.",
+  "Sat10": "Oxi, acho que esqueci a mina na picareta.#$b#Quer dizer... A picareta na mina!$1",
+
+  //domingo
+  "Sun": "Sem tempo irmão.#$b#Preciso procurar algo pra comer!$1",
+  "Sun2": "Pera, eu falei isso?#$b#Não tô lembrado não, que dia foi isso?",
+  "Sun4": "Espero que a Ruiva não esteja triste sem mim...#$b#Porque eu tô!$2",
+  "Sun6": "Acho que eu devia fazer um rap com o Gustavo um dia desses!$1",
+  "Sun8": "Queria poder dormir mais umas duas horas, mas tenho que minerar...$2#$b#Me sinto naquele jogo de blocos...$2",
+  "Sun10": "ALÔ GALERA! VAMO ACORDA!$5#$b#Opa @, foi mal tava treinando pra aula de acordar...#$e#Acordar a rapazeada de dia!$1",
+  
+  // FESTIVAIS
+
+  //Egg Festival
+  "spring_13": "Vou esconder alguns doces no bolso, não conta pra ninguém.",
+  //Flower Dance
+  "spring_24": "Vai ter bebida no festival?$1",
+  //Luau
+  "summer_11": "Beleza, o festival começa as...#$b#Ah... esqueci.$2",
+  //Dance of the Moonlight Jellies
+  "summer_28": "Vamos ver as águas-vivas hoje!$1#$e#Que hora que começa o festival mesmo?",
+  //Stardew Valley Fair
+  "fall_16": "Vou dar uma explorada no festival.#$b#Vai que eu acho comida grátis?!$1",
+  //Spirit's Eve
+  "fall_27": "Mesmo hoje sendo Halloween não vou ter medo de nada!$1#$e#Aquilo foi um vulto?!",
+  //Festival of Ice
+  "winter_8": "Não gosto do cheiro de peixe, acho que vou ficar longe no festival.",
+  //Night Market
+  "winter_17": "O que é esse Mercado Noturno que todo mundo fala?",
+  //Feast of the Winter Star
+  "winter_25": "Já me planejei e comprei o presente!$1#$e#Pera, esse não é meu amigo secreto!",
+
+  // PRIMAVERA
+  "spring_1": "Ah cara, já se passou um ano e a gente ainda tá aqui?!",
+
+  // VERAO
+  "summer_1": "Quentão hoje né?#$b#Eu tô de boa.$1",
+
+  // OUTONO
+  "fall_1": "Olha as folhas caindo!$1",
+
+  // INVERNO
+  "winter_1": "Tô tentando pegar um floco de neve com a lingua!$1",
+
+  // ESPECIAIS
+  "winterTown_23_26": "Ah, hoje não deu pra ir na Mina por causa que o Luigi não tá bem...$6#$b#Ei... como assim que mina?$6#$b#%Parece que alguêm confundiu as coisas...",
+
+  // EVENTO
+  "Evento_Celular_Bom": "...!",
+  "Evento_Celular_Neutro": "Sei que não... mas queria que fosse...$2",
+  "Evento_Celular_Ruim": "Esse não é o ponto...$2",
+}

@@ -1,112 +1,101 @@
 {
-  "Changes": 
-  [
-    {
-     
-      "Action": "EditData",
-      "Target": "Characters/Dialogue/MarriageDialogueLuigi",
-      "Entries": 
-      {
-        // ESPECIAL
-        "OneKid_0": "Cadê %kid1?",
-        "OneKid_1": "Vou ficar de olho no %kid1, ok?",
-        "OneKid_2": "Ah... deixa que eu fico de olho no %kid1 hoje.#$b#Relaxa, eu posso dar umas pausas no meu projeto.$1",
-        "OneKid_3": "Onde esse pequeno se enfiou?",
-        "TwoKids_0": "Essas crianças são muito pequenas!$1",
-        "TwoKids_1": "Vou jogar alguns Jogos com as crianças depois, te vejo mais tarde!$1",
-        "TwoKids_2": "Ei @, %kid2 tem a sua cara, haha!$1",
-        "TwoKids_3": "Essas crianças, não tenho paz...$7",
-        "NoBed_0": "Tipo... cama... cadê?$2",
-        "NoBed_1": "Será que tô no lugar errado?$2#$b#Cadê a cama?$2",
-        "NoBed_2": "E a cama, como que fica?$2",
-        "NoBed_3": "Ok, tira a cama do bolso agora...$7",
-        "Outdoor_0": "Oi @, o projetinho foi um sucesso!$1",
-        "Outdoor_1": "O Projetinho foi só o começo!$1#$b#Hora de fazer algo maior, tipo uma máquina do tempo...#$e#Esquece, é muito perigoso, não iria ter te conhecido.",
-        "Outdoor_2": "Não liga pra mim, só estou apreciando a fazenda!$1#$b#Fez um bom trabalho em...",
-        "Outdoor_3": "Vou ficar aqui hoje, o tempo parece bom.",
-        "Outdoor_4": "Não posso ficar em casa o dia inteiro, fica muito quente.#$b#Preciso de um ar fresco!$1",
+  // ESPECIAL
+  "OneKid_0": "Cadê %kid1?",
+  "OneKid_1": "Vou ficar de olho no %kid1, ok?",
+  "OneKid_2": "Ah... deixa que eu fico de olho no %kid1 hoje.#$b#Relaxa, eu posso dar umas pausas no meu projeto.$1",
+  "OneKid_3": "Onde esse pequeno se enfiou?",
+  "TwoKids_0": "Essas crianças são muito pequenas!$1",
+  "TwoKids_1": "Vou jogar alguns Jogos com as crianças depois, te vejo mais tarde!$1",
+  "TwoKids_2": "Ei @, %kid2 tem a sua cara, haha!$1",
+  "TwoKids_3": "Essas crianças, não tenho paz...$7",
+  "NoBed_0": "Tipo... cama... cadê?$2",
+  "NoBed_1": "Será que tô no lugar errado?$2#$b#Cadê a cama?$2",
+  "NoBed_2": "E a cama, como que fica?$2",
+  "NoBed_3": "Ok, tira a cama do bolso agora...$7",
+  "Outdoor_0": "Oi @, o projetinho foi um sucesso!$1",
+  "Outdoor_1": "O Projetinho foi só o começo!$1#$b#Hora de fazer algo maior, tipo uma máquina do tempo...#$e#Esquece, é muito perigoso, não iria ter te conhecido.",
+  "Outdoor_2": "Não liga pra mim, só estou apreciando a fazenda!$1#$b#Fez um bom trabalho em...",
+  "Outdoor_3": "Vou ficar aqui hoje, o tempo parece bom.",
+  "Outdoor_4": "Não posso ficar em casa o dia inteiro, fica muito quente.#$b#Preciso de um ar fresco!$1",
 
-        //DIALOGOS COMUNS
+  //DIALOGOS COMUNS
 
-        // PRIMAVERA
-        "spring_1": "Primavera chegou!#$b#Que tal umas flores pra alegrar o dia?$1 [18]",
-        "spring_8": "Tenho que desenvolver algo pra espantar os corvos...#$e#Espantalhos? Não, isso é coisa do passado, pensei em algo mais épico!$1",
-        "spring_23": "Sabe não sou bom com danças, mas se quiser amanhã posso fazer a Dança do Robo!$1#$b#Ela sai automático.",
+  // PRIMAVERA
+  "spring_1": "Primavera chegou!#$b#Que tal umas flores pra alegrar o dia?$1 [18]",
+  "spring_8": "Tenho que desenvolver algo pra espantar os corvos...#$e#Espantalhos? Não, isso é coisa do passado, pensei em algo mais épico!$1",
+  "spring_23": "Sabe não sou bom com danças, mas se quiser amanhã posso fazer a Dança do Robo!$1#$b#Ela sai automático.",
 
-        // VERAO
-        "summer_1": "Ah, eu não fico muito bem no calor...$2#$b#Ficar com rinite é muito ruim!$1",
-        "summer_8": "Acho que precisamos de mais 5 ventiladores, não vou sobreviver nesse calor.$2",
+  // VERAO
+  "summer_1": "Ah, eu não fico muito bem no calor...$2#$b#Ficar com rinite é muito ruim!$1",
+  "summer_8": "Acho que precisamos de mais 5 ventiladores, não vou sobreviver nesse calor.$2",
 
-        // OUTONO
-        "fall_1": "O outono chegou, o tempo passa rápido né?$1",
-        "fall_8": "Está pronto pro inverno?#$b#Quero treinar na neve um dia desses!$1",
-        "fall_15": "Ei amor, não se esquece do festival amanhã!$1#$b#O Clint faz umas ferramentas interessantes pra comprar durante o festival.",
-        "fall_26": "Ei vamos fazer cosplay no festival de amanhã?$1",
+  // OUTONO
+  "fall_1": "O outono chegou, o tempo passa rápido né?$1",
+  "fall_8": "Está pronto pro inverno?#$b#Quero treinar na neve um dia desses!$1",
+  "fall_15": "Ei amor, não se esquece do festival amanhã!$1#$b#O Clint faz umas ferramentas interessantes pra comprar durante o festival.",
+  "fall_26": "Ei vamos fazer cosplay no festival de amanhã?$1",
 
-        // INVERNO
-        "winter_1": "Ta bem frio lá fora.#$b#Melhor você levar um casaco!$1",
-        "winter_7": "Amanhã é o festival de pesca!$1#$b#Você vai amanhã?",
-        "winter_28": "Esse ano foi incrível @!$4#$b#Espero que o próximo seja melhor ainda!$4",
+  // INVERNO
+  "winter_1": "Ta bem frio lá fora.#$b#Melhor você levar um casaco!$1",
+  "winter_7": "Amanhã é o festival de pesca!$1#$b#Você vai amanhã?",
+  "winter_28": "Esse ano foi incrível @!$4#$b#Espero que o próximo seja melhor ainda!$4",
 
-        // DIALOGOS DIA
-        "Rainy_Day_0": "Já recolhi as roupas no varal.$1#$b#É impressionante que você tem roupas iguais as outras.",
-        "Rainy_Day_1": "A chuva ta bem forte!$8#$b#Melhor você levar uma capa de chuva.",
-        "Rainy_Day_2": "Pode ir lá fora, só não se molhe.",
-        "Rainy_Day_3": "Ah.... queria ficar deitado na cama o dia todo hoje.$1",
-        "Rainy_Day_4": "Bom dia, o que quer pra janta?#$b#Sei fazer miojo!$1",
+  // DIALOGOS DIA
+  "Rainy_Day_0": "Já recolhi as roupas no varal.$1#$b#É impressionante que você tem roupas iguais as outras.",
+  "Rainy_Day_1": "A chuva ta bem forte!$8#$b#Melhor você levar uma capa de chuva.",
+  "Rainy_Day_2": "Pode ir lá fora, só não se molhe.",
+  "Rainy_Day_3": "Ah.... queria ficar deitado na cama o dia todo hoje.$1",
+  "Rainy_Day_4": "Bom dia, o que quer pra janta?#$b#Sei fazer miojo!$1",
 
-        "Indoor_Day_0": "Bom dia, quer café?$1 [395]",
-        "Indoor_Day_1": "Te vejo mais tarde amor, divirta-se!$1",
-        "Indoor_Day_2": "Qual seu plano pra hoje?#$b#Vai explorar as minas?$1#$e#De qualquer forma, te vejo depois!$1",
-        "Indoor_Day_3": "Vou ficar por aqui hoje, se quiser posso pedir algo pra comer depois.",
-        "Indoor_Day_4": "Que soninho, melhor tomar um café...",
+  "Indoor_Day_0": "Bom dia, quer café?$1 [395]",
+  "Indoor_Day_1": "Te vejo mais tarde amor, divirta-se!$1",
+  "Indoor_Day_2": "Qual seu plano pra hoje?#$b#Vai explorar as minas?$1#$e#De qualquer forma, te vejo depois!$1",
+  "Indoor_Day_3": "Vou ficar por aqui hoje, se quiser posso pedir algo pra comer depois.",
+  "Indoor_Day_4": "Que soninho, melhor tomar um café...",
 
-        // DIALOGOS NOITE
-        "Rainy_Night_0": "A chuva ficou o dia inteiro hoje!$6",
-        "Rainy_Night_1": "Que chuva em!$1#$b#Parece que não vai acabar mesmo...",
-        "Rainy_Night_2": "Acho que já vou dormir, aproveitar a chuvinha!$1",
-        "Rainy_Night_3": "Ah... cansei, acho que vou dormir...",
-        "Rainy_Night_4": "Vou dormir em breve, boa noite amor!$1",
-
-        "Indoor_Night_0": "Fez tudo que tinha que fazer hoje?!$1",
-        "Indoor_Night_1": "Não fiz nada demais hoje, só cuidando da casa.",
-        "Indoor_Night_2": "Bem-vindo de volta tuturu~$1",
-        "Indoor_Night_3": "Bom, acho que vou ficar acordado mais algumas horas!$1",
-        "Indoor_Night_4": "Já vai dormir?#$e#Vou ficar acordado por mais um tempo, então pode ir!$1",
-
-
-        // AFEICAO
-        "Good_0": "Que sonho, não quero que acabe!$l",
-        "Good_1": "Sempre gostei de você sabia?$l",
-        "Good_2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
-        "Good_3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
-        "Good_4": "Finalmente tenho uma casa!$l",
-        "Good_5": "Nosso amuleto de casamento é lindo!$1",
-        "Good_6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
-        "Good_7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
-        "Good_8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
-        "Good_9": "Precisamos de internet urgente.",
-        "Neutral_0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
-        "Neutral_1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
-        "Neutral_2": "Dando uma pausa? também curto...",
-        "Neutral_3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
-        "Neutral_4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
-        "Neutral_5": "Ei como ta nossa grana, @?",
-        "Neutral_6": "Espero que o pessoal esteja se virando bem!$1",
-        "Neutral_7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
-        "Neutral_8": "O projetinho ta progredindo bem...$1",
-        "Neutral_9": "Vamos ficar aqui pra sempre né?$1",
-        "Bad_0": "...Você ainda gosta de mim?$2",
-        "Bad_1": "Aff... Acho que fui muito jovem para sair casando.$2",
-        "Bad_2": "Ainda se sente feliz?$2",
-        "Bad_3": "Fiz algo errado? Você ta estranho ultimamente.$2",
-        "Bad_4": "Hmm?$2",
-        "Bad_5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
-        "Bad_6": "Ah... sério que tenho que viver com você?$2",
-        "Bad_7": "Antes eramos felizes... mas e agora?$2",
-        "Bad_8": "Você ta me dando um baita gelo ultimamente...$2",
-        "Bad_9": "Penso se podia ter feito algo melhor.$2"
-      }
-    }
-  ]
+  // DIALOGOS NOITE
+  "Rainy_Night_0": "A chuva ficou o dia inteiro hoje!$6",
+  "Rainy_Night_1": "Que chuva em!$1#$b#Parece que não vai acabar mesmo...",
+  "Rainy_Night_2": "Acho que já vou dormir, aproveitar a chuvinha!$1",
+  "Rainy_Night_3": "Ah... cansei, acho que vou dormir...",
+  "Rainy_Night_4": "Vou dormir em breve, boa noite amor!$1",
+  
+  "Indoor_Night_0": "Fez tudo que tinha que fazer hoje?!$1",
+  "Indoor_Night_1": "Não fiz nada demais hoje, só cuidando da casa.",
+  "Indoor_Night_2": "Bem-vindo de volta tuturu~$1",
+  "Indoor_Night_3": "Bom, acho que vou ficar acordado mais algumas horas!$1",
+  "Indoor_Night_4": "Já vai dormir?#$e#Vou ficar acordado por mais um tempo, então pode ir!$1",
+  
+  
+  // AFEICAO
+  "Good_0": "Que sonho, não quero que acabe!$l",
+  "Good_1": "Sempre gostei de você sabia?$l",
+  "Good_2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
+  "Good_3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
+  "Good_4": "Finalmente tenho uma casa!$l",
+  "Good_5": "Nosso amuleto de casamento é lindo!$1",
+  "Good_6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
+  "Good_7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
+  "Good_8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+  "Good_9": "Precisamos de internet urgente.",
+  "Neutral_0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
+  "Neutral_1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
+  "Neutral_2": "Dando uma pausa? também curto...",
+  "Neutral_3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
+  "Neutral_4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
+  "Neutral_5": "Ei como ta nossa grana, @?",
+  "Neutral_6": "Espero que o pessoal esteja se virando bem!$1",
+  "Neutral_7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+  "Neutral_8": "O projetinho ta progredindo bem...$1",
+  "Neutral_9": "Vamos ficar aqui pra sempre né?$1",
+  "Bad_0": "...Você ainda gosta de mim?$2",
+  "Bad_1": "Aff... Acho que fui muito jovem para sair casando.$2",
+  "Bad_2": "Ainda se sente feliz?$2",
+  "Bad_3": "Fiz algo errado? Você ta estranho ultimamente.$2",
+  "Bad_4": "Hmm?$2",
+  "Bad_5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
+  "Bad_6": "Ah... sério que tenho que viver com você?$2",
+  "Bad_7": "Antes eramos felizes... mas e agora?$2",
+  "Bad_8": "Você ta me dando um baita gelo ultimamente...$2",
+  "Bad_9": "Penso se podia ter feito algo melhor.$2"
 }
