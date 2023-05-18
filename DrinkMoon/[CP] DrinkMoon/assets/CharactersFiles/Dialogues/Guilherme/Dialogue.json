@@ -1,250 +1,261 @@
 {
-  // ESPECIAIS
-  "Introduction": "Oba, meu senhor!^Oba, minha senhora!#$b#Prazer meu nome é Guilherme...$10#$b#... E eu queria saber se tem algum mecânico por aqui?",
-  "danceRejection": "Er... não sou bom em dançar... foi mal.$2",
-  "divorced": "OQUÊ?! Por quê?!$5",
-  "dumped_Guys": "Não quero mais olhar pra você!$5",
-  "secondChance_Guys": "Ta bom, ta bom...$2#$b#Mas não me faça me arrepender denovo!$1",
-  "breakUp": "Você não é digno!$5",
-  "MovieInvitation": "Filminho?$10#$b#Vamos nessa!$1",
+  "Changes": 
+  [
+	  {
+   
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Guilherme",
+      "Entries": 
+      {
+        // ESPECIAIS
+        "Introduction": "Oba, meu senhor!^Oba, minha senhora!#$b#Prazer meu nome é Guilherme...$10#$b#... E eu queria saber se tem algum mecânico por aqui?",
+        "danceRejection": "Er... não sou bom em dançar... foi mal.$2",
+        "divorced": "OQUÊ?! Por quê?!$5",
+        "dumped_Guys": "Não quero mais olhar pra você!$5",
+        "secondChance_Guys": "Ta bom, ta bom...$2#$b#Mas não me faça me arrepender denovo!$1",
+        "breakUp": "Você não é digno!$5",
+        "MovieInvitation": "Filminho?$10#$b#Vamos nessa!$1",
 
-  // RESORT
-  "Resort_Entering": "Wow, esse lugar é incrível!$1",
-  "Resort_Leaving": "Partiu pra casa, eu acho...$1",
-  "Resort_Leaving_2": "Mano, o Mateus fez a proeza de derrubar meu celular na água...$5#$b#Você acredita nisso?!$5",
-  "Resort_Shore": "Ficar aqui é bem relaxante...$1",
-  "Resort_Shore_2": "Uma fotinha em grupo aqui seria legal!$1",
-  "Resort_Umbrella": "Ouf, que calor...",
-  "Resort_Umbrella_2": "Que dia quente, melhor tomar bastante água!$1",
-  "Resort_Umbrella_3": "Melhor ficar de olho no meu celular, só por enquanto...",
-  "Resort_Wander": "Ei, achou algo legal na ilha?",
-  "Resort_Bar": "Barzinho legal!$1#$b#Dá pra servir altas bebidas.",
-  "Resort": "Essa ilha é bem interessante...$1#$e#Ouvi falar sobre sereias, mas acho que é invenção.",
+        // RESORT
+        "Resort_Entering": "Wow, esse lugar é incrível!$1",
+        "Resort_Leaving": "Partiu pra casa, eu acho...$1",
+        "Resort_Leaving_2": "Mano, o Mateus fez a proeza de derrubar meu celular na água...$5#$b#Você acredita nisso?!$5",
+        "Resort_Shore": "Ficar aqui é bem relaxante...$1",
+        "Resort_Shore_2": "Uma fotinha em grupo aqui seria legal!$1",
+        "Resort_Umbrella": "Ouf, que calor...",
+        "Resort_Umbrella_2": "Que dia quente, melhor tomar bastante água!$1",
+        "Resort_Umbrella_3": "Melhor ficar de olho no meu celular, só por enquanto...",
+        "Resort_Wander": "Ei, achou algo legal na ilha?",
+        "Resort_Bar": "Barzinho legal!$1#$b#Dá pra servir altas bebidas.",
+        "Resort": "Essa ilha é bem interessante...$1#$e#Ouvi falar sobre sereias, mas acho que é invenção.",
 
-  // DIALOGO COMUM
-  //segunda-feira
-  "Mon": "Ei consegue ficar de olho no Mateus por mim?#$b#Ele sai gastando o dinheiro que nem um maluco...$2",
-  "Mon2": "O que será que o Pierre ta vendendo hoje?#$b#Melhor dar uma olhadinha, já volto...$1",
-  "Mon4": "Ah cara, tô cansado de dormir no chão.$2#$e#Queria comprar um saco de dormir melhor, mas o Mateus não para de comprar tralha...$2",
-  "Mon6": "Oba, alguma novidade hoje?$4#$e#Meu dia tá sendo o padrão de sempre...$1#$b#Sempre treinando pra ser um bom ninja...",
-  "Mon8": "Ei, o que acha de treinar comigo?#$b#Seria divertido se for você!$1",
-  "Mon10": "Como comemoração do nosso namoro, que tal uma cervejinha?$4",
+        // DIALOGO COMUM
+        //segunda-feira
+        "Mon": "Ei consegue ficar de olho no Mateus por mim?#$b#Ele sai gastando o dinheiro que nem um maluco...$2",
+        "Mon2": "O que será que o Pierre ta vendendo hoje?#$b#Melhor dar uma olhadinha, já volto...$1",
+        "Mon4": "Ah cara, tô cansado de dormir no chão.$2#$e#Queria comprar um saco de dormir melhor, mas o Mateus não para de comprar tralha...$2",
+        "Mon6": "Oba, alguma novidade hoje?$4#$e#Meu dia tá sendo o padrão de sempre...$1#$b#Sempre treinando pra ser um bom ninja...",
+        "Mon8": "Ei, o que acha de treinar comigo?#$b#Seria divertido se for você!$1",
+        "Mon10": "Como comemoração do nosso namoro, que tal uma cervejinha?$4",
 
-  //terça-feira
-  "Tue": "Ei...#$q 2005/2006 Tuequestion_followup#...Você já ouviu falar de Naruto?#$r 2006 -10 Tuequestion_ruim#Aquele anime ruim?#$r 2006 0 Tuequestion_neutro#Sim, é legalzinho!#$r 2005 15 Tuequestion_bom#NARUTOOOOOOO!!!",
-  "Tuequestion_followup": "Quero virar um bom ninja um dia!$1",
-  "Tuequestion_bom": "SASUKEEEEE !!!$5#$b#Haha, esse é o verdadeiro espírito ninja!$1",
-  "Tuequestion_neutro": "Eh...Acho legal também!$1#$b#Você devia assistir comigo um dia desses...",
-  "Tuequestion_ruim": "Você não sabe o que está falando...$2",
+        //terça-feira
+        "Tue": "Ei...#$q 2005/2006 Tuequestion_followup#...Você já ouviu falar de Naruto?#$r 2006 -10 Tuequestion_ruim#Aquele anime ruim?#$r 2006 0 Tuequestion_neutro#Sim, é legalzinho!#$r 2005 15 Tuequestion_bom#NARUTOOOOOOO!!!",
+        "Tuequestion_followup": "Quero virar um bom ninja um dia!$1",
+        "Tuequestion_bom": "SASUKEEEEE !!!$5#$b#Haha, esse é o verdadeiro espírito ninja!$1",
+        "Tuequestion_neutro": "Eh...Acho legal também!$1#$b#Você devia assistir comigo um dia desses...",
+        "Tuequestion_ruim": "Você não sabe o que está falando...$2",
 
-  "Tue2": "Ah, tô com saudades de mecher no meu Photoshop...$2#$e#Se você quiser, me manda uma foto que eu faço um meme!$1",
-  "Tue4": "Ei, toma cuidado com o Mateus de Terça-feira, ele fala até demais...$2#$e#Eu?#$b#Relaxa, não vou chegar nem perto dele...$1",
-  "Tue6": "Ah, acho que tô me acostumando a viver longe da internet...#$b#Finalmente posso me tornar um verdadeiro ninja!$1",
-  "Tue8": "500...1000...700...#$b#Ah foi mal, tava fazendo as contas do Valor de umas paradas...$1#$e#Tenho que ficar esperto com o dinheiro para não gastarem tudo!$1",
-  "Tue10": "Ei, como vão as coisas?$1#$b#Quer vir treinar comigo?$4",
+        "Tue2": "Ah, tô com saudades de mecher no meu Photoshop...$2#$e#Se você quiser, me manda uma foto que eu faço um meme!$1",
+        "Tue4": "Ei, toma cuidado com o Mateus de Terça-feira, ele fala até demais...$2#$e#Eu?#$b#Relaxa, não vou chegar nem perto dele...$1",
+        "Tue6": "Ah, acho que tô me acostumando a viver longe da internet...#$b#Finalmente posso me tornar um verdadeiro ninja!$1",
+        "Tue8": "500...1000...700...#$b#Ah foi mal, tava fazendo as contas do Valor de umas paradas...$1#$e#Tenho que ficar esperto com o dinheiro para não gastarem tudo!$1",
+        "Tue10": "Ei, como vão as coisas?$1#$b#Quer vir treinar comigo?$4",
 
-  //quarta-feira
-  "Wed": "Tô sentindo que o Mateus vai gastar nosso dinheiro...$2#$b#Ah, relaxa isso eu sinto todo dia.$1",
-  "Wed2": "Bom... hora de fazer compras na cidade.#$b#Acho que vou comprar uma faixa ninja se tiver!$1",
-  "Wed4": "Ei, uma pergunta séria agora...#$q 2010/2011 Wed4question_followup#... qual jutsu eu estive treinando recentemente?#$r 2011 0 Wed4question_neutro#Taijutsu#$r 2010 15 Wed4question_bom#Ninjutsu#$r 2011 0 Wed4question_neutro#Genjutsu",
-  "Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1|Acho que vou ter que te dar uma aula de Jutsus...",
-  "Wed4question_bom": "Você acertou!$1#$b#Sabia que ia me conhecer melhor que qualquer um.$1",
-  "Wed4question_neutro": "Você errou!$2#$b#Quero melhor minhas habilidades em Ninjutsu.",
-  "Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do Gustavo!$1",
-  "Wed8": "Cara, que dia lindo!$1#$b#Me lembra quando virei um tronco pela primeira vez!$1",
+        //quarta-feira
+        "Wed": "Tô sentindo que o Mateus vai gastar nosso dinheiro...$2#$b#Ah, relaxa isso eu sinto todo dia.$1",
+        "Wed2": "Bom... hora de fazer compras na cidade.#$b#Acho que vou comprar uma faixa ninja se tiver!$1",
+        "Wed4": "Ei, uma pergunta séria agora...#$q 2010/2011 Wed4question_followup#... qual jutsu eu estive treinando recentemente?#$r 2011 0 Wed4question_neutro#Taijutsu#$r 2010 15 Wed4question_bom#Ninjutsu#$r 2011 0 Wed4question_neutro#Genjutsu",
+        "Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1|Acho que vou ter que te dar uma aula de Jutsus...",
+        "Wed4question_bom": "Você acertou!$1#$b#Sabia que ia me conhecer melhor que qualquer um.$1",
+        "Wed4question_neutro": "Você errou!$2#$b#Quero melhor minhas habilidades em Ninjutsu.",
+        "Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do Gustavo!$1",
+        "Wed8": "Cara, que dia lindo!$1#$b#Me lembra quando virei um tronco pela primeira vez!$1",
 
-  //quinta-feira
-  "Thu": "Ei, o Centro Comunitário parece esconder alguns segredos...#$b#O que você acha disso?#$e#Meu instinto ninja quer ir lá explorar...$1",
-  "Thu2": "Gosto de fazer as compras!$1#$b#Consigo manusear o dinheiro bem, então o pessoal não precisa se preocupar.",
-  "Thu4": "Hmm, acho que devia me ficar mais focado no meu treinamento ninja...#$b#Não sei se vou conseguir acompanhar os outros...$2",
-  "Thu6": "Vou continuar focado no meu treinamento, te vejo por aí @!$1",
-  "Thu8": "Acho que consegui desbloquear uma nova forma!#$b#Toco de madeira SUPREMO!$1",
-  "Thu10": "Ei, vamos nos divertir um pouco!$1#$b#O que acha de ir no Gus comer algo?$4",
+        //quinta-feira
+        "Thu": "Ei, o Centro Comunitário parece esconder alguns segredos...#$b#O que você acha disso?#$e#Meu instinto ninja quer ir lá explorar...$1",
+        "Thu2": "Gosto de fazer as compras!$1#$b#Consigo manusear o dinheiro bem, então o pessoal não precisa se preocupar.",
+        "Thu4": "Hmm, acho que devia me ficar mais focado no meu treinamento ninja...#$b#Não sei se vou conseguir acompanhar os outros...$2",
+        "Thu6": "Vou continuar focado no meu treinamento, te vejo por aí @!$1",
+        "Thu8": "Acho que consegui desbloquear uma nova forma!#$b#Toco de madeira SUPREMO!$1",
+        "Thu10": "Ei, vamos nos divertir um pouco!$1#$b#O que acha de ir no Gus comer algo?$4",
 
-  //sexta-feira
-  "Fri": "SEXTOU!$1#$b#Não que isso mude muita coisa, meu treinamento continua...",
-  "Fri2": "Acho que eu devia ficar mais tempo no Saloon um dia desses...#$b#Explorando as táticas dos inimigos...$1",
-  "Fri4": "Eae @, há quanto tempo em!$1#$b#Hm? Te vi ontem?#$b#Ah, então você estava nas sombras também?$1",
-  "Fri6": "Sexta-feira nunca muda né?#$b#Sempre um dia bom para um treinamento ninja!$1",
-  "Fri8": "Sem tempo pra descanso!$1#$b#Uma hora um jutsu sai!$1",
-  "Fri10": "Ei @, o que acha de jogar um jogo comigo?#$b#Quer dizer comigo e com o Mateus, claro...$4",
+        //sexta-feira
+        "Fri": "SEXTOU!$1#$b#Não que isso mude muita coisa, meu treinamento continua...",
+        "Fri2": "Acho que eu devia ficar mais tempo no Saloon um dia desses...#$b#Explorando as táticas dos inimigos...$1",
+        "Fri4": "Eae @, há quanto tempo em!$1#$b#Hm? Te vi ontem?#$b#Ah, então você estava nas sombras também?$1",
+        "Fri6": "Sexta-feira nunca muda né?#$b#Sempre um dia bom para um treinamento ninja!$1",
+        "Fri8": "Sem tempo pra descanso!$1#$b#Uma hora um jutsu sai!$1",
+        "Fri10": "Ei @, o que acha de jogar um jogo comigo?#$b#Quer dizer comigo e com o Mateus, claro...$4",
 
-  //sabado
-  "Sat": "Estou planejando ir comprar algumas coisas na loja do Pierre, como sempre.$1",
-  "Sat2": "Hmm, se eu conseguir prestar atenção...#$e#%Guilherme parece focado em algo.",
-  "Sat4": "Tenho que ficar focado em treinar hoje, não posso dar mole!$1",
-  "Sat6": "Ei, se o Mateus for apostar em algum time, pode jogar essa shuriken nele!#$e#%Guilherme parece estar falando sério.",
-  "Sat8": "O que planejou pra esse fim de semana?$1#$b#Eu estarei treinando meu Ninjutsu, como sempre!$1",
-  "Sat10": "Quero ser um Sensei de respeito!$1#$b#Então, estou melhorando a cada dia graças a você @.$4",
+        //sabado
+        "Sat": "Estou planejando ir comprar algumas coisas na loja do Pierre, como sempre.$1",
+        "Sat2": "Hmm, se eu conseguir prestar atenção...#$e#%Guilherme parece focado em algo.",
+        "Sat4": "Tenho que ficar focado em treinar hoje, não posso dar mole!$1",
+        "Sat6": "Ei, se o Mateus for apostar em algum time, pode jogar essa shuriken nele!#$e#%Guilherme parece estar falando sério.",
+        "Sat8": "O que planejou pra esse fim de semana?$1#$b#Eu estarei treinando meu Ninjutsu, como sempre!$1",
+        "Sat10": "Quero ser um Sensei de respeito!$1#$b#Então, estou melhorando a cada dia graças a você @.$4",
 
-  //domingo
-  "Sun": "Acho que um terno branco ficaria daora em mim!#$b#O que você acha?#$e#Concordo, acho que um estilo ninja ainda é melhor!$1",
-  "Sun2": "Hm, um ninja nunca desiste!$1#$b#Sempre irei ficar focado na missão.$1",
-  "Sun4": "Preciso treinar meu Jutsu supremo!$1",
-  "Sun6": "Cada dia que passa, uma habilidade nova é descoberta, não posso ficar pra traz!$1",
-  "Sun8": "Irei fazer as compras!$1#$e#Relaxa, eu não baixo a guarda.",
-  "Sun10": "Haha, hora de treinar como nunca!$1#$b#Você vem comigo nessa jornada ninja?!$1",
-  
-  // FESTIVAIS
+        //domingo
+        "Sun": "Acho que um terno branco ficaria daora em mim!#$b#O que você acha?#$e#Concordo, acho que um estilo ninja ainda é melhor!$1",
+        "Sun2": "Hm, um ninja nunca desiste!$1#$b#Sempre irei ficar focado na missão.$1",
+        "Sun4": "Preciso treinar meu Jutsu supremo!$1",
+        "Sun6": "Cada dia que passa, uma habilidade nova é descoberta, não posso ficar pra traz!$1",
+        "Sun8": "Irei fazer as compras!$1#$e#Relaxa, eu não baixo a guarda.",
+        "Sun10": "Haha, hora de treinar como nunca!$1#$b#Você vem comigo nessa jornada ninja?!$1",
 
-  //Egg Festival
-  "spring_13": "Terei que ser o mais rápido do festival de hoje!$1",
-  //Flower Dance
-  "spring_24": "Dançar?#$b#Eu faço meus inimigos dançarem!$1#$e#Ah, você tava falando do festival?",
-  //Luau
-  "summer_11": "Será que vai ter lámen no Luau?$1",
-  //Dance of the Moonlight Jellies
-  "summer_28": "Vou ter que pegar uma água-viva no festival de hoje pra desbloquear o Shidori!$1",
-  //Stardew Valley Fair
-  "fall_16": "Meu estilingue tá na mão!#$b#Vou mostrar meu potêncial nesse festival!$1",
-  //Spirit's Eve
-  "fall_27": "Hora de arrastar o Mateus pra esse festival!$1",
-  //Festival of Ice
-  "winter_8": "Pescar? não é um problema pra mim!$1#$b#Eu treinei o suficiente para conseguir ficar mais rápido que um peixe!$10",
-  //Night Market
-  "winter_15": "Ouvi uns rumores do mercado noturno...#$b#Vai ter café grátis!$1",
-  "winter_16": "Cara, o Mateus tá escondendo alguma coisa de mim... suspeito...",
-  "winter_17": "Descobri um quadro atrás da árvore, esse Matias!$5#$b#Você acredita que ele tava comprando quadros que nem eram originais?!$5",
-  //Feast of the Winter Star
-  "winter_25": "Estou pensando se vou dar isso mesmo de presente...#$b#Acho que vai ser bom!$1",
+        // FESTIVAIS
 
-  // PRIMAVERA
-  "spring_1": "Escrevi uma listinha com alguns peixes que a gente precisa...#$b#Espero que o Mateus pegue!$1",
-  "spring_2": "Estou ferrado, nenhum Jutsu parece ser forte o suficiente para derrotar o Mateus no 'Osu!'...$2",
+        //Egg Festival
+        "spring_13": "Terei que ser o mais rápido do festival de hoje!$1",
+        //Flower Dance
+        "spring_24": "Dançar?#$b#Eu faço meus inimigos dançarem!$1#$e#Ah, você tava falando do festival?",
+        //Luau
+        "summer_11": "Será que vai ter lámen no Luau?$1",
+        //Dance of the Moonlight Jellies
+        "summer_28": "Vou ter que pegar uma água-viva no festival de hoje pra desbloquear o Shidori!$1",
+        //Stardew Valley Fair
+        "fall_16": "Meu estilingue tá na mão!#$b#Vou mostrar meu potêncial nesse festival!$1",
+        //Spirit's Eve
+        "fall_27": "Hora de arrastar o Mateus pra esse festival!$1",
+        //Festival of Ice
+        "winter_8": "Pescar? não é um problema pra mim!$1#$b#Eu treinei o suficiente para conseguir ficar mais rápido que um peixe!$10",
+        //Night Market
+        "winter_15": "Ouvi uns rumores do mercado noturno...#$b#Vai ter café grátis!$1",
+        "winter_16": "Cara, o Mateus tá escondendo alguma coisa de mim... suspeito...",
+        "winter_17": "Descobri um quadro atrás da árvore, esse Matias!$5#$b#Você acredita que ele tava comprando quadros que nem eram originais?!$5",
+        //Feast of the Winter Star
+        "winter_25": "Estou pensando se vou dar isso mesmo de presente...#$b#Acho que vai ser bom!$1",
 
-  // VERAO
-  "summer_1": "Ouf, que calor...$2#$e#Espero não ficar queimado com todo esse Sol...$2",
-  
-  //segunda-feira
-  "summer_Mon": "Você é o @ né?$1^Você é a @ né?$1#$b#Deve ser complicado trabalhar na fazenda nesse calor.",
-  "summer_Mon2": "Gosto de andar pela praia durante o verão, esse calor é de matar!$1",
-  "summer_Mon4": "Não me importo de dormir no chão... o problema é quando chove...$2",
-  "summer_Mon6": "Ser um ninja da um trabalhão!#$b#Principalmente nesse calor, fico todo encharcado...$2",
-  "summer_Mon8": "Não se preocupe @, não vou abandonar o caminho ninja!$1",
-  "summer_Mon10": "Um sorvete cairia bem!$1#$b#Vamos comprar na barraquinha do Alex, o que acha?$4",
+        // PRIMAVERA
+        "spring_1": "Escrevi uma listinha com alguns peixes que a gente precisa...#$b#Espero que o Mateus pegue!$1",
+        "spring_2": "Estou ferrado, nenhum Jutsu parece ser forte o suficiente para derrotar o Mateus no 'Osu!'...$2",
 
-  //terça-feira
-  "summer_Tue": "Seria uma boa comprar um sorvete na barraquinha do Alex!$1#$b#Talvez eu passe lá na volta.",
-  "summer_Tue2": "Só consigo dizer uma coisa em questão a monetário nessa estação...$2#$b#F.$2",
-  "summer_Tue4": "Alguns me chamam de Ninja do Photoshop, não existe nenhuma imagem que não pode ser melhorada!$1",
-  "summer_Tue6": "Será que o Mago era algum tipo de aventureiro?#$b#Se ele era, talvez ele conheça algum ninja de verdade!$8",
-  "summer_Tue8": "Acho que vai ficar tudo bem se eu conseguir manusear o dinheiro corretamente!$1#$e#Não se preocupe, estou sempre de olho no Mateus.#$b#Ele não vai gastar mais nenhum tostão.$1",
-  "summer_Tue10": "Ah! Eae @!$1#$b#Tá quente hoje né?$4",
+        // VERAO
+        "summer_1": "Ouf, que calor...$2#$e#Espero não ficar queimado com todo esse Sol...$2",
 
-  //quarta-feira
-  "summer_Wed": "Você viu o Mateus por aí?#$b#Preciso ficar de olho nele, se não nosso dinheiro vai sumir denovo.$2",
-  "summer_Wed2": "Não posso esquecer de fazer minhas compras diárias!$1#$b#Isso é muito importante.",
-  "summer_Wed4": "Gosto de ficar pela praia, a brisa do mar é revigorante!$1",
-  "summer_Wed6": "Já passamos por tantos problemas, mas o maior deles é o dinheiro.$2",
-  "summer_Wed8": "Irei trabalhar duro para conseguir alcançar o nível de um Hokage!$1",
-  "summer_Wed10": "Terminei de fazer minha lista, e... eu acho que você vai concordar com isso...$1#$b#\"Prioridade número 3: Mateus é um perigo, o dinheiro nunca deve ficar com ele.\".#$b#\"Prioridade número 2: Fazer as compras no Pierre, quero que todos fiquem tranquilos quanto a compras.\".#$b#\"Prioridade número 1: @... é alguém muito especial.\".$4",
+        //segunda-feira
+        "summer_Mon": "Você é o @ né?$1^Você é a @ né?$1#$b#Deve ser complicado trabalhar na fazenda nesse calor.",
+        "summer_Mon2": "Gosto de andar pela praia durante o verão, esse calor é de matar!$1",
+        "summer_Mon4": "Não me importo de dormir no chão... o problema é quando chove...$2",
+        "summer_Mon6": "Ser um ninja da um trabalhão!#$b#Principalmente nesse calor, fico todo encharcado...$2",
+        "summer_Mon8": "Não se preocupe @, não vou abandonar o caminho ninja!$1",
+        "summer_Mon10": "Um sorvete cairia bem!$1#$b#Vamos comprar na barraquinha do Alex, o que acha?$4",
 
-  //quinta-feira
-  "summer_Thu": "Quanto será que ainda temos, isso é suficiente...?#$b#%Guilherme parece estar imerso nas contas.",
-  "summer_Thu2": "Não temos tempo @!$8#$b#Ser um ninja requer treino pesado!",
-  "summer_Thu4": "Acho que estou pegando leve no meu treinamento, assim não vou conseguir alcançar o maior nível...$2",
-  "summer_Thu8": "Vou torcer por você, e você pode torcer por mim!$1#$b#Vamos virar os melhores ninjas dessa vila!$1",
-  "summer_Thu10": "Ficarei pra sempre do seu lado, então...#$b#Não me decepcione!$4",
+        //terça-feira
+        "summer_Tue": "Seria uma boa comprar um sorvete na barraquinha do Alex!$1#$b#Talvez eu passe lá na volta.",
+        "summer_Tue2": "Só consigo dizer uma coisa em questão a monetário nessa estação...$2#$b#F.$2",
+        "summer_Tue4": "Alguns me chamam de Ninja do Photoshop, não existe nenhuma imagem que não pode ser melhorada!$1",
+        "summer_Tue6": "Será que o Mago era algum tipo de aventureiro?#$b#Se ele era, talvez ele conheça algum ninja de verdade!$8",
+        "summer_Tue8": "Acho que vai ficar tudo bem se eu conseguir manusear o dinheiro corretamente!$1#$e#Não se preocupe, estou sempre de olho no Mateus.#$b#Ele não vai gastar mais nenhum tostão.$1",
+        "summer_Tue10": "Ah! Eae @!$1#$b#Tá quente hoje né?$4",
 
-  //sexta-feira
-  "summer_Fri": "@, a quanto tempo!$1#$b#Deve estar imerso na fazenda né?^Deve estar imersa na fazenda né?#$b#Imagino que nessa calor as coisas devem estar mais complicadas ainda...$2",
-  "summer_Fri2": "Foco! Foco! Preciso de foco!$5#$b#%Guilherme está tentando MUITO calcular os gastos...",
-  "summer_Fri4": "Oi Guilherme!$10#$b#Eita, foi mal, é um tique nervoso...$8",
-  "summer_Fri6": "O Mateus pode ter ganho a partida ontem...#$b#Mas amanhã com certeza será diferente!$1",
-  "summer_Fri8": "Preciso da sua ajuda!#$b#Que tal irmos treinar juntos hoje?$1",
-  "summer_Fri10": "O Gustavo está melhorando a cada dia, agora sou digno de ser o sensei dele!$1#$b#Tudo graças a você @!$4",
+        //quarta-feira
+        "summer_Wed": "Você viu o Mateus por aí?#$b#Preciso ficar de olho nele, se não nosso dinheiro vai sumir denovo.$2",
+        "summer_Wed2": "Não posso esquecer de fazer minhas compras diárias!$1#$b#Isso é muito importante.",
+        "summer_Wed4": "Gosto de ficar pela praia, a brisa do mar é revigorante!$1",
+        "summer_Wed6": "Já passamos por tantos problemas, mas o maior deles é o dinheiro.$2",
+        "summer_Wed8": "Irei trabalhar duro para conseguir alcançar o nível de um Hokage!$1",
+        "summer_Wed10": "Terminei de fazer minha lista, e... eu acho que você vai concordar com isso...$1#$b#\"Prioridade número 3: Mateus é um perigo, o dinheiro nunca deve ficar com ele.\".#$b#\"Prioridade número 2: Fazer as compras no Pierre, quero que todos fiquem tranquilos quanto a compras.\".#$b#\"Prioridade número 1: @... é alguém muito especial.\".$4",
 
-  //sabado
-  "summer_Sat": "Ta tão quente que já tô todo queimado!$5",
-  "summer_Sat2": "Sabe, dar uma variada no dia a dia é bom de vez enquando!$1",
-  "summer_Sat4": "Vou estar no meu treinamento, então me avise se quiser falar algo!$1",
-  "summer_Sat6": "@! O que acha de me ajudar nas compras?$1#$b#Preciso de toda ajuda necessária.",
-  "summer_Sat8": "Cara, um sorvetinho agora cairia bem!$1",
-  "summer_Sat10": "Ei, se quiser podemos comer uma pizza depois, ainda temos dinheiro sobrando!$4",
+        //quinta-feira
+        "summer_Thu": "Quanto será que ainda temos, isso é suficiente...?#$b#%Guilherme parece estar imerso nas contas.",
+        "summer_Thu2": "Não temos tempo @!$8#$b#Ser um ninja requer treino pesado!",
+        "summer_Thu4": "Acho que estou pegando leve no meu treinamento, assim não vou conseguir alcançar o maior nível...$2",
+        "summer_Thu8": "Vou torcer por você, e você pode torcer por mim!$1#$b#Vamos virar os melhores ninjas dessa vila!$1",
+        "summer_Thu10": "Ficarei pra sempre do seu lado, então...#$b#Não me decepcione!$4",
 
-  //domingo
-  "summer_Sun": "Estou indo treinar, até mais!$1",
-  "summer_Sun2": "Ainda tenho tempo pra decidir meu próximo movimento ninja!$1#$b#Então, o que foi?",
-  "summer_Sun4": "@, durante o verão é um bom momento pra nadar né!$1#$b#Queria ter trago meu shorts.$2",
-  "summer_Sun6": "Agora não é hora de ficar remoendo as coisas, preciso me adaptar para me tornar um ninja melhor!$1",
-  "summer_Sun8": "O que será que posso comprar hoje?#$b#Alguma idéia @?",
-  "summer_Sun10": "Não se preocupe, estou treinando duro pra ser digno de estar do seu lado!$4",
+        //sexta-feira
+        "summer_Fri": "@, a quanto tempo!$1#$b#Deve estar imerso na fazenda né?^Deve estar imersa na fazenda né?#$b#Imagino que nessa calor as coisas devem estar mais complicadas ainda...$2",
+        "summer_Fri2": "Foco! Foco! Preciso de foco!$5#$b#%Guilherme está tentando MUITO calcular os gastos...",
+        "summer_Fri4": "Oi Guilherme!$10#$b#Eita, foi mal, é um tique nervoso...$8",
+        "summer_Fri6": "O Mateus pode ter ganho a partida ontem...#$b#Mas amanhã com certeza será diferente!$1",
+        "summer_Fri8": "Preciso da sua ajuda!#$b#Que tal irmos treinar juntos hoje?$1",
+        "summer_Fri10": "O Gustavo está melhorando a cada dia, agora sou digno de ser o sensei dele!$1#$b#Tudo graças a você @!$4",
 
-  // OUTONO
-  "fall_1": "Um ar fresco depois de uma estação tão quente...#$b#Que delicia.$1",
+        //sabado
+        "summer_Sat": "Ta tão quente que já tô todo queimado!$5",
+        "summer_Sat2": "Sabe, dar uma variada no dia a dia é bom de vez enquando!$1",
+        "summer_Sat4": "Vou estar no meu treinamento, então me avise se quiser falar algo!$1",
+        "summer_Sat6": "@! O que acha de me ajudar nas compras?$1#$b#Preciso de toda ajuda necessária.",
+        "summer_Sat8": "Cara, um sorvetinho agora cairia bem!$1",
+        "summer_Sat10": "Ei, se quiser podemos comer uma pizza depois, ainda temos dinheiro sobrando!$4",
 
-  // INVERNO
-  "winter_1": "Será que a gente vai sobreviver esse inverno?!$2#$e#Acho que precisamos de um estoque de comida maior...$2",
+        //domingo
+        "summer_Sun": "Estou indo treinar, até mais!$1",
+        "summer_Sun2": "Ainda tenho tempo pra decidir meu próximo movimento ninja!$1#$b#Então, o que foi?",
+        "summer_Sun4": "@, durante o verão é um bom momento pra nadar né!$1#$b#Queria ter trago meu shorts.$2",
+        "summer_Sun6": "Agora não é hora de ficar remoendo as coisas, preciso me adaptar para me tornar um ninja melhor!$1",
+        "summer_Sun8": "O que será que posso comprar hoje?#$b#Alguma idéia @?",
+        "summer_Sun10": "Não se preocupe, estou treinando duro pra ser digno de estar do seu lado!$4",
 
-  //segunda-feira
-  "winter_Mon": "Se continuar assim, eu vou virar um cubo de gelo daqui a pouco...$2",
-  "winter_Mon2": "Argh! Sabia que devia ter comprado mais comida!$2",
-  "winter_Mon4": "Ei @, já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
-  "winter_Mon6": "O Gustavo disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
-  "winter_Mon8": "@, vou me tornar o melhor ninja e chegar no nível de um Hokage!$1#$b#E então, quando esse frio passar, será um novo começo!$1",
-  "winter_Mon10": "Amor, tenho um treinamento ninja especial pra gente se esquentar!$4#$b#Você advinhou! Uma corrida ninja!$1",
+        // OUTONO
+        "fall_1": "Um ar fresco depois de uma estação tão quente...#$b#Que delicia.$1",
 
-  //terça-feira
-  "winter_Tue": "Tenho que fazer meu treino ninja pra me esquentar!$1",
-  "winter_Tue2": "Eae @!$1#$b#Espero não estar te atrapalhando, mas esse frio ta de matar.",
-  "winter_Tue4": "@, se quiser posso te dar umas aulas de jutsu, o que você acha?$1#$b#Imagina você conseguir usar uma bola de fogo!$8#$b#Cara, derreteria toda essa neve!$1",
-  "winter_Tue6": "@, tá muito pior do que antes!$2#$b#O Mateus não para de comprar coisas no Gus, é algum tipo de piada de inverno?!$5",
-  "winter_Tue8": "Tentei usar um jutsu de bola de fogo, mas falhei miserávelmente...$2#$b#Bom, aos poucos eu chego lá!",
-  "winter_Tue10": "É meio perigoso deixar o pessoal sozinho, nunca se sabe o que eles podem fazer, ou o dinheiro que eles podem gastar!$2#$b#Ainda mais no inverno!$7",
+        // INVERNO
+        "winter_1": "Será que a gente vai sobreviver esse inverno?!$2#$e#Acho que precisamos de um estoque de comida maior...$2",
 
-  //quarta-feira
-  "winter_Wed": "Que friiiiooo...$2",
-  "winter_Wed2": "Queria ter uma lareira, deve ser bem confortável!$1",
-  "winter_Wed4": "Sempre vou fazer as compras no Pierre, o problema é que o estoque no inverno é bem baixo...$2#$b#Como vai o seu estoque de comida?",
-  "winter_Wed6": "A última coisa que eu quero fazer nesse frio é um jutsu de controlar a água...#$b#O gelo ia me atrapalhar!$2",
-  "winter_Wed8": "@, preciso terminar de anotar as coisas na minha lista de compras, você pode me ajudar?$1",
+        //segunda-feira
+        "winter_Mon": "Se continuar assim, eu vou virar um cubo de gelo daqui a pouco...$2",
+        "winter_Mon2": "Argh! Sabia que devia ter comprado mais comida!$2",
+        "winter_Mon4": "Ei @, já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
+        "winter_Mon6": "O Gustavo disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
+        "winter_Mon8": "@, vou me tornar o melhor ninja e chegar no nível de um Hokage!$1#$b#E então, quando esse frio passar, será um novo começo!$1",
+        "winter_Mon10": "Amor, tenho um treinamento ninja especial pra gente se esquentar!$4#$b#Você advinhou! Uma corrida ninja!$1",
 
-  //quinta-feira
-  "winter_Thu": "Acho que preciso de um chocolate quente...$2",
-  "winter_Thu2": "Melhor ir treinar, sempre é bom se esquentar com um exercício!$1",
-  "winter_Thu4": "Preciso de uma chama para ascender esse frio no meu coração...$2#$b#Sério, minha blusa ta furada bem no coração!$8#$b#Aqui, olha!$8",
-  "winter_Thu8": "E pensar que um ano já está acabando...$2#$b#Bom, pelo menos me diverti bastante com você-$1#$b#Quer dizer vocês todos!$4",
-  "winter_Thu10": "@, vamos sair pra tomar um chocolate quente, tipo... só nós dois?$4#$b#Nesse frio o gosto do chocolate quente fica ainda melhor, prometo!$1",
+        //terça-feira
+        "winter_Tue": "Tenho que fazer meu treino ninja pra me esquentar!$1",
+        "winter_Tue2": "Eae @!$1#$b#Espero não estar te atrapalhando, mas esse frio ta de matar.",
+        "winter_Tue4": "@, se quiser posso te dar umas aulas de jutsu, o que você acha?$1#$b#Imagina você conseguir usar uma bola de fogo!$8#$b#Cara, derreteria toda essa neve!$1",
+        "winter_Tue6": "@, tá muito pior do que antes!$2#$b#O Mateus não para de comprar coisas no Gus, é algum tipo de piada de inverno?!$5",
+        "winter_Tue8": "Tentei usar um jutsu de bola de fogo, mas falhei miserávelmente...$2#$b#Bom, aos poucos eu chego lá!",
+        "winter_Tue10": "É meio perigoso deixar o pessoal sozinho, nunca se sabe o que eles podem fazer, ou o dinheiro que eles podem gastar!$2#$b#Ainda mais no inverno!$7",
 
-  //sexta-feira
-  "winter_Fri": "@, como vão as coisas na fazenda?#$b#É verdade, não da pra plantar no inverno...$2",
-  "winter_Fri2": "@, vou correr até me esquentar!$1#$b#Te vejo por aí!$1",
-  "winter_Fri4": "Ei @, sempre treino jutsus junto com o Gustavo durante a tarde, é bom para se esquentar!$1#$b#Acho que estou cada vez mais perto de lançar um jutsu, eu sinto isso!$1",
-  "winter_Fri6": "Tenho certeza que as habilidades do Mateus estão limitadas nesse frio...$6#$b#É um bom momento pra vencer dele!$6",
-  "winter_Fri8": "@, preciso de uma ajudinha nas compras, você pode vir comigo?#$b#Prometo que não vai demorar!$1#$b#Se quiser, podemos comer algo depois.",
-  "winter_Fri10": "Não deixei de fazer meu treino matinal!$1#$b#Ser um ninja é proteger quem você ama...$4",
+        //quarta-feira
+        "winter_Wed": "Que friiiiooo...$2",
+        "winter_Wed2": "Queria ter uma lareira, deve ser bem confortável!$1",
+        "winter_Wed4": "Sempre vou fazer as compras no Pierre, o problema é que o estoque no inverno é bem baixo...$2#$b#Como vai o seu estoque de comida?",
+        "winter_Wed6": "A última coisa que eu quero fazer nesse frio é um jutsu de controlar a água...#$b#O gelo ia me atrapalhar!$2",
+        "winter_Wed8": "@, preciso terminar de anotar as coisas na minha lista de compras, você pode me ajudar?$1",
 
-  //sabado
-  "winter_Sat": "Que frio... espero que você esteja bem agasalhado!$1",
-  "winter_Sat2": "Os sacos de dormir não vão segurar esse frio...$2#$b#Ah cara, só queria uma cama e um cobertor quentinhos...$2",
-  "winter_Sat4": "Será que o Pierre vai ter estoque amanhã?#$b#Durante o inverno é meio complicado...$2#$b#Ah, ele tem uma estufa?!$8#$b#Então me preocupei á toa!$1",
-  "winter_Sat6": "Cara, a verdade é que eu acho a fonte da cidade meio sem graça, por isso vou lá de vez enquando...#$b#Qual foi a idéia deles, eu fico me perguntando...$2",
-  "winter_Sat8": "O que será que posso fazer hoje?#$b#Ei @, tem algum plano secreto de ninja especial pra hoje?$1",
-  "winter_Sat10": "Amor, vou comprar algumas coisas no Pierre, vai querer algo?!$1#$b#Não se preocupa, meus calculos nunca falham...#$b#Mas também, eu nunca dou acerto certeiro...$2",
+        //quinta-feira
+        "winter_Thu": "Acho que preciso de um chocolate quente...$2",
+        "winter_Thu2": "Melhor ir treinar, sempre é bom se esquentar com um exercício!$1",
+        "winter_Thu4": "Preciso de uma chama para ascender esse frio no meu coração...$2#$b#Sério, minha blusa ta furada bem no coração!$8#$b#Aqui, olha!$8",
+        "winter_Thu8": "E pensar que um ano já está acabando...$2#$b#Bom, pelo menos me diverti bastante com você-$1#$b#Quer dizer vocês todos!$4",
+        "winter_Thu10": "@, vamos sair pra tomar um chocolate quente, tipo... só nós dois?$4#$b#Nesse frio o gosto do chocolate quente fica ainda melhor, prometo!$1",
 
-  //domingo
-  "winter_Sun": "Pelo menos na loja do Pierre não tá tão frio!$1",
-  "winter_Sun2": "Preciso me tornar um ninja o mais rápido possível, para usar jutsus de fogo nesse inverno!$1",
-  "winter_Sun4": "Amanhã já é segunda-feira denovo...#$b#Pelo menos os dias estão passando rápido!$1#$b#Em breve, primavera denovo!$1",
-  "winter_Sun6": "Meu treinamento está começando a dar frutos!$1#$b#Quero continuar assim, então vamo esquentar as coisas!$1",
-  "winter_Sun8": "Meu momento de vencer do Mateus no joguinho é agora!$6#$b#Esse frio não vai salvar ele!$6",
-  "winter_Sun10": "Meus jutsus ficam melhores a cada dia, em breve vou tornar esse vale um lugar melhor!$1#$b#E você vai estar junto comigo!$4#$b#Tô certo!$1",
+        //sexta-feira
+        "winter_Fri": "@, como vão as coisas na fazenda?#$b#É verdade, não da pra plantar no inverno...$2",
+        "winter_Fri2": "@, vou correr até me esquentar!$1#$b#Te vejo por aí!$1",
+        "winter_Fri4": "Ei @, sempre treino jutsus junto com o Gustavo durante a tarde, é bom para se esquentar!$1#$b#Acho que estou cada vez mais perto de lançar um jutsu, eu sinto isso!$1",
+        "winter_Fri6": "Tenho certeza que as habilidades do Mateus estão limitadas nesse frio...$6#$b#É um bom momento pra vencer dele!$6",
+        "winter_Fri8": "@, preciso de uma ajudinha nas compras, você pode vir comigo?#$b#Prometo que não vai demorar!$1#$b#Se quiser, podemos comer algo depois.",
+        "winter_Fri10": "Não deixei de fazer meu treino matinal!$1#$b#Ser um ninja é proteger quem você ama...$4",
 
-  // EVENTOS
-  "Evento_SeedShop_Bom": "Uh! Boa idéia!$8",
-  "Evento_SeedShop_Neutro": "Com certeza não...$2",
-  "Evento_SeedShop_Ruim": "Ah, tudo bem então...$2",
+        //sabado
+        "winter_Sat": "Que frio... espero que você esteja bem agasalhado!$1",
+        "winter_Sat2": "Os sacos de dormir não vão segurar esse frio...$2#$b#Ah cara, só queria uma cama e um cobertor quentinhos...$2",
+        "winter_Sat4": "Será que o Pierre vai ter estoque amanhã?#$b#Durante o inverno é meio complicado...$2#$b#Ah, ele tem uma estufa?!$8#$b#Então me preocupei á toa!$1",
+        "winter_Sat6": "Cara, a verdade é que eu acho a fonte da cidade meio sem graça, por isso vou lá de vez enquando...#$b#Qual foi a idéia deles, eu fico me perguntando...$2",
+        "winter_Sat8": "O que será que posso fazer hoje?#$b#Ei @, tem algum plano secreto de ninja especial pra hoje?$1",
+        "winter_Sat10": "Amor, vou comprar algumas coisas no Pierre, vai querer algo?!$1#$b#Não se preocupa, meus calculos nunca falham...#$b#Mas também, eu nunca dou acerto certeiro...$2",
 
-  "Evento_Jutsus_Bom": "Esse é o espírito!$9#$b#Chega aqui do lado que vou te ensinar!$9",
-  "Evento_Jutsus_Neutro": "Então não preciso te ensinar...$9",
-  "Evento_Jutsus_Ruim": "...$9",
-  "Evento_Jutsus_Ok": "Certo!$9",
+        //domingo
+        "winter_Sun": "Pelo menos na loja do Pierre não tá tão frio!$1",
+        "winter_Sun2": "Preciso me tornar um ninja o mais rápido possível, para usar jutsus de fogo nesse inverno!$1",
+        "winter_Sun4": "Amanhã já é segunda-feira denovo...#$b#Pelo menos os dias estão passando rápido!$1#$b#Em breve, primavera denovo!$1",
+        "winter_Sun6": "Meu treinamento está começando a dar frutos!$1#$b#Quero continuar assim, então vamo esquentar as coisas!$1",
+        "winter_Sun8": "Meu momento de vencer do Mateus no joguinho é agora!$6#$b#Esse frio não vai salvar ele!$6",
+        "winter_Sun10": "Meus jutsus ficam melhores a cada dia, em breve vou tornar esse vale um lugar melhor!$1#$b#E você vai estar junto comigo!$4#$b#Tô certo!$1",
 
-  "Evento_Triste_Bom": "...!$8",
-  "Evento_Triste_Neutro": "Esse não é o ponto...$2",
-  "Evento_Triste_Ruim": "Acho que decepcionei a todos...$2",
+        // EVENTOS
+        "Evento_SeedShop_Bom": "Uh! Boa idéia!$8",
+        "Evento_SeedShop_Neutro": "Com certeza não...$2",
+        "Evento_SeedShop_Ruim": "Ah, tudo bem então...$2",
 
-  "Evento_Tronco_Bom": "Chega ai!$9",
-  "Evento_Tronco_Neutro": "Bom, a escolha é sua... até mais!$9",
-  "Evento_Tronco_Ruim": "Mesmo depois de tudo que passamos...?$9"
+        "Evento_Jutsus_Bom": "Esse é o espírito!$9#$b#Chega aqui do lado que vou te ensinar!$9",
+        "Evento_Jutsus_Neutro": "Então não preciso te ensinar...$9",
+        "Evento_Jutsus_Ruim": "...$9",
+        "Evento_Jutsus_Ok": "Certo!$9",
+
+        "Evento_Triste_Bom": "...!$8",
+        "Evento_Triste_Neutro": "Esse não é o ponto...$2",
+        "Evento_Triste_Ruim": "Acho que decepcionei a todos...$2",
+
+        "Evento_Tronco_Bom": "Chega ai!$9",
+        "Evento_Tronco_Neutro": "Bom, a escolha é sua... até mais!$9",
+        "Evento_Tronco_Ruim": "Mesmo depois de tudo que passamos...?$9"
+      }
+    }
+  ]
 }
