@@ -2,42 +2,28 @@
 	"Changes": 
 	[
 		//Dialogues
+		//Carrega os diálogos como nulo
 		{
 			"Action": "Load",
 			"Target": "Characters/Dialogue/Guilherme, Characters/Dialogue/Gustavo, Characters/Dialogue/Luigi, Characters/Dialogue/Mateus, Characters/Dialogue/Ronaldo, Characters/Dialogue/Seba",
-			"FromFile": "assets/CharactersFiles/Dialogues/{{TargetWithoutPath}}/Dialogue.json"
+			"FromFile": "data/LoadData/EmptyJson.json"
+		},
+		//Edita os Diálogos
+		{
+			"Action": "Include",
+			"FromFile": "assets/CharactersFiles/Dialogues/Guilherme/Dialogue.json, assets/CharactersFiles/Dialogues/Gustavo/Dialogue.json, assets/CharactersFiles/Dialogues/Luigi/Dialogue.json, assets/CharactersFiles/Dialogues/Mateus/Dialogue.json, assets/CharactersFiles/Dialogues/Ronaldo/Dialogue.json, assets/CharactersFiles/Dialogues/Seba/Dialogue.json"
 		},
    
 		//Married Dialogues
 		{
-			//Married Dialogue Guilherme
 			"Action": "Load",
-			"Target": "Characters/Dialogue/MarriageDialogueGuilherme",
-			"FromFile": "assets/CharactersFiles/Dialogues/Guilherme/MarriageDialogue.json"
+			"Target": "Characters/Dialogue/MarriageDialogueGuilherme, Characters/Dialogue/MarriageDialogueGustavo, Characters/Dialogue/MarriageDialogueLuigi, Characters/Dialogue/MarriageDialogueMateus",
+			"FromFile": "data/LoadData/EmptyJson.json"
 		},
 
-   
 		{
-			//Married Dialogue Gustavo
-			"Action": "Load",
-			"Target": "Characters/Dialogue/MarriageDialogueGustavo",
-			"FromFile": "assets/CharactersFiles/Dialogues/Gustavo/MarriageDialogue.json"
-		},
-
-   
-		{
-			//Married Dialogue Luigi
-			"Action": "Load",
-			"Target": "Characters/Dialogue/MarriageDialogueLuigi",
-			"FromFile": "assets/CharactersFiles/Dialogues/Luigi/MarriageDialogue.json"
-		},
-
-   
-		{
-			//Married Dialogue Mateus
-			"Action": "Load",
-			"Target": "Characters/Dialogue/MarriageDialogueMateus",
-			"FromFile": "assets/CharactersFiles/Dialogues/Mateus/MarriageDialogue.json"
+			"Action": "Include",
+			"FromFile": "assets/CharactersFiles/Dialogues/Guilherme/MarriageDialogue.json, assets/CharactersFiles/Dialogues/Gustavo/MarriageDialogue.json, assets/CharactersFiles/Dialogues/Luigi/MarriageDialogue.json, assets/CharactersFiles/Dialogues/Mateus/MarriageDialogue.json"
 		},
 	]
 }

@@ -7,12 +7,12 @@
 			"Target": "Data/NPCDispositions",
 			"Entries": 
 			{
-				"Guilherme": "teen/neutral/outgoing/neutral/male/datable/null/Town/fall 03//Custom_DMBarraca 10 14/Guilherme",
-				"Gustavo": "teen/neutral/shy/positive/male/datable/null/Town/fall 06//Custom_DMBarraca 5 12/Gustavo",
-				"Luigi": "teen/polite/shy/negative/male/datable/null/Town/fall 26//Custom_DMBarraca 12 12/Luigi",
-				"Mateus": "teen/neutral/shy/positive/male/datable/null/Town/winter 28//Custom_DMBarraca 7 14/Mateus",
-				"Ronaldo": "teen/rude/outgoing/negative/male/not-datable/null/Town/fall 28//Custom_DMBarraca 12 15/Ronaldo",
-				"Seba": "teen/polite/shy/negative/male/not-datable/null/Town/summer 28//Custom_DMBarraca 5 15/Seba"
+				"Guilherme": "teen/neutral/outgoing/neutral/male/datable/null/Town/fall 03//Custom_DMBarraca 6 10/{{i18n:Name.Guilherme}}",
+				"Gustavo": "teen/neutral/shy/positive/male/datable/null/Town/fall 06//Custom_DMBarraca 1 8/{{i18n:Name.Gustavo}}",
+				"Luigi": "teen/polite/shy/negative/male/datable/null/Town/fall 26//Custom_DMBarraca 8 8/{{i18n:Name.Luigi}}",
+				"Mateus": "teen/neutral/shy/positive/male/datable/null/Town/winter 28//Custom_DMBarraca 3 10/{{i18n:Name.Mateus}}",
+				"Ronaldo": "teen/rude/outgoing/negative/male/not-datable/null/Town/fall 28//Custom_DMBarraca 8 11/{{i18n:Name.Ronaldo}}",
+				"Seba": "teen/polite/shy/negative/male/not-datable/null/Town/summer 27//Custom_DMBarraca 1 11/{{i18n:Name.Seba}}"
 			}
 		}
 	]

@@ -70,24 +70,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Ah, eu realmente não gosto de filmes de terror...$2"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/shake Luigi 2000/pause 500/message \"Luigi está em choque.\"",
-								"Text": "Ah! Não dá mais pra assistir!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Nunca mais me chame pra assistir filmes de terror.$5"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Luigi.MoviesReactions.BeforeMovie.Horror}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/shake Luigi 2000/pause 500/message \"{{Luigi.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Text": "{{Luigi.MoviesReactions.DuringMovie.Text.Horror}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{Luigi.MoviesReactions.AfterMovie.Text.Horror}}"
+								}
 							},
 							"ID": "reaction_0"
 						},
@@ -97,24 +97,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Um filme de ação!?$1#$b#Isso vai ser legal!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Wow, que incrível!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.BeforeMovie.Text.Action}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.DuringMovie.Text.Action}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.AfterMovie.Text.Action}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -124,24 +124,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Essa foi boa!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Deu pra dar umas boas risadas!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.DuringMovie.Text.Comedy}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -151,24 +151,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Isso deve ter sido uma escolha de Steins;Gate!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Pera, é sério isso?!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme foi melhor do que eu esperava!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.BeforeMovie.Text.Scifi}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.DuringMovie.Text.Scifi}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.AfterMovie.Text.Scifi}}"
+								}
 							},
 							"ID": "reaction_3"
 						},
@@ -178,24 +178,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Filmes de jogos costumam ser ruins, vamos ver se esse me surpreende!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/shake Luigi 2000/pause 500/message \"Luigi parece completamente imerso.\"",
-								"Text": "Ai sim!$1#$b#Ops, acho que falei alto demais...$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme foi muito bom!$1#$b#Valeu por me chamar pra assistir."
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.BeforeMovie.Text.PraireKing}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/shake Luigi 2000/pause 500/message \"{{i18n: Luigi.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Text": "{{i18n: Luigi.MoviesReactions.DuringMovie.Text.PraireKing}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Luigi.MoviesReactions.AfterMovie.Text.PraireKing}}"
+								}
 							},
 							"ID": "reaction_4"
 						}
@@ -213,24 +213,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Por que você fez isso comigo...?$2"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/shake Mateus 2000/pause 500/message \"Mateus está em choque.\"",
-								"Text": "Ah! Não consigo! Chega!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Nunca mais me chame pra assistir filmes de terror... sério.$2"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.BeforeMovie.Text.Horror}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/shake Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.Horror}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.AfterMovie.Text.Horror}}"
+								}
 							},
 							"ID": "reaction_0"
 						},
@@ -240,24 +240,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Um filme de ação!?$1#$b#Isso vai ser legal!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Wow, que incrível!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.BeforeMovie.Text.Action}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.Action}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.AfterMovie.Text.Action}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -267,24 +267,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Essa foi boa!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Deu pra dar umas boas risadas!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.Comedy}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -294,24 +294,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Sci-fi?#$b#Acho que não vai ser tão interessante..."
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/message \"Mateus está dormindo.\"",
-								"Text": ""
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Eh... o que aconteceu no filme?"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Text.Comedy}}\"",
+									"Text": ""
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_3"
 						},
@@ -321,24 +321,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Eu conheço esse, acho que vai ser bom!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/shake Mateus 2000/pause 500/message \"Mateus parece completamente imerso.\"",
-								"Text": "Que épico!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme foi incrível!$1#$b#Me chame mais vezes pra assistir."
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.BeforeMovie.Text.PraireKing}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/shake Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.PraireKing}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Mateus.MoviesReactions.AfterMovie.Text.PraireKing}}"
+								}
 							},
 							"ID": "reaction_4"
 						}
@@ -356,24 +356,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Não sou muito fã de filmes de terror, mas espero que seja bom."
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/jump Guilherme 7/pause 500/message \"Guilherme deu um pulinho.\"",
-								"Text": "Esse me pegou de surpresa!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Não foi tão assustador assim..."
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.BeforeMovie.Text.Horror}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/jump Guilherme 7/pause 500/message \"{{i18n: Guilherme.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Text": "{{i18n: Guilherme.MoviesReactions.DuringMovie.Text.Horror}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.AfterMovie.Text.Horror}}"
+								}
 							},
 							"ID": "reaction_0"
 						},
@@ -383,24 +383,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Um filme de ação?#$b#Espero que seja épico!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Olha esses efeitos visuais!$8#$b#Olha esse slow motion!$8"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme tinha uns efeitos visuais incríveis!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.BeforeMovie.Text.Action}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.DuringMovie.Text.Action}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.AfterMovie.Text.Action}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -410,24 +410,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme com certeza vai ser bom!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Classica, classica!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Foi bom demais, me chama mais vezes pra assistir!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.DuringMovie.Text.Comedy}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n: Guilherme.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -437,24 +437,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Não vejo a hora de assistir esse filme!$1#$b#Será que vai ter um plot twist interessante?"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Então era isso?!$8#$b#Que incrível!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse plot twist foi insano!$1#$b#Quero ver mais desses."
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Guilherme.MoviesReactions.BeforeMovie.Text.Scifi}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Guilherme.MoviesReactions.DuringMovie.Text.Scifi}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Guilherme.MoviesReactions.AfterMovie.Text.Scifi}}"
+								}
 							},
 							"ID": "reaction_3"
 						},
@@ -464,24 +464,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Não tenho boas memórias com esse jogo...$2#$b#Mateus sempre ganha de mim."
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "/shake Guilherme 2000/pause 500/message \"Guilherme parece completamente imerso.\"",
-								"Text": "É realmente igual no jogo!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Que filme bom!$1#$b#Espero que tenha continuação."
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Guilherme.MoviesReactions.BeforeMovie.Text.PraireKing}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "/shake Guilherme 2000/pause 500/message \"{{i18n:Guilherme.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Text": "{{i18n:Guilherme.MoviesReactions.DuringMovie.Text.PraireKing}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Guilherme.MoviesReactions.AfterMovie.Text.PraireKing}}"
+								}
 							},
 							"ID": "reaction_4"
 						}
@@ -499,24 +499,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Espero dar umas risadas com esse filme!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Que tosco!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Você viu a cara daquele monstro?$1#$b#Muito feio!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.BeforeMovie.Text.Horror}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.DuringMovie.Text.Horror}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.AfterMovie.Text.Horror}}"
+								}
 							},
 							"ID": "reaction_0"
 						},
@@ -526,24 +526,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Sempre é bom ver os clássicos!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hm..."
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Realmente passou uma vibe antiga!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.BeforeMovie.Text.Classic}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.DuringMovie.Text.Classic}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.AfterMovie.Text.Classic}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -553,24 +553,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse filme com certeza vai ser bom!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Classica, classica!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Foi bom demais, me chama mais vezes pra assistir!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.DuringMovie.Text.Comedy}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -580,24 +580,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Parece ser bacaninha.#$b#Vamos indo?"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Quê?$6"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Cara, não entendi nada, mas foi bom!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.BeforeMovie.Text.Scifi}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.DuringMovie.Text.Scifi}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Gustavo.MoviesReactions.AfterMovie.Text.Scifi}}"
+								}
 							},
 							"ID": "reaction_3"
 						},
@@ -619,19 +619,19 @@
 							{
 								"ResponsePoint": null,
 								"Script": "",
-								"Text": "Não curto filmes de terror...$2"
+								"Text": "{{i18n:Ronaldo.MoviesReactions.BeforeMovie.Text.Horror}}"
 							},
 							"DuringMovie": 
 							{
 								"ResponsePoint": null,
 								"Script": "",
-								"Text": "Oxe, como isso é possível?!"
+								"Text": "{{i18n:Ronaldo.MoviesReactions.DuringMovie.Text.Horror}}"
 							},
 							"AfterMovie": 
 							{
 								"ResponsePoint": null,
 								"Script": "",
-								"Text": "Achei meio desnecessário algumas coisas desse filme.$2"
+								"Text": "{{i18n:Ronaldo.MoviesReactions.AfterMovie.Text.Horror}}"
 							}
 							},
 							"ID": "reaction_0"
@@ -642,24 +642,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse documentário é sobre o que mesmo?"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Nossa... não sabia disso!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esse documentário foi interessante, espero ver mais desses!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.BeforeMovie.Text.Documentary}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.DuringMovie.Text.Documentary}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.AfterMovie.Text.Documentary}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -669,24 +669,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Espero dar umas boas risadas!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Hahahaha!$1#$b#Esse aí é foda!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Ri muito mano, valeu a pena!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.BeforeMovie.Text.Comedy}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.DuringMovie.Text.Comedy}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.AfterMovie.Text.Comedy}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -696,24 +696,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Não sou um fã de clássicos, mas vamos ver né..."
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Ué...$2"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Realmente, não gosto muito de clássicos.$2"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.BeforeMovie.Text.Classic}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.DuringMovie.Text.Classic}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Ronaldo.MoviesReactions.AfterMovie.Text.Classic}}"
+								}
 							},
 							"ID": "reaction_3"
 						},
@@ -731,24 +731,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Acho filmes de terror legais, espero gostar desse."
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Ué, isso era pra ser um susto?"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Achei fraco esse filme, meio decepcionante...$2"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.BeforeMovie.Text.Horror}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.DuringMovie.Text.Horror}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.AfterMovie.Text.Horror}}"
+								}
 							},
 							"ID": "reaction_0"
 						},
@@ -758,24 +758,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Será que vai ter naves espaciais nesse filme?"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Esses efeitos tão melhores que meus mangas!$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Que filme bom cara!$1#$b#Vamos assistir denovo outro dia, ok?"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.BeforeMovie.Text.Scifi}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.DuringMovie.Text.Scifi}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.AfterMovie.Text.Scifi}}"
+								}
 							},
 							"ID": "reaction_1"
 						},
@@ -785,24 +785,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Quero ver esses efeitos especiais, coreografia e história!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Eita, isso é possível?!"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Que incrível, esse filme está na minha lista!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.BeforeMovie.Text.Action}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.DuringMovie.Text.Action}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.AfterMovie.Text.Action}}"
+								}
 							},
 							"ID": "reaction_2"
 						},
@@ -812,24 +812,24 @@
 							"Whitelist": [],
 							"SpecialResponses": 
 							{
-							"BeforeMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Espero gostar desse filme!$1"
-							},
-							"DuringMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Ah, que fofo.$1"
-							},
-							"AfterMovie": 
-							{
-								"ResponsePoint": null,
-								"Script": "",
-								"Text": "Foi legalzinho!$1"
-							}
+								"BeforeMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.BeforeMovie.Text.Classic}}"
+								},
+								"DuringMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.DuringMovie.Text.Classic}}"
+								},
+								"AfterMovie": 
+								{
+									"ResponsePoint": null,
+									"Script": "",
+									"Text": "{{i18n:Seba.MoviesReactions.AfterMovie.Text.Classic}}"
+								}
 							},
 							"ID": "reaction_3"
 						},

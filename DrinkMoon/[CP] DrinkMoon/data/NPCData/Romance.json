@@ -7,14 +7,14 @@
 			"Target": "Data/EngagementDialogue",
 			"Entries": 
 			{
-				"Guilherme0": "Nosso casamento vai ser incrível, mal posso esperar!$4",
-			  	"Guilherme1": "Estarei sempre do seu lado...$4",
-				"Gustavo0": "Até parece que foi ontem nosso primeiro encontro.$4",
-				"Gustavo1": "Seremos muito felizes juntos eu prometo!$4",
-				"Luigi0": "Vão ter muitas pessoas lá né...$4#$b#Sem problemas se eu estiver com você.$4",
-			  	"Luigi1": "Não vejo a hora de me casar com você!$4",
-				"Mateus0": "Estou muito nervoso!$2#$b#Mas emocionado ao mesmo tempo!$4",
-				"Mateus1": "Vamos ser muito felizes juntos, eu prometo!$4"
+				"Guilherme0": "{{i18n:Engagement.Guilherme.{{Random: 0, 1}}}}",
+			  	"Guilherme1": "{{i18n:Engagement.Guilherme.{{Random: 0, 1}}}}",
+				"Gustavo0": "{{i18n:Engagement.Gustavo.{{Random: 0, 1}}}}",
+				"Gustavo1": "{{i18n:Engagement.Gustavo.{{Random: 0, 1}}}}",
+				"Luigi0": "{{i18n:Engagement.Luigi.{{Random: 0, 1}}}}",
+			  	"Luigi1": "{{i18n:Engagement.Luigi.{{Random: 0, 1}}}}",
+				"Mateus0": "{{i18n:Engagement.Mateus.{{Random: 0, 1}}}}",
+				"Mateus1": "{{i18n:Engagement.Mateus.{{Random: 0, 1}}}}"
 			}
 		},
 
@@ -25,11 +25,11 @@
 			"Target": "Characters/Dialogue/Guilherme, Characters/Dialogue/Gustavo, Characters/Dialogue/Luigi, Characters/Dialogue/Mateus",
 			"Entries": 
 			{
-				"give_flowersA": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
-				"give_flowersB": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
-				"stardrop_gift": "Tantas batalhas que já passamos juntos @, só tenho a agradecer!$1#$b#Isso não é uma despedida, isso é um grande começo!$1#$b#Fique com isso, é mais especial pra você do que pra mim.",
-				"rejectNPCA": "Eh... não.$2",
-				"rejectNPCB": "Foi mal, mas isso é um não...$2"
+				"give_flowersA": "{{i18n:SpecialDialogue.GiveFlowers.{{Random: 0, 1}}}}",
+				"give_flowersB": "{{i18n:SpecialDialogue.GiveFlowers.{{Random: 0, 1}}}}",
+				"stardrop_gift": "{{i18n:SpecialDialogue.StardropGift}}",
+				"rejectNPCA": "{{i18n:SpecialDialogue.RejectNPC.{{Random: 0, 1}}}}",
+				"rejectNPCB": "{{i18n:SpecialDialogue.RejectNPC.{{Random: 0, 1}}}}"
 			}
 		},
 
@@ -39,10 +39,10 @@
 			"Target": "Strings/Characters",
 			"Entries": 
 			{
-				"MovieInvite_Spouse_Guilherme": "Assistir um filme só nós dois?$4#$b#Claro, vamo nessa!$1",
-				"MovieInvite_Spouse_Gustavo": "Bora, vai ser divertido!$4",
-				"MovieInvite_Spouse_Luigi": "Me parece uma boa idéia.$4",
-				"MovieInvite_Spouse_Mateus": "Estava esperando por esse momento, vamos nessa!$4"
+				"MovieInvite_Spouse_Guilherme": "{{i18n:MovieInvite.Spouse.Guilherme}}",
+				"MovieInvite_Spouse_Gustavo": "{{i18n:MovieInvite.Spouse.Gustavo}}",
+				"MovieInvite_Spouse_Luigi": "{{i18n:MovieInvite.Spouse.Luigi}}",
+				"MovieInvite_Spouse_Mateus": "{{i18n:MovieInvite.Spouse.Mateus}}"
 			}
 		},
 
@@ -89,23 +89,23 @@
 			"Target": "Strings/StringsFromMaps",
 			"Entries": 
 			{
-			   "GuilhermeRoom.1": "A bandana ninja de Guilherme.",
-			   "GuilhermeRoom.2": "O Polystation 2 de Guilherme.",
-			   "GuilhermeRoom.3": "A câmera de fotos de Guilherme.",
-			   "GuilhermeRoom.4": "Parece que Guilherme estava editando algumas fotos no computador.",
-			   "GuilhermeRoom.5": "Guilherme estava assistindo um anime de ninjas.",
-			   "GustavoRoom.1": "As caixas de som enormes de Gustavo.",
-			   "GustavoRoom.2": "O Xbox 360 de Gustavo.",
-			   "GustavoRoom.3": "Parece que Gustavo estava jogando Destiny com alguém chamado Lucas.",
-			   "GustavoRoom.4": "A casinha de Hamster do Gustavo.#O nome dele é Tazer.",
-			   "LuigiRoom.1": "Uma réplica da espada do herói.",
-			   "LuigiRoom.2": "Alguns equipamentos para exploração das minas.",
-			   "LuigiRoom.3": "Um livro com alguns encantamentos.",
-			   "LuigiRoom.4": "Um manual sobre computadores.",
-			   "LuigiRoom.5": "Luigi estava programando algumas mensagens.",
-			   "MateusRoom.1": "Mateus estava criando um personagem.",
-			   "MateusRoom.2": "Um livro sobre a \"Teoria das cores\".",
-			   "MateusRoom.3": "Parece que Mateus estava vendo um campeonato.",
+			   "GuilhermeRoom.1": "{i18n:SpouseRoom.GuilhermeRoom.1}}",
+			   "GuilhermeRoom.2": "{i18n:SpouseRoom.GuilhermeRoom.2}}",
+			   "GuilhermeRoom.3": "{i18n:SpouseRoom.GuilhermeRoom.3}}",
+			   "GuilhermeRoom.4": "{i18n:SpouseRoom.GuilhermeRoom.4}}",
+			   "GuilhermeRoom.5": "{i18n:SpouseRoom.GuilhermeRoom.5}}",
+			   "GustavoRoom.1": "{i18n:SpouseRoom.GustavoRoom.1}}",
+			   "GustavoRoom.2": "{i18n:SpouseRoom.GustavoRoom.2}}",
+			   "GustavoRoom.3": "{i18n:SpouseRoom.GustavoRoom.3}}",
+			   "GustavoRoom.4": "{i18n:SpouseRoom.GustavoRoom.4}}",
+			   "LuigiRoom.1": "{i18n:SpouseRoom.LuigiRoom.1}}",
+			   "LuigiRoom.2": "{i18n:SpouseRoom.LuigiRoom.2}}",
+			   "LuigiRoom.3": "{i18n:SpouseRoom.LuigiRoom.3}}",
+			   "LuigiRoom.4": "{i18n:SpouseRoom.LuigiRoom.4}}",
+			   "LuigiRoom.5": "{i18n:SpouseRoom.LuigiRoom.5}}",
+			   "MateusRoom.1": "{i18n:SpouseRoom.MateusRoom.1}}",
+			   "MateusRoom.2": "{i18n:SpouseRoom.MateusRoom.2}}",
+			   "MateusRoom.3": "{i18n:SpouseRoom.MateusRoom.3}}",
 			}
 		},
 	]
