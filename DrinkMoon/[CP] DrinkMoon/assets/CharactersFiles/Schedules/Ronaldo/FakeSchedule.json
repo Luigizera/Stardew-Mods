@@ -2,8 +2,8 @@
     // FAKE SCHEDULE
 
     //6:00~9:30 acorda e vai pra montanha programar, 13:00 vai olhar as pedras no caminho da mina, 15:00 vai olhar o centro comunitário, 17:00 Vai olhar o boletim, 18:00 vai ficar andando em volta de uma árvore, 23:00 vai programar no ônibus
-    "spring": "610 ArchaeologyHouse 5 10 0/1000 ArchaeologyHouse 13 9 0/1400 ArchaeologyHouse 32 12 2/1500 ArchaeologyHouse 41 16 1/1530 ArchaeologyHouse 44 9 0/1600 Saloon 3 17 3/1900 Town 24 62 2/2200 Custom_DMBarraca 12 15 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+    "spring": "610 ArchaeologyHouse 5 10 0/1000 ArchaeologyHouse 13 9 0/1400 ArchaeologyHouse 32 12 2/1500 ArchaeologyHouse 41 16 1/1530 ArchaeologyHouse 44 9 0/1600 Saloon 3 17 3/1900 Town 24 62 2/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
 
     // Chuva
-    "rain": "610 Custom_DMBarraca 12 15 2 ronaldo_dormindo/1500 Custom_DMBarraca 11 16 1 \"Strings\\schedules\\Ronaldo:chuva.000\"/1700 Custom_DMBarraca 12 15 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\""
+    "rain": "610 Custom_DMBarraca 8 11 2 ronaldo_dormindo/1500 Custom_DMBarraca 7 12 1 \"Strings\\schedules\\Ronaldo:chuva.000\"/1700 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\""
 }

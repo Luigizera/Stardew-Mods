@@ -1,103 +1,121 @@
-{
-  // ESPECIAIS
-  "Introduction": "Oh, prazer meu nome é Sebastião, mas pode me chamar de Seba.#$b#Precisa de algo?",
-  "MovieInvitation": "Bora, eu chego lá em um minuto.$1",
+{     
+  "Changes": 
+  [
+    {
+          
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Seba",
+      "Entries": 
+      {
+        // ESPECIAIS
+        "Introduction": "{{i18n:Seba.Dialogue.Introduction}}",
+        "MovieInvitation": "{{i18n:Seba.Dialogue.MovieInvitation}}",
 
-  // RESORT
-  "Resort_Entering": "Essas eram as férias que eu queria!$1",
-  "Resort_Leaving": "Até mais meu paraiso...$2",
-  "Resort_Shore": "Ah, a água ta fresquinha!$1#$b#Quero ficar aqui pra sempre.",
-  "Resort_Shore_2": "Isso que é vida!$1#$b#Queria poder nadar todo dia.",
-  "Resort_Umbrella": "Melhor passar um protetor solar, pra ficar bem tranquilinho.",
-  "Resort_Wander": "Queria ver algum macaquinho por aqui, será que tem?!$1",
-  "Resort_Bar": "O que tem de bom no bar aí?$1",
-  "Resort": "Hora de ficar bem tranquilinho na areia.",
-  
-  // DIALOGO COMUM
-  //segunda-feira
-  "Mon": "Desculpa tô meio ocupado, vou terminar minhas coisas...",
-  "Mon2": "Oi @.#$e#Hm, o que foi?",
-  "Mon4": "Gosto de ler mangas quando estou livre!$1",
-  "Mon6": "Ei @, estou trabalhando no meu RPG, em breve vou fazer uma sessão.",
-  "Mon10": "Tenho que terminar o RPG, e vou te dizer @ é cansativo...",
+        // RESORT
+        "Resort_Entering": "{{i18n:Seba.Dialogue.Resort_Entering}}",
+        "Resort_Leaving": "{{i18n:Seba.Dialogue.Resort_Leaving}}",
+        "Resort_Shore": "{{i18n:Seba.Dialogue.Resort_Shore}}",
+        "Resort_Shore_2": "{{i18n:Seba.Dialogue.Resort_Shore_2}}",
+        "Resort_Umbrella": "{{i18n:Seba.Dialogue.Resort_Umbrella}}",
+        "Resort_Wander": "{{i18n:Seba.Dialogue.Resort_Wander}}",
+        "Resort_Bar": "{{i18n:Seba.Dialogue.Resort_Bar}}",
+        "Resort": "{{i18n:Seba.Dialogue.Resort}}",
 
-  //terça-feira
-  "Tue": "Olá, já nos apresentamos?",
-  "Tue2": "Sempre fico na floresta pegando madeira, entediante né?",
-  "Tue4": "Ai ai ai, que preguiça...$2#$b#Você pode me carregar?$2#$e#Brincadeira, vou indo nessa.",
-  "Tue6": "@, como vai seu dia?#$b#Estarei por aí qualquer coisa.",
-  "Tue10": "Se precisar de madeira é só me chamar!$1#$b#Tudo bem que eu não gosto de pegar madeira, mas a gente releva...",
+        // DIALOGO COMUM
+        //segunda-feira
+        "Mon": "{{i18n:Seba.Dialogue.Mon}}",
+        "Mon2": "{{i18n:Seba.Dialogue.Mon2}}",
+        "Mon4": "{{i18n:Seba.Dialogue.Mon4}}",
+        "Mon6": "{{i18n:Seba.Dialogue.Mon6}}",
+        "Mon8": "{{i18n:Seba.Dialogue.Mon8}}",
+        "Mon10": "{{i18n:Seba.Dialogue.Mon10}}",
 
-  //quarta-feira
-  "Wed": "Tô bem tranquilinho...#$e#Hm?",
-  "Wed2": "Levantei mas já quero ir dormir, que cansaço...$2#$b#Isso acontece com você @?",
-  "Wed4": "Já vou indo nessa, até mais @.",
-  "Wed6": "Bom, como você sabe, sempre pego madeira de segunda a sexta...$2#$b#Que chatice...$2",
-  "Wed10": "Talvez eu devesse implementar uma mecânica nova no RPG, o que acha?",
+        //terça-feira
+        "Tue": "{{i18n:Seba.Dialogue.Tue}}",
+        "Tue2": "{{i18n:Seba.Dialogue.Tue2}}",
+        "Tue4": "{{i18n:Seba.Dialogue.Tue4}}",
+        "Tue6": "{{i18n:Seba.Dialogue.Tue6}}",
+        "Tue8": "{{i18n:Seba.Dialogue.Tue8}}",
+        "Tue10": "{{i18n:Seba.Dialogue.Tue10}}",
 
-  //quinta-feira
-  "Thu": "Ah... que cansaço...$2#$b#Sabe, preciso relaxar um pouco.",
-  "Thu2": "Não tenho escolha, hora de fazer minha rotina.",
-  "Thu4": "Ei @, você devia começar a ler mangas também, é uma boa experiência.",
-  "Thu6": "@, que bom te ver!$1#$b#Planejando algo interessante?",
-  "Thu10": "Vamos terminar de ler o último capítulo juntos!$1#$b#Esse vai ser o climax, você tem que ver!$1",
+        //quarta-feira
+        "Wed": "{{i18n:Seba.Dialogue.Wed}}",
+        "Wed2": "{{i18n:Seba.Dialogue.Wed2}}",
+        "Wed4": "{{i18n:Seba.Dialogue.Wed4}}",
+        "Wed6": "{{i18n:Seba.Dialogue.Wed6}}",
+        "Wed8": "{{i18n:Seba.Dialogue.Wed8}}",
+        "Wed10": "{{i18n:Seba.Dialogue.Wed10}}",
 
-  //sexta-feira
-  "Fri": "Tem outro momento?#$b#Preciso ler meu manga.",
-  "Fri2": "Preciso discutir com o Mateus como ele consegue burlar o sistema de venda.",
-  "Fri4": "Onde será que eu vou hoje?#$b#Ah é mesmo, pegar madeira...$2",
-  "Fri6": "Preciso ler um pouco do meu manga, estou quase terminando o capítulo.",
-  "Fri10": "Uma batalha final de respeito, agora posso ir pra próxima light novel!$1",
+        //quinta-feira
+        "Thu": "{{i18n:Seba.Dialogue.Thu}}",
+        "Thu2": "{{i18n:Seba.Dialogue.Thu2}}",
+        "Thu4": "{{i18n:Seba.Dialogue.Thu4}}",
+        "Thu6": "{{i18n:Seba.Dialogue.Thu6}}",
+        "Thu8": "{{i18n:Seba.Dialogue.Thu8}}",
+        "Thu10": "{{i18n:Seba.Dialogue.Thu10}}",
 
-  //sabado
-  "Sat": "Vou falar com o Mateus pra vender as madeiras.",
-  "Sat2": "Vendo as madeiras todo sabado e domingo, não dá pra levar tudo em um dia.",
-  "Sat4": "Tava dormindo ontem, aí vi uma barata pulando.#$b#Tomei um susto que meeeeu amigo...$1",
-  "Sat6": "Bom dia @.#$e#Hm?",
-  "Sat10": "@! @! O RPG vai runfar semana que vem!$1#$b#Inventei um novo...#$e#Meu deus! Esquece!$2#$b#Esqueci arrumar uma coisa...$2",
+        //sexta-feira
+        "Fri": "{{i18n:Seba.Dialogue.Fri}}",
+        "Fri2": "{{i18n:Seba.Dialogue.Fri2}}",
+        "Fri4": "{{i18n:Seba.Dialogue.Fri4}}",
+        "Fri6": "{{i18n:Seba.Dialogue.Fri6}}",
+        "Fri8": "{{i18n:Seba.Dialogue.Fri8}}",
+        "Fri10": "{{i18n:Seba.Dialogue.Fri10}}",
 
-  //domingo
-  "Sun": "Hoje o dia vai ser corrido, vamos lá...",
-  "Sun2": "Terminar de levar as madeiras hoje, e chega.$1",
-  "Sun4": "Hm?#$b#Ah, durante os sábados e domingos eu levo a madeira pra Robin...#$e#Eu já te falei isso?",
-  "Sun6": "Estarei fazendo minha rotina de sempre, te vejo por aí @!$1",
-  "Sun10": "Vou continuar cortando madeira...#$b#Acho que não é tão...#$b#Esquece é sim.$5",
-  
-  // FESTIVAIS
+        //sabado
+        "Sat": "{{i18n:Seba.Dialogue.Sat}}",
+        "Sat2": "{{i18n:Seba.Dialogue.Sat2}}",
+        "Sat4": "{{i18n:Seba.Dialogue.Sat4}}",
+        "Sat6": "{{i18n:Seba.Dialogue.Sat6}}",
+        "Sat8": "{{i18n:Seba.Dialogue.Sat8}}",
+        "Sat10": "{{i18n:Seba.Dialogue.Sat10}}",
 
-  //Egg Festival
-  "spring_13": "Finalmente um dia de festival.$1",
-  //Flower Dance
-  "spring_24": "Vou dançar no festival não, tô tranquilinho.",
-  //Luau
-  "summer_11": "Espero comer bem no festival!$1",
-  //Dance of the Moonlight Jellies
-  "summer_28": "Vai ver as águas-vivas hoje também?$1",
-  //Stardew Valley Fair
-  "fall_16": "Quero ver as exposições hoje.#$b#Espero que você tenha preparado algo legal.",
-  //Spirit's Eve
-  "fall_27": "Quero assustar o Mateus, Hahaha!$1",
-  //Festival of Ice
-  "winter_8": "Ah, floresta...$2#$b#Não gosto de lembrar de pegar madeira.",
-  //Night Market
-  "winter_15": "Você vai no Mercado Noturno?",
-  //Feast of the Winter Star
-  "winter_25": "Já estou com o presente em mãos!$1",
+        //domingo
+        "Sun": "{{i18n:Seba.Dialogue.Sun}}",
+        "Sun2": "{{i18n:Seba.Dialogue.Sun2}}",
+        "Sun4": "{{i18n:Seba.Dialogue.Sun4}}",
+        "Sun6": "{{i18n:Seba.Dialogue.Sun6}}",
+        "Sun8": "{{i18n:Seba.Dialogue.Sun8}}",
+        "Sun10": "{{i18n:Seba.Dialogue.Sun10}}",
 
-  // PRIMAVERA
-  "spring_1": "As flores nessa época do ano são lindas.$1",
+        // FESTIVAIS
 
-  // VERAO
-  "summer_1": "Chegou a estação quente...$2#$b#Só queria uma praia agora.",
+        //Egg Festival
+        "spring_13": "{{i18n:Seba.Dialogue.spring_13}}",
+        //Flower Dance
+        "spring_24": "{{i18n:Seba.Dialogue.spring_24}}",
+        //Luau
+        "summer_11": "{{i18n:Seba.Dialogue.summer_11}}",
+        //Dance of the Moonlight Jellies
+        "summer_28": "{{i18n:Seba.Dialogue.summer_28}}",
+        //Stardew Valley Fair
+        "fall_16": "{{i18n:Seba.Dialogue.fall_16}}",
+        //Spirit's Eve
+        "fall_27": "{{i18n:Seba.Dialogue.fall_27}}",
+        //Festival of Ice
+        "winter_8": "{{i18n:Seba.Dialogue.winter_8}}",
+        //Night Market
+        "winter_15": "{{i18n:Seba.Dialogue.winter_15}}",
+        //Feast of the Winter Star
+        "winter_25": "{{i18n:Seba.Dialogue.winter_25}}",
 
-  // OUTONO
-  "fall_1": "Você já tem que preparar sua fazenda pro inverno em, tá chegando!$1",
+        // PRIMAVERA
+        "spring_1": "{{i18n:Seba.Dialogue.spring_1}}",
 
-  // INVERNO
-  "winter_1": "Eu gosto do frio, é gostosinho pra dormir.",
+        // VERAO
+        "summer_1": "{{i18n:Seba.Dialogue.summer_1}}",
 
-  // EVENTO
-  "Evento_Anime_Bom": "Entendo, é muito bom mesmo!$1#$b#Pena que essa temporada não tem alguns muito interessantes.",
-  "Evento_Anime_Neutro": "Eu entendo, as vezes não faz o seu estilo.#$b#Mas eu ainda acho que posso te convencer!$1",
-  "Evento_Anime_Ruim": "...$2#$b#Existem algumas obras que não são coisa de criança, posso citar várias obras incríveis..."
+        // OUTONO
+        "fall_1": "{{i18n:Seba.Dialogue.fall_1}}",
+
+        // INVERNO
+        "winter_1": "{{i18n:Seba.Dialogue.winter_1}}",
+
+        // EVENTO
+        "Evento_Anime_Bom": "{{i18n:Seba.Dialogue.Evento_Anime_Bom}}",
+        "Evento_Anime_Neutro": "{{i18n:Seba.Dialogue.Evento_Anime_Neutro}}",
+        "Evento_Anime_Ruim": "{{i18n:Seba.Dialogue.Evento_Anime_Ruim}}"
+      }
+    }
+  ]
 }

@@ -1,51 +1,51 @@
 {
     // PRIMAVERA E OUTONO
-    "Mon": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "Mon": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
-    "Tue": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 seba_machado\"Strings\\schedules\\Seba:madeira.001\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.001\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "Tue": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 seba_machado\"Strings\\schedules\\Seba:madeira.001\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.001\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
 
-    "Wed": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.002\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.002\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "Wed": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.002\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.002\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
-    "Thu": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.003\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "Thu": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.003\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
 
-    "Fri": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.004\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.001\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "Fri": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 seba_machado \"Strings\\schedules\\Seba:madeira.004\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.001\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.001\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
-    "Sat": "610 Custom_DMBarraca 5 15 2 seba_dormindo/700 ScienceHouse 2 18 3 \"Strings\\schedules\\Seba:vendendo.000\"/1300 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1600 Saloon 39 22 2/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "Sat": "610 Custom_DMBarraca 1 11 2 seba_dormindo/700 ScienceHouse 2 18 3 \"Strings\\schedules\\Seba:vendendo.000\"/1300 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1600 Saloon 39 22 2/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
 
-    "Sun": "610 Custom_DMBarraca 5 15 2 seba_dormindo/700 ScienceHouse 2 18 3 \"Strings\\schedules\\Seba:vendendo.001\"/1300 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/1600 Saloon 39 22 2/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "Sun": "610 Custom_DMBarraca 1 11 2 seba_dormindo/700 ScienceHouse 2 18 3 \"Strings\\schedules\\Seba:vendendo.001\"/1300 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/1600 Saloon 39 22 2/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     // VERAO
-    "summer": "610 Custom_DMBarraca 5 15 2 seba_dormindo/1200 Beach 29 34 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1600 Saloon 1 18 0/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "summer": "610 Custom_DMBarraca 1 11 2 seba_dormindo/1200 Beach 29 34 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1600 Saloon 1 18 0/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     // ESPECIAIS
     //Chuva
-    "rain": "610 Custom_DMBarraca 5 15 2 seba_dormindo/1200 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:chuva.000\"/1300 Custom_DMBarraca 9 7 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "rain": "610 Custom_DMBarraca 1 11 2 seba_dormindo/1200 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:chuva.000\"/1300 Custom_DMBarraca 5 3 2 seba_lendo \"Strings\\schedules\\Seba:lendo.002\"/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     //Egg Festival
-    "spring_13": "610 Custom_DMBarraca 5 15 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "spring_13": "610 Custom_DMBarraca 1 11 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     //Flower Dance
-    "spring_24": "610 Custom_DMBarraca 5 15 2 seba_frio/700 Town 6 89 2/900 Forest 45 35 3/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "spring_24": "610 Custom_DMBarraca 1 11 2 seba_frio/700 Town 6 89 2/900 Forest 45 35 3/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
     
     //Luau
-    "summer_11": "610 Town 55 106 1/900 Beach 52 11 2/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "summer_11": "610 Town 55 106 1/900 Beach 52 11 2/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     //Dance of the Moonlight Jellies
-    "summer_28": "610 Custom_DMBarraca 5 15 2 seba_dormindo/730 Forest 62 44 2 \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1900 Town 55 106 1/2100 Beach 32 14 2 seba_dormindo \"Strings\\schedules\\Seba:moonlightjellies.000\"",
+    "summer_28": "610 Custom_DMBarraca 1 11 2 seba_dormindo/730 Forest 62 44 2 \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/1900 Town 55 106 1/2100 Beach 32 14 2 seba_dormindo \"Strings\\schedules\\Seba:moonlightjellies.000\"",
 
     //Stardew Valley Fair
-    "fall_16": "610 Custom_DMBarraca 5 15 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
+    "fall_16": "610 Custom_DMBarraca 1 11 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     //Spirit's Eve
     "fall_27": "610 BusStop 33 23 1/800 BusStop 16 22 2/1600 BusStop 28 25 0/2100 Town 18 50 2/2350 BusStop 10 5 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\"",
 
     //Festival of Ice
-    "winter_8": "610 Custom_DMBarraca 5 15 2 seba_frio/700 Town 6 89 2/900 Forest 45 35 3/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "winter_8": "610 Custom_DMBarraca 1 11 2 seba_frio/700 Town 6 89 2/900 Forest 45 35 3/1600 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
 
     //Night Market
-    "winter_15": "610 Forest 45 35 3 seba_machado \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 6 16 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 37 31 2 seba_lendo \"Strings\\schedules\\Seba:nightmarket.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
+    "winter_15": "610 Forest 45 35 3 seba_machado \"Strings\\schedules\\Seba:madeira.000\"/1300 Custom_DMBarraca 2 12 3 \"Strings\\schedules\\Seba:guardando.000\"/1600 Town 37 31 2 seba_lendo \"Strings\\schedules\\Seba:nightmarket.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.001\"",
     
     //Feast of the Winter Star
-    "winter_25": "610 Custom_DMBarraca 5 15 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 5 15 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\""
+    "winter_25": "610 Custom_DMBarraca 1 11 2 seba_frio/700 BusStop 28 25 0/900 Town 21 68 2 seba_lendo \"Strings\\schedules\\Seba:lendo.000\"/2100 Town 52 71 0/2200 Custom_DMBarraca 1 11 2 seba_dormindo \"Strings\\schedules\\Seba:dormindo.000\""
 
 }

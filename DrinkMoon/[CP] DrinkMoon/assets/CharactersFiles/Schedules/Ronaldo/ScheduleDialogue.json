@@ -1,19 +1,19 @@
 {
-  "picareta.000": "Espero encontrar vários minérios hoje!$7",
-  "picareta.001": "Se algum monstro aparecer eu posso dar picaretada neles.$7",
-  "picareta.002": "Tenho que encontrar mais minérios raros, não posso deixar nada passar!$7#$e#Que foi?$7",
-  "picareta.003": "Vou deixar o trabalho pro Luigi hoje, ele está melhorando sua habilidade com espadas.$7",
-  "picareta.004": "Minha picareta desgasta muito rápido.$7#$b#Preciso melhorar minha picareta pra de diamante.$7#$e#Pera, não tem como?!$7",
-  "picareta.005": "Em busca do Fragmento Prismatico episódio... já perdi a conta!$7",
+  "picareta.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  "picareta.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
+  "picareta.002": "{{i18n:Ronaldo.ScheduleDialogue.picareta.002}}",
+  "picareta.003": "{{i18n:Ronaldo.ScheduleDialogue.picareta.003}}",
+  "picareta.004": "{{i18n:Ronaldo.ScheduleDialogue.picareta.004}}",
+  "picareta.005": "{{i18n:Ronaldo.ScheduleDialogue.picareta.005}}",
 
-  "celular.000": "%Ronaldo está conversando com alguém chamada Ruiva.",
-  "celular.001": "%Ronaldo está conversando com alguém chamado Danilo.",
+  "celular.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  "celular.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  "chuva.000": "Que chuva forte, sorte que a gente veio preparado!$1",
-  "chuva.001": "Felizmente, não molhou nada importante!$1",
+  "chuva.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  "chuva.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  "dormindo.000": "%Ronaldo está a nanar...",
-  "dormindo.001": "%Ronaldo está em cansadito...",
+  "dormindo.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  "dormindo.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  "moonlightjellies.000": "Cara... eu vou surtar...$8"
+  "moonlightjellies.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
 }

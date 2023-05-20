@@ -1,102 +1,112 @@
 {
-  // ESPECIAL
-  "OneKid_0": "Oxi, cadê %kid1?",
-  "OneKid_1": "Essa criança rima que nem eu!$1",
-  "OneKid_2": "Eu cuido da criança hoje, pode ir fazer seus rolê.$1",
-  "OneKid_3": "Será que ela vai fazer rimas que nem eu quando crescer?$1",
-  "TwoKids_0": "Essas crianças são muito incríveis!$1",
-  "TwoKids_1": "Vou brincar de Rimar com as crianças depois, fica tranqs!$1",
-  "TwoKids_2": "Acho %kid2 bem parecido com você!#$b#Só que as rimas que ele faz, é só comigo!$1",
-  "TwoKids_3": "Finalmente eles cansaram, mas eu queria rimar mais...$2",
-  "NoBed_0": "Eae, e a cama?$2",
-  "NoBed_1": "Como pode a cama sumir?!$2",
-  "NoBed_2": "Uai, sumiu a cama?$2",
-  "NoBed_3": "É pegadinha né? Cadê as cameras e a cama?$1#$e#Não?$2",
-  "Outdoor_0": "Saudades do meu treinamento de Taijutsu!$1",
-  "Outdoor_1": "Vou ficar de olho na fazenda hoje!#$e#Qualquer problema eu te aviso!$1",
-  "Outdoor_2": "Eae, bem tranquilinho?!#$e#Tava pensando em ti.$1",
-  "Outdoor_3": "Vou tentar aprender novas rimas aqui fora, te vejo mais tarde.$1",
-  "Outdoor_4": "Não esquece de se hidratar!#$e#Uma garganta seca é uma rima a menos.$1",
-
-  //DIALOGOS COMUNS
-
-  // PRIMAVERA
-  "spring_1": "Primavera chegou, minha estação favorita!$1",
-  "spring_8": "Precisamos ficar de olho, a fazenda pode ter ervas daninhas.",
-  "spring_23": "Se você for no festival amanhã, me chama!$1",
-
-  // VERAO
-  "summer_1": "Ah, que calor...$2#$e#Minha garganta vai secar muito rápido...$2",
-  "summer_8": "Onde tem um ventilador?#$b#Sério, ta bem quente...$2",
-  "summer_15": "Amanhã tem algum festival?",
-
-  // OUTONO
-  "fall_1": "O inverno ta chegando, melhor momento pra se esquentar!$1",
-  "fall_8": "Quero aproveitar pra fazer rimas o máximo que eu conseguir!$1",
-  "fall_15": "Que tal a gente jogar alguns jogos no festival amanhã?$1",
-  "fall_26": "Você vai no Halloween?#$b#Quero pegar alguns doces!$1",
-
-  // INVERNO
-  "winter_1": "O inverno chegou...#$b#Pelo menos posso me esquentar com treinamento de taijutsu!$1",
-  "winter_7": "Estou dando uma pausa nas rimas por hoje.",
-  "winter_28": "@, esse ano foi imprevissivel, mas o próximo será mais que incrível!$l",
-
-  // DIALOGOS DIA
-  "Rainy_Day_0": "É chuva, aeeee!$1",
-  "Rainy_Day_1": "Meu deus e as roupa no varal?!$7",
-  "Rainy_Day_2": "O que cozinhar hoje?$6",
-  "Rainy_Day_3": "Dia chuvoso, você vai lá fora?#$e#Boa sorte.$1",
-  "Rainy_Day_4": "Essa chuva me deu fominha...",
-
-  "Indoor_Day_0": "Sabia que o poder do amor é o mais forte?$1",
-  "Indoor_Day_1": "Vou ficar em casa treinando rimas hoje.",
-  "Indoor_Day_2": "Hora de dar uma pausa nos treinos padrões.#$b#E começar os treinos de limpeza de casa!$1",
-  "Indoor_Day_3": "O que vai fazer hoje de bom?",
-  "Indoor_Day_4": "Não tenho nada pra fazer hoje.",
-
-  // DIALOGOS NOITE
-  "Rainy_Night_0": "Te vejo na cama, boa noite!",
-  "Rainy_Night_1": "Ah...já bateu um soninho!",
-  "Rainy_Night_2": "A chuva cai, e o sol se esvai!$1",
-  "Rainy_Night_3": "Hora de ir pra cama, não quero acordar tarde sempre.",
-  "Rainy_Night_4": "Cuidado com a chuva em!$1",
-  "Rainy_Night_5": "Estarei na cama se precisar de mim.",
-  
-  "Indoor_Night_0": "Terminou tudo hoje, @?#$e#Já terminei o que tinha que fazer, hora de ir a mimir!$1",
-  "Indoor_Night_1": "Hoje consegui dar uma treinada no Taijutsu.#$b#O Punho Supremo ta melhor que nunca!$1",
-  "Indoor_Night_2": "Fiz enroladinhos de pimenta, pra esquentar o sua noite!$1 [215]",
-  "Indoor_Night_3": "Boa noite @, como foi seu dia hoje?#$b#Muitas rimas, ou muito treino?$1",
-  "Indoor_Night_4": "Limpei tudo hoje.#$b#Relaxa, não quebrei nada.$1",
-  
-  // AFEICAO
-  "Good_0": "Mano, nem acredito que eu casei...$l",
-  "Good_1": "Sempre gostei de você sabia?$l",
-  "Good_2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
-  "Good_3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
-  "Good_4": "Finalmente tenho uma casa!$l",
-  "Good_5": "Será que nosso amuleto de casamento faz algum som?$1",
-  "Good_6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
-  "Good_7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
-  "Good_8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
-  "Good_9": "Esse lugar realmente é incrível!$1",
-  "Neutral_0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
-  "Neutral_1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
-  "Neutral_2": "Dando uma pausa? também curto...",
-  "Neutral_3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
-  "Neutral_4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
-  "Neutral_5": "Ei como ta nossa grana, @?",
-  "Neutral_6": "Espero que o pessoal esteja se virando bem!$1",
-  "Neutral_7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
-  "Neutral_8": "Sempre tem mosquitos aqui em volta!$5#$b#Minha batalha só começou!$5",
-  "Neutral_9": "Vamos ficar aqui pra sempre né?$1",
-  "Bad_0": "...Você ainda gosta de mim?$2",
-  "Bad_1": "Aff... Acho que fui muito jovem para sair casando.$2",
-  "Bad_2": "Ainda se sente feliz?$2",
-  "Bad_3": "Fiz algo errado? Você ta estranho ultimamente.$2",
-  "Bad_4": "Hmm?$2",
-  "Bad_5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
-  "Bad_6": "Ah... sério que tenho que viver com você?$2",
-  "Bad_7": "Antes eramos felizes... mas e agora?$2",
-  "Bad_8": "Você ta me dando um baita gelo ultimamente...$2",
-  "Bad_9": "Penso se podia ter feito algo melhor.$2"
+  "Changes": 
+  [
+    {
+     
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueGustavo",
+      "Entries": 
+      {
+        // ESPECIAL
+        "OneKid_0": "{{i18n:Gustavo.MarriageDialogue.OneKid.{{Random: 0, 1, 2, 3}}}}",
+        "OneKid_1": "{{i18n:Gustavo.MarriageDialogue.OneKid.{{Random: 0, 1, 2, 3}}}}",
+        "OneKid_2": "{{i18n:Gustavo.MarriageDialogue.OneKid.{{Random: 0, 1, 2, 3}}}}",
+        "OneKid_3": "{{i18n:Gustavo.MarriageDialogue.OneKid.{{Random: 0, 1, 2, 3}}}}",
+        "TwoKids_0": "{{i18n:Gustavo.MarriageDialogue.TwoKids.{{Random: 0, 1, 2, 3}}}}",
+        "TwoKids_1": "{{i18n:Gustavo.MarriageDialogue.TwoKids.{{Random: 0, 1, 2, 3}}}}",
+        "TwoKids_2": "{{i18n:Gustavo.MarriageDialogue.TwoKids.{{Random: 0, 1, 2, 3}}}}",
+        "TwoKids_3": "{{i18n:Gustavo.MarriageDialogue.TwoKids.{{Random: 0, 1, 2, 3}}}}",
+        "NoBed_0": "{{i18n:Gustavo.MarriageDialogue.NoBed.{{Random: 0, 1, 2, 3}}}}",
+        "NoBed_1": "{{i18n:Gustavo.MarriageDialogue.NoBed.{{Random: 0, 1, 2, 3}}}}",
+        "NoBed_2": "{{i18n:Gustavo.MarriageDialogue.NoBed.{{Random: 0, 1, 2, 3}}}}",
+        "NoBed_3": "{{i18n:Gustavo.MarriageDialogue.NoBed.{{Random: 0, 1, 2, 3}}}}",
+        "Outdoor_0": "{{i18n:Gustavo.MarriageDialogue.Outdoor.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Outdoor_1": "{{i18n:Gustavo.MarriageDialogue.Outdoor.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Outdoor_2": "{{i18n:Gustavo.MarriageDialogue.Outdoor.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Outdoor_3": "{{i18n:Gustavo.MarriageDialogue.Outdoor.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Outdoor_4": "{{i18n:Gustavo.MarriageDialogue.Outdoor.{{Random: 0, 1, 2, 3, 4}}}}",
+            
+        //DIALOGOS COMUNS
+        // PRIMAVERA
+        "spring_1": "{{i18n:Gustavo.MarriageDialogue.spring_1}}",
+        "spring_8": "{{i18n:Gustavo.MarriageDialogue.spring_8}}",
+        "spring_23": "{{i18n:Gustavo.MarriageDialogue.spring_23}}",
+            
+        // VERAO
+        "summer_1": "{{i18n:Gustavo.MarriageDialogue.summer_1}}",
+        "summer_8": "{{i18n:Gustavo.MarriageDialogue.summer_8}}",
+        "summer_15": "{{i18n:Gustavo.MarriageDialogue.summer_15}}",
+            
+        // OUTONO
+        "fall_1": "{{i18n:Gustavo.MarriageDialogue.fall_1}}",
+        "fall_8": "{{i18n:Gustavo.MarriageDialogue.fall_8}}",
+        "fall_15": "{{i18n:Gustavo.MarriageDialogue.fall_15}}",
+        "fall_26": "{{i18n:Gustavo.MarriageDialogue.fall_26}}",
+            
+        // INVERNO
+        "winter_1": "{{i18n:Gustavo.MarriageDialogue.winter_1}}",
+        "winter_7": "{{i18n:Gustavo.MarriageDialogue.winter_7}}",
+        "winter_28": "{{i18n:Gustavo.MarriageDialogue.winter_28}}",
+            
+        // DIALOGOS DIA
+        "Rainy_Day_0": "{{i18n:Gustavo.MarriageDialogue.RainyDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Rainy_Day_1": "{{i18n:Gustavo.MarriageDialogue.RainyDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Rainy_Day_2": "{{i18n:Gustavo.MarriageDialogue.RainyDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Rainy_Day_3": "{{i18n:Gustavo.MarriageDialogue.RainyDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Rainy_Day_4": "{{i18n:Gustavo.MarriageDialogue.RainyDay.{{Random: 0, 1, 2, 3, 4}}}}",
+            
+        "Indoor_Day_0": "{{i18n:Gustavo.MarriageDialogue.IndoorDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Day_1": "{{i18n:Gustavo.MarriageDialogue.IndoorDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Day_2": "{{i18n:Gustavo.MarriageDialogue.IndoorDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Day_3": "{{i18n:Gustavo.MarriageDialogue.IndoorDay.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Day_4": "{{i18n:Gustavo.MarriageDialogue.IndoorDay.{{Random: 0, 1, 2, 3, 4}}}}",
+            
+        // DIALOGOS NOITE
+        "Rainy_Night_0": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+        "Rainy_Night_1": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+        "Rainy_Night_2": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+        "Rainy_Night_3": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+        "Rainy_Night_4": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+        "Rainy_Night_5": "{{i18n:Gustavo.MarriageDialogue.RainyNight.{{Random: 0, 1, 2, 3, 4, 5}}}}",
+            
+        "Indoor_Night_0": "{{i18n:Gustavo.MarriageDialogue.IndoorNight.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Night_1": "{{i18n:Gustavo.MarriageDialogue.IndoorNight.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Night_2": "{{i18n:Gustavo.MarriageDialogue.IndoorNight.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Night_3": "{{i18n:Gustavo.MarriageDialogue.IndoorNight.{{Random: 0, 1, 2, 3, 4}}}}",
+        "Indoor_Night_4": "{{i18n:Gustavo.MarriageDialogue.IndoorNight.{{Random: 0, 1, 2, 3, 4}}}}",
+            
+        // AFEICAO
+        "Good_0": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_1": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_2": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_3": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_4": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_5": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_6": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_7": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_8": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Good_9": "{{i18n:Gustavo.MarriageDialogue.Good.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_0": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_1": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_2": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_3": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_4": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_5": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_6": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_7": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_8": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Neutral_9": "{{i18n:Gustavo.MarriageDialogue.Neutral.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_0": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_1": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_2": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_3": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_4": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_5": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_6": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_7": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_8": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+        "Bad_9": "{{i18n:Gustavo.MarriageDialogue.Bad.{{Random: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+      }
+    }
+  ]
 }

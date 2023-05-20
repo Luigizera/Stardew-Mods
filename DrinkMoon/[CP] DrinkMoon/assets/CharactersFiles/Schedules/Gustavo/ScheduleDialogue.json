@@ -1,23 +1,23 @@
 {
-  "musica.000": "Eu acelero YEEEAH!$3#$b#Mano se sabe que eu acelerei!$3#$e#%Gustavo está fazendo rimas improvisadas.",
-  "musica.001": "Desferindo meus ataques, com velocidade e força de vontade!$3#$b#Combinando agilidade com poder do Nunchaku!$3#$e#%Gustavo está rimando muito rápido.",
-  "musica.002": "Saigo ni mou ichido!$3#$b#Tsuyoku dakishimete!$3#$e#%Gustavo está cantando músicas em japonês.",
-  "musica.003": "I am the storm that is approaching!$3#$b#Provoking black clouds in isolation!$3#$e#%Gustavo está cantando algumas músicas.",
-  "musica.004": "Kimi da yo! Kimi nanda yo! Oshiete kureta!$3#$b#Kurayami mo hikaru nara!$3#$e#%Gustavo está cantando músicas em japonês.",
-  "musica.005": "Nove da matina, o dia tá pra começar!$3#$b#Não acordo muito cedo, sou meio marajá!$3#$b#Batata doce e frango logo de primeira!$3#$e#%Gustavo está cantando músicas brasileiras.",
+  "musica.000": "{{i18n:Gustavo.ScheduleDialogue.musica.000}}",
+  "musica.001": "{{i18n:Gustavo.ScheduleDialogue.musica.001}}",
+  "musica.002": "{{i18n:Gustavo.ScheduleDialogue.musica.002}}",
+  "musica.003": "{{i18n:Gustavo.ScheduleDialogue.musica.003}}",
+  "musica.004": "{{i18n:Gustavo.ScheduleDialogue.musica.004}}",
+  "musica.005": "{{i18n:Gustavo.ScheduleDialogue.musica.005}}",
 
-  "jutsu.000": "Tenho que ficar mais forte que o Guilherme-sensei!$9#$e#Ele pode até ter os jutsus, mas eu tenho a DETERMINAÇÃO!$9#$e#%Gustavo está treinando intensamente.",
-  "jutsu.001": "Vou provar que sou digno de lutar ao lado do SENSEI!$9#$e#%Gustavo está treinando intensamente.",
-  "jutsu.002": "Não vou vacilar quando o inimigo aparecer!$9#$e#Cada soco importa, então não desvie seu olhar!$9#$e#%Gustavo está treinando intensamente.",
-  "jutsu.003": "HAAAAAAAAAAAAAA !!!$9#$b#PODEM VIR!$9#$e#%Gustavo está treinando intensamente.",
-  "jutsu.004": "STANDING HERE !!!$9#$b#I REALIZE !!!$9#$e#%Gustavo está treinando intensamente e cantando",
-  "jutsu.005": "Eu faço 100 flexões...$9#$b#100 abdominais...$9#$b#100 agachamentos...$9#$b#E uma corrida de 10km com 4.600 kg nas pernas todos os dias!$9#$e#Estou treinado para o que for preciso!$9#$e#%Gustavo está treinando intensamente.",
-  "jutsu.006": "Sam sai daí, preciso treinar!$11",
+  "jutsu.000": "{{i18n:Gustavo.ScheduleDialogue.jutsu.000}}",
+  "jutsu.001": "{{i18n:Gustavo.ScheduleDialogue.jutsu.001}}",
+  "jutsu.002": "{{i18n:Gustavo.ScheduleDialogue.jutsu.002}}",
+  "jutsu.003": "{{i18n:Gustavo.ScheduleDialogue.jutsu.003}}",
+  "jutsu.004": "{{i18n:Gustavo.ScheduleDialogue.jutsu.004}}",
+  "jutsu.005": "{{i18n:Gustavo.ScheduleDialogue.jutsu.005}}",
+  "jutsu.006": "{{i18n:Gustavo.ScheduleDialogue.jutsu.006}}",
   
-  "chuva.000": "A chuva continua caindo, e eu tento usar a rima impedindo!$3#$e#%Gustavo está fazendo uma rima sobre chuva.",
+  "chuva.000": "{{i18n:Gustavo.ScheduleDialogue.chuva.000}}",
 
-  "dormindo.000": "%Gustavo está descansante...",
-  "dormindo.001": "%Gustavo está a mimir...",
+  "dormindo.000": "{{i18n:Gustavo.ScheduleDialogue.dormindo.000}}",
+  "dormindo.001": "{{i18n:Gustavo.ScheduleDialogue.dormindo.001}}",
 
-  "moonlightjellies.000": "%Gustavo está tentando dormir..."
+  "moonlightjellies.000": "{{i18n:Gustavo.ScheduleDialogue.moonlightjellies.000}}"
 }

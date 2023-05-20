@@ -18,13 +18,13 @@
     // INVERNO
     "winter_Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
     
-    "winter_Tue": "610 BusStop 11 5 2 luigi_frio \"Strings\\schedules\\Luigi:frio.000\"/1000 Hospital 5 17 0/1400 Saloon 31 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/1700 Town 41 57 0/1800 Town 56 52 2/2300 Custom_DMBarraca 12 12 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\"",
+    "winter_Tue": "610 BusStop 11 5 2 luigi_frio \"Strings\\schedules\\Luigi:frio.000\"/1000 Hospital 5 17 0/1400 Saloon 31 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/1700 Town 41 57 0/1800 Town 56 52 2/2300 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\"",
     
     "winter_Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0//2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
 
     // ESPECIAIS
     // Chuva
-    "rain": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:chuva.001\"/1300 Mine 16 4 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/2000 Custom_DMBarraca 12 12 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.001\"",
+    "rain": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:chuva.001\"/1300 Mine 16 4 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/2000 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.001\"",
 
     //Egg Festival
     "spring_13": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",

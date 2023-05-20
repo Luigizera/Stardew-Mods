@@ -1,235 +1,246 @@
-{
-  // ESPECIAIS
-  "Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto?$0",
-  "danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
-  "divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
-  "secondChance_Guys": "...Ok, só mais uma chance!$1",
-  "breakUp": "...!$8#$b#Entendo, não posso te contrariar...$2",
-  "MovieInvitation": "Vamos nessa!$1#$b#Só espero que não seja um filme de terror...$2",
+{     
+  "Changes": 
+  [
+    {
+          
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Luigi",
+      "Entries": 
+      {
+        // ESPECIAIS
+        "Introduction": "{{i18n:Luigi.Dialogue.Introduction}}",
+        "danceRejection": "{{i18n:Luigi.Dialogue.danceRejection}}",
+        "divorced": "{{i18n:Luigi.Dialogue.divorced}}",
+        "secondChance_Guys": "{{i18n:Luigi.Dialogue.secondChance_Guys}}",
+        "breakUp": "{{i18n:Luigi.Dialogue.breakUp}}",
+        "MovieInvitation": "{{i18n:Luigi.Dialogue.MovieInvitation}}",
 
-  // RESORT
-  "Resort_Entering": "Quem diria que um lugar tão bonito assim existia!$1",
-  "Resort_Leaving": "Bom, não posso ficar aqui pra sempre...$0#$b#Posso?$1",
-  "Resort_Shore": "É bom tirar um tempo pra pensar, fazer projetos consecutivamente cansa.$1",
-  "Resort_Shore_2": "Ah, ficar chutando a água aqui é incrível!$1",
-  "Resort_Umbrella": "Ah, hora de passar protetor solar!$1",
-  "Resort_Umbrella_2": "Talvez eu possa adicionar algo sobre a praia nos meus projetos!$1",
-  "Resort_Wander": "Hmm, será que existem mistérios nessa ilha?$0#$b#Ah, queria ter tempo de explorar tudo!$1",
-  "Resort_Bar": "Que sede, tem água ai?",
-  "Resort": "Bom, esse tempo definitivamente é perfeito!$0",
+        // RESORT
+        "Resort_Entering": "{{i18n:Luigi.Dialogue.Resort_Entering}}",
+        "Resort_Leaving": "{{i18n:Luigi.Dialogue.Resort_Leaving}}",
+        "Resort_Shore": "{{i18n:Luigi.Dialogue.Resort_Shore}}",
+        "Resort_Shore_2": "{{i18n:Luigi.Dialogue.Resort_Shore_2}}",
+        "Resort_Umbrella": "{{i18n:Luigi.Dialogue.Resort_Umbrella}}",
+        "Resort_Umbrella_2": "{{i18n:Luigi.Dialogue.Resort_Umbrella_2}}",
+        "Resort_Wander": "{{i18n:Luigi.Dialogue.Resort_Wander}}",
+        "Resort_Bar": "{{i18n:Luigi.Dialogue.Resort_Bar}}",
+        "Resort": "{{i18n:Luigi.Dialogue.Resort}}",
 
-  // DIALOGO COMUM
-  //segunda-feira
-  "Mon": "Oi, precisa de algo?#$b#Estou meio ocupado agora...",
-  "Mon2": "Opa @, tudo tranquilo?#$e#Eu tô de boas, teremos novidades em breve do meu Projetinho.$1",
-  "Mon4": "Você sabia que eu participo de uma sessão de RPG?#$b#Jogam eu o Mateus, Guilherme e o Ronaldo, além do Seba que é o Mestre.$1",
-  "Mon6": "Eu falo pro Ronaldo ficar de boa, mas ele nunca me escuta...$6#$e#Tem alguma sugestão @?",
-  "Mon8": "O Projetinho foi um sucesso!$1#$b#Quero fazer mais desses!$1",
-  "Mon10": "Estou feliz de estarmos juntos hoje!$1#$b#Quer dizer... todos nós...$4",
+        // DIALOGO COMUM
+        //segunda-feira
+        "Mon": "{{i18n:Luigi.Dialogue.Mon}}",
+        "Mon2": "{{i18n:Luigi.Dialogue.Mon2}}",
+        "Mon4": "{{i18n:Luigi.Dialogue.Mon4}}",
+        "Mon6": "{{i18n:Luigi.Dialogue.Mon6}}",
+        "Mon8": "{{i18n:Luigi.Dialogue.Mon8}}",
+        "Mon10": "{{i18n:Luigi.Dialogue.Mon10}}",
 
-  //terça-feira
-  "Tue": "O Vale do Orvalho é bem grande!$1#$b#Não vou conseguir explorar tudo em um dia.",
-  "Tue2": "Ei @, já estou me acostumando com o Vale.#$e#É só ter internet que fica tudo certo!$1",
-  "Tue4": "É impressionante a habilidade do Clint pra forjar armas e ferramentas!$1",
-  "Tue6": "Meu Projetinho está quase finalizado.$1#$e#Esteja preparado, vai ser incrível.$1^Esteja preparada, vai ser incrível.$1",
-  "Tue8": "Que bom te ver @!$1#$b#Como vão as coisas? Algum projeto em mente?",
-  "Tue10": "@, quer dar uma volta por aí?#$b#Não me entenda errado, é só pra comer algo.$4",
+        //terça-feira
+        "Tue": "{{i18n:Luigi.Dialogue.Tue}}",
+        "Tue2": "{{i18n:Luigi.Dialogue.Tue2}}",
+        "Tue4": "{{i18n:Luigi.Dialogue.Tue4}}",
+        "Tue6": "{{i18n:Luigi.Dialogue.Tue6}}",
+        "Tue8": "{{i18n:Luigi.Dialogue.Tue8}}",
+        "Tue10": "{{i18n:Luigi.Dialogue.Tue10}}",
 
-  //quarta-feira
-  "Wed": "Andei explorando por aí, e encontrei um lugar com internet!$1",
-  "Wed2": "Um pouco de proteção nunca é demais quando se trata de projetos grandes!$1",
-  "Wed4": "Hm...#$e#...#$e#Ah, foi mal @, não tinha te visto aí!$8",
-  "Wed6": "Em breve...$1",
-  "Wed8": "Ei, quer me ajudar nas minas?#$b#Podemos ir comer algo depois!$1",
-  "Wed10": "Posso te ajudar com o treinamento de combate se quiser!$1#$b#Não, você com certeza já sabe...",
+        //quarta-feira
+        "Wed": "{{i18n:Luigi.Dialogue.Wed}}",
+        "Wed2": "{{i18n:Luigi.Dialogue.Wed2}}",
+        "Wed4": "{{i18n:Luigi.Dialogue.Wed4}}",
+        "Wed6": "{{i18n:Luigi.Dialogue.Wed6}}",
+        "Wed8": "{{i18n:Luigi.Dialogue.Wed8}}",
+        "Wed10": "{{i18n:Luigi.Dialogue.Wed10}}",
 
-  //quinta-feira
-  "Thu": "Se precisar de alguma coisa, pode chamar o Mateus, ele te da apoio moral.",
-  "Thu2": "Estou fazendo minha rotina de sempre, nada demais!$1",
-  "Thu4": "Se eu me distrair, tenho que me focar em dobro.#$b#As vezes acontece... na verdade acontece bastante...$2",
-  "Thu6": "Se algo é difícil, é porque estou no caminho certo!$1",
-  "Thu8": "Bom, hora de continuar minha aventura!$1",
-  "Thu10": "Vamos nessa! Nossa jornada só começou!$4",
+        //quinta-feira
+        "Thu": "{{i18n:Luigi.Dialogue.Thu}}",
+        "Thu2": "{{i18n:Luigi.Dialogue.Thu2}}",
+        "Thu4": "{{i18n:Luigi.Dialogue.Thu4}}",
+        "Thu6": "{{i18n:Luigi.Dialogue.Thu6}}",
+        "Thu8": "{{i18n:Luigi.Dialogue.Thu8}}",
+        "Thu10": "{{i18n:Luigi.Dialogue.Thu10}}",
 
-  //sexta-feira
-  "Fri": "Preciso continuar o meu Projeto, não importa a circunstância!$1",
-  "Fri2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
-  "Fri4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
-  "Fri6": "Estou sem tempo, vou indo nessa!#$b#Foi mal @, mas tenho algo para terminar!$1",
-  "Fri8": "Vamos nessa, não posso ficar de corpo mole!$1",
-  "Fri10": "Espero que não esteja muito ocupado com a fazenda.^Espero que não esteja muito ocupada com a fazenda.#$b#Vamos sair um dia desses, ok?$4",
+        //sexta-feira
+        "Fri": "{{i18n:Luigi.Dialogue.Fri}}",
+        "Fri2": "{{i18n:Luigi.Dialogue.Fri2}}",
+        "Fri4": "{{i18n:Luigi.Dialogue.Fri4}}",
+        "Fri6": "{{i18n:Luigi.Dialogue.Fri6}}",
+        "Fri8": "{{i18n:Luigi.Dialogue.Fri8}}",
+        "Fri10": "{{i18n:Luigi.Dialogue.Fri10}}",
 
-  //sabado
-  "Sat": "Tenho que dormir mais horas... mas tenho coisas pra terminar também.#$b#As vezes fica difícil escolher...$2",
-  "Sat2": "Ainda estou trabalhando pra deixar tudo perfeito, mas sempre acho que posso fazer melhor.",
-  "Sat4": "As vezes o Ronaldo encontra alguns geodos na mina, então levamos pro Clint pra dar uma olhada!$1",
-  "Sat6": "Ei @, os dias tem sido muito corridos!$1#$b#Então qual é a boa nova?",
-  "Sat8": "Ah, a melhor parte de acabar um projeto por completo, é começar outro!$1",
-  "Sat10": "Quais são as boas novas?$1#$b#Só estou fazendo meu treino diário, tenho que ficar forte pra te proteger...$4",
+        //sabado
+        "Sat": "{{i18n:Luigi.Dialogue.Sat}}",
+        "Sat2": "{{i18n:Luigi.Dialogue.Sat2}}",
+        "Sat4": "{{i18n:Luigi.Dialogue.Sat4}}",
+        "Sat6": "{{i18n:Luigi.Dialogue.Sat6}}",
+        "Sat8": "{{i18n:Luigi.Dialogue.Sat8}}",
+        "Sat10": "{{i18n:Luigi.Dialogue.Sat10}}",
 
-  //domingo
-  "Sun": "Quero continuar ajudando a Guilda dos Aventureiros, parece ser um desafio interessante!$1",
-  "Sun2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
-  "Sun4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
-  "Sun6": "Preciso ajudar o pessoal da Vila, assim vou conseguir me tornar um verdadeiro herói!$1",
-  "Sun8": "Como Protetor do Vale, tenho que ajudar quem precisa.#$e#Esse é o meu dever!$1",
-  "Sun10": "Acho que tenho que fazer um Projetinho maior um dia desses!$1",
-  
-  // FESTIVAIS
+        //domingo
+        "Sun": "{{i18n:Luigi.Dialogue.Sun}}",
+        "Sun2": "{{i18n:Luigi.Dialogue.Sun2}}",
+        "Sun4": "{{i18n:Luigi.Dialogue.Sun4}}",
+        "Sun6": "{{i18n:Luigi.Dialogue.Sun6}}",
+        "Sun8": "{{i18n:Luigi.Dialogue.Sun8}}",
+        "Sun10": "{{i18n:Luigi.Dialogue.Sun10}}",
 
-  //Egg Festival
-  "spring_13": "Ah, tava precisando comer algo doce!$1#$e#As cenouras subterrâneas são bem enjoativas.$2",
-  //Flower Dance
-  "spring_24": "Eu sou obrigado a dançar?$2#$b#Vou ficar parecendo um robo.$1",
-  //Luau
-  "summer_11": "O que você vai levar, o festival é na praia.",
-  //Dance of the Moonlight Jellies
-  "summer_28": "Vamos nessa, as águas-vivas estão esperando!$1",
-  //Stardew Valley Fair
-  "fall_16": "Será que tem algum mini-jogo de combate?!$1",
-  //Spirit's Eve
-  "fall_27": "Esse festival vai ser divertido!$1",
-  //Festival of Ice
-  "winter_8": "Quero ver quem é o mais habilidoso na pesca hoje!$1",
-  //Night Market
-  "winter_17": "O Guilherme me pediu ajuda pra ficar de olho no Mateus durante o Mercado Noturno.",
-  //Feast of the Winter Star
-  "winter_25": "Qual é o seu amigo secreto?#$b#Tô brincando!$1#$b#Sério, não fala.",
+        // FESTIVAIS
 
-  // PRIMAVERA
-  "spring_1": "Um ano se passou muito rápido!$8#$b#Será que é porque estou me divertindo?$1",
+        //Egg Festival
+        "spring_13": "{{i18n:Luigi.Dialogue.spring_13}}",
+        //Flower Dance
+        "spring_24": "{{i18n:Luigi.Dialogue.spring_24}}",
+        //Luau
+        "summer_11": "{{i18n:Luigi.Dialogue.summer_11}}",
+        //Dance of the Moonlight Jellies
+        "summer_28": "{{i18n:Luigi.Dialogue.summer_28}}",
+        //Stardew Valley Fair
+        "fall_16": "{{i18n:Luigi.Dialogue.fall_16}}",
+        //Spirit's Eve
+        "fall_27": "{{i18n:Luigi.Dialogue.fall_27}}",
+        //Festival of Ice
+        "winter_8": "{{i18n:Luigi.Dialogue.winter_8}}",
+        //Night Market
+        "winter_17": "{{i18n:Luigi.Dialogue.winter_17}}",
+        //Feast of the Winter Star
+        "winter_25": "{{i18n:Luigi.Dialogue.winter_25}}",
 
-  // VERAO
-  "summer_1": "Ah, não consigo, eu definitivamente vou morrer de calor...$2",
+        // PRIMAVERA
+        "spring_1": "{{i18n:Luigi.Dialogue.spring_1}}",
 
-  //segunda-feira
-  "summer_Mon": "Preciso de um refresco urgente...$2",
-  "summer_Mon2": "Você tem gelo aí?#$b#Ah, esquece essa idéia não vai funcionar...$2",
-  "summer_Mon4": "Esse calor ta intenso, melhor ficar esperto pra não queimar meu notebook.$1",
-  "summer_Mon6": "Ainda não terminei de programar, vou fazer o resto de noite.$1",
-  "summer_Mon8": "Tenho que tomar cuidado pro meu notebook não pegar fogo!$8#$b#Ele começou a fazer uns barulhos estranhos recentemente, deve estar esquentando demais...$2",
-  "summer_Mon10": "Só queria um sorvetinho...$2#$b#Você vem comigo comprar?!$1#$b#Não sou bom pra conversar com as pessoas, só entrego objetivos...$4",
+        // VERAO
+        "summer_1": "{{i18n:Luigi.Dialogue.summer_1}}",
 
-  //terça-feira
-  "summer_Tue": "Hmm...$7#$b#%Luigi parece bravo, melhor não incomodar.",
-  "summer_Tue2": "Não posso parar agora...$7#$b#%Luigi parece bravo, melhor não incomodar.",
-  "summer_Tue4": "...$7#$b#%Luigi está estranho, melhor não incomodar.",
-  "summer_Tue6": "Ei, vou fazer uma careta e você me diz se eu tô parecendo um vilão.#$b#Hmm...$7#$b#E então?",
-  "summer_Tue8": "Esses dias vi um personagem maligno na internet.#$b#Vou tentar replicar algumas coisas dele, tipo...#$b#Hmm...$7#$b#Ou até mesmo...#$b#Não posso parar agora...$7#$b#Ei por que você ta rindo, era pra parecer maligno!$8",
-  "summer_Tue10": "Você acha que eu daria um bom vilão?#$b#Ei, para de rir, tô falando sério! Olha pra minha cara!$7#$b#Hahaha, é brincadeira...$4",
+        //segunda-feira
+        "summer_Mon": "{{i18n:Luigi.Dialogue.summer_Mon}}",
+        "summer_Mon2": "{{i18n:Luigi.Dialogue.summer_Mon2}}",
+        "summer_Mon4": "{{i18n:Luigi.Dialogue.summer_Mon4}}",
+        "summer_Mon6": "{{i18n:Luigi.Dialogue.summer_Mon6}}",
+        "summer_Mon8": "{{i18n:Luigi.Dialogue.summer_Mon8}}",
+        "summer_Mon10": "{{i18n:Luigi.Dialogue.summer_Mon10}}",
 
-  //quarta-feira
-  "summer_Wed": "Calor, né...?#$b#é...#$b#...#$b#Já estou de saida.$2",
-  "summer_Wed2": "Ei, você já viu a estátua de ouro do prefeito por aí?",
-  "summer_Wed4": "Já encontrei alguns bixos pequenos por aí, acho que a mina ta consumindo minha cabeça...#$b#Espera, você já viu também @?$8#$b#Não adianta esconder, sua cara revela.$1",
-  "summer_Wed6": "Vou pro andar 40 pegar gelo, é a maneira mais eficiente!$1",
-  "summer_Wed8": "Se você planeja explorar as minas, recomendo o andar 40... lá é friozinho e não é muito perigoso!$1",
-  "summer_Wed10": "Você seria corajoso de explorar os andares 80 pra baixo nesse calor...$6^Você seria corajosa de explorar os andares 80 pra baixo nesse calor...$6#$b#Não vou te proibir, a verdade é que sei que você é... e você faria do mesmo jeito...$4",
+        //terça-feira
+        "summer_Tue": "{{i18n:Luigi.Dialogue.summer_Tue}}",
+        "summer_Tue2": "{{i18n:Luigi.Dialogue.summer_Tue2}}",
+        "summer_Tue4": "{{i18n:Luigi.Dialogue.summer_Tue4}}",
+        "summer_Tue6": "{{i18n:Luigi.Dialogue.summer_Tue6}}",
+        "summer_Tue8": "{{i18n:Luigi.Dialogue.summer_Tue8}}",
+        "summer_Tue10": "{{i18n:Luigi.Dialogue.summer_Tue10}}",
 
-  //quinta-feira
-  "summer_Thu": "O que você falaria pra uma pessoa normalmente?#$b#É uma pesquisa de campo.",
-  "summer_Thu2": "Desculpa te perguntar @, me conte sua rotina.#$b#É uma pesquisa de campo, não vai durar muito, prometo!$1",
-  "summer_Thu4": "Eu salvarei a Princesa!$1#$b#Não, muito clichê...$6#$b#Mas a verdade, é que eu gosto até disso.#$b#Vou anotar esse diálogo!$1",
-  "summer_Thu6": "Bem-vindo jogador, pode me dizer o seu nome?$1#$b#Acho que se eu imitar um NPC vou me sair bem...$6#$e#%Luigi parece mais confiante.",
-  "summer_Thu8": "Diálogo 1.#$b#Diálogo 2.#$b#Diálogo 3.#$b#Ah, foi mal, tava pensando em alguns diálogos recentemente, é pro novo projeto!$1",
-  "summer_Thu10": "Já tenho uma lista perfeita de diálogos!$1#$b#Só preciso agora é saber qual deles vai fazer você ficar mais apaixonado por mim...$4^Só preciso agora é saber qual deles vai fazer você ficar mais apaixonada por mim...$4",
+        //quarta-feira
+        "summer_Wed": "{{i18n:Luigi.Dialogue.summer_Wed}}",
+        "summer_Wed2": "{{i18n:Luigi.Dialogue.summer_Wed2}}",
+        "summer_Wed4": "{{i18n:Luigi.Dialogue.summer_Wed4}}",
+        "summer_Wed6": "{{i18n:Luigi.Dialogue.summer_Wed6}}",
+        "summer_Wed8": "{{i18n:Luigi.Dialogue.summer_Wed8}}",
+        "summer_Wed10": "{{i18n:Luigi.Dialogue.summer_Wed10}}",
 
-  //sexta-feira
-  "summer_Fri": "Melhor eu levar meus cobres pra inspeção...",
-  "summer_Fri2": "Tenho que entregar coisas pro pessoal hoje, até mais!$1",
-  "summer_Fri4": "Tava pensando em colocar que eu queria uma esmeralda no boletim, mas não sei como pagar...$2",
-  "summer_Fri6": "Nada no boletim hoje, vou ficar tranquilo!$1#$b#A não ser que você tenha um pedido.",
-  "summer_Fri8": "Sempre dou uma olhada no boletim pra ver se tem alguém pedindo algo.#$b#Geralmente consigo entregar coisas da mina!$1",
-  "summer_Fri10": "Não se preocupa, não tô me desgastando muito com as requisisix-#$b#Oh droga...$7#$b#Quero dizer, requisições dos moradores, isso!$1",
+        //quinta-feira
+        "summer_Thu": "{{i18n:Luigi.Dialogue.summer_Thu}}",
+        "summer_Thu2": "{{i18n:Luigi.Dialogue.summer_Thu2}}",
+        "summer_Thu4": "{{i18n:Luigi.Dialogue.summer_Thu4}}",
+        "summer_Thu6": "{{i18n:Luigi.Dialogue.summer_Thu6}}",
+        "summer_Thu8": "{{i18n:Luigi.Dialogue.summer_Thu8}}",
+        "summer_Thu10": "{{i18n:Luigi.Dialogue.summer_Thu10}}",
 
-  //sabado
-  "summer_Sat": "Acho que entreguei o que eu precisava pro Gus...#$b#Será que esqueci algo?$2#$b#Não, acho que não...#$b#Acho...$2",
-  "summer_Sat2": "Você sabia que dá pra equipar bombas no estilingue?#$b#O poder de fogo aumenta muito!$1",
-  "summer_Sat4": "O lado bom do verão é a praia...#$b#Só que eu não gosto de ir na praia...$2",
-  "summer_Sat6": "O Ronaldo tem um estilingue com bombas guardadas, melhor tomar cuidado com ele!$1",
-  "summer_Sat8": "Vou estar por aí se precisar de mim, mas manda um aviso antes, ok?$1#$b#Tipo um sinalizador, ou algo parecido.#$b#Não, não sou o Batman.$7",
-  "summer_Sat10": "Para de me encarar, não tá tão quente aqui... sério...$4",
+        //sexta-feira
+        "summer_Fri": "{{i18n:Luigi.Dialogue.summer_Fri}}",
+        "summer_Fri2": "{{i18n:Luigi.Dialogue.summer_Fri2}}",
+        "summer_Fri4": "{{i18n:Luigi.Dialogue.summer_Fri4}}",
+        "summer_Fri6": "{{i18n:Luigi.Dialogue.summer_Fri6}}",
+        "summer_Fri8": "{{i18n:Luigi.Dialogue.summer_Fri8}}",
+        "summer_Fri10": "{{i18n:Luigi.Dialogue.summer_Fri10}}",
 
-  //domingo
-  "summer_Sun": "Que calor...$2#$b#Meu cachecol? Qual problema?",
-  "summer_Sun2": "Não vou tirar meu cachecol, é minha marca.#$b#É tipo trocar a cor da Joja-Cola pra vermelho, não faz sentido!$1",
-  "summer_Sun4": "Esse cachecol me da mais 10 de defesa!$1#$b#Isso se a gente tivesse em um jogo, claro.",
-  "summer_Sun6": "Já preparou sua armadura @?#$b#Então ta marcado, é hora de aventura!$1",
-  "summer_Sun8": "Por mais quanto tempo tenho que ficar andando de um lado pro outro?$6#$b#Sério, ta muito quente!$7",
-  "summer_Sun10": "Vou em uma expedição na mina em breve, me deseje sorte.#$b#Esquece, eu não preciso, você é minha sorte!$4",
+        //sabado
+        "summer_Sat": "{{i18n:Luigi.Dialogue.summer_Sat}}",
+        "summer_Sat2": "{{i18n:Luigi.Dialogue.summer_Sat2}}",
+        "summer_Sat4": "{{i18n:Luigi.Dialogue.summer_Sat4}}",
+        "summer_Sat6": "{{i18n:Luigi.Dialogue.summer_Sat6}}",
+        "summer_Sat8": "{{i18n:Luigi.Dialogue.summer_Sat8}}",
+        "summer_Sat10": "{{i18n:Luigi.Dialogue.summer_Sat10}}",
 
-  // OUTONO
-  "fall_1": "Já é Outono?!$8#$b#Acho que a gente não vai voltar pra casa tão cedo.",
+        //domingo
+        "summer_Sun": "{{i18n:Luigi.Dialogue.summer_Sun}}",
+        "summer_Sun2": "{{i18n:Luigi.Dialogue.summer_Sun2}}",
+        "summer_Sun4": "{{i18n:Luigi.Dialogue.summer_Sun4}}",
+        "summer_Sun6": "{{i18n:Luigi.Dialogue.summer_Sun6}}",
+        "summer_Sun8": "{{i18n:Luigi.Dialogue.summer_Sun8}}",
+        "summer_Sun10": "{{i18n:Luigi.Dialogue.summer_Sun10}}",
 
-  // INVERNO
-  "winter_1": "Pelo menos minha roupa é quentinha, o frio não me atinge!$1",
+        // OUTONO
+        "fall_1": "{{i18n:Luigi.Dialogue.fall_1}}",
 
-  //segunda-feira
-  "winter_Mon": "Acho que vou virar \"Luigivete\" nesse frio!$8#$b#Sorte que eu tenho esse chachecol.",
-  "winter_Mon2": "Ah cara... eu com certeza vou pegar um resfriado nesse frio...$2#$b#Melhor ir comprar um remédio na Clínica.",
-  "winter_Mon4": "Acho que vou correr um pouco pra me esquentar, não quero virar \"Luigivete\"!$1",
-  "winter_Mon6": "Definitivamente não quero virar um sorvete...$2#$b#Já pensou sou servido com casquinha e tudo? Que perigo!$8",
-  "winter_Mon8": "Me ajuda @, não quero virar \"Luigivete\"!$8#$b#Se eu congelar aqui, quem vai terminar os projetinhos?$2",
-  "winter_Mon10": "Meu cachecol pode ser bom, mas ele não segura tudo...$2#$b#O quê?#$b#Não, não precisa me esquentar...$4",
+        // INVERNO
+        "winter_1": "{{i18n:Luigi.Dialogue.winter_1}}",
 
-  //terça-feira
-  "winter_Tue": "Droga, acho que peguei um resfriado...$2",
-  "winter_Tue2": "Atchim!$8#$e#Atchim!$8#$e#Atchim!$8#$e#Ei, você vai ficar falando \"Saúde\" até amanhã...$6",
-  "winter_Tue4": "Ah não, é aquela sensação denovo...$7#$e#Atchim!$8#$e#Atchim!$8#$e#Vai ser isso o dia todo...$7#$b#Atchim!$8",
-  "winter_Tue6": "Pelo menos posso ficar do andar 80 pra baixo nas minas.#$b#Lá é muito quente, então sem espirros hoje!$1",
-  "winter_Tue8": "@... preciso de ajuda, não consigo parar de espirrar...$7#$e#Atchim!$8",
-  "winter_Tue10": "@, não fica muito perto... sabe como é... espirros...$7#$e#Atchim!$8#$b#Pelo menos não tá pior que antes...",
+        //segunda-feira
+        "winter_Mon": "{{i18n:Luigi.Dialogue.winter_Mon}}",
+        "winter_Mon2": "{{i18n:Luigi.Dialogue.winter_Mon2}}",
+        "winter_Mon4": "{{i18n:Luigi.Dialogue.winter_Mon4}}",
+        "winter_Mon6": "{{i18n:Luigi.Dialogue.winter_Mon6}}",
+        "winter_Mon8": "{{i18n:Luigi.Dialogue.winter_Mon8}}",
+        "winter_Mon10": "{{i18n:Luigi.Dialogue.winter_Mon10}}",
 
-  //quarta-feira
-  "winter_Wed": "Foi mal, tô ocupado agora...$6#$b#Preciso ir comprar um café.",
-  "winter_Wed2": "Tenho que começar o dia cheio de energia, se não o frio vai me dominar...$2#$b#Então, é hora do café!",
-  "winter_Wed4": "Eae @, tem planos pra hoje?$1#$b#Quero terminar meu projeto logo, mas acho que ta longe ainda...",
-  "winter_Wed6": "Preciso pegar um café, você vem comigo @?#$b#Tenho outros projetos pra terminar, não quero perder pro frio.$1",
-  "winter_Wed8": "Minha aventura começa quando eu pegar meu café e trabalhar no meu novo projeto!$1",
-  "winter_Wed10": "@! Bora tomar um café?$1#$b#Nesse clima tenho certeza que é mais gostoso.",
+        //terça-feira
+        "winter_Tue": "{{i18n:Luigi.Dialogue.winter_Tue}}",
+        "winter_Tue2": "{{i18n:Luigi.Dialogue.winter_Tue2}}",
+        "winter_Tue4": "{{i18n:Luigi.Dialogue.winter_Tue4}}",
+        "winter_Tue6": "{{i18n:Luigi.Dialogue.winter_Tue6}}",
+        "winter_Tue8": "{{i18n:Luigi.Dialogue.winter_Tue8}}",
+        "winter_Tue10": "{{i18n:Luigi.Dialogue.winter_Tue10}}",
 
-  //quinta-feira
-  "winter_Thu": "Preciso melhorar minha habilidade de combate ainda mais.#$b#Mas parece que já tô no meu máximo...$2",
-  "winter_Thu2": "@, pretende ir para a mina hoje?$1#$b#Espero que não esteja sendo consumido por ela.",
-  "winter_Thu4": "Vou ficar entre os andares 80 pra baixo das minas, é bem quente lá.#$b#Então, não preciso me preocupar com o frio!$1",
-  "winter_Thu6": "Você já descobriu pra que serve a chave da caveira?#$b#E quem é esse tal de Sr.Qi?#$b#Tenho tantas perguntas...$2",
-  "winter_Thu8": "@, já melhorou sua habilidade de combate?#$b#O melhor momento pra treinar é agora, se aquecer no calor da batalha!$1",
-  "winter_Thu10": "Vejo que tem treinado sua habilidade de combate, esse é meu @...$4^Vejo que tem treinado sua habilidade de combate, esse é minha @...$4",
+        //quarta-feira
+        "winter_Wed": "{{i18n:Luigi.Dialogue.winter_Wed}}",
+        "winter_Wed2": "{{i18n:Luigi.Dialogue.winter_Wed2}}",
+        "winter_Wed4": "{{i18n:Luigi.Dialogue.winter_Wed4}}",
+        "winter_Wed6": "{{i18n:Luigi.Dialogue.winter_Wed6}}",
+        "winter_Wed8": "{{i18n:Luigi.Dialogue.winter_Wed8}}",
+        "winter_Wed10": "{{i18n:Luigi.Dialogue.winter_Wed10}}",
 
-  //sexta-feira
-  "winter_Fri": "Vou estar ocupado por hoje, então... com licença.$6",
-  "winter_Fri2": "...?#$e#...#$e#...$6#$e#Eh...$6#$b#Pode parar de me encarar...?$6",
-  "winter_Fri4": "Tenho que explorar a mina hoje, talvez ache algo que me ajude no meu projeto.",
-  "winter_Fri6": "A melhor parte de finalizar um projeto, é adicionar novos conteúdos depois!$1",
-  "winter_Fri8": "Vou fazer umas melhorias no meus projetos, sempre bom revisitar eles depois de um tempo!$1",
-  "winter_Fri10": "@! Vou congelar!$8#$b#%Luigi.exe parou de responder.",
+        //quinta-feira
+        "winter_Thu": "{{i18n:Luigi.Dialogue.winter_Thu}}",
+        "winter_Thu2": "{{i18n:Luigi.Dialogue.winter_Thu2}}",
+        "winter_Thu4": "{{i18n:Luigi.Dialogue.winter_Thu4}}",
+        "winter_Thu6": "{{i18n:Luigi.Dialogue.winter_Thu6}}",
+        "winter_Thu8": "{{i18n:Luigi.Dialogue.winter_Thu8}}",
+        "winter_Thu10": "{{i18n:Luigi.Dialogue.winter_Thu10}}",
 
-  //sabado
-  "winter_Sat": "Já te vi antes, mas não me lembro...$6",
-  "winter_Sat2": "Quando chega a primavera?#$b#Não me entenda mal, mas eu não quero pegar outro resfriado...$6",
-  "winter_Sat4": "Preciso aprender novas técnicas de combate e depois...#$b#%Luigi parece focado.",
-  "winter_Sat6": "Comparado aos andares 40 pra baixo...#$b#Esse frio não é tão forte assim...$6",
-  "winter_Sat8": "Nunca te contei né?$1#$b#Esse cachecol foi um presente, então não tiro ele desde então.#$b#Além de que ele me ajuda muito em combate e pra tempos frios.$1",
-  "winter_Sat10": "@, vamos em uma aventura de inverno, o que acha?$4",
+        //sexta-feira
+        "winter_Fri": "{{i18n:Luigi.Dialogue.winter_Fri}}",
+        "winter_Fri2": "{{i18n:Luigi.Dialogue.winter_Fri2}}",
+        "winter_Fri4": "{{i18n:Luigi.Dialogue.winter_Fri4}}",
+        "winter_Fri6": "{{i18n:Luigi.Dialogue.winter_Fri6}}",
+        "winter_Fri8": "{{i18n:Luigi.Dialogue.winter_Fri8}}",
+        "winter_Fri10": "{{i18n:Luigi.Dialogue.winter_Fri10}}",
 
-  //domingo
-  "winter_Sun": "O inverno tá sendo maior do que eu esperava...#$b#Pelo menos tomar um café fica mais gostoso!$1",
-  "winter_Sun2": "Vou ficar terminando alguns projetos hoje.#$b#Nada especial!$1",
-  "winter_Sun4": "Não tem um tema escuro pra neve não?$6",
-  "winter_Sun6": "Natal e ano novo chegando... né?$6#$b#Vou ter que fazer um update pra isso...$7",
-  "winter_Sun8": "Mesmo chegando no final da mina, estou impressionado que não tinha nenhum tipo de \"Rei Demônio\" ou algo do gênero...",
-  "winter_Sun10": "Ontem a tela do meu computador congelou...$2#$b#Literalmente!$8",
+        //sabado
+        "winter_Sat": "{{i18n:Luigi.Dialogue.winter_Sat}}",
+        "winter_Sat2": "{{i18n:Luigi.Dialogue.winter_Sat2}}",
+        "winter_Sat4": "{{i18n:Luigi.Dialogue.winter_Sat4}}",
+        "winter_Sat6": "{{i18n:Luigi.Dialogue.winter_Sat6}}",
+        "winter_Sat8": "{{i18n:Luigi.Dialogue.winter_Sat8}}",
+        "winter_Sat10": "{{i18n:Luigi.Dialogue.winter_Sat10}}",
 
-  // ESPECIAIS
-  "Hospital": "De que adianta ser forte, mas perder pra uma gripe...$2",
-  "Hospital8": "@, não se preocupe, é só minha gripe atacando denovo...$6#$b#Mas sério, a coisa ta feia...$2",
+        //domingo
+        "winter_Sun": "{{i18n:Luigi.Dialogue.winter_Sun}}",
+        "winter_Sun2": "{{i18n:Luigi.Dialogue.winter_Sun2}}",
+        "winter_Sun4": "{{i18n:Luigi.Dialogue.winter_Sun4}}",
+        "winter_Sun6": "{{i18n:Luigi.Dialogue.winter_Sun6}}",
+        "winter_Sun8": "{{i18n:Luigi.Dialogue.winter_Sun8}}",
+        "winter_Sun10": "{{i18n:Luigi.Dialogue.winter_Sun10}}",
 
-  // EVENTO
-  "Evento_AutoD_Bom": "Bom... você tem razão eu fico muito focado nos meus projetos...$6#$b#As vezes até desapareço por ai...$6",
-  "Evento_AutoD_Neutro": "Ei era só uma brincadeira, não precisa se desculpar...$2",
-  "Evento_AutoD_Ruim": "...$5",
+        // ESPECIAIS
+        "Hospital": "{{i18n:Luigi.Dialogue.Hospital}}",
+        "Hospital8": "{{i18n:Luigi.Dialogue.Hospital8}}",
 
-  "Evento_Minas_Bom": "Vou agradecer a ajuda!$1#$b#Você pode ficar com os minérios, só preciso das pedras mesmo.$0",
-  "Evento_Minas_Neutro": "Acho que você tem razão...$0#$b#Bom, se você mudar de idéia vamos ficar descansando por aqui...$0",
-  "Evento_Minas_Ruim": "...$2#$b#Não acho isso mas, se você mudar de idéia vamos ficar descansando por aqui...$2",
+        // EVENTO
+        "Evento_AutoD_Bom": "{{i18n:Luigi.Dialogue.Evento_AutoD_Bom}}",
+        "Evento_AutoD_Neutro": "{{i18n:Luigi.Dialogue.Evento_AutoD_Neutro}}",
+        "Evento_AutoD_Ruim": "{{i18n:Luigi.Dialogue.Evento_AutoD_Ruim}}",
+
+        "Evento_Minas_Bom": "{{i18n:Luigi.Dialogue.Evento_Minas_Bom}}",
+        "Evento_Minas_Neutro": "{{i18n:Luigi.Dialogue.Evento_Minas_Neutro}}",
+        "Evento_Minas_Ruim": "{{i18n:Luigi.Dialogue.Evento_Minas_Ruim}}"
+      }
+    }
+  ]
 }

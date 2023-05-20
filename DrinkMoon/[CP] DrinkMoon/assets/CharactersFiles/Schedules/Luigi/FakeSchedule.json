@@ -11,5 +11,5 @@
     "Sun": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
 
     // Chuva
-    "rain": "610 Custom_DMBarraca 12 12 luigi_dormindo/900 Custom_DMBarraca 12 10 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2200 Custom_DMBarraca 12 12 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\""
+    "rain": "610 Custom_DMBarraca 8 8 luigi_dormindo/900 Custom_DMBarraca 8 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2200 Custom_DMBarraca 4 4 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\""
 }
