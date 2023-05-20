@@ -79,14 +79,14 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Luigi 2000/pause 500/message \"{{Luigi.MoviesReactions.DuringMovie.Script.Horror}}\"",
-									"Text": "{{Luigi.MoviesReactions.DuringMovie.Text.Horror}}"
+									"Script": "/shake Luigi 2000/pause 500/message \"{{i18n:Luigi.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Text": "{{i18n:Luigi.MoviesReactions.DuringMovie.Text.Horror}}"
 								},
 								"AfterMovie": 
 								{
 									"ResponsePoint": null,
 									"Script": "",
-									"Text": "{{Luigi.MoviesReactions.AfterMovie.Text.Horror}}"
+									"Text": "{{i18n:Luigi.MoviesReactions.AfterMovie.Text.Horror}}"
 								}
 							},
 							"ID": "reaction_0"
