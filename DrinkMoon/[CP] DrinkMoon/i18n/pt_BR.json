@@ -1,0 +1,2058 @@
+{
+	// CHARACTER NAMES
+	"Name.Guilherme": "Guilherme",
+	"Name.Gustavo": "Gustavo",
+	"Name.Luigi": "Luigi",
+	"Name.Mateus": "Mateus",
+	"Name.Ronaldo": "Ronaldo",
+	"Name.Seba": "Seba",
+
+	// GIFTS
+	// GUILHERME
+	"Gift.Love.Guilherme": "Ah! pra mim?! Obrigado!",
+	"Gift.Like.Guilherme": "Isso é incrivel! Valeu!",
+	"Gift.Dislike.Guilherme": "Meeeeu amigo...",
+	"Gift.Hate.Guilherme": "Isso era pra ser um presente?!",
+	"Gift.Neutral.Guilherme": "Um presente? Tamo junto!",
+	// GUSTAVO
+	"Gift.Love.Gustavo": "Meu deus! Isso é incrível!",
+	"Gift.Like.Gustavo": "Haha, que fofo!",
+	"Gift.Dislike.Gustavo": "Vish...",
+	"Gift.Hate.Gustavo": "Oxe?! Não quero isso não doido!",
+	"Gift.Neutral.Gustavo": "Ah, valeu!",
+	// LUIGI
+	"Gift.Love.Luigi": "Nossa isso é incrível! Obrigado!",
+	"Gift.Like.Luigi": "Como você sabia? Eu gosto disso!",
+	"Gift.Dislike.Luigi": "Paia...",
+	"Gift.Hate.Luigi": "...?",
+	"Gift.Neutral.Luigi": "Valeu pelo presente.",
+	// MATEUS
+	"Gift.Love.Mateus": "Nem ferrando! Como você sabia?!",
+	"Gift.Like.Mateus": "Obrigado! Não precisava!",
+	"Gift.Dislike.Mateus": "MEEEE!",
+	"Gift.Hate.Mateus": "Olha esse cara, que crime!",
+	"Gift.Neutral.Mateus": "Não sei pra que eu vou usar isso, mas já vai passando!",
+	// RONALDO
+	"Gift.Love.Ronaldo": "Nossa mano! Isso é incrível valeu!",
+	"Gift.Like.Ronaldo": "Obrigadão mano!",
+	"Gift.Dislike.Ronaldo": "Ah não...",
+	"Gift.Hate.Ronaldo": "Pra que isso cara?",
+	"Gift.Neutral.Ronaldo": "Valeu pelo presente.",
+	// SEBA
+	"Gift.Love.Seba": "Uou, tem certeza?!",
+	"Gift.Like.Seba": "Obrigado, não esperava essa!",
+	"Gift.Dislike.Seba": "Não faz o meu estilo...",
+	"Gift.Hate.Seba": "Só... não.",
+	"Gift.Neutral.Seba": "Obrigado pelo presente.",
+
+	// GUILHERME DIALOGOS
+	"Guilherme.Dialogue.Introduction": "Oba, meu senhor!^Oba, minha senhora!#$b#Prazer meu nome é Guilherme...$10#$b#... E eu queria saber se tem algum mecânico por aqui?",
+	"Guilherme.Dialogue.danceRejection": "Er... não sou bom em dançar... foi mal.$2",
+	"Guilherme.Dialogue.divorced": "OQUÊ?! Por quê?!$2",
+	"Guilherme.Dialogue.dumped_Guys": "Não quero mais olhar pra você!$5",
+	"Guilherme.Dialogue.secondChance_Guys": "Ta bom, ta bom...#$b#Mas não me faça me arrepender denovo!$2",
+	"Guilherme.Dialogue.breakUp": "Você não é digno!$5",
+	"Guilherme.Dialogue.MovieInvitation": "Filminho?$10#$b#Vamos nessa!$1",
+
+	// RESORT
+	"Guilherme.Dialogue.Resort_Entering": "Wow, esse lugar é incrível!$1",
+	"Guilherme.Dialogue.Resort_Leaving": "Partiu pra casa, eu acho...$2",
+	"Guilherme.Dialogue.Resort_Leaving_2": "Mano, o Mateus fez a proeza de derrubar meu celular na água...$5#$b#Você acredita nisso?!$5",
+	"Guilherme.Dialogue.Resort_Shore": "Ficar aqui é bem relaxante...$1",
+	"Guilherme.Dialogue.Resort_Shore_2": "Uma fotinha em grupo aqui seria legal!$1",
+	"Guilherme.Dialogue.Resort_Umbrella": "Ouf, que calor...",
+	"Guilherme.Dialogue.Resort_Umbrella_2": "Que dia quente, melhor tomar bastante água!$1",
+	"Guilherme.Dialogue.Resort_Umbrella_3": "Melhor ficar de olho no meu celular, só por enquanto...",
+	"Guilherme.Dialogue.Resort_Wander": "Ei, achou algo legal na ilha?",
+	"Guilherme.Dialogue.Resort_Bar": "Barzinho legal!$1#$b#Dá pra servir altas bebidas.",
+	"Guilherme.Dialogue.Resort": "Essa ilha é bem interessante...$1#$e#Ouvi falar sobre Sereias, mas acho que é invenção.",
+
+	// GUILHERME DIALOGO COMUM
+	//Segunda
+	"Guilherme.Dialogue.Mon": "Ei consegue ficar de olho no Mateus por mim?#$b#Ele sai gastando o dinheiro que nem um maluco...$5",
+	"Guilherme.Dialogue.Mon2": "O que será que o Pierre ta vendendo hoje?#$b#Melhor dar uma olhadinha, já volto...$1",
+	"Guilherme.Dialogue.Mon4": "Ah cara, tô cansado de dormir no chão.$2#$e#Queria comprar um saco de dormir melhor, mas o Mateus não para de comprar tralha...$2",
+	"Guilherme.Dialogue.Mon6": "Oba, alguma novidade hoje?$4#$e#Meu dia tá sendo o padrão de sempre...$1#$b#Sempre treinando pra ser um bom ninja...",
+	"Guilherme.Dialogue.Mon8": "Ei, o que acha de treinar comigo?#$b#Seria divertido se for você!$1",
+	"Guilherme.Dialogue.Mon10": "Como comemoração do nosso namoro, que tal uma cervejinha?$4",
+
+	//Terça
+	"Guilherme.Dialogue.Tue": "Ei...#$q 2005/2006 Tuequestion_followup#...Você já ouviu falar de Naruto?#$r 2006 -10 Tuequestion_ruim#Aquele anime ruim?#$r 2006 0 Tuequestion_neutro#Sim, é legalzinho!#$r 2005 15 Tuequestion_bom#NARUTOOOOOOO!!!",
+	"Guilherme.Dialogue.Tuequestion_followup": "Quero virar um bom ninja um dia!$1",
+	"Guilherme.Dialogue.Tuequestion_bom": "SASUKEEEEE !!!$5#$b#Haha, esse é o verdadeiro espírito ninja!$1",
+	"Guilherme.Dialogue.Tuequestion_neutro": "Eh...Acho legal também!$1#$b#Você devia assistir comigo um dia desses...",
+	"Guilherme.Dialogue.Tuequestion_ruim": "Você não sabe o que está falando...$2",
+	"Guilherme.Dialogue.Tue2": "Ah, tô com saudades de mecher no meu Photoshop...$2#$e#Se você quiser, me manda uma foto que eu faço um meme!$1",
+	"Guilherme.Dialogue.Tue4": "Ei, toma cuidado com o Mateus de Terça-feira, ele fala até demais...$2#$e#Eu?#$b#Relaxa, não vou chegar nem perto dele...$1",
+	"Guilherme.Dialogue.Tue6": "Ah, acho que tô me acostumando a viver longe da internet...#$b#Finalmente posso me tornar um verdadeiro ninja!$1",
+	"Guilherme.Dialogue.Tue8": "500... 1000... 700...#$b#Ah foi mal, tava fazendo as contas do Valor de umas paradas...$1#$e#Tenho que ficar esperto com o dinheiro para não gastarem tudo!$1",
+	"Guilherme.Dialogue.Tue10": "Ei, como vão as coisas?$1#$b#Quer vir treinar comigo?$4",
+
+	//Quarta
+	"Guilherme.Dialogue.Wed": "Tô sentindo que o Mateus vai gastar nosso dinheiro...#$b#Ah, relaxa isso já virou rotina pra ele...$2",
+	"Guilherme.Dialogue.Wed2": "Bom... hora de fazer compras na cidade.#$b#Acho que vou comprar uma faixa ninja se tiver!$1",
+	"Guilherme.Dialogue.Wed4": "Ei, uma pergunta séria agora...#$q 2010/2011 Wed4question_followup#... qual jutsu eu estive treinando recentemente?#$r 2011 0 Wed4question_neutro#Taijutsu#$r 2010 15 Wed4question_bom#Ninjutsu#$r 2011 0 Wed4question_neutro#Genjutsu",
+	"Guilherme.Dialogue.Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1|Acho que vou ter que te dar uma aula de Jutsus...",
+	"Guilherme.Dialogue.Wed4question_bom": "Você acertou!$1#$b#Sabia que ia me conhecer melhor que qualquer um.$1",
+	"Guilherme.Dialogue.Wed4question_neutro": "Você errou!$2#$b#Quero melhor minhas habilidades em Ninjutsu.",
+	"Guilherme.Dialogue.Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do Gustavo!$1",
+	"Guilherme.Dialogue.Wed8": "Cara, que dia lindo!$1#$b#Me lembra quando cheguei no Vale pela primeira vez!$1",
+	"Guilherme.Dialogue.Wed10": "Espero que as coisas só melhorem daqui em diante!$4",
+
+	//Quinta
+	"Guilherme.Dialogue.Thu": "Ei, o Centro Comunitário parece esconder alguns segredos...#$b#O que você acha disso?#$e#Meu instinto ninja quer ir lá explorar...$1",
+	"Guilherme.Dialogue.Thu2": "Gosto de fazer as compras!$1#$b#Consigo manusear o dinheiro bem, então o pessoal não precisa se preocupar.",
+	"Guilherme.Dialogue.Thu4": "Hmm, acho que devia me ficar mais focado no meu treinamento ninja...#$b#Não sei se vou conseguir acompanhar os outros...$2",
+	"Guilherme.Dialogue.Thu6": "Vou continuar focado no meu treinamento, te vejo por aí @!$1",
+	"Guilherme.Dialogue.Thu8": "Acho que consegui desbloquear uma nova forma!#$b#Toco de madeira SUPREMO!$1",
+	"Guilherme.Dialogue.Thu10": "Ei, vamos nos divertir um pouco!$1#$b#O que acha de ir no Gus comer algo?$4",
+
+	//Sexta
+	"Guilherme.Dialogue.Fri": "SEXTOU!$1#$b#Não que isso mude muita coisa, meu treinamento continua...",
+	"Guilherme.Dialogue.Fri2": "Acho que eu devia ficar mais tempo no Saloon um dia desses...#$b#Explorando as táticas dos inimigos...$1#$b#E bebendo um pouco, é claro.$10",
+	"Guilherme.Dialogue.Fri4": "Eae @, há quanto tempo em!$1#$b#Hm? Te vi ontem?#$b#Ah, então você estava nas sombras também?$1",
+	"Guilherme.Dialogue.Fri6": "Sexta-feira nunca muda né?#$b#Sempre um dia bom para um treinamento ninja!$1",
+	"Guilherme.Dialogue.Fri8": "Sem tempo pra descanso!$1#$b#Uma hora um jutsu sai!$1",
+	"Guilherme.Dialogue.Fri10": "Ei @, o que acha de jogar um jogo comigo?#$b#Quer dizer comigo e com o Mateus, claro...$4",
+
+	//Sabado
+	"Guilherme.Dialogue.Sat": "Estou planejando ir comprar algumas coisas na loja do Pierre, como sempre.$1",
+	"Guilherme.Dialogue.Sat2": "Hmm, se eu conseguir prestar atenção...#$e#%Guilherme parece focado em algo.",
+	"Guilherme.Dialogue.Sat4": "Tenho que ficar focado em treinar hoje, não posso dar mole!$1",
+	"Guilherme.Dialogue.Sat6": "Ei, se o Mateus for apostar em algum time, pode jogar essa shuriken nele!#$e#%Guilherme parece estar falando sério.",
+	"Guilherme.Dialogue.Sat8": "O que planejou pra esse fim de semana?$1#$b#Eu estarei treinando meu Ninjutsu, como sempre!$1",
+	"Guilherme.Dialogue.Sat10": "Quero ser um Sensei de respeito!$1#$b#Então, estou melhorando a cada dia graças a você @.$4",
+
+	//Domingo
+	"Guilherme.Dialogue.Sun": "Acho que um terno branco ficaria daora em mim!#$b#O que você acha?#$b#Concordo, acho que um estilo ninja ainda é melhor!$1",
+	"Guilherme.Dialogue.Sun2": "Hm, um ninja nunca desiste!$1#$b#Sempre irei ficar focado na missão.$1",
+	"Guilherme.Dialogue.Sun4": "Preciso treinar meu Jutsu supremo!$1#$b#Uma hora ele sai...$2",
+	"Guilherme.Dialogue.Sun6": "Cada dia que passa, uma habilidade nova é descoberta, não posso ficar pra trás!$1",
+	"Guilherme.Dialogue.Sun8": "Irei fazer as compras!$1#$e#Relaxa, eu não baixo a guarda.",
+	"Guilherme.Dialogue.Sun10": "Haha, hora de treinar como nunca!$1#$b#Você vem comigo nessa jornada ninja?!$4",
+
+	// GUILHERME FESTIVAIS
+	//Egg Festival
+	"Guilherme.Dialogue.spring_13": "Terei que ser o mais rápido do festival de hoje!$1",
+	//Flower Dance
+	"Guilherme.Dialogue.spring_24": "Dançar?#$b#Eu faço meus inimigos dançarem!$1#$e#Ah, você tava falando do festival?",
+	//Luau
+	"Guilherme.Dialogue.summer_11": "Será que vai ter lámen no Luau?$1",
+	//Dance of the Moonlight Jellies
+	"Guilherme.Dialogue.summer_28": "Vou ter que pegar uma água-viva no festival de hoje pra desbloquear o Shidori!$1",
+	//Stardew Valley Fair
+	"Guilherme.Dialogue.fall_16": "Meu estilingue tá na mão!#$b#Vou mostrar meu potêncial nesse festival!$1",
+	//Spirit's Eve
+	"Guilherme.Dialogue.fall_27": "Hora de arrastar o Mateus pra esse festival!$1",
+	//Festival of Ice
+	"Guilherme.Dialogue.winter_8": "Pescar? não é um problema pra mim!$1#$b#Eu treinei o suficiente para conseguir ficar mais rápido que um peixe!$10",
+	//Night Market
+	"Guilherme.Dialogue.winter_15": "Ouvi uns rumores do mercado noturno...#$b#Vai ter café grátis!$1",
+	"Guilherme.Dialogue.winter_16": "Cara, o Mateus tá escondendo alguma coisa de mim... suspeito...",
+	"Guilherme.Dialogue.winter_17": "Descobri um quadro atrás da árvore, esse Matias!$5#$b#Você acredita que ele tava comprando quadros que nem eram originais?!$5",
+	//Feast of the Winter Star
+	"Guilherme.Dialogue.winter_25": "Estou pensando se vou dar isso mesmo de presente...#$b#Acho que vai ser bom!$1",
+
+	// GUILHERME DIALOGOS PRIMAVERA
+	"Guilherme.Dialogue.spring_1": "Escrevi uma listinha com alguns peixes que a gente precisa...#$b#Espero que o Mateus pegue!$1",
+	"Guilherme.Dialogue.spring_2": "Estou ferrado, nenhum Jutsu parece ser forte o suficiente para derrotar o Mateus no 'Osu!'...$2",
+
+	// GUILHERME DIALOGOS VERAO
+	"Guilherme.Dialogue.summer_1": "Ouf, que calor...$2#$e#Espero não ficar queimado com todo esse Sol...$2",
+	//Segunda
+	"Guilherme.Dialogue.summer_Mon": "Você é o @ né?$1^Você é a @ né?$1#$b#Deve ser complicado trabalhar na fazenda nesse calor.",
+	"Guilherme.Dialogue.summer_Mon2": "Gosto de andar pela praia durante o verão, esse calor é de matar!$1",
+	"Guilherme.Dialogue.summer_Mon4": "Não me importo de dormir no chão... o problema é quando chove...$2",
+	"Guilherme.Dialogue.summer_Mon6": "Ser um ninja da um trabalhão!#$b#Principalmente nesse calor, fico todo encharcado...$2",
+	"Guilherme.Dialogue.summer_Mon8": "Não se preocupe @, não vou abandonar o caminho ninja!$1",
+	"Guilherme.Dialogue.summer_Mon10": "Um sorvete cairia bem!$1#$b#Vamos comprar na barraquinha do Alex, o que acha?$4",
+
+	//Terça
+	"Guilherme.Dialogue.summer_Tue": "Seria uma boa comprar um sorvete na barraquinha do Alex!$1#$b#Talvez eu passe lá na volta.",
+	"Guilherme.Dialogue.summer_Tue2": "Só consigo dizer uma coisa em questão a monetário nessa estação...$2#$b#F.$2",
+	"Guilherme.Dialogue.summer_Tue4": "Alguns me chamam de Ninja do Photoshop, não existe nenhuma imagem que não pode ser melhorada!$1",
+	"Guilherme.Dialogue.summer_Tue6": "Será que o Mago era algum tipo de aventureiro?#$b#Se ele era, talvez ele conheça algum ninja de verdade!$8",
+	"Guilherme.Dialogue.summer_Tue8": "Acho que vai ficar tudo bem se eu conseguir manusear o dinheiro corretamente!$1#$e#Não se preocupe, estou sempre de olho no Mateus.#$b#Ele não vai gastar mais nenhum tostão.$1",
+	"Guilherme.Dialogue.summer_Tue10": "Ah! Eae @!$1#$b#Tá quente hoje né?$4",
+
+	//Quarta
+	"Guilherme.Dialogue.summer_Wed": "Você viu o Mateus por aí?#$b#Preciso ficar de olho nele, se não nosso dinheiro vai sumir denovo.$2",
+	"Guilherme.Dialogue.summer_Wed2": "Não posso esquecer de fazer minhas compras diárias!$1#$b#Isso é muito importante.",
+	"Guilherme.Dialogue.summer_Wed4": "Gosto de ficar pela praia, a brisa do mar é revigorante!$1",
+	"Guilherme.Dialogue.summer_Wed6": "Já passamos por tantos problemas, mas o maior deles é o dinheiro.$2",
+	"Guilherme.Dialogue.summer_Wed8": "Irei trabalhar duro para conseguir alcançar o nível de um Hokage!$1",
+	"Guilherme.Dialogue.summer_Wed10": "Terminei de fazer minha lista, e... eu acho que você vai concordar com isso...$1#$b#\"Prioridade número 3: Mateus é um perigo, o dinheiro nunca deve ficar com ele.\".#$b#\"Prioridade número 2: Fazer as compras no Pierre, quero que todos fiquem tranquilos quanto a compras.\".#$b#\"Prioridade número 1: @... é alguém muito especial.\".$4",
+
+	//Quinta
+	"Guilherme.Dialogue.summer_Thu": "Quanto será que ainda temos, isso é suficiente...?#$b#%Guilherme parece estar imerso nas contas.",
+	"Guilherme.Dialogue.summer_Thu2": "Não temos tempo @!$8#$b#Ser um ninja requer treino pesado!",
+	"Guilherme.Dialogue.summer_Thu4": "Acho que estou pegando leve no meu treinamento, assim não vou conseguir alcançar o maior nível...$2",
+	"Guilherme.Dialogue.summer_Thu6": "Não desista @, você se tornará um grande ninja!$1^Não desista @, você se tornará uma grande ninja!$1",
+	"Guilherme.Dialogue.summer_Thu8": "Vou torcer por você, e você pode torcer por mim!$1#$b#Vamos virar os melhores ninjas dessa vila!$1",
+	"Guilherme.Dialogue.summer_Thu10": "Ficarei pra sempre do seu lado, então...#$b#Não me decepcione!$4",
+
+	//Sexta
+	"Guilherme.Dialogue.summer_Fri": "@, a quanto tempo!$1#$b#Deve estar imerso na fazenda né?^Deve estar imersa na fazenda né?#$b#Imagino que nessa calor as coisas devem estar mais complicadas ainda...$2",
+	"Guilherme.Dialogue.summer_Fri2": "Foco! Foco! Preciso de foco!$5#$b#%Guilherme está tentando MUITO calcular os gastos...",
+	"Guilherme.Dialogue.summer_Fri4": "Oi Guilherme!$10#$b#Eita, foi mal, é um tique nervoso...$8",
+	"Guilherme.Dialogue.summer_Fri6": "O Mateus pode ter ganho a partida ontem...#$b#Mas amanhã com certeza será diferente!$1",
+	"Guilherme.Dialogue.summer_Fri8": "Preciso da sua ajuda!#$b#Que tal irmos treinar juntos hoje?$1",
+	"Guilherme.Dialogue.summer_Fri10": "O Gustavo está melhorando a cada dia, agora sou digno de ser o Sensei dele!$1#$b#Tudo graças a você @!$4",
+
+	//Sabado
+	"Guilherme.Dialogue.summer_Sat": "Ta tão quente que já tô todo queimado!$5",
+	"Guilherme.Dialogue.summer_Sat2": "Sabe, dar uma variada no dia a dia é bom de vez enquando!$1",
+	"Guilherme.Dialogue.summer_Sat4": "Vou estar no meu treinamento, então me avise se quiser falar algo!$1",
+	"Guilherme.Dialogue.summer_Sat6": "@! O que acha de me ajudar nas compras?$1#$b#Preciso de toda ajuda necessária.",
+	"Guilherme.Dialogue.summer_Sat8": "Cara, um sorvetinho agora cairia bem!$1",
+	"Guilherme.Dialogue.summer_Sat10": "Ei, se quiser podemos comer uma pizza depois, ainda temos dinheiro sobrando!$4",
+
+	//Domingo
+	"Guilherme.Dialogue.summer_Sun": "Estou indo treinar, até mais!$1",
+	"Guilherme.Dialogue.summer_Sun2": "Ainda tenho tempo pra decidir meu próximo movimento ninja!$1#$b#Então, o que foi?",
+	"Guilherme.Dialogue.summer_Sun4": "@, durante o verão é um bom momento pra nadar né!$1#$b#Queria ter trago meu shorts.$2",
+	"Guilherme.Dialogue.summer_Sun6": "Agora não é hora de ficar remoendo as coisas, preciso me adaptar para me tornar um ninja melhor!$1",
+	"Guilherme.Dialogue.summer_Sun8": "O que será que posso comprar hoje?#$b#Alguma idéia @?$1",
+	"Guilherme.Dialogue.summer_Sun10": "Não se preocupe, estou treinando duro pra ser digno de estar do seu lado!$4",
+
+	// GUILHERME DIALOGOS OUTONO
+	"Guilherme.Dialogue.fall_1": "Um ar fresco depois de uma estação tão quente...#$b#Que delicia.$1",
+
+	// GUILHERME DIALOGOS INVERNO
+	"Guilherme.Dialogue.winter_1": "Será que a gente vai sobreviver esse inverno?!$2#$e#Acho que precisamos de um estoque de comida maior...$2",
+	//Segunda
+	"Guilherme.Dialogue.winter_Mon": "Se continuar assim, eu vou virar um cubo de gelo daqui a pouco...$2",
+	"Guilherme.Dialogue.winter_Mon2": "Argh! Sabia que devia ter comprado mais comida!$2",
+	"Guilherme.Dialogue.winter_Mon4": "Ei @, já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
+	"Guilherme.Dialogue.winter_Mon6": "O Gustavo disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
+	"Guilherme.Dialogue.winter_Mon8": "@, vou me tornar o melhor ninja e chegar no nível de um Hokage!$1#$b#E então, quando esse frio passar, será um novo começo!$1",
+	"Guilherme.Dialogue.winter_Mon10": "Amor, tenho um treinamento ninja especial pra gente se esquentar!$4#$b#Você advinhou! Uma corrida ninja!$1",
+
+	//Terça
+	"Guilherme.Dialogue.winter_Tue": "Tenho que fazer meu treino ninja pra me esquentar!$1",
+	"Guilherme.Dialogue.winter_Tue2": "Eae @!$1#$b#Espero não estar te atrapalhando, mas esse frio ta de matar.",
+	"Guilherme.Dialogue.winter_Tue4": "@, se quiser posso te dar umas aulas de jutsu, o que você acha?$1#$b#Imagina você conseguir usar uma bola de fogo!$8#$b#Cara, derreteria toda essa neve!$1",
+	"Guilherme.Dialogue.winter_Tue6": "@, tá muito pior do que antes!$2#$b#O Mateus não para de comprar coisas no Gus, é algum tipo de piada de inverno?!$5",
+	"Guilherme.Dialogue.winter_Tue8": "Tentei usar um jutsu de bola de fogo, mas falhei miserávelmente...$2#$b#Bom, aos poucos eu chego lá!",
+	"Guilherme.Dialogue.winter_Tue10": "É meio perigoso deixar o pessoal sozinho, nunca se sabe o que eles podem fazer, ou o dinheiro que eles podem gastar!$2#$b#Ainda mais no inverno!$7",
+
+	//Quarta
+	"Guilherme.Dialogue.winter_Wed": "Que friiiiooo...$2",
+	"Guilherme.Dialogue.winter_Wed2": "Queria ter uma lareira, deve ser bem confortável!$1",
+	"Guilherme.Dialogue.winter_Wed4": "Sempre vou fazer as compras no Pierre, o problema é que o estoque no inverno é bem baixo...$2#$b#Como vai o seu estoque de comida?",
+	"Guilherme.Dialogue.winter_Wed6": "A última coisa que eu quero fazer nesse frio é um jutsu de controlar a água...#$b#O gelo ia me atrapalhar!$2",
+	"Guilherme.Dialogue.winter_Wed8": "@, preciso terminar de anotar as coisas na minha lista de compras, você pode me ajudar?$1",
+	"Guilherme.Dialogue.winter_Wed10": "@, estarei pronto pra te proteger!#$b#Então, confie em mim, assim como eu confio em você!$4",
+
+	//Quinta
+	"Guilherme.Dialogue.winter_Thu": "Acho que preciso de um chocolate quente...$2",
+	"Guilherme.Dialogue.winter_Thu2": "Melhor ir treinar, sempre é bom se esquentar com um exercício!$1",
+	"Guilherme.Dialogue.winter_Thu4": "Preciso de uma chama para ascender esse frio no meu coração...$2#$b#Sério, minha blusa ta furada bem no coração!$8#$b#Aqui, olha!$8",
+	"Guilherme.Dialogue.winter_Thu6": "Você foi lido como um livro!$1^Você foi lida como um livro!$1#$b#Sabia que viria até aqui.",
+	"Guilherme.Dialogue.winter_Thu8": "E pensar que um ano já está acabando...$2#$b#Bom, pelo menos me diverti bastante com você-$1#$b#Quer dizer vocês todos!$4",
+	"Guilherme.Dialogue.winter_Thu10": "@, vamos sair pra tomar um chocolate quente, tipo... só nós dois?$4#$b#Nesse frio o gosto do chocolate quente fica ainda melhor, prometo!$1",
+
+	//Sexta
+	"Guilherme.Dialogue.winter_Fri": "@, como vão as coisas na fazenda?#$b#É verdade, não da pra plantar no inverno...$2",
+	"Guilherme.Dialogue.winter_Fri2": "@, vou correr até me esquentar!$1#$b#Te vejo por aí!$1",
+	"Guilherme.Dialogue.winter_Fri4": "Ei @, sempre treino jutsus junto com o Gustavo durante a tarde, é bom para se esquentar!$1#$b#Acho que estou cada vez mais perto de lançar um jutsu, eu sinto isso!$1",
+	"Guilherme.Dialogue.winter_Fri6": "Tenho certeza que as habilidades do Mateus estão limitadas nesse frio...$6#$b#É um bom momento pra vencer dele!$6",
+	"Guilherme.Dialogue.winter_Fri8": "@, preciso de uma ajudinha nas compras, você pode vir comigo?#$b#Prometo que não vai demorar!$1#$b#Se quiser, podemos comer algo depois.",
+	"Guilherme.Dialogue.winter_Fri10": "Não deixei de fazer meu treino matinal!$1#$b#Ser um ninja é proteger quem você ama...$4",
+
+	//Sabado
+	"Guilherme.Dialogue.winter_Sat": "Que frio... espero que você esteja bem agasalhado!$1",
+	"Guilherme.Dialogue.winter_Sat2": "Os sacos de dormir não vão segurar esse frio...$2#$b#Ah cara, só queria uma cama e um cobertor quentinhos...$2",
+	"Guilherme.Dialogue.winter_Sat4": "Será que o Pierre vai ter estoque amanhã?#$b#Durante o inverno é meio complicado...$2#$b#Ah, ele tem uma estufa?!$8#$b#Então me preocupei á toa!$1",
+	"Guilherme.Dialogue.winter_Sat6": "Cara, a verdade é que eu acho a fonte da cidade meio sem graça, por isso vou lá de vez enquando...#$b#Qual foi a idéia deles, eu fico me perguntando...$2",
+	"Guilherme.Dialogue.winter_Sat8": "O que será que posso fazer hoje?#$b#Ei @, tem algum plano secreto de ninja especial pra hoje?$1",
+	"Guilherme.Dialogue.winter_Sat10": "Amor, vou comprar algumas coisas no Pierre, vai querer algo?!$1#$b#Não se preocupa, meus calculos nunca falham...#$b#Mas também, eu nunca dou acerto certeiro...$2",
+
+	//Domingo
+	"Guilherme.Dialogue.winter_Sun": "Pelo menos na loja do Pierre não tá tão frio!$1",
+	"Guilherme.Dialogue.winter_Sun2": "Preciso me tornar um ninja o mais rápido possível, para usar jutsus de fogo nesse inverno!$1",
+	"Guilherme.Dialogue.winter_Sun4": "Amanhã já é segunda-feira denovo...#$b#Pelo menos os dias estão passando rápido!$1#$b#Em breve, primavera denovo!$1",
+	"Guilherme.Dialogue.winter_Sun6": "Meu treinamento está começando a dar frutos!$1#$b#Quero continuar assim, então vamo esquentar as coisas!$1",
+	"Guilherme.Dialogue.winter_Sun8": "Meu momento de vencer do Mateus no joguinho é agora!$6#$b#Esse frio não vai salvar ele!$6",
+	"Guilherme.Dialogue.winter_Sun10": "Meus jutsus ficam melhores a cada dia, em breve vou tornar esse vale um lugar melhor!$1#$b#E você vai estar junto comigo!$4#$b#Tô certo!$1",
+
+	//GUILHERME DIALOGOS EVENTOS
+	"Guilherme.Dialogue.Evento_SeedShop_Bom": "Uh! Boa idéia!$8",
+  	"Guilherme.Dialogue.Evento_SeedShop_Neutro": "Com certeza não...$2",
+  	"Guilherme.Dialogue.Evento_SeedShop_Ruim": "Ah, tudo bem então...$2",
+
+  	"Guilherme.Dialogue.Evento_Jutsus_Bom": "Esse é o espírito!$9#$b#Chega aqui do lado que vou te ensinar!$9",
+  	"Guilherme.Dialogue.Evento_Jutsus_Neutro": "Então não preciso te ensinar...$9",
+  	"Guilherme.Dialogue.Evento_Jutsus_Ruim": "...$9",
+  	"Guilherme.Dialogue.Evento_Jutsus_Ok": "Certo!$9",
+
+  	"Guilherme.Dialogue.Evento_Triste_Bom": "...!$8",
+  	"Guilherme.Dialogue.Evento_Triste_Neutro": "Esse não é o ponto...$2",
+  	"Guilherme.Dialogue.Evento_Triste_Ruim": "Acho que decepcionei a todos...$2",
+
+  	"Guilherme.Dialogue.Evento_Tronco_Bom": "Chega ai!$9",
+  	"Guilherme.Dialogue.Evento_Tronco_Neutro": "Bom, a escolha é sua... até mais!$9",
+  	"Guilherme.Dialogue.Evento_Tronco_Ruim": "Mesmo depois de tudo que passamos...?$9",
+
+	//GUILHERME DIALOGOS CASADO
+	// ESPECIAL
+	"Guilherme.MarriageDialogue.OneKid.0": "Cade o pestinha do %kid1?",
+	"Guilherme.MarriageDialogue.OneKid.1": "Onde %kid1 foi?#$b#Se viu em algum lugar?",
+	"Guilherme.MarriageDialogue.OneKid.2": "%kid1 é muito agitado, mas eu consigo cuidar.#$b#Enquanto isso você pode cuidar da fazenda!$1",
+	"Guilherme.MarriageDialogue.OneKid.3": "Não encontro essa criança @...$2",
+	"Guilherme.MarriageDialogue.TwoKids.0": "Essas crianças são muito agitadas!$1",
+	"Guilherme.MarriageDialogue.TwoKids.1": "Vou brincar de Pega-Pega com as crianças depois, se cuida @!$1",
+	"Guilherme.MarriageDialogue.TwoKids.2": "%kid2 é idêntico a você!$1",
+	"Guilherme.MarriageDialogue.TwoKids.3": "Agora eles tão mais tranquilos, posso relaxar!$1",
+	"Guilherme.MarriageDialogue.NoBed.0": "A cama saiu andando por acaso?$2",
+	"Guilherme.MarriageDialogue.NoBed.1": "@... onde a gente dorme?$2",
+	"Guilherme.MarriageDialogue.NoBed.2": "Onde você escondeu a cama?$2",
+	"Guilherme.MarriageDialogue.NoBed.3": "Ah, só queria uma camazinha agora...$2",
+	"Guilherme.MarriageDialogue.Outdoor.0": "Indo treinar sua habilidade de fazendeiro?$1",
+	"Guilherme.MarriageDialogue.Outdoor.1": "Vou ficar camuflado como um ninja pra pegar os corvos!$1",
+	"Guilherme.MarriageDialogue.Outdoor.2": "Opa, acordou?#$b#Só estou tomando um ar fresco!$1",
+	"Guilherme.MarriageDialogue.Outdoor.3": "Saudades de virar um tronco...#$b#Não, não foi um momento bom...$2",
+	"Guilherme.MarriageDialogue.Outdoor.4": "Tenho que preparar um almoço ninja um dia desses!$1",
+
+	//DIALOGOS COMUNS
+	// PRIMAVERA
+	"Guilherme.MarriageDialogue.spring_1": "As flores estão lindas, já deu uma olhada?$1",
+	"Guilherme.MarriageDialogue.spring_8": "Cuidado com corvos, eles se espreitam nas sombras também!",
+	"Guilherme.MarriageDialogue.spring_23": "Ei, quer dançar no festival de amanhã?!$1",
+
+	// VERAO
+	"Guilherme.MarriageDialogue.summer_1": "Ouf, que calor...$2#$b#Primavera acabou cedo demais...$2",
+	"Guilherme.MarriageDialogue.summer_8": "@, não esquece do protetor solar!$1",
+
+	// OUTONO
+	"Guilherme.MarriageDialogue.fall_1": "O outono chegou, pelo menos não tá mais tão quente!$1",
+	"Guilherme.MarriageDialogue.fall_8": "Pronto, está terminado.#$b#Uma shuriken perfeita!$1",
+	"Guilherme.MarriageDialogue.fall_15": "Não esquece, na praia vai ter o festival do sopão.",
+	"Guilherme.MarriageDialogue.fall_26": "È Halloween amanhã, você vai no festival?",
+
+	// INVERNO
+	"Guilherme.MarriageDialogue.winter_1": "O ano já ta quase acabando, fez tudo que queria?$1",
+	"Guilherme.MarriageDialogue.winter_7": "Ah, o cheiro de peixe do festival de amanhã vai me deixar enjoado...$2",
+	"Guilherme.MarriageDialogue.winter_28": "Feliz ano novo @!$1#$b#Espero que nosso próximo ano seja ainda melhor!$l",
+
+	// DIALOGOS DIA
+	"Guilherme.MarriageDialogue.RainyDay.0": "A chuva me traz algumas memórias!$1",
+	"Guilherme.MarriageDialogue.RainyDay.1": "Olha essa chuva, acho que não vai parar tão cedo.",
+	"Guilherme.MarriageDialogue.RainyDay.2": "Se você for sair, pelo menos leva um guarda-chuva.?$1",
+	"Guilherme.MarriageDialogue.RainyDay.3": "Espero que o pessoal esteja bem...$2#$b#Dias chuvosos são dificeis.$2",
+	"Guilherme.MarriageDialogue.RainyDay.4": "Sashimi amanhã, talvez...?",
+
+	"Guilherme.MarriageDialogue.IndoorDay.0": "Vou ficar em casa hoje.#$b#Um ninja precisa aprimorar suas técnicas de limpeza!$1",
+	"Guilherme.MarriageDialogue.IndoorDay.1": "Ah, meus braços doem, mas tenho que continuar treinando limpeza!$1",
+	"Guilherme.MarriageDialogue.IndoorDay.2": "Bom dia, quer algo pro café da manhã?",
+	"Guilherme.MarriageDialogue.IndoorDay.3": "Ainda tô meio sonolento...",
+	"Guilherme.MarriageDialogue.IndoorDay.4": "Ninjas sempre acordam cedo!$1#$b#Por isso você é um de verdade!$1",
+
+	// DIALOGOS NOITE
+	"Guilherme.MarriageDialogue.RainyNight.0": "Já ta tarde, melhor ir dormir se não quiser ficar cansado amanhã!$l",
+	"Guilherme.MarriageDialogue.RainyNight.1": "Tô caindo de sono...$2",
+	"Guilherme.MarriageDialogue.RainyNight.2": "Noite de chuva, é ASMR para os meus ouvidos!$1",
+	"Guilherme.MarriageDialogue.RainyNight.3": "Vou dormir de conchinha hoje...$1",
+	"Guilherme.MarriageDialogue.RainyNight.4": "Não tente pegar um lanchinho escondido de noite.#$b#Estou de olho na geladeira!$1",
+	"Guilherme.MarriageDialogue.RainyNight.5": "Como foi hoje, cansativo?$1",
+
+	"Guilherme.MarriageDialogue.IndoorNight.0": "Terminou tudo hoje, @?#$e#Já terminei minhas tarefas, vou ir pra cama!$1",
+	"Guilherme.MarriageDialogue.IndoorNight.1": "Vou deitar, por hoje é só...",
+	"Guilherme.MarriageDialogue.IndoorNight.2": "Bem vindo de volta!$1#$e#Passou bom tempo fora, melhor ter treinado como um ninja!$1#$b#Fiz isso pra você, espero que goste!$1 [228]",
+	"Guilherme.MarriageDialogue.IndoorNight.3": "Já terminei de organizar tudo, sabe sou meio perfeccionista!$1",
+	"Guilherme.MarriageDialogue.IndoorNight.4": "Tudo terminado, hora de dormir!$1",
+
+
+	// AFEICAO
+	"Guilherme.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei...$l",
+	"Guilherme.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
+	"Guilherme.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
+	"Guilherme.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
+	"Guilherme.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
+	"Guilherme.MarriageDialogue.Good.5": "Eu tava admirando o amuleto de casamento!$l#$b#Parece bem ninja pra mim!$1",
+	"Guilherme.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai... longa história$2",
+	"Guilherme.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
+	"Guilherme.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Guilherme.MarriageDialogue.Good.9": "Acho que tô me acostumando a ficar sem internet.#$e#É até gostosinho.$1",
+	"Guilherme.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
+	"Guilherme.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
+	"Guilherme.MarriageDialogue.Neutral.2": "Dando uma pausa? também curto...",
+	"Guilherme.MarriageDialogue.Neutral.3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
+	"Guilherme.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
+	"Guilherme.MarriageDialogue.Neutral.5": "Ei como ta nossa grana, @?",
+	"Guilherme.MarriageDialogue.Neutral.6": "Espero que o pessoal esteja se virando bem!$1",
+	"Guilherme.MarriageDialogue.Neutral.7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+	"Guilherme.MarriageDialogue.Neutral.8": "Sempre tem mosquitos aqui em volta!$5#$b#Minha batalha só começou!$5",
+	"Guilherme.MarriageDialogue.Neutral.9": "Vamos ficar aqui pra sempre né?$1",
+	"Guilherme.MarriageDialogue.Bad.0": "...Você ainda gosta de mim?$2",
+	"Guilherme.MarriageDialogue.Bad.1": "Ah... acho que fui muito jovem para sair casando.$2",
+	"Guilherme.MarriageDialogue.Bad.2": "Ainda se sente feliz?$2",
+	"Guilherme.MarriageDialogue.Bad.3": "Fiz algo errado? Você ta estranho ultimamente.$2",
+	"Guilherme.MarriageDialogue.Bad.4": "Hmm...?$2",
+	"Guilherme.MarriageDialogue.Bad.5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
+	"Guilherme.MarriageDialogue.Bad.6": "Ah... sério que tenho que viver com você?$2",
+	"Guilherme.MarriageDialogue.Bad.7": "Antes eramos felizes... mas e agora?$2",
+	"Guilherme.MarriageDialogue.Bad.8": "Você ta me dando um baita gelo ultimamente...$2",
+	"Guilherme.MarriageDialogue.Bad.9": "Penso se podia ter feito algo melhor.$2",
+	
+	// GUSTAVO DIALOGOS
+	"Gustavo.Dialogue.Introduction": "Opa, tudo bem?$1#$b#Meu nome é Gustavo, eu e meus amigos nos perdemos por aqui...#$b#Você sabe se tem algum acampamento aqui por perto?",
+	"Gustavo.Dialogue.danceRejection": "Não.",
+	"Gustavo.Dialogue.divorced": "Não quero mais falar com você, pode ir embora?$2",
+	"Gustavo.Dialogue.dumped_Guys": "...$2#$b#%Gustavo parece não querer conversar",
+	"Gustavo.Dialogue.secondChance_Guys": "Eh, acho que tudo tem um recomeço...$2",
+	"Gustavo.Dialogue.breakUp": "Ah... não esperava por essa...$2",
+	"Gustavo.Dialogue.MovieInvitation": "O Vitão te corrompeu né?$8#$b#Bom, pelo menos ele passa alguns filmes bons.",
+
+	// RESORT
+	"Gustavo.Dialogue.Resort_Entering": "Caramba cheguei até aqui, e ir pra casa que é bom nada.",
+	"Gustavo.Dialogue.Resort_Leaving": "Ah, queria ficar só mais uns 10 minutos.$2",
+	"Gustavo.Dialogue.Resort_Leaving_2": "Aaah, hora de voltar pro Vale?$2",
+	"Gustavo.Dialogue.Resort_Shore": "A água daqui ta limpinha!$1",
+	"Gustavo.Dialogue.Resort_Shore_2": "HMMMMMM...$6#$e#Uma musiquinha agora cairia bem...$6",
+	"Gustavo.Dialogue.Resort_Umbrella": "Ai, ai...#$b#Cansei, hora de escutar uma musiquinha...",
+	"Gustavo.Dialogue.Resort_Umbrella_2": "Bom, acho que vou ter que escutar um Rap.",
+	"Gustavo.Dialogue.Resort_Wander": "Será que os papagaios cantam comigo?!$1",
+	"Gustavo.Dialogue.Resort_Bar": "Barzinho daora!$1",
+	"Gustavo.Dialogue.Resort": "Cara, da pra fazer uma festa de arrasar nessa ilha!$1",
+
+	// GUSTAVO DIALOGO COMUM
+	//Segunda
+	"Gustavo.Dialogue.Mon": "Quem é você mesmo...?",
+	"Gustavo.Dialogue.Mon2": "Só uma musiquinha pra alegrar o meu dia!$1#$b#O que acha?",
+	"Gustavo.Dialogue.Mon4": "Gosto de treinar na floresta com o Boneco de Treino, mas tem algo estranho...$6#$e#Mesmo sendo de madeira, ele não fica com marcas de soco.$6",
+	"Gustavo.Dialogue.Mon6": "Tenho que aperfeiçoar minha técnica, e tenho a força necessária pra isso!",
+	"Gustavo.Dialogue.Mon8": "Você viu a nova música que lançaram?#$b#Vou ver agora, tava esperando faz tempo!$1#$b#Aff, ta em inglês...$2",
+	"Gustavo.Dialogue.Mon10": "@, sabia que você estava escondendo uma rima de amor!$4",
+
+	//Terça
+	"Gustavo.Dialogue.Tue": "Gosto de ficar passeando pelo Vale, é bem relaxante.",
+	"Gustavo.Dialogue.Tue2": "Vou ficar bom em Inglês pra conseguir expandir meu leque de Rap!",
+	"Gustavo.Dialogue.Tue4": "Guilherme-sensei parece impressionado com minhas habilidades, não vou decepciona-lo!$1",
+	"Gustavo.Dialogue.Tue6": "Ei, o que você acha de treinar Taijutsu comigo?#$b#Seria divertido!$1",
+	"Gustavo.Dialogue.Tue8": "Guilherme-sensei não pode descobrir que estou treinando os Punhos Supremos, se não ele me mata!$7",
+	"Gustavo.Dialogue.Tue10": "Os dias estão passando voando quando fico com você!$4#$b#É impressionante...$4",
+
+	//Quarta
+	"Gustavo.Dialogue.Wed": "Bom, meu treino diário está dando frutos!$1#$e#Em breve vou ficar mais forte que um Herói!$1",
+	"Gustavo.Dialogue.Wed2": "Hmm... será que eu foco mais no meu treino ninja ou meu treino de rap?$6#$e#De qualquer forma, os dois são divertidos!$1",
+	"Gustavo.Dialogue.Wed4": "Não importa quantas vezes eu treine, o Boneco sempre parece intácto!$2#$e#Tenho que ficar mais forte!",
+	"Gustavo.Dialogue.Wed6": "Meu \"Punhos Supremos do Gustas\" melhora a cada dia.#$b#Estou quase alcançando a velocidade da luz!$1",
+	"Gustavo.Dialogue.Wed8": "A fazenda deve te deixar bem forte!$1#$b#Plantar é algo que exige muita força.",
+	"Gustavo.Dialogue.Wed10": "Estarei aqui se precisar!$1#$e#Melhor, sempre estou!$4",
+
+	//Quinta
+	"Gustavo.Dialogue.Thu": "Será que o cachorro da vila vai sair da casinha algum dia?$6#$e#Queria brincar com ele!$1",
+	"Gustavo.Dialogue.Thu2": "Ei, se você encontrar o Vitão um dia desses tome cuidado...#$b#Ele vai tentar vender alguns planos pra você.",
+	"Gustavo.Dialogue.Thu4": "Quero aperfeiçoar meus golpes até ficar perfeito, e então eu passo pro próximo!$1",
+	"Gustavo.Dialogue.Thu6": "Talvez eu devesse descansar um dia...$6#$b#Não, não posso deixar minha preguiça me levar denovo.",
+	"Gustavo.Dialogue.Thu8": "Vou trabalhar nas minhas rimas, tinha dado uma pausa por causa dos treinos.#$b#Mas agora volto com tudo YEAHH!$1",
+	"Gustavo.Dialogue.Thu10": "Preciso terminar uma rima pra alguém especial...$4#$e#Não disse nada...$4",
+
+	//Sexta
+	"Gustavo.Dialogue.Fri": "Talvez eu devesse trollar o Mateus um dia desses!$1",
+	"Gustavo.Dialogue.Fri2": "Uma musiquinha pra alegrar o dia, em breve te vejo cheio de alegria!$1",
+	"Gustavo.Dialogue.Fri4": "Eu quero virar o melhor ninja de Taijutsu já existente, pra isso vou usar o Boneco de Treino!$1",
+	"Gustavo.Dialogue.Fri6": "Você viu meu Boneco de Treino por aí?!$2#$b#Acho que o Guilherme pegou pra ele denovo!$5",
+	"Gustavo.Dialogue.Fri8": "@, confio em você pra não contar pro Guilherme-sensei sobre meu treino secreto!$1",
+	"Gustavo.Dialogue.Fri10": "Qual seu plano pra hoje?!$1#$b#Podiamos tomar um sorvete, o que acha?$4",
+
+	//Sabado
+	"Gustavo.Dialogue.Sat": "Precisa de algo?#$b#Então, vou nessa!$1",
+	"Gustavo.Dialogue.Sat2": "Gosto de escutar alguns Raps de Anime, é meu passatempo preferido!$1",
+	"Gustavo.Dialogue.Sat4": "Vou focar em treinos mais pesados, minhas técnicas não vão melhorar se continuar assim.",
+	"Gustavo.Dialogue.Sat6": "Eu vou fazendo essa rima pra começar, logo tudo vai se acabar!$1#$b#... não, tenho que ser mais criativo.$6",
+	"Gustavo.Dialogue.Sat8": "Ei, já passamos por muita coisa, quero te dizer que foi bem divertido!$4#$b#Só isso mesmo.",
+	"Gustavo.Dialogue.Sat10": "Oi @...#$b#Só estava pensando que é legal conversar com você...$4",
+
+	//Domingo
+	"Gustavo.Dialogue.Sun": "Mais um dia, hora de continuar meu treinamento!$1",
+	"Gustavo.Dialogue.Sun2": "Eae @, beeem tranquilinho!$1#$b#Você tem treinado Rap também?",
+	"Gustavo.Dialogue.Sun4": "Começando meu speed flow secreto, minha técnica não é brincadera!$1#$b#Pego você de despreparado dessa maneira, vou acabando essa rima no papo reto!$1#$e#O que achou?",
+	"Gustavo.Dialogue.Sun6": "Não vejo a hora de me tornar um Sensei também!$1",
+	"Gustavo.Dialogue.Sun8": "Não é hora de ficar parado @, vamos treinar!$1^Não é hora de ficar parada @, vamos treinar!$1#$e#Tem outros planos pra hoje?$2",
+	"Gustavo.Dialogue.Sun10": "Vamos ficar juntos pra sempre, o que me diz?$4",
+
+	// GUSTAVO FESTIVAIS
+	//Egg Festival
+	"Gustavo.Dialogue.spring_13": "Terei que ser o mais rápido?$6#$b#Não, esse festival não é pra mim, sou mais força bruta.",
+	//Flower Dance
+	"Gustavo.Dialogue.spring_24": "Como será que vou lançar o passinho hoje?$6",
+	//Luau
+	"Gustavo.Dialogue.summer_11": "O que será que eu vou colocar no sopão?$6#$b#Alguma sugestão?",
+	//Dance of the Moonlight Jellies
+	"Gustavo.Dialogue.summer_28": "Faz um tempo que não sinto a brisa do mar de noite!$1",
+	//Stardew Valley Fair
+	"Gustavo.Dialogue.fall_16": "Wow, um festival cheio de jogos!$1#$b#Aqui vou eu!$1",
+	//Spirit's Eve
+	"Gustavo.Dialogue.fall_27": "Não acredito em monstros e essas coisas...#$b#Acho que são todos pessoas fantasiadas.$1",
+	//Festival of Ice
+	"Gustavo.Dialogue.winter_8": "Vou tomar cuidado pra não quebrar nenhuma escultura de gelo hoje!$1",
+	//Night Market
+	"Gustavo.Dialogue.winter_16": "Vou dar uma olhada nas lojinhas do Mercado Noturno hoje!$1#$e#Espero achar algum fone melhor.",
+	//Feast of the Winter Star
+	"Gustavo.Dialogue.winter_25": "Será que meu amigo secreto está pronto pra receber o meu presente?$6#$b#Ele vai gostar muito!$1",
+
+	// GUSTAVO DIALOGOS PRIMAVERA
+	"Gustavo.Dialogue.spring_1": "Que as flores me guiem, a primavera chegou!$1#$b#Hora de terminar algumas rimas de primavera.",
+
+	// GUSTAVO DIALOGOS VERAO
+	"Gustavo.Dialogue.summer_1": "Tá um pouco quente, não?#$b#Ou... sou só eu aqui?",
+	//Segunda
+	"Gustavo.Dialogue.summer_Mon": "Tenho que fazer uma rima de verão!$1#$b#Mas por onde eu começo...?$6#$e#Ah, desculpa, o que você disse mesmo?",
+	"Gustavo.Dialogue.summer_Mon2": "Acho que o Sensei não vai brigar comigo se eu me atrasar um pouquinho pro treino...#$b#Talvez...#$b#...#$b#Melhor não ele me dá medo com raiva!$7",
+	"Gustavo.Dialogue.summer_Mon4": "Tenho que tomar cuidado pra não dormir demais!$1#$b#Nenhuma rima vai sair direito se eu acordar tarde.",
+	"Gustavo.Dialogue.summer_Mon6": "Toma muito cuidado com o Mateus, ele gosta de \"Pão com Feijão\", dá pra acreditar nisso?!$7",
+	"Gustavo.Dialogue.summer_Mon8": "Você não fica cansado de trabalhar nesse calor?^Você não fica cansada de trabalhar nesse calor?#$b#Você deve ser ridiculamente forte, sério!$7",
+	"Gustavo.Dialogue.summer_Mon10": "Tô com saudades de jogar um Warframe no meu Xbox...#$b#Amor, você tem internet em casa?$1",
+
+	//Terça
+	"Gustavo.Dialogue.summer_Tue": "Tá tão quente que parece que eu vou derreter...#$b#Sério cara, isso é perigoso!$7",
+	"Gustavo.Dialogue.summer_Tue2": "Ei @, se você achar algum Disco Raro, pode me dar?#$b#Eu posso colocar na minha caixinha de som pra testar, não tem nada que ela não possa fazer!$1",
+	"Gustavo.Dialogue.summer_Tue4": "Esse verão ta de matar, o segredo é não parar de rimar!$1#$b#Porque uma rima boa só te leva pra um lugar, e esse lugar é com certeza o seu lar!$1#$b#O que achou da rima?#$b#Talvez eu deva melhorar algumas partes...$6",
+	"Gustavo.Dialogue.summer_Tue6": "Treinar nesse calor é pedir pra ser um treino intenso...$2#$b#Se eu tivesse um ventilador, poderia ficar até amanhã, mas...",
+	"Gustavo.Dialogue.summer_Tue8": "Estive pensando, se chover não vai ficar tão quente assim...#$b#Então, hora de fazer a \"Música da Chuva\"!$1",
+	"Gustavo.Dialogue.summer_Tue10": "Amor vou cantar uma música pra você!$1#$b#Lá vai...#$b#...#$b#...#$b#Não consigo começar se você ficar me olhando assim...$4",
+
+	//Quarta
+	"Gustavo.Dialogue.summer_Wed": "@, @...?$6#$b#Ah, você é o fazendeiro, agora me lembrei!$1^Ah, você é a fazendeira, agora me lembrei!$1#$b#Faz um tempão que não te vejo.",
+	"Gustavo.Dialogue.summer_Wed2": "Solta o som DJ!$1#$b#Parapapapapapa pa pa pa pa!$3#$b#%Gustavo parece entretido.",
+	"Gustavo.Dialogue.summer_Wed4": "Minha garganta ta toda desgastada agora...$2#$b#Preciso de um copo de água urgente!$2",
+	"Gustavo.Dialogue.summer_Wed6": "Realmente, não dá pra treinar nesse calor, é a pior sensação de todas!$2",
+	"Gustavo.Dialogue.summer_Wed8": "Será que tem algum \"Atumalaka\" pelo rio?#$b#É uma espécie rara de sapo!$1",
+	"Gustavo.Dialogue.summer_Wed10": "O que acha de ir na praia hoje?#$b#É o melhor momento pra nadar, com esse calor eu não vou me segurar!$1",
+
+	//Quinta
+	"Gustavo.Dialogue.summer_Thu": "Espera, espera, espera!$7#$b#Ah, você me desconcentrou... eu tava tendo uma idéia de rima muito boa...$2",
+	"Gustavo.Dialogue.summer_Thu2": "Preciso de mais água, minha garganta ta secando muito rápido.$2#$b#As rimas não vão sair se o verão continuar a me atrapalhar.$2",
+	"Gustavo.Dialogue.summer_Thu4": "Meu treino já ta dando frutos, se liga no tanquinho do pai!$1",
+	"Gustavo.Dialogue.summer_Thu6": "Ei @, você tem um ventilador em casa?#$b#Se tiver, preciso dele urgente!$1#$b#Não consigo treinar direito com esse calor.",
+	"Gustavo.Dialogue.summer_Thu8": "Vou pedir pro Sensei comprar um refri geladinho!$1#$b#Na verdade, é melhor eu pedir um suco, vai que ele compra Joja-Cola!$7#$e#Não da pra rimar de garganta seca, isso é fato!$1",
+	"Gustavo.Dialogue.summer_Thu10": "Amor, isso é urgente!$1#$b#Vamos tomar um sorvete! Vamos! Vamos!$1#$b#Por favor, só um sorvetinho!$2",
+
+	//Sexta
+	"Gustavo.Dialogue.summer_Fri": "Esse tempo me lembra de quando eu brincava de \"O Chão é Lava\"!$1#$b#Só que agora é a coisa real!$7",
+	"Gustavo.Dialogue.summer_Fri2": "Eu vejo Joja-Cola no rio o tempo todo, imagina o perigo de tomar aquilo!$7",
+	"Gustavo.Dialogue.summer_Fri4": "Acho que consigo correr uma maratona hoje!$1#$b#O problema é que é uma maratona de 1 metro.#$b#Sério, tá quente de mais pra testar meu limite, eu faço isso depois.$2",
+	"Gustavo.Dialogue.summer_Fri6": "Não sou muito bom com dinheiro, então o Sensei cuida disso pra gente!$1#$b#O lado bom, é que tenho mais tempo pra rimar!$1",
+	"Gustavo.Dialogue.summer_Fri8": "Eu não te contei né, mas parece que o Willy vende chiclete!$1#$b#É tipo umas coisas coloridas, vai entender por que ele vende isso.",
+	"Gustavo.Dialogue.summer_Fri10": "Amor, já ouviu o termo \"Atumalakar\"?#$b#É quando você ri bem alto!$1",
+
+	//Sabado
+	"Gustavo.Dialogue.summer_Sat": "O verão chegou e eu nem terminei minha rima de primavera...#$b#Um fracasso completo!$2",
+	"Gustavo.Dialogue.summer_Sat2": "Estou treinando meus ataques, mas parece que ficaram mais lentos...#$b#Ou será que eu que tô rápido demais?$6#$b#Não, não faz sentido.",
+	"Gustavo.Dialogue.summer_Sat4": "Foi mal, sem tempo pra falar, pois uma rima de verão tenho que lançar!$1#$b#Vamos nessa!$3#$b#%Gustavo começou a rimar do nada.",
+	"Gustavo.Dialogue.summer_Sat6": "Quando o calor chega, meus ataques ficam que nem... pedreira?#$b#Argh não, muito ruim!$5",
+	"Gustavo.Dialogue.summer_Sat8": "Ei, não vem com esse papo de Joja-Cola pra cima de mim não.$8#$b#Vejo aquilo descendo o riacho o tempo todo.$8",
+	"Gustavo.Dialogue.summer_Sat10": "Rimar nesse calor é um verdadeiro desafio.#$b#Mas por você eu consigo fazer isso!$4",
+
+	//Domingo
+	"Gustavo.Dialogue.summer_Sun": "Esse negócio de \"Memórias de Verão\" é tudo uma mentira, tenho certeza disso.",
+	"Gustavo.Dialogue.summer_Sun2": "Ei @, você tem algum Suco sobrando aí?#$b#Pode ser de qualquer sabor, só tô com sede mesmo!$1",
+	"Gustavo.Dialogue.summer_Sun4": "Se liga nessas cicatrizes na minha mão!$1#$b#Uou, isso sim que é trabalho duro!$1",
+	"Gustavo.Dialogue.summer_Sun6": "Tô errando alguns versos muito fáceis...#$b#Deve ser o calor, né?$2",
+	"Gustavo.Dialogue.summer_Sun8": "Preciso treinar... mas tá calor...$8#$b#Mas eu PRECISO treinar... mas tá calor...$8#$b#%Gustavo está em um ciclo infinito.",
+	"Gustavo.Dialogue.summer_Sun10": "Estou começando a acreditar nesse negócio de \"Memórias de Verão\", graças a você @.#$b#E então, vamos fazer as nossas?!$4",
+
+	// GUSTAVO DIALOGOS OUTONO
+	"Gustavo.Dialogue.fall_1": "OUTONOU!$1#$b#Outonou...?$6",
+
+	// GUSTAVO DIALOGOS INVERNO
+	"Gustavo.Dialogue.winter_1": "Treinar no frio é a melhor sensação!$1#$b#Hora de me aquecer!$1",
+	//Segunda
+	"Gustavo.Dialogue.winter_Mon": "Vou fazer um boneco de neve agora mesmo!$1",
+	"Gustavo.Dialogue.winter_Mon2": "@! Já colocou suas decorações de natal?!$1",
+	"Gustavo.Dialogue.winter_Mon4": "O inverno vai chegando, e os presentes eu vou dando!$1#$b#Acho que ainda tenho tempo pra melhorar isso...$6",
+	"Gustavo.Dialogue.winter_Mon6": "Que tal um teste de resistência agora mesmo? Está pronto?#$b#3... 1... VAI!$1#$b#%Gustavo parece estar elétrico hoje.",
+	"Gustavo.Dialogue.winter_Mon8": "@, quer vir tomar um café comigo?#$b#É sempre bom nesse clima frio!$1",
+	"Gustavo.Dialogue.winter_Mon10": "Amor, precisa de ajuda pra fazer uma rima natalina?!$1#$b#Já preparei o beat remixado natalino, agora é só rimar!$1",
+
+	//Terça
+	"Gustavo.Dialogue.winter_Tue": "Esse frio não é forte o suficiente pra me derrubar!$1",
+	"Gustavo.Dialogue.winter_Tue2": "Espera um minutinho...$1#$b#...#$b#E eu começ-$3#$b#%Gustavo começou a rimar do nada.",
+	"Gustavo.Dialogue.winter_Tue4": "Será que eu faço um boneco de neve pequeno que nem o Seba, ou alto que nem eu?$6#$b#Hmm...$6",
+	"Gustavo.Dialogue.winter_Tue6": "Meu corpo de ferro não pega resfriado tão fácil!$1#$b#Mas quando pega...#$b#Não quero nem lembrar...$2",
+	"Gustavo.Dialogue.winter_Tue8": "Dessa vez é o Sensei que tá se atrasando pros treinos...$2#$b#Parece que ele não gosta MESMO do frio.",
+	"Gustavo.Dialogue.winter_Tue10": "@, vamos fazer uma guerra de bolinha de neve!$1#$b#Eu começo...#$b#Não vou pegar leve.$8#$b#%Você sente um instinto assassino vindo de Gustavo.",
+
+	//Quarta
+	"Gustavo.Dialogue.winter_Wed": "Já nos apresentamos?#$b#Prazer, eu sou-#$b#Ah, você é o @!^Ah, você é a @!#$b#Foi mal, não te reconheci.",
+	"Gustavo.Dialogue.winter_Wed2": "Hora de correr na velocidade do relâmpago amarelo!$1#$b#Nada pode me parar!$1",
+	"Gustavo.Dialogue.winter_Wed4": "Primeiro preciso aquecer a minha voz, talvez um cafézinho ajude!$1#$b#Depois é só começar a rima.",
+	"Gustavo.Dialogue.winter_Wed6": "Se eu parar de treinar nesse frio eu tô maluco!$1",
+	"Gustavo.Dialogue.winter_Wed8": "Hoje é meu dia, vou treinar que nem louco!$1#$b#Só tenho que tomar cuidado pra não derrumar uma árvore sem querer.",
+	"Gustavo.Dialogue.winter_Wed10": "@, hipoteticamente o que você gostaria de receber de presente?$4#$b#Claro, hipoteticamente, sem pretenções nenhumas.$4",
+
+	//Quinta
+	"Gustavo.Dialogue.winter_Thu": "Correr nesse frio é a melhor sensação de todas!$1",
+	"Gustavo.Dialogue.winter_Thu2": "Dormir nesse frio até que é bom... se eu não tivesse em um saco de dormir duro no chão.",
+	"Gustavo.Dialogue.winter_Thu4": "Já faz um bom tempo que não consigo ler alguns mangás.#$b#Cara preciso colocar isso em dia agora mesmo!$1",
+	"Gustavo.Dialogue.winter_Thu6": "Tenho que tomar mais cuidado pra não escorregar nessa neve.#$b#Tomei um tombo feio ontem...$2",
+	"Gustavo.Dialogue.winter_Thu8": "@! Socorro!$2#$b#Ontem derrubei outra árvore perto da cidade, não sei o que eu faço!$2",
+	"Gustavo.Dialogue.winter_Thu10": "@, vamos treinar hoje?$1#$b#Vou tomar cuidado pra não derrubar nenhuma árvore... só se você pedir, é claro.$4",
+
+	//Sexta
+	"Gustavo.Dialogue.winter_Fri": "Meu treino nem começou mas já tô animadasso!$1#$b#Vamos nessa, o frio não vai me vencer!$1",
+	"Gustavo.Dialogue.winter_Fri2": "@, vem comigo, preciso treinar meus socos...#$b#Calma! Só preciso que você segure a árvore pra ela não cair!$7",
+	"Gustavo.Dialogue.winter_Fri4": "Vou voltar a minha rotina, aquecer o corpo, mente e alma com socos consecutivos!$1",
+	"Gustavo.Dialogue.winter_Fri6": "E se eu lutasse taijutsu mandando o rap ao mesmo tempo?$6#$b#Cara, nunca parei pra pensar o quão foda seria isso...!$6",
+	"Gustavo.Dialogue.winter_Fri8": "Ei @, me ajuda a fazer um boneco de neve depois?#$b#Quero fazer um bem forte com 7 gominhos e segurando um peso de 75 quilos!$1#$b#Parando pra pensar...#$b#Se bem que a parte dos 7 gominhos é meio difícil...$2",
+	"Gustavo.Dialogue.winter_Fri10": "Foi mal @, hoje preciso treinar, sabe como é, não posso ficar fora de forma nem um segundo!$1#$b#Só assim posso te proteger...$4",
+
+	//Sabado
+	"Gustavo.Dialogue.winter_Sat": "Ah, parece que minha garganta piorou...$2#$b#Droga, bem quando eu tava pegando o jeito da coisa...$2",
+	"Gustavo.Dialogue.winter_Sat2": "Mano, vou fazer um sorvete de neve, o que você acha?$6#$b#Será que fica bom?$6",
+	"Gustavo.Dialogue.winter_Sat4": "@ vou ir treinar, se precisar, já sabe onde me encontrar!$1#$b#Claro, se eu estiver onde você ta pensando...#$b#O lugar que você ta pensando é o mesmo que eu tô pensando?$6",
+	"Gustavo.Dialogue.winter_Sat6": "Ainda tenho mais quanto tempo até virar um bloco de gelo?$7#$b#Ah, ta suave, só preciso dar uma treinada que passa.",
+	"Gustavo.Dialogue.winter_Sat8": "Oi.#$e#O quê?#$e#Quê foi mano?$5#$e#Ta bom, ta bom, calma...$7#$b#Deixa eu respirar um pouco...#$e#Ok, você ta lindo hoje... feliz?$4^Ok, você ta linda hoje... feliz?$4#$e#...$8#$e#Sai fora maluco, todo dia isso!$5",
+	"Gustavo.Dialogue.winter_Sat10": "@, ta bonito hoje!$4^@, ta bonita hoje!$4#$b#Só falo verdades, e a verdade é essa...$4",
+
+	//Domingo
+	"Gustavo.Dialogue.winter_Sun": "Um cafézinho agora seria perfeito, na moral.",
+	"Gustavo.Dialogue.winter_Sun2": "Que horas são?#$b#Bom, não importa vou treinar, falou...$1",
+	"Gustavo.Dialogue.winter_Sun4": "Olá @, aceitas um café?$1#$b#Esse é bem forte, pra começar o dia acelerado!$1",
+	"Gustavo.Dialogue.winter_Sun6": "@ Eu- T- Velocida- Rápid-#$b#%Gustavo parece estar acelerado hoje.",
+	"Gustavo.Dialogue.winter_Sun8": "Eu tô sentindo...!$7#$b#Tô sentindo @!$7#$b#Argh!$7#$b#...$7#$b#O Deus da músic-$3#$b#%Você parou de prestar atenção.",
+	"Gustavo.Dialogue.winter_Sun10": "Poxa, queria dormir um pouco mais hoje, mas meu corpo não permite mais.#$b#A cafeina bateu forte!$1",
+
+	//GUSTAVO DIALOGOS EVENTOS
+	"Gustavo.Dialogue.Evento_Rimas_Bom": "...!$4",
+  	"Gustavo.Dialogue.Evento_Rimas_Neutro": "Mano, vou seguindo com meu rap eu não paro...$3",
+  	"Gustavo.Dialogue.Evento_Rimas_Ruim": "Foi muito facil ganhar, mas eu não quero parar...$3",
+
+  	"Gustavo.Dialogue.Evento_Punho_Bom": "Você tem razão, agora me lembrei!$10",
+  	"Gustavo.Dialogue.Evento_Punho_Neutro": "Mas não tô nem machucado...$11",
+  	"Gustavo.Dialogue.Evento_Punho_Ruim": "Eu nunca usaria uma técnica dessas!$11",
+
+	//GUSTAVO DIALOGOS CASADO
+	// ESPECIAL
+	"Gustavo.MarriageDialogue.OneKid.0": "Oxi, cadê %kid1?",
+	"Gustavo.MarriageDialogue.OneKid.1": "Essa criança rima que nem eu!$1",
+	"Gustavo.MarriageDialogue.OneKid.2": "Eu cuido da criança hoje, pode ir fazer seus rolê.$1",
+	"Gustavo.MarriageDialogue.OneKid.3": "Será que ela vai fazer rimas que nem eu quando crescer?$1",
+	"Gustavo.MarriageDialogue.TwoKids.0": "Essas crianças são muito incríveis!$1",
+	"Gustavo.MarriageDialogue.TwoKids.1": "Vou brincar de Rimar com as crianças depois, fica tranqs!$1",
+	"Gustavo.MarriageDialogue.TwoKids.2": "Acho %kid2 bem parecido com você!#$b#Só que as rimas que ele faz, é só comigo!$1",
+	"Gustavo.MarriageDialogue.TwoKids.3": "Finalmente eles cansaram, mas eu queria rimar mais...$2",
+	"Gustavo.MarriageDialogue.NoBed.0": "Eae, e a cama?$2",
+	"Gustavo.MarriageDialogue.NoBed.1": "Como pode a cama sumir?!$2",
+	"Gustavo.MarriageDialogue.NoBed.2": "Uai, sumiu a cama?$2",
+	"Gustavo.MarriageDialogue.NoBed.3": "É pegadinha né? Cadê as cameras e a cama?$1#$e#Não?$2",
+	"Gustavo.MarriageDialogue.Outdoor.0": "Saudades do meu treinamento de Taijutsu!$1",
+	"Gustavo.MarriageDialogue.Outdoor.1": "Vou ficar de olho na fazenda hoje!#$e#Qualquer problema eu te aviso!$1",
+	"Gustavo.MarriageDialogue.Outdoor.2": "Eae, bem tranquilinho?!#$e#Tava pensando em ti.$1",
+	"Gustavo.MarriageDialogue.Outdoor.3": "Vou tentar aprender novas rimas aqui fora, te vejo mais tarde.$1",
+	"Gustavo.MarriageDialogue.Outdoor.4": "Não esquece de se hidratar!#$e#Uma garganta seca é uma rima a menos.$1",
+		
+	//DIALOGOS COMUNS
+	// PRIMAVERA
+	"Gustavo.MarriageDialogue.spring_1": "Primavera chegou, minha estação favorita!$1",
+	"Gustavo.MarriageDialogue.spring_8": "Precisamos ficar de olho, a fazenda pode ter ervas daninhas.",
+	"Gustavo.MarriageDialogue.spring_23": "Se você for no festival amanhã, me chama!$1",
+		
+	// VERAO
+	"Gustavo.MarriageDialogue.summer_1": "Ah, que calor...$2#$e#Minha garganta vai secar muito rápido...$2",
+	"Gustavo.MarriageDialogue.summer_8": "Onde tem um ventilador?#$b#Sério, ta bem quente...$2",
+	"Gustavo.MarriageDialogue.summer_15": "Amanhã tem algum festival?",
+		
+	// OUTONO
+	"Gustavo.MarriageDialogue.fall_1": "O inverno ta chegando, melhor momento pra se esquentar!$1",
+	"Gustavo.MarriageDialogue.fall_8": "Quero aproveitar pra fazer rimas o máximo que eu conseguir!$1",
+	"Gustavo.MarriageDialogue.fall_15": "Que tal a gente jogar alguns jogos no festival amanhã?$1",
+	"Gustavo.MarriageDialogue.fall_26": "Você vai no Halloween?#$b#Quero pegar alguns doces!$1",
+		
+	// INVERNO
+	"Gustavo.MarriageDialogue.winter_1": "O inverno chegou...#$b#Pelo menos posso me esquentar com treinamento de taijutsu!$1",
+	"Gustavo.MarriageDialogue.winter_7": "Estou dando uma pausa nas rimas por hoje.",
+	"Gustavo.MarriageDialogue.winter_28": "@, esse ano foi imprevissivel, mas o próximo será mais que incrível!$l",
+		
+	// DIALOGOS DIA
+	"Gustavo.MarriageDialogue.RainyDay.0": "É chuva, aeeee!$1",
+	"Gustavo.MarriageDialogue.RainyDay.1": "Meu deus e as roupa no varal?!$7",
+	"Gustavo.MarriageDialogue.RainyDay.2": "O que cozinhar hoje?$6",
+	"Gustavo.MarriageDialogue.RainyDay.3": "Dia chuvoso, você vai lá fora?#$e#Boa sorte.$1",
+	"Gustavo.MarriageDialogue.RainyDay.4": "Essa chuva me deu fominha...",
+		
+	"Gustavo.MarriageDialogue.IndoorDay.0": "Sabia que o poder do amor é o mais forte?$1",
+	"Gustavo.MarriageDialogue.IndoorDay.1": "Vou ficar em casa treinando rimas hoje.",
+	"Gustavo.MarriageDialogue.IndoorDay.2": "Hora de dar uma pausa nos treinos padrões.#$b#E começar os treinos de limpeza de casa!$1",
+	"Gustavo.MarriageDialogue.IndoorDay.3": "O que vai fazer hoje de bom?",
+	"Gustavo.MarriageDialogue.IndoorDay.4": "Não tenho nada pra fazer hoje.",
+		
+	// DIALOGOS NOITE
+	"Gustavo.MarriageDialogue.RainyNight.0": "Te vejo na cama, boa noite!",
+	"Gustavo.MarriageDialogue.RainyNight.1": "Ah...já bateu um soninho!",
+	"Gustavo.MarriageDialogue.RainyNight.2": "A chuva cai, e o sol se esvai!$1",
+	"Gustavo.MarriageDialogue.RainyNight.3": "Hora de ir pra cama, não quero acordar tarde sempre.",
+	"Gustavo.MarriageDialogue.RainyNight.4": "Cuidado com a chuva em!$1",
+	"Gustavo.MarriageDialogue.RainyNight.5": "Estarei na cama se precisar de mim.",
+		
+	"Gustavo.MarriageDialogue.IndoorNight.0": "Terminou tudo hoje, @?#$e#Já terminei o que tinha que fazer, hora de ir a mimir!$1",
+	"Gustavo.MarriageDialogue.IndoorNight.1": "Hoje consegui dar uma treinada no Taijutsu.#$b#O Punho Supremo ta melhor que nunca!$1",
+	"Gustavo.MarriageDialogue.IndoorNight.2": "Fiz enroladinhos de pimenta, pra esquentar o sua noite!$1 [215]",
+	"Gustavo.MarriageDialogue.IndoorNight.3": "Boa noite @, como foi seu dia hoje?#$b#Muitas rimas, ou muito treino?$1",
+	"Gustavo.MarriageDialogue.IndoorNight.4": "Limpei tudo hoje.#$b#Relaxa, não quebrei nada.$1",
+		
+	// AFEICAO
+	"Gustavo.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei...$l",
+	"Gustavo.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
+	"Gustavo.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
+	"Gustavo.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
+	"Gustavo.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
+	"Gustavo.MarriageDialogue.Good.5": "Será que nosso amuleto de casamento faz algum som?$1",
+	"Gustavo.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
+	"Gustavo.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
+	"Gustavo.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Gustavo.MarriageDialogue.Good.9": "Esse lugar realmente é incrível!$1",
+	"Gustavo.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
+	"Gustavo.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
+	"Gustavo.MarriageDialogue.Neutral.2": "Dando uma pausa? também curto...",
+	"Gustavo.MarriageDialogue.Neutral.3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
+	"Gustavo.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
+	"Gustavo.MarriageDialogue.Neutral.5": "Ei como ta nossa grana, @?",
+	"Gustavo.MarriageDialogue.Neutral.6": "Espero que o pessoal esteja se virando bem!$1",
+	"Gustavo.MarriageDialogue.Neutral.7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+	"Gustavo.MarriageDialogue.Neutral.8": "Sempre tem mosquitos aqui em volta!$5#$b#Minha batalha só começou!$5",
+	"Gustavo.MarriageDialogue.Neutral.9": "Vamos ficar aqui pra sempre né?$1",
+	"Gustavo.MarriageDialogue.Bad.0": "...Você ainda gosta de mim?$2",
+	"Gustavo.MarriageDialogue.Bad.1": "Aff... Acho que fui muito jovem para sair casando.$2",
+	"Gustavo.MarriageDialogue.Bad.2": "Ainda se sente feliz?$2",
+	"Gustavo.MarriageDialogue.Bad.3": "Fiz algo errado? Você ta estranho ultimamente.$2",
+	"Gustavo.MarriageDialogue.Bad.4": "Hmm?$2",
+	"Gustavo.MarriageDialogue.Bad.5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
+	"Gustavo.MarriageDialogue.Bad.6": "Ah... sério que tenho que viver com você?$2",
+	"Gustavo.MarriageDialogue.Bad.7": "Antes eramos felizes... mas e agora?$2",
+	"Gustavo.MarriageDialogue.Bad.8": "Você ta me dando um baita gelo ultimamente...$2",
+	"Gustavo.MarriageDialogue.Bad.9": "Penso se podia ter feito algo melhor.$2",
+
+	// LUIGI DIALOGOS
+	"Luigi.Dialogue.Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto?",
+	"Luigi.Dialogue.danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
+	"Luigi.Dialogue.divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
+	"Luigi.Dialogue.secondChance_Guys": "...Ok, só mais uma chance!$1",
+	"Luigi.Dialogue.breakUp": "...!$8#$b#Entendo, não posso te contrariar...$2",
+	"Luigi.Dialogue.MovieInvitation": "Vamos nessa!$1#$b#Só espero que não seja um filme de terror...$2",
+
+	// RESORT
+	"Luigi.Dialogue.Resort_Entering": "Quem diria que um lugar tão bonito assim existia!$1",
+	"Luigi.Dialogue.Resort_Leaving": "Bom, não posso ficar aqui pra sempre...$0#$b#Posso?$1",
+	"Luigi.Dialogue.Resort_Shore": "É bom tirar um tempo pra pensar, fazer projetos consecutivamente cansa.$1",
+	"Luigi.Dialogue.Resort_Shore_2": "Haha, ficar chutando a água aqui é incrível!$1",
+	"Luigi.Dialogue.Resort_Umbrella": "Ah, hora de passar protetor solar...$2",
+	"Luigi.Dialogue.Resort_Umbrella_2": "Talvez eu possa adicionar algo sobre a praia nos meus projetos!$1",
+	"Luigi.Dialogue.Resort_Wander": "Hmm, será que existem mistérios nessa ilha?$0#$b#Ah, queria ter tempo de explorar tudo!$1",
+	"Luigi.Dialogue.Resort_Bar": "Que sede, tem água ai?",
+	"Luigi.Dialogue.Resort": "Bom, esse tempo definitivamente é perfeito!",
+
+	// LUIGI DIALOGO COMUM
+	//Segunda
+	"Luigi.Dialogue.Mon": "Oi, precisa de algo?#$b#Estou meio ocupado agora...",
+	"Luigi.Dialogue.Mon2": "Opa @, tudo tranquilo?#$e#Eu tô de boas, teremos novidades em breve do meu Projetinho.$1",
+	"Luigi.Dialogue.Mon4": "Você sabia que eu participo de uma sessão de RPG?#$b#Jogam eu o Mateus, Guilherme e o Ronaldo, além do Seba que é o Mestre.$1",
+	"Luigi.Dialogue.Mon6": "Eu falo pro Ronaldo ficar de boa, mas ele nunca me escuta...$6#$e#Tem alguma sugestão @?",
+	"Luigi.Dialogue.Mon8": "O Projetinho foi um sucesso!$1#$b#Quero fazer mais desses!$1",
+	"Luigi.Dialogue.Mon10": "Estou feliz de estarmos juntos hoje!$1#$b#Quer dizer... todos nós...$4",
+
+	//Terça
+	"Luigi.Dialogue.Tue": "O Vale do Orvalho é bem grande!$1#$b#Não vou conseguir explorar tudo em um dia.",
+	"Luigi.Dialogue.Tue2": "Ei @, já estou me acostumando com o Vale.#$e#É só ter internet que fica tudo certo!$1",
+	"Luigi.Dialogue.Tue4": "É impressionante a habilidade do Clint pra forjar armas e ferramentas!$1",
+	"Luigi.Dialogue.Tue6": "Meu Projetinho está quase finalizado.$1#$e#Esteja preparado, vai ser incrível.$1^Esteja preparada, vai ser incrível.$1",
+	"Luigi.Dialogue.Tue8": "Que bom te ver @!$1#$b#Como vão as coisas? Algum projeto em mente?",
+	"Luigi.Dialogue.Tue10": "@, quer dar uma volta por aí?#$b#Não me entenda errado, é só pra comer algo.$4",
+
+	//Quarta
+	"Luigi.Dialogue.Wed": "Andei explorando por aí, e encontrei um lugar com internet!$1",
+	"Luigi.Dialogue.Wed2": "Um pouco de proteção nunca é demais quando se trata de projetos grandes!$1",
+	"Luigi.Dialogue.Wed4": "Hm...#$e#...#$e#Ah, foi mal @, não tinha te visto aí!$8",
+	"Luigi.Dialogue.Wed6": "Em breve...$1",
+	"Luigi.Dialogue.Wed8": "Ei, quer me ajudar nas minas?#$b#Podemos ir comer algo depois!$1",
+	"Luigi.Dialogue.Wed10": "Posso te ajudar com o treinamento de combate se quiser!$1#$b#Não, você com certeza já sabe...",
+
+	//Quinta
+	"Luigi.Dialogue.Thu": "Se precisar de alguma coisa, pode chamar o Mateus, ele te da apoio moral.",
+	"Luigi.Dialogue.Thu2": "Estou fazendo minha rotina de sempre, nada demais!$1",
+	"Luigi.Dialogue.Thu4": "Se eu me distrair, tenho que me focar em dobro.#$b#As vezes acontece... na verdade acontece bastante...$2",
+	"Luigi.Dialogue.Thu6": "Se algo é difícil, é porque estou no caminho certo!$1",
+	"Luigi.Dialogue.Thu8": "Bom, hora de continuar minha aventura!$1",
+	"Luigi.Dialogue.Thu10": "Vamos nessa! Nossa jornada só começou!$4",
+
+	//Sexta
+	"Luigi.Dialogue.Fri": "Preciso continuar o meu Projeto, não importa a circunstância!$1",
+	"Luigi.Dialogue.Fri2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
+	"Luigi.Dialogue.Fri4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
+	"Luigi.Dialogue.Fri6": "Estou sem tempo, vou indo nessa!#$b#Foi mal @, mas tenho algo para terminar!$1",
+	"Luigi.Dialogue.Fri8": "Vamos nessa, não posso ficar de corpo mole!$1",
+	"Luigi.Dialogue.Fri10": "Espero que não esteja muito ocupado com a fazenda.^Espero que não esteja muito ocupada com a fazenda.#$b#Vamos sair um dia desses, ok?$4",
+
+	//Sabado
+	"Luigi.Dialogue.Sat": "Tenho que dormir mais horas... mas tenho coisas pra terminar também.#$b#As vezes fica difícil escolher...$2",
+	"Luigi.Dialogue.Sat2": "Ainda estou trabalhando pra deixar tudo perfeito, mas sempre acho que posso fazer melhor.",
+	"Luigi.Dialogue.Sat4": "As vezes o Ronaldo encontra alguns geodos na mina, então levamos pro Clint pra dar uma olhada!$1",
+	"Luigi.Dialogue.Sat6": "Ei @, os dias tem sido muito corridos!$1#$b#Então qual é a boa nova?",
+	"Luigi.Dialogue.Sat8": "Ah, a melhor parte de acabar um projeto por completo, é começar outro!$1",
+	"Luigi.Dialogue.Sat10": "Quais são as boas novas?$1#$b#Só estou fazendo meu treino diário, tenho que ficar forte pra te proteger...$4",
+
+	//Domingo
+	"Luigi.Dialogue.Sun": "Quero continuar ajudando a Guilda dos Aventureiros, parece ser um desafio interessante!$1",
+	"Luigi.Dialogue.Sun2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
+	"Luigi.Dialogue.Sun4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
+	"Luigi.Dialogue.Sun6": "Preciso ajudar o pessoal da Vila, assim vou conseguir me tornar um verdadeiro herói!$1",
+	"Luigi.Dialogue.Sun8": "Como Protetor do Vale, tenho que ajudar quem precisa.#$e#Esse é o meu dever!$1",
+	"Luigi.Dialogue.Sun10": "Acho que tenho que fazer um Projetinho maior um dia desses!$1",
+
+	// LUIGI FESTIVAIS
+	//Egg Festival
+	"Luigi.Dialogue.spring_13": "Ah, tava precisando comer algo doce!$1#$e#As cenouras subterrâneas são bem enjoativas.$2",
+	//Flower Dance
+	"Luigi.Dialogue.spring_24": "Eu sou obrigado a dançar?$2#$b#Vou ficar parecendo um robo.$1",
+	//Luau
+	"Luigi.Dialogue.summer_11": "O que você vai levar, o festival é na praia.",
+	//Dance of the Moonlight Jellies
+	"Luigi.Dialogue.summer_28": "Vamos nessa, as águas-vivas estão esperando!$1",
+	//Stardew Valley Fair
+	"Luigi.Dialogue.fall_16": "Será que tem algum mini-jogo de combate?!$1",
+	//Spirit's Eve
+	"Luigi.Dialogue.fall_27": "Esse festival vai ser divertido!$1",
+	//Festival of Ice
+	"Luigi.Dialogue.winter_8": "Quero ver quem é o mais habilidoso na pesca hoje!$1",
+	//Night Market
+	"Luigi.Dialogue.winter_17": "O Guilherme me pediu ajuda pra ficar de olho no Mateus durante o Mercado Noturno.",
+	//Feast of the Winter Star
+	"Luigi.Dialogue.winter_25": "Qual é o seu amigo secreto?#$b#Tô brincando!$1#$b#Sério, não fala.",
+
+	// LUIGI DIALOGOS PRIMAVERA
+	"Luigi.Dialogue.spring_1": "Um ano se passou muito rápido!$8#$b#Será que é porque estou me divertindo?$1",
+
+	// LUIGI DIALOGOS VERAO
+	"Luigi.Dialogue.summer_1": "Ah, não consigo, eu definitivamente vou morrer de calor...$2",
+	//Segunda
+	"Luigi.Dialogue.summer_Mon": "Preciso de um refresco urgente...$2",
+	"Luigi.Dialogue.summer_Mon2": "Você tem gelo aí?#$b#Ah, esquece essa idéia não vai funcionar...$2",
+	"Luigi.Dialogue.summer_Mon4": "Esse calor ta intenso, melhor ficar esperto pra não queimar meu notebook.$1",
+	"Luigi.Dialogue.summer_Mon6": "Ainda não terminei de programar, vou fazer o resto de noite.$1",
+	"Luigi.Dialogue.summer_Mon8": "Tenho que tomar cuidado pro meu notebook não pegar fogo!$8#$b#Ele começou a fazer uns barulhos estranhos recentemente, deve estar esquentando demais...$2",
+	"Luigi.Dialogue.summer_Mon10": "Só queria um sorvetinho...$2#$b#Você vem comigo comprar?!$1#$b#Não sou bom pra conversar com as pessoas, só entrego objetivos...$4",
+
+	//Terça
+	"Luigi.Dialogue.summer_Tue": "Hmm...$7#$b#%Luigi parece bravo, melhor não incomodar.",
+	"Luigi.Dialogue.summer_Tue2": "Não posso parar agora...$7#$b#%Luigi parece bravo, melhor não incomodar.",
+	"Luigi.Dialogue.summer_Tue4": "...$7#$b#%Luigi está estranho, melhor não incomodar.",
+	"Luigi.Dialogue.summer_Tue6": "Ei, vou fazer uma careta e você me diz se eu tô parecendo um vilão.#$b#Hmm...$7#$b#E então?",
+	"Luigi.Dialogue.summer_Tue8": "Esses dias vi um personagem maligno na internet.#$b#Vou tentar replicar algumas coisas dele, tipo...#$b#Hmm...$7#$b#Ou até mesmo...#$b#Não posso parar agora...$7#$b#Ei por que você ta rindo, era pra parecer maligno!$8",
+	"Luigi.Dialogue.summer_Tue10": "Você acha que eu daria um bom vilão?#$b#Ei, para de rir, tô falando sério! Olha pra minha cara!$7#$b#Hahaha, é brincadeira...$4",
+
+	//Quarta
+	"Luigi.Dialogue.summer_Wed": "Calor, né...?#$b#é...#$b#...#$b#Já estou de saida.$2",
+	"Luigi.Dialogue.summer_Wed2": "Ei, você já viu a Estátua de Ouro do Prefeito por aí?",
+	"Luigi.Dialogue.summer_Wed4": "Já encontrei alguns bixos pequenos por aí, acho que a mina ta consumindo minha cabeça...#$b#Espera, você já viu também @?$8#$b#Não adianta esconder, sua cara revela.$1",
+	"Luigi.Dialogue.summer_Wed6": "Vou pro andar 40 pegar gelo, é a maneira mais eficiente!$1",
+	"Luigi.Dialogue.summer_Wed8": "Se você planeja explorar as minas, recomendo o andar 40... lá é friozinho e não é muito perigoso!$1",
+	"Luigi.Dialogue.summer_Wed10": "Você seria corajoso de explorar os andares 80 pra baixo nesse calor...$6^Você seria corajosa de explorar os andares 80 pra baixo nesse calor...$6#$b#Não vou te proibir, a verdade é que sei que você é... e você faria do mesmo jeito...$4",
+
+	//Quinta
+	"Luigi.Dialogue.summer_Thu": "O que você falaria pra uma pessoa normalmente?#$b#É uma pesquisa de campo.",
+	"Luigi.Dialogue.summer_Thu2": "Desculpa te perguntar @, me conte sua rotina.#$b#É uma pesquisa de campo, não vai durar muito, prometo!$1",
+	"Luigi.Dialogue.summer_Thu4": "Eu salvarei a Princesa!$1#$b#Não, muito clichê...$6#$b#Mas a verdade, é que eu gosto até disso.#$b#Vou anotar esse diálogo!$1",
+	"Luigi.Dialogue.summer_Thu6": "Bem-vindo jogador, pode me dizer o seu nome?$1#$b#Acho que se eu imitar um NPC vou me sair bem...$6#$e#%Luigi parece mais confiante.",
+	"Luigi.Dialogue.summer_Thu8": "Diálogo 1.#$b#Diálogo 2.#$b#Diálogo 3.#$b#Ah, foi mal, tava pensando em alguns diálogos recentemente, é pro novo projeto!$1",
+	"Luigi.Dialogue.summer_Thu10": "Já tenho uma lista perfeita de diálogos!$1#$b#Só preciso agora é saber qual deles vai fazer você ficar mais apaixonado por mim...$4^Só preciso agora é saber qual deles vai fazer você ficar mais apaixonada por mim...$4",
+
+	//Sexta
+	"Luigi.Dialogue.summer_Fri": "Melhor eu levar meus cobres pra inspeção...",
+	"Luigi.Dialogue.summer_Fri2": "Tenho que entregar coisas pro pessoal hoje, até mais!$1",
+	"Luigi.Dialogue.summer_Fri4": "Tava pensando em colocar que eu queria uma esmeralda no boletim, mas não sei como pagar...$2",
+	"Luigi.Dialogue.summer_Fri6": "Nada no boletim hoje, vou ficar tranquilo!$1#$b#A não ser que você tenha um pedido.",
+	"Luigi.Dialogue.summer_Fri8": "Sempre dou uma olhada no boletim pra ver se tem alguém pedindo algo.#$b#Geralmente consigo entregar coisas da mina!$1",
+	"Luigi.Dialogue.summer_Fri10": "Não se preocupa, não tô me desgastando muito com as requisisix-#$b#Oh droga...$7#$b#Quero dizer, requisições dos moradores, isso!$1",
+
+	//Sabado
+	"Luigi.Dialogue.summer_Sat": "Acho que entreguei o que eu precisava pro Gus...#$b#Será que esqueci algo?$2#$b#Não, acho que não...#$b#Acho...$2",
+	"Luigi.Dialogue.summer_Sat2": "Você sabia que dá pra equipar bombas no estilingue?#$b#O poder de fogo aumenta muito!$1",
+	"Luigi.Dialogue.summer_Sat4": "O lado bom do verão é a praia...#$b#Só que eu não gosto de ir na praia...$2",
+	"Luigi.Dialogue.summer_Sat6": "O Ronaldo tem um estilingue com bombas guardadas, melhor tomar cuidado com ele!$1",
+	"Luigi.Dialogue.summer_Sat8": "Vou estar por aí se precisar de mim, mas manda um aviso antes, ok?$1#$b#Tipo um sinalizador, ou algo parecido.#$b#Não, não sou o Batman.$7",
+	"Luigi.Dialogue.summer_Sat10": "Para de me encarar, não tá tão quente aqui... sério...$4",
+
+	//Domingo
+	"Luigi.Dialogue.summer_Sun": "Que calor...$2#$b#Meu cachecol? Qual problema?",
+	"Luigi.Dialogue.summer_Sun2": "Não vou tirar meu cachecol, é minha marca.#$b#É tipo trocar a cor da Joja-Cola pra vermelho, não faz sentido!$1",
+	"Luigi.Dialogue.summer_Sun4": "Esse cachecol me da mais 10 de defesa!$1#$b#Isso se a gente tivesse em um jogo, claro.",
+	"Luigi.Dialogue.summer_Sun6": "Já preparou sua armadura @?#$b#Então ta marcado, é hora de aventura!$1",
+	"Luigi.Dialogue.summer_Sun8": "Por mais quanto tempo tenho que ficar andando de um lado pro outro?$6#$b#Sério, ta muito quente!$7",
+	"Luigi.Dialogue.summer_Sun10": "Vou em uma expedição na mina em breve, me deseje sorte.#$b#Esquece, eu não preciso, você é minha sorte!$4",
+
+	// LUIGI DIALOGOS OUTONO
+	"Luigi.Dialogue.fall_1": "Já é Outono?!$8#$b#Acho que a gente não vai voltar pra casa tão cedo.",
+
+	// LUIGI DIALOGOS INVERNO
+	"Luigi.Dialogue.winter_1": "Pelo menos minha roupa é quentinha, o frio não me atinge!$1",
+	//Segunda
+	"Luigi.Dialogue.winter_Mon": "Acho que vou virar \"Luigivete\" nesse frio!$8#$b#Sorte que eu tenho esse chachecol.",
+	"Luigi.Dialogue.winter_Mon2": "Ah cara... eu com certeza vou pegar um resfriado nesse frio...$2#$b#Melhor ir comprar um remédio na Clínica.",
+	"Luigi.Dialogue.winter_Mon4": "Acho que vou correr um pouco pra me esquentar, não quero virar \"Luigivete\"!$1",
+	"Luigi.Dialogue.winter_Mon6": "Definitivamente não quero virar um sorvete...$2#$b#Já pensou sou servido com casquinha e tudo? Que perigo!$8",
+	"Luigi.Dialogue.winter_Mon8": "Me ajuda @, não quero virar \"Luigivete\"!$8#$b#Se eu congelar aqui, quem vai terminar os projetinhos?$2",
+	"Luigi.Dialogue.winter_Mon10": "Meu cachecol pode ser bom, mas ele não segura tudo...$2#$b#O quê?#$b#Não, não precisa me esquentar...$4",
+
+	//Terça
+	"Luigi.Dialogue.winter_Tue": "Droga, acho que peguei um resfriado...$2",
+	"Luigi.Dialogue.winter_Tue2": "Atchim!$8#$e#Atchim!$8#$e#Atchim!$8#$e#Ei, você vai ficar falando \"Saúde\" até amanhã...$6",
+	"Luigi.Dialogue.winter_Tue4": "Ah não, é aquela sensação denovo...$7#$e#Atchim!$8#$e#Atchim!$8#$e#Vai ser isso o dia todo...$7#$b#Atchim!$8",
+	"Luigi.Dialogue.winter_Tue6": "Pelo menos posso ficar do andar 80 pra baixo nas minas.#$b#Lá é muito quente, então sem espirros hoje!$1",
+	"Luigi.Dialogue.winter_Tue8": "@... preciso de ajuda, não consigo parar de espirrar...$7#$e#Atchim!$8",
+	"Luigi.Dialogue.winter_Tue10": "@, não fica muito perto... sabe como é... espirros...$7#$e#Atchim!$8#$b#Pelo menos não tá pior que antes...",
+
+	//Quarta
+	"Luigi.Dialogue.winter_Wed": "Foi mal, tô ocupado agora...$6#$b#Preciso ir comprar um café.",
+	"Luigi.Dialogue.winter_Wed2": "Tenho que começar o dia cheio de energia, se não o frio vai me dominar...$2#$b#Então, é hora do café!",
+	"Luigi.Dialogue.winter_Wed4": "Eae @, tem planos pra hoje?$1#$b#Quero terminar meu projeto logo, mas acho que ta longe ainda...",
+	"Luigi.Dialogue.winter_Wed6": "Preciso pegar um café, você vem comigo @?#$b#Tenho outros projetos pra terminar, não quero perder pro frio.$1",
+	"Luigi.Dialogue.winter_Wed8": "Minha aventura começa quando eu pegar meu café e trabalhar no meu novo projeto!$1",
+	"Luigi.Dialogue.winter_Wed10": "@! Bora tomar um café?$1#$b#Nesse clima tenho certeza que é mais gostoso.",
+
+	//Quinta
+	"Luigi.Dialogue.winter_Thu": "Preciso melhorar minha habilidade de combate ainda mais.#$b#Mas parece que já tô no meu máximo...$2",
+	"Luigi.Dialogue.winter_Thu2": "@, pretende ir para a mina hoje?$1#$b#Espero que não esteja sendo consumido por ela.",
+	"Luigi.Dialogue.winter_Thu4": "Vou ficar entre os andares 80 pra baixo das minas, é bem quente lá.#$b#Então, não preciso me preocupar com o frio!$1",
+	"Luigi.Dialogue.winter_Thu6": "Você já descobriu pra que serve a chave da caveira?#$b#E quem é esse tal de Sr.Qi?#$b#Tenho tantas perguntas...$2",
+	"Luigi.Dialogue.winter_Thu8": "@, já melhorou sua habilidade de combate?#$b#O melhor momento pra treinar é agora, se aquecer no calor da batalha!$1",
+	"Luigi.Dialogue.winter_Thu10": "Vejo que tem treinado sua habilidade de combate, esse é meu @...$4^Vejo que tem treinado sua habilidade de combate, esse é minha @...$4",
+
+	//Sexta
+	"Luigi.Dialogue.winter_Fri": "Vou estar ocupado por hoje, então... com licença.$6",
+	"Luigi.Dialogue.winter_Fri2": "...?#$e#...#$e#...$6#$e#Eh...$6#$b#Pode parar de me encarar...?$6",
+	"Luigi.Dialogue.winter_Fri4": "Tenho que explorar a mina hoje, talvez ache algo que me ajude no meu projeto.",
+	"Luigi.Dialogue.winter_Fri6": "A melhor parte de finalizar um projeto, é adicionar novos conteúdos depois!$1",
+	"Luigi.Dialogue.winter_Fri8": "Vou fazer umas melhorias no meus projetos, sempre bom revisitar eles depois de um tempo!$1",
+	"Luigi.Dialogue.winter_Fri10": "@! Vou congelar!$8#$b#%Luigi.exe parou de responder.",
+
+	//Sabado
+	"Luigi.Dialogue.winter_Sat": "Já te vi antes, mas não me lembro...$6",
+	"Luigi.Dialogue.winter_Sat2": "Quando chega a primavera?#$b#Não me entenda mal, mas eu não quero pegar outro resfriado...$6",
+	"Luigi.Dialogue.winter_Sat4": "Preciso aprender novas técnicas de combate e depois...#$b#%Luigi parece focado.",
+	"Luigi.Dialogue.winter_Sat6": "Comparado aos andares 40 pra baixo...#$b#Esse frio não é tão forte assim...$6",
+	"Luigi.Dialogue.winter_Sat8": "Nunca te contei né?$1#$b#Esse cachecol foi um presente, então não tiro ele desde então.#$b#Além de que ele me ajuda muito em combate e pra tempos frios.$1",
+	"Luigi.Dialogue.winter_Sat10": "@, vamos em uma aventura de inverno, o que acha?$4",
+
+	//Domingo
+	"Luigi.Dialogue.winter_Sun": "O inverno tá sendo maior do que eu esperava...#$b#Pelo menos tomar um café fica mais gostoso!$1",
+	"Luigi.Dialogue.winter_Sun2": "Vou ficar terminando alguns projetos hoje.#$b#Nada especial!$1",
+	"Luigi.Dialogue.winter_Sun4": "Não tem um tema escuro pra neve não?$6",
+	"Luigi.Dialogue.winter_Sun6": "Natal e ano novo chegando... né?$6#$b#Vou ter que fazer um update pra isso...$7",
+	"Luigi.Dialogue.winter_Sun8": "Mesmo chegando no final da mina, estou impressionado que não tinha nenhum tipo de \"Rei Demônio\" ou algo do gênero...",
+	"Luigi.Dialogue.winter_Sun10": "Ontem a tela do meu computador congelou...$2#$b#Literalmente!$8",
+
+	//ESPECIAIS
+	"Luigi.Dialogue.Hospital": "De que adianta ser forte, mas perder pra uma gripe...$2",
+	"Luigi.Dialogue.Hospital8": "@, não se preocupe, é só minha gripe atacando denovo...$6#$b#Mas sério, a coisa ta feia...$2",
+
+	//LUIGI DIALOGOS EVENTOS
+	"Luigi.Dialogue.Evento_AutoD_Bom": "Bom... você tem razão eu fico muito focado nos meus projetos...$6#$b#As vezes até desapareço por ai...$6",
+  	"Luigi.Dialogue.Evento_AutoD_Neutro": "Ei era só uma brincadeira, não precisa se desculpar...$2",
+  	"Luigi.Dialogue.Evento_AutoD_Ruim": "...$5",
+
+  	"Luigi.Dialogue.Evento_Minas_Bom": "Vou agradecer a ajuda!$1#$b#Você pode ficar com os minérios, só preciso das pedras mesmo.",
+  	"Luigi.Dialogue.Evento_Minas_Neutro": "Acho que você tem razão...#$b#Bom, se você mudar de idéia vamos ficar descansando por aqui...$1",
+  	"Luigi.Dialogue.Evento_Minas_Ruim": "...$2#$b#Não acho isso mas, se você mudar de idéia vamos ficar descansando por aqui...$2",
+
+	//LUIGI DIALOGOS CASADO
+	// ESPECIAL
+	"Luigi.MarriageDialogue.OneKid.0": "Cadê %kid1?",
+	"Luigi.MarriageDialogue.OneKid.1": "Vou ficar de olho no %kid1, ok?",
+	"Luigi.MarriageDialogue.OneKid.2": "Ah... deixa que eu fico de olho no %kid1 hoje.#$b#Relaxa, eu posso dar umas pausas no meu projeto.$1",
+	"Luigi.MarriageDialogue.OneKid.3": "Onde esse pequeno se enfiou?",
+	"Luigi.MarriageDialogue.TwoKids.0": "Essas crianças são muito pequenas!$1",
+	"Luigi.MarriageDialogue.TwoKids.1": "Vou jogar alguns Jogos com as crianças depois, te vejo mais tarde!$1",
+	"Luigi.MarriageDialogue.TwoKids.2": "Ei @, %kid2 tem a sua cara, haha!$1",
+	"Luigi.MarriageDialogue.TwoKids.3": "Essas crianças, não tenho paz...$7",
+	"Luigi.MarriageDialogue.NoBed.0": "Tipo... cama... cadê?$2",
+	"Luigi.MarriageDialogue.NoBed.1": "Será que tô no lugar errado?$2#$b#Cadê a cama?$2",
+	"Luigi.MarriageDialogue.NoBed.2": "E a cama, como que fica?$2",
+	"Luigi.MarriageDialogue.NoBed.3": "Ok, tira a cama do bolso agora...$7",
+	"Luigi.MarriageDialogue.Outdoor.0": "Oi @, o projetinho foi um sucesso!$1",
+	"Luigi.MarriageDialogue.Outdoor.1": "O Projetinho foi só o começo!$1#$b#Hora de fazer algo maior, tipo uma máquina do tempo...#$e#Esquece, é muito perigoso, não iria ter te conhecido.",
+	"Luigi.MarriageDialogue.Outdoor.2": "Não liga pra mim, só estou apreciando a fazenda!$1#$b#Fez um bom trabalho em...",
+	"Luigi.MarriageDialogue.Outdoor.3": "Vou ficar aqui hoje, o tempo parece bom.",
+	"Luigi.MarriageDialogue.Outdoor.4": "Não posso ficar em casa o dia inteiro, fica muito quente.#$b#Preciso de um ar fresco!$1",
+
+	//DIALOGOS COMUNS
+	// PRIMAVERA
+	"Luigi.MarriageDialogue.spring_1": "Primavera chegou!#$b#Que tal umas flores pra alegrar o dia?$1 [18]",
+	"Luigi.MarriageDialogue.spring_8": "Tenho que desenvolver algo pra espantar os corvos...#$e#Espantalhos? Não, isso é coisa do passado, pensei em algo mais épico!$1",
+	"Luigi.MarriageDialogue.spring_23": "Sabe não sou bom com danças, mas se quiser amanhã posso fazer a Dança do Robo!$1#$b#Ela sai automático.",
+
+	// VERAO
+	"Luigi.MarriageDialogue.summer_1": "Ah, eu não fico muito bem no calor...$2#$b#Ficar com rinite é muito ruim!$1",
+	"Luigi.MarriageDialogue.summer_8": "Acho que precisamos de mais 5 ventiladores, não vou sobreviver nesse calor.$2",
+
+	// OUTONO
+	"Luigi.MarriageDialogue.fall_1": "O outono chegou, o tempo passa rápido né?$1",
+	"Luigi.MarriageDialogue.fall_8": "Está pronto pro inverno?#$b#Quero treinar na neve um dia desses!$1",
+	"Luigi.MarriageDialogue.fall_15": "Ei amor, não se esquece do festival amanhã!$1#$b#O Clint faz umas ferramentas interessantes pra comprar durante o festival.",
+	"Luigi.MarriageDialogue.fall_26": "Ei vamos fazer cosplay no festival de amanhã?$1",
+
+	// INVERNO
+	"Luigi.MarriageDialogue.winter_1": "Ta bem frio lá fora.#$b#Melhor você levar um casaco!$1",
+	"Luigi.MarriageDialogue.winter_7": "Amanhã é o festival de pesca!$1#$b#Você vai amanhã?",
+	"Luigi.MarriageDialogue.winter_28": "Esse ano foi incrível @!$4#$b#Espero que o próximo seja melhor ainda!$4",
+
+	// DIALOGOS DIA
+	"Luigi.MarriageDialogue.RainyDay.0": "Já recolhi as roupas no varal.$1#$b#É impressionante que você tem roupas iguais as outras.",
+	"Luigi.MarriageDialogue.RainyDay.1": "A chuva ta bem forte!$8#$b#Melhor você levar uma capa de chuva.",
+	"Luigi.MarriageDialogue.RainyDay.2": "Pode ir lá fora, só não se molhe.",
+	"Luigi.MarriageDialogue.RainyDay.3": "Ah.... queria ficar deitado na cama o dia todo hoje.$1",
+	"Luigi.MarriageDialogue.RainyDay.4": "Bom dia, o que quer pra janta?#$b#Sei fazer miojo!$1",
+
+	"Luigi.MarriageDialogue.IndoorDay.0": "Bom dia, quer café?$1 [395]",
+	"Luigi.MarriageDialogue.IndoorDay.1": "Te vejo mais tarde amor, divirta-se!$1",
+	"Luigi.MarriageDialogue.IndoorDay.2": "Qual seu plano pra hoje?#$b#Vai explorar as minas?$1#$e#De qualquer forma, te vejo depois!$1",
+	"Luigi.MarriageDialogue.IndoorDay.3": "Vou ficar por aqui hoje, se quiser posso pedir algo pra comer depois.",
+	"Luigi.MarriageDialogue.IndoorDay.4": "Que soninho, melhor tomar um café...",
+
+	// DIALOGOS NOITE
+	"Luigi.MarriageDialogue.RainyNight.0": "A chuva ficou o dia inteiro hoje!$6",
+	"Luigi.MarriageDialogue.RainyNight.1": "Que chuva em!$1#$b#Parece que não vai acabar mesmo...",
+	"Luigi.MarriageDialogue.RainyNight.2": "Acho que já vou dormir, aproveitar a chuvinha!$1",
+	"Luigi.MarriageDialogue.RainyNight.3": "Ah... cansei, acho que vou dormir...",
+	"Luigi.MarriageDialogue.RainyNight.4": "Vou dormir em breve, boa noite amor!$1",
+	
+	"Luigi.MarriageDialogue.IndoorNight.0": "Fez tudo que tinha que fazer hoje?!$1",
+	"Luigi.MarriageDialogue.IndoorNight.1": "Não fiz nada demais hoje, só cuidando da casa.",
+	"Luigi.MarriageDialogue.IndoorNight.2": "Bem-vindo de volta tuturu~$1",
+	"Luigi.MarriageDialogue.IndoorNight.3": "Bom, acho que vou ficar acordado mais algumas horas!$1",
+	"Luigi.MarriageDialogue.IndoorNight.4": "Já vai dormir?#$e#Vou ficar acordado por mais um tempo, então pode ir!$1",
+	
+	
+	// AFEICAO
+	"Luigi.MarriageDialogue.Good.0": "Que sonho, não quero que acabe!$l",
+	"Luigi.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
+	"Luigi.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
+	"Luigi.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
+	"Luigi.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
+	"Luigi.MarriageDialogue.Good.5": "Nosso amuleto de casamento é lindo!$1",
+	"Luigi.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
+	"Luigi.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
+	"Luigi.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Luigi.MarriageDialogue.Good.9": "Precisamos de internet urgente.",
+	"Luigi.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
+	"Luigi.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
+	"Luigi.MarriageDialogue.Neutral.2": "Dando uma pausa? também curto...",
+	"Luigi.MarriageDialogue.Neutral.3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
+	"Luigi.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
+	"Luigi.MarriageDialogue.Neutral.5": "Ei como ta nossa grana, @?",
+	"Luigi.MarriageDialogue.Neutral.6": "Espero que o pessoal esteja se virando bem!$1",
+	"Luigi.MarriageDialogue.Neutral.7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+	"Luigi.MarriageDialogue.Neutral.8": "O projetinho ta progredindo bem...$1",
+	"Luigi.MarriageDialogue.Neutral.9": "Vamos ficar aqui pra sempre né?$1",
+	"Luigi.MarriageDialogue.Bad.0": "...Você ainda gosta de mim?$2",
+	"Luigi.MarriageDialogue.Bad.1": "Aff... Acho que fui muito jovem para sair casando.$2",
+	"Luigi.MarriageDialogue.Bad.2": "Ainda se sente feliz?$2",
+	"Luigi.MarriageDialogue.Bad.3": "Fiz algo errado? Você ta estranho ultimamente.$2",
+	"Luigi.MarriageDialogue.Bad.4": "Hmm?$2",
+	"Luigi.MarriageDialogue.Bad.5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
+	"Luigi.MarriageDialogue.Bad.6": "Ah... sério que tenho que viver com você?$2",
+	"Luigi.MarriageDialogue.Bad.7": "Antes eramos felizes... mas e agora?$2",
+	"Luigi.MarriageDialogue.Bad.8": "Você ta me dando um baita gelo ultimamente...$2",
+	"Luigi.MarriageDialogue.Bad.9": "Penso se podia ter feito algo melhor.$2",
+
+	// MATEUS DIALOGOS
+	"Mateus.Dialogue.Introduction": "Salve!$1#$b#Meu nome é Mateus, mas geral me chama de Matias.#$b#Tem algum mecânico aqui por perto?",
+	"Mateus.Dialogue.danceRejection": "Lamento estou compromissado, Confia.",
+	"Mateus.Dialogue.divorced": "Criminoso! Sai daqui!$5",
+	"Mateus.Dialogue.dumped_Guys": "Não é possível, não creio!$5",
+	"Mateus.Dialogue.secondChance_Guys": "Ah... Olha esse cara... da pa dale?$5#$b#Só há um jeito de descobrir, só bora!$1",
+	"Mateus.Dialogue.breakUp": "Hmpf...Sucumba.$5",
+	"Mateus.Dialogue.MovieInvitation": "Uma boa escolha, estarei lá!$8",
+
+	// RESORT
+	"Mateus.Dialogue.Resort_Entering": "Já que deu merda e a gente já tá aqui...#$b#Por que não dar uma relaxada?$1",
+	"Mateus.Dialogue.Resort_Leaving": "Bem tranquilinho, bem tranquilinho.$1",
+	"Mateus.Dialogue.Resort_Leaving_2": "Não conta pro Guilherme, sem querer eu derrubei o celular dele na àgua.",
+	"Mateus.Dialogue.Resort_Shore": "Ah, vou de um lugar sem internet, para outro lugar sem internet!$2#$b#Boa idéia Mateus...$2",
+	"Mateus.Dialogue.Resort_Shore_2": "Será que tem umas tartarugas aqui perto?$1#$b#A última vez que eu vi uma, ela tava de ponta cabeça.$1#$b#Estranho não?",
+	"Mateus.Dialogue.Resort_Umbrella": "Cara ta muito quente...Vou ficar aqui um tempo.$2",
+	"Mateus.Dialogue.Resort_Umbrella_2": "Só me resta ficar chutando areia...$2#$b#Ou pegar o celular do Guilherme KE KE KE.$1",
+	"Mateus.Dialogue.Resort_Umbrella_3": "Ei, bora fazer um esquema pra pegar o celular do Guilherme?#$b#Relaxa ele nem vai desconfiar.$1",
+	"Mateus.Dialogue.Resort_Wander": "Deve ter tesouros de pirata por aqui, melhor ficar esperto!$1",
+	"Mateus.Dialogue.Resort_Bar": "Bartender, o de sempre!#$b#Nem eu sei qual o de sempre...$2",
+	"Mateus.Dialogue.Resort": "Ouvi dizer que tem um barco quebrado na ilha!#$b#Você encontrou algum pirata por aí?",
+
+	// MATEUS DIALOGO COMUM
+	//Segunda
+	"Mateus.Dialogue.Mon": "Tô com sono, vô dormi.",
+	"Mateus.Dialogue.Mon2": "Pô mano, ninguêm quer jogar isso aqui comigo...$2#$b#Mesmo assim não vou desistir de floodar aqueles criminosos!$5#$e#Ah você está interessado? Você parece ser uma pessoa daora, se quiser qualquer dia desses ta convidado!$1#$b#Mal posso esperar por um bom e velho ARAMZINHO?!$1",
+	"Mateus.Dialogue.Mon4": "Eae, bem tranquilinho?$1#$e#Cara dormir no chão é uma merda#$b#Aquele saco de dormir é muito Jhonsons.",
+	"Mateus.Dialogue.Mon6": "Cara eu tava fazendo design de uns personagens pra um certo jogo...$2#$b#Me lembre de nunca mais converter uma blusa xadrez vermelha...$2#$b#...#$b#PRA PIXELS !!! $5#$b#Era só isso mesmo queria desabafar, enfim...Bora de gameplay?$1",
+	"Mateus.Dialogue.Mon8": "Cara hoje o dia rendeu em!$1#$b#Geral tiltando um com o outro...#$b#Acho que nunca ri tanto na minha vida!$1",
+	"Mateus.Dialogue.Mon10": "Não conta pra eles, mas eu tô escondendo o celular do Guilherme.#$b#Quero dar uma trollada nele!$1",
+
+	//Terça
+	"Mateus.Dialogue.Tue": "Acho que a pior parte de tudo, é que nenhuma casa daqui parece ter internet.$2#$b#COMO VOU FAZER MINHAS DIÁRIAS NO GENSHIN?!$5",
+	"Mateus.Dialogue.Tue2": "Cara, imagine a cena...#$b#...Jogo de 50 minutos...#$b#...Nexus exposto...#$b#...Eu...#$b#...Riven 0/18...#$b#...Após eu contribuir para o time inimigo conseguir MASSACRAR o time aliado...$5#$b#...Vejo uma luz no fim do túnel...#$b#...Uma oportunidade de OURO...#$b#...Rapidamente aplico meu teleporte na base inimiga!$5#$b#...E com um único golpe...#$b#...a história foi feita!$1#$b#Nunca vou me esquecer dessa vitória.$1",
+	"Mateus.Dialogue.Tue4": "Quer um conselho? Não confie no Luigi enquanto ele joga Ragnarok Online...#$b#'Por quê?' você deve estar se perguntando...#$b#O personagem dele tinha uma Habilidade...E advinha quem foi a cobaia?$5#$b#EU!#$b#E o pior de tudo, é que a Habilidade precisava de um item para funcionar...$5#$b#E ELE NÃO TINHAAAAAA!$5#$e#NÃO TINHAAAAAAAA!$5",
+	"Mateus.Dialogue.Tue6": "Sabe eu tinha um grande sonho...#$b#E o caminho era longo, várias pedras bloqueando a passagem...#$b#Espinhos por todo lado...#$b#Sem descanso, com apenas um único objetivo em mente...#$b#...Passar Dragon Force no mais difícil!",
+	"Mateus.Dialogue.Tue8": "Você sabia que eu já estive no Top 250.008 do Osu!?$1#$b#Sim, 8 pessoas desalmadas roubaram o que poderia ser o número perfeito!$5",
+	"Mateus.Dialogue.Tue10": "Não acredito...#$b#Acabou de lançar o...#$b#NOVO CAMPEÃO!!!$1#$b#Você vem jogar comigo @?!$1",
+
+	//Quarta
+	"Mateus.Dialogue.Wed": "Acho que eu devia comprar um chapéus na lojinha perto da Torre do Mago.#$b#Não conta pro Guilherme!$1",
+	"Mateus.Dialogue.Wed2": "Opa tranquilo? preciso te perguntar algo...$1#$q 1005/1006 Wed2question_followup#...Qual chapéu você prefere?#$r 1006 0 Wed2question_neutro#Chapéu de Palha#$r 1006 0 Wed2question_neutro#Máscara de Goblin#$r 1005 15 Wed2question_bom#Fedora",
+	"Mateus.Dialogue.Wed2question_followup": "$p 1005# Espero fazer uma dupla com chapéu Fedora.$1|Vou ter que te dar umas aulas de moda.$2",
+	"Mateus.Dialogue.Wed2question_bom": "Humf, você realmente tem um bom gosto.$1",
+	"Mateus.Dialogue.Wed2question_neutro": "Hm, não acho que esse seja esiloso.$2",
+	"Mateus.Dialogue.Wed4": "Eu nunca desisto de uma partida!#$b#Nunca mesmo.$8",
+	"Mateus.Dialogue.Wed6": "@, quer jogar uma partida comigo?#$b#Seria divertido!$1",
+	"Mateus.Dialogue.Wed8": "Tá sendo meio difícil de focar no jogo hoje...#$b#Não sei o porquê...$2",
+	"Mateus.Dialogue.Wed10": "Ei @, como vão as coisas?$1#$e#Quer jogar comigo, como a gente sempre faz?$4#$b#Relaxa, não vou pegar leve!$4",
+
+	//Quinta
+	"Mateus.Dialogue.Thu": "Acho que eu devia dar uma explorada por aí um dia desses!#$e#Não, vou ficar jogando mesmo...$1",
+	"Mateus.Dialogue.Thu2": "Eu vou virar um jogador profissinal um dia desses, anote minhas palavras!$1",
+	"Mateus.Dialogue.Thu4": "@, qual seu plano de jogo?#$b#É importante eu estudar os adversários!$1",
+	"Mateus.Dialogue.Thu6": "Sabe, meu segundo hobby é comprar chapéus.#$b#Acho alguns muito estilosos!$1",
+	"Mateus.Dialogue.Thu8": "Que tal a gente comer uma pizza depois?$1#$b#Sabe... eu e você...$4",
+	"Mateus.Dialogue.Thu10": "@, que dia é hoje mesmo?#$b#O tempo passa muito rápido quando tô com você!$4",
+
+	//Sexta
+	"Mateus.Dialogue.Fri": "Ei, amanhã é dia de jogo!#$b#Acho que vou ficar perto da casa do Sebastian pra pedir Wi-fi!#$e#Hã? Não o Seba, ele só mestra o RPG mesmo.",
+	"Mateus.Dialogue.Fri2": "Quer assistir o jogão amanhã comigo?#$b#Não posso perder!$1",
+	"Mateus.Dialogue.Fri4": "@, agora que sei que é um apostador de risco...$8#$b#Venha comigo nessa!$8",
+	"Mateus.Dialogue.Fri6": "Em quem você apostou pro jogo de amanhã?!$1",
+	"Mateus.Dialogue.Fri8": "Mais importante que chapéus @, em que time você apostou?$8#$e#Isso pode te afetar negativamente, então diga agora!$8",
+	"Mateus.Dialogue.Fri10": "Vamos assistir o campeonato juntos amanhã?$1#$b#Tipo, só eu e você...$4#$e#Sabia que aceitaria!$1",
+
+	//Sabado
+	"Mateus.Dialogue.Sat": "Hoje é dia de campeonato de Moba!$1#$b#Eu com certeza vou virar um Pro Player!$1",
+	"Mateus.Dialogue.Sat2": "Hmm, esse campeonato vai ser complicado...#$b#Hã? ah, vou assistir um campeonato hoje.",
+	"Mateus.Dialogue.Sat4": "Vou virar o melhor jogador de todos, quero que você veja!$1",
+	"Mateus.Dialogue.Sat6": "Acho que vou apostar no meu time preferido, não conta pro Guilherme!$1",
+	"Mateus.Dialogue.Sat8": "Uhul, finalmente estou lucrando com minhas apostas!$1#$b#@, esse é o nosso sonho!$1",
+	"Mateus.Dialogue.Sat10": "@ acho que nosso time vai ganhar!$1#$b#Se você acredita eu acredito!$4",
+
+	//Domingo
+	"Mateus.Dialogue.Sun": "Ow mano...Cê já viu a cerimônia de abertura do Mundial?#$b#Muito incrível!$1",
+	"Mateus.Dialogue.Sun2": "Será que hoje vai ter o Draven do PAI?!$1",
+	"Mateus.Dialogue.Sun4": "Pega coquinha e senta aqui do lado para assistir o Campeonato!$1",
+	"Mateus.Dialogue.Sun6": "Já sabe que dia é hoje né?#$b#Não vou perder uma jogada!$1",
+	"Mateus.Dialogue.Sun8": "Já vai de direita, toma de esquerda, vai pra cima, escorrega 2 e TA LÁÁÁÁ!$1#$b#Essa narração foi incrível!#$b#Devia ter escutado @.",
+	"Mateus.Dialogue.Sun10": "Nosso time é o melhor!$1#$b#Com certeza vou estar nele algum dia, junto com você é claro!$4",
+
+	// MATEUS FESTIVAIS
+	//Egg Festival
+	"Mateus.Dialogue.spring_13": "Será que tem 'Kinder Ovo' no festival de hoje?",
+	//Flower Dance
+	"Mateus.Dialogue.spring_24": "Nã nã nã nã, não vou dançar no festival das flores!$2",
+	//Luau
+	"Mateus.Dialogue.summer_11": "Ai, sabia que hoje vai ter comida GRÁTIS no festival do Luau?$1#$b#Não posso perder essa!$1",
+	//Dance of the Moonlight Jellies
+	"Mateus.Dialogue.summer_28": "Não sei do que se trata o evento de hoje, mas se tiver comida, só bora!$1",
+	//Stardew Valley Fair
+	"Mateus.Dialogue.fall_16": "Ouvi que vão ter jogos nesse festival...Há, Não tem como eu perder!$1",
+	//Spirit's Eve
+	"Mateus.Dialogue.fall_27": "Esse festival eu passo...$2",
+	//Festival of Ice
+	"Mateus.Dialogue.winter_8": "Hora de fazer um bonecaço de gelo no festival de hoje!$1",
+	//Night Market
+	"Mateus.Dialogue.winter_15": "Hmm...O mercado noturno tá chegando, em breve vou poder comprar umas obras de arte!$1",
+	"Mateus.Dialogue.winter_16": "Comprei uns quadros daoras no mercado noturno...#$b#Mas eu preciso de mais!$1",
+	"Mateus.Dialogue.winter_17": "O Guilherme descobriu onde eu tava escondendo os quadros...$2#$b#Droga...$2",
+	//Feast of the Winter Star
+	"Mateus.Dialogue.winter_25": "Mano, eu não tenho dinheiro pra dar um presente!#$b#O QUE EU FAÇO?!$5",
+
+	// MATEUS DIALOGOS PRIMAVERA
+	"Mateus.Dialogue.spring_1": "Tilapia, Atum, Polvo...#$b#Ah, o Guilherme me mandou a lista de peixes da primavera...$2#$b#O melhor de tudo isso é que eu nem vou pescar!$1",
+	"Mateus.Dialogue.spring_2": "Seguinte, você é um pessoa legal...#$b#...#$b#...E é por isso que eu preciso perguntar...#$b#...#$b#...Essa pergunta vai definir tudo...#$b#...#$b#...Espero que responda com sabedoria...#$b#...#$b#...Saiba que está é questão de vida ou morte...#$b#...#$b#...Está preparado?...#$b#...#$b#...#$b#...#$b#...Não sei se posso confiar em você...#$b#...#$b#...#$b#...#$b#...Ah, quer saber que se dane!...$5#$b#...#$b#...Vou lançar a pergunta...#$b#...#$b#...Sem ressentimentos depois em...$5#$b#...#$b#...Lá vai em...#$b#...#$b#...#$b#...Tamanha determinação...#$b#...#$b#...Você é digno de receber esta pergunta...#$b#...#$b#...Aqui vou eu!...#$b#...#$q 1000/1001 springquestion_2_followup#...Mano, você conhece o Sonic?#$r 1000 15 springquestion_2_bom#Sim mano!#$r 1001 -5 springquestion_2_neutro#Meu Deus cara, Era só isso?#$r 1001 -10 springquestion_2_ruim#Não ué!",
+    "Mateus.Dialogue.springquestion_2_followup": "$p 1000#Sonic é o meu AMIGOO, Sonic é o meu HERÓI!$1|Hmf, essas pessoas que não conhecem o Ouriço azul...ai ai.$2",
+    "Mateus.Dialogue.springquestion_2_bom": "Perfeito, vamos falar um pouco sobre ele...#$b#Brincadeirinha! você já deve saber o quão incrivel ele é!$1",
+    "Mateus.Dialogue.springquestion_2_neutro": "Hm, achei que você ia pegar a referência.$2",
+    "Mateus.Dialogue.springquestion_2_ruim": "Perfeito, vamos falar um pouco sobre ele...#$b#Sonic the Hedgehog é um ouriço azul nascido em Green Hill, na South Island. Lá ele vive e tem muitos amigos. Desde pequeno sempre foi famoso por ser um pouco diferente: ser o mais veloz dos animais da floresta!$1#$b#O Sonic vive num mundo cheio de animais, e sustentado pelo poder de pedras especiais, as Chaos Emerald. As Chaos Emerald (ou Esmeraldas do Caos, ou simplesmente Esmeralda Caóticas) são uma poderosa e misteriosa fonte de poder.$1#$b#Dr Robotnik, ou Dr Eggman, um maluco cientista, resolveu dominar o mundo do Sonic. Para tal, ele raptou todos os animais, para transformá-los em robôs, compondo um poderoso e grande exército, através do qual ele irá dominar o planeta, e para isso, as Chaos Emerald são fundamentais.$5#$b#Com isso, Sonic tem o objetivo de salvar os animais indefesos, recuperar as Esmeraldas do Caos, e parar Dr.Eggman!$1#$b#Ouf, cansei!",
+    
+	// MATEUS DIALOGOS VERAO
+	"Mateus.Dialogue.summer_1": "Mano, como ficou quente tão rápido?#q 1010/1011#Você acha que eu deveria comprar um Chapéu de Palha?#$r 1010 15 summerquestion_1_bom#Acho que sim!#$r 1011 0 summerquestion_1_neutro#Acho que você devia economizar.#$r 1011 -10 summerquestion_1_ruim#Acho que não é uma boa idéia",
+    "Mateus.Dialogue.summerquestion_1_followup": "$p 1010#Bom, vou comprar um bem bonito!$1|Esquece... vocês só sabem economizar dinheiro...$2#$b#Vou comprar um pra você também, aí você vai ver como é necessário!$1",
+    "Mateus.Dialogue.summerquestion_1_bom": "Sabia que você ia entender a necessidade!$1",
+    "Mateus.Dialogue.summerquestion_1_neutro": "Não.",
+    "Mateus.Dialogue.summerquestion_1_ruim": "Ah, achei que você ia entender a necessidade disso...$2",
+	//Segunda
+	"Mateus.Dialogue.summer_Mon": "Ah, ta muito quente, não vou conseguir andar mais nenhum centímetro...$7#$b#Ouf... cansei...$2#$b#Ai minha barriga...$2",
+	"Mateus.Dialogue.summer_Mon2": "E aí @, planeja comprar algumas coisas hoje?$1#$b#Tenho algumas recomendações se precisar, principalmente se for comida!$6#$b#Isso se o estoque de verão não for diferente.",
+	"Mateus.Dialogue.summer_Mon4": "O Guilherme nunca vai ganhar de mim no \"Rei da Pradaria\" se ele continuar andando pra frente e atirando...$8",
+	"Mateus.Dialogue.summer_Mon6": "Eae @!$1#$b#Sabe, tava querendo tomar um sorvete... mas acho que o Guilherme não vai deixar...$2#$b#Então, vou ter que pegar escondido.$8",
+	"Mateus.Dialogue.summer_Mon8": "Argh!$7#$b#Que susto @, achei que era o Guilherme...$1#$b#Não... não fiz nada de errado... confia...#$b#...#$b#Com licença...$8",
+	"Mateus.Dialogue.summer_Mon10": "Ah, parece que meu time não jogou bem ontem...$2#$b#Com certeza essa semana vai, vamos torcer juntos @!$1",
+
+	//Terça
+	"Mateus.Dialogue.summer_Tue": "@! É você!$1#$b#Não esqueço o nome de um novo desafiante.$8",
+    "Mateus.Dialogue.summer_Tue2": "Ué!? Cadê meu celular!?$7#$b#Ah, ta na minha mão.#$b#Que susto...$1",
+    "Mateus.Dialogue.summer_Tue4": "@, você parece um oponente digno... venha pra uma batalha no joguinho agora!$8^@, você parece uma oponente digna... venha pra uma batalha no joguinho agora!$8#$b#Ah, você não tem um celular, esqueci disso...$2",
+    "Mateus.Dialogue.summer_Tue6": "Já completei o arcade mais de 10 vezes, mas não gosto de salvar o meu record...#$b#Se eu não colocar meu \"Nickname\" inteiro não tem valor!$1",
+    "Mateus.Dialogue.summer_Tue8": "Sabe @, tenho que derrotar meu oponente com estilo, então...#$b#Não vou tirar meu chapéu tão facilmente!$8#$b#Pera, deixei meu chapéu no saco de dormir!$7",
+    "Mateus.Dialogue.summer_Tue10": "@... @...$8#$b#Temos que ir comprar os novos chapéus de verão, bora!$1#$b#Relaxa, ganhei uma aposta contra o Guilherme, então eu posso.",
+            
+	//Quarta
+	"Mateus.Dialogue.summer_Wed": "Vou treinar minha jogatina, então não me atrapalhe, ok?$8",
+    "Mateus.Dialogue.summer_Wed2": "Acho que não tem problema eu comprar uma pizza hoje.$1#$b#Só uminha... juro...#$b#...#$b#Adeus @, foi bom te conhecer.$8",
+    "Mateus.Dialogue.summer_Wed4": "@, preciso de um água urgente...$7#$b#Você tá com seu regador aí?!$7#$b#Se tiver no seu bolso, pode jogar tudo em mim, sério!$7",
+    "Mateus.Dialogue.summer_Wed6": "Socorro, eu vou... passar mal...$2#$b#Brh-$7#$b#%Mateus sucumbiu ao calor.",
+    "Mateus.Dialogue.summer_Wed8": "Ei, vou comprar mais alguns chapéus!$1#$b#Achei incrível a coleção de verão, não vou resistir!$1",
+    "Mateus.Dialogue.summer_Wed10": "@, vamos passar no Gus, preciso de um copo de água.#$b#Vamos logo, não sei quanto tempo vou aguentar!$7",
+            
+	//Quinta
+	"Mateus.Dialogue.summer_Thu": "Eu gosto de Joja-Cola, o gosto é meio estranho...#$b#Mas honestamente, acho que esse é o toque especial.$1",
+    "Mateus.Dialogue.summer_Thu2": "Gosto de jogar na praia, o problema é que não da pra ver a tela do celular, o sol é muito forte...$2#$b#Hm? Nadar? Eu?#$b#Nããã... zero vontade.",
+    "Mateus.Dialogue.summer_Thu4": "@! Não conta pra ninguém...#$b#Olha só esse chapéu que eu comprei!$1#$b#Não é estiloso?$1#$b#Agora sim me sinto no \"Rei da Pradaria\"!$1",
+    "Mateus.Dialogue.summer_Thu6": "A única cor que eu vejo é da vitória, sempre azul!$1#$b#Quando fica vermelho é só editar e pintar por cima... ninguém desconfia.$6",
+    "Mateus.Dialogue.summer_Thu8": "Já perdi várias vezes nos jogos... porém...#$b#Sempre tem espaço pra mais uma!$6#$b#Mas não vai ser hoje.$8",
+    "Mateus.Dialogue.summer_Thu10": "Ei @, faz um tempo que a gente não joga uma partida juntos...#$b#Preciso avaliar suas habilidades, mas não duvido que estejam altas!$4",
+            
+	//Sexta
+	"Mateus.Dialogue.summer_Fri": "Ei... me dá um copo de água...$2#$b#Espera onde você ta ind-$7#$b#%Você finge que nunca viu ele na vida.",
+    "Mateus.Dialogue.summer_Fri2": "Vou tomar uma Joja-Cola geladinha hoje!$1#$b#Pode ter certeza disso.",
+    "Mateus.Dialogue.summer_Fri4": "Acho que vou comprar mais alguns chapéus por aí, ta faltando lembrancinhas pro pessoal!$1",
+    "Mateus.Dialogue.summer_Fri6": "O Guilherme fala pra eu não gastar, mas não consigo me controlaaaaar!#$b#%Mateus começa a cantar, está extremamente desafinado.",
+    "Mateus.Dialogue.summer_Fri8": "@ me espera! Só mais um joguinho! Prometo que vai ser rápido!$1#$b#%Você sente que é melhor correr.",
+    "Mateus.Dialogue.summer_Fri10": "Quero ir algum dia na praia com você @!$1#$b#Relaxa, preparei o celular pra uma jogatina de \"Volleyball Masters Beach Edition XV\"!$4#$b#Nem sei da onde eu tirei esse jogo, mas parece estar num clima de praia!$1",
+            
+	//Sabado
+	"Mateus.Dialogue.summer_Sat": "Sábado. Dia de Jogo. Adeus.",
+	"Mateus.Dialogue.summer_Sat2": "Foi mal @, tenho algo importante pra fazer hoje.#$b#Vou ver o jogo em FULL HD.$8",
+	"Mateus.Dialogue.summer_Sat4": "Estou me preparando pra assistir as partidas.#$b#Esses campeonatos tem alguns horários duvidosos pra começar...$2",
+	"Mateus.Dialogue.summer_Sat6": "Hmm...#$b#%Mateus está focado em assistir o jogo.",
+	"Mateus.Dialogue.summer_Sat8": "@, sei que desviar dos seus adversários é complicado...#$b#Mas essa jogada que eu acabei de ver no campeonato foi feia demais!$5",
+	"Mateus.Dialogue.summer_Sat10": "@, assiste comigo o campeonato!$1#$b#Vamos torcer ao mesmo tempo, combinado?!$4",
+
+	//Domingo
+	"Mateus.Dialogue.summer_Sun": "O jogo de ontem foi legalzinho, mas tô com preguiça de continuar vendo o resto...",
+    "Mateus.Dialogue.summer_Sun2": "Não consegui pegar a qualidade perfeita da transmissão ontem...$2#$b#Ah... por que tem que ser tão cruel internet?!$2",
+    "Mateus.Dialogue.summer_Sun4": "Assisti o campeonato ontem com meu chapéu de número 1.#$b#Me sinto revigorado nesse clima quente!$1",
+    "Mateus.Dialogue.summer_Sun6": "Não conta pro Guilherme, tive que pagar pra assistir na TV do Gus o jogo.#$b#E como valeu a pena!$1",
+    "Mateus.Dialogue.summer_Sun8": "Cansei, meu time não ganha... vou virar comediante e fazer cantadas ruins.#$b#Nisso eu sei que sou bom!$1",
+    "Mateus.Dialogue.summer_Sun10": "Gato, você não é-$4^Gata, você não é-$4#$b#@! Era meme! Era meme! Volta aqui!$7",
+
+	// MATEUS DIALOGOS OUTONO
+	"Mateus.Dialogue.fall_1": "O tempo ta fresquinho hoje...#$b#Gostei.$1",
+
+	// MATEUS DIALOGOS INVERNO
+	"Mateus.Dialogue.winter_1": "A cada passo que eu dou...#$b#EU FICO COM MAIS FRIOOOO!$5",
+	"Mateus.Dialogue.winter_27": "Eae!$1#$q 1015/1016#Ei o que você vai me dar hoje de aniversário?#$r 1016 0 winterquestion_27_neutro#Mas, hoje não é seu aniversário#$r 1015 20 winterquestion_27_bom#OQUÊ?! É HOJE?!#$r 1016 -29 winterquestion_27_ruim#Nada.",
+	"Mateus.Dialogue.winterquestion_27_followup": "$p 1015#Você tinha que ver sua cara quando eu perguntei isso!$1|Você não caiu nos meus planos dessa vez!$5#$b#Mas na próxima, você vai ver!$1",
+	"Mateus.Dialogue.winterquestion_27_bom": "Haha, você caiu que nem um patinho!$1#$b#Hoje não é meu aniversário!",
+	"Mateus.Dialogue.winterquestion_27_neutro": "Droga, meus planos malégnos!$2",
+	"Mateus.Dialogue.winterquestion_27_ruim": "...$2",
+
+	//Segunda
+	"Mateus.Dialogue.winter_Mon": "Preciso me esquentar urgemente-#$b#urgemem...$2#$b#Minwa linwua congelow, tewo certewa!$7",
+    "Mateus.Dialogue.winter_Mon2": "Se eu pudesse, andava por aí dentro do meu saco de dormir...$2#$b#Esse frio é complicado...$2",
+    "Mateus.Dialogue.winter_Mon4": "Não importa o quanto eu tente, não consigo ficar quente!$7#$b#Olha até rimei.#$b#Pera, não é hora pra isso!$7",
+    "Mateus.Dialogue.winter_Mon6": "Os meus dedos já estão aquecidos, agora falta o resto!$7",
+    "Mateus.Dialogue.winter_Mon8": "Tenho que ficar blindado nesse frio pra não pegar um resfriado.#$b#O pai ta preparado pra qualquer problema, igual nos jogos!$8",
+    "Mateus.Dialogue.winter_Mon10": "@ chega aqui, vamos se esquentar...$4#$b#Em uma jogatina até a mort-#$b#%Ir embora pareceu uma boa opção.",
+
+	//Terça
+	"Mateus.Dialogue.winter_Tue": "Como você consegue ficar de boa nesse frio?",
+    "Mateus.Dialogue.winter_Tue2": "Você recebeu uma quest especial de Matias!$1#$b#Jogar uma partidinha comigo!$1#$b#Não tem como recusar, né?#$b#Né?$2",
+    "Mateus.Dialogue.winter_Tue4": "@, eu juro que eu vou congelar!$7#$b#Bora, jogar algo pra eu me esquentar?",
+    "Mateus.Dialogue.winter_Tue6": "Objetivo 1: encontrar um lugar com fogueira.#$b#Obstáculo: encontrar!$2",
+    "Mateus.Dialogue.winter_Tue8": "Onde está a fogueira quando precisamos dela?!$7",
+    "Mateus.Dialogue.winter_Tue10": "Se criar uma fogueira na vida real fosse igual nos jogos, iria criar pra gente sentar e comer marshmallows juntos!$4",
+
+	//Quarta
+	"Mateus.Dialogue.winter_Wed": "Muito ocupado na fazenda?^Muito ocupada na fazenda?#$b#Eu entendo, nem todos tem tempo de jogar comigo...$2",
+    "Mateus.Dialogue.winter_Wed2": "Vamos @, a Joja-Cola deve estar geladinha, tenho que correr pra pegar a minha!$1",
+    "Mateus.Dialogue.winter_Wed4": "Eu me sinto dentro de uma geladeira gigante, onde eu sou o peru de natal!$7",
+    "Mateus.Dialogue.winter_Wed6": "@, não desista dos seus sonhos...  eu com certeza vou congelar dessa pra melhor... diga que pelo menos eu tentei...!$2#$b#%Créditos começam a subir.",
+    "Mateus.Dialogue.winter_Wed8": "Tinha visto que os jogos estão em promoção de natal, melhor aproveitar @!$1#$b#Vou aproveitar agora, antes que-$10#$b#Já acabou?! o site mentiu pra mim!$11",
+    "Mateus.Dialogue.winter_Wed10": "Amor, tenho que dar uma farmadinha no joguinho online...#$b#Sei que vai entender... eu te amo.$4#$b#%Mateus usou charme.#$b#%Não foi efetivo.",
+
+	//Quinta
+	"Mateus.Dialogue.winter_Thu": "Como eu fico na forma anti-frio, os jogos não me ensinaram essa forma especial!$7",
+    "Mateus.Dialogue.winter_Thu2": "Imagina uma fogueira e um chocolate quente, seria o sonho!$1",
+    "Mateus.Dialogue.winter_Thu4": "Vou assistir os jogos de inverno no sábado!$1#$b#Só não posso esquecer.",
+    "Mateus.Dialogue.winter_Thu6": "Vou comprar algumas tocas pro pessoal...#$b#E uns extras... é claro.$8",
+    "Mateus.Dialogue.winter_Thu8": "Eu quase me esqueci!$7#$b#Preciso anotar como sobrevivi no inverno.$12#$b#É um momento histórico!$13",
+    "Mateus.Dialogue.winter_Thu10": "\"Guia de Sobrevivência Invernal do Matias\", esse título me parece bom!$1#$b#O que achou do título @?",
+
+	//Sexta
+	"Mateus.Dialogue.winter_Fri": "Esse tempo dá um sono...#$b#Seria tão bom ficar deitado mais uns 5... não, 30... melhor, 60 minutinhos.$1",
+    "Mateus.Dialogue.winter_Fri2": "Não sei se quero fazer um boneco de neve... muito trabalho.",
+    "Mateus.Dialogue.winter_Fri4": "Vou jogar alguns jogos novos de inverno, será que eu acho algum divertido?$1",
+    "Mateus.Dialogue.winter_Fri6": "Pleno inverno, sábado chegando... e você ainda não está preparado pro campeonato de amanhã?$2",
+    "Mateus.Dialogue.winter_Fri8": "Melhor momento pra comprar tocas para o frio!$1#$b#Agora tenho uma boa desculpa pra comprar chapéus.$8",
+    "Mateus.Dialogue.winter_Fri10": "Disse pro Guilherme que comprei algumas tocas... mas a verdade é que comprei muito mais chapéus do que tocas, hora de ficar estiloso!$8",
+
+	//Sabado
+	"Mateus.Dialogue.winter_Sat": "Sem tempo, os jogos começaram!$1",
+    "Mateus.Dialogue.winter_Sat2": "Foi mal @, tenho um compromisso muito sério hoje...#$b#...#$b#...$10#$e#%Mateus está assistindo o jogo.",
+    "Mateus.Dialogue.winter_Sat4": "@, que horas são?#$b#Ah! Vou perder os jogos de inverno!$7#$e#Ufa, sorte que ta no começo...$10",
+    "Mateus.Dialogue.winter_Sat6": "Jogão hoje em!$1#$b#Vou até conferir denovo que horas que começa.$10",
+    "Mateus.Dialogue.winter_Sat8": "O jogo de hoje eu não vou perder por nada!$1#$e#Não vou perder o jogo mesm-$10#$b#Já começou?!$11",
+    "Mateus.Dialogue.winter_Sat10": "@, aqui seu chapéu, torça comigo nos jogos de inverno!$1",
+
+	//Domingo
+	"Mateus.Dialogue.winter_Sun": "Se continuar assim vou pegar um resfriado!$2",
+    "Mateus.Dialogue.winter_Sun2": "@, preciso me esquentar urgente, te vejo por aí!",
+    "Mateus.Dialogue.winter_Sun4": "Pelo menos não fiquei em último no site de apostas.#$b#... pelo menos, né?$2",
+    "Mateus.Dialogue.winter_Sun6": "As apostas deram errado denovo...$2#$b#O que eu faço agora @?!$7",
+    "Mateus.Dialogue.winter_Sun8": "Há! pode estar frio, mas só preciso de um joguinho pra me aquecer!$1#$b#Aprendi novas técnicas com o jogo de ontem, hora de colocar em prática!$8",
+    "Mateus.Dialogue.winter_Sun10": "Amor, tenho algo pra te dizer...$4#$b#O jogo de ontem foi muito incrível, sério!$1",
+
+	//MATEUS DIALOGOS EVENTOS
+	"Mateus.Dialogue.Evento_Chapeu_Bom": "Obrigado, isso significa muito pra mim!$4#$b#Bom, vou te dar uma explicação porque eu ainda não posso contar pra eles sobre isso.$1",
+    "Mateus.Dialogue.Evento_Chapeu_Neutro": "Sei que não é uma boa idéia esconder deles...$2#$b#Mas não posso contar... ainda...$2#$b#Bom, você vai entender... venha aqui pra eu te explicar.",
+    "Mateus.Dialogue.Evento_Chapeu_Ruim": "...!$7",
+
+	//MATEUS DIALOGOS CASADO
+	// ESPECIAL
+	"Mateus.MarriageDialogue.OneKid.0": "Você já viu %kid1 hoje?",
+	"Mateus.MarriageDialogue.OneKid.1": "Onde %kid1 tá?",
+	"Mateus.MarriageDialogue.OneKid.2": "Não se preocupa, vou dar mamadeira pro %kid1 hoje, pode cuidar da fazenda!$1",
+	"Mateus.MarriageDialogue.OneKid.3": "Minha vida ficou de cabeça pra baixo de um dia pro outro.",
+	"Mateus.MarriageDialogue.TwoKids.0": "Essas crianças são muito agitadas!$1",
+	"Mateus.MarriageDialogue.TwoKids.1": "Vou brincar de Pega-Pega com as crianças depois, se cuida!$1",
+	"Mateus.MarriageDialogue.TwoKids.2": "Acho %kid2 bem parecido com você!",
+	"Mateus.MarriageDialogue.TwoKids.3": "Ah, que vida tranquila, o que mais posso pedir?",
+	"Mateus.MarriageDialogue.NoBed.0": "Bom, já to acostumado a dormir no chão mesmo...?$2",
+	"Mateus.MarriageDialogue.NoBed.1": "@... cadê a cama?$2",
+	"Mateus.MarriageDialogue.NoBed.2": "Tamo sem cama, perdemo...$2",
+	"Mateus.MarriageDialogue.NoBed.3": "O que aconteceu com a cama...?$2",
+	"Mateus.MarriageDialogue.Outdoor.0": "Dia bom hoje...#$e#Partiu de gameplay!$1",
+	"Mateus.MarriageDialogue.Outdoor.1": "Vou ficar de olho na fazenda hoje!#$e#Aqueles corvos não vão ter chance!$1",
+	"Mateus.MarriageDialogue.Outdoor.2": "Eae, bem tranquilinho?!#$e#Tava pensando em ti.$1",
+	"Mateus.MarriageDialogue.Outdoor.3": "Vou ficar pensando aqui fora um tempo.#$e#Não muito, se não eu quebro.",
+	"Mateus.MarriageDialogue.Outdoor.4": "Não esquece de comer em!#$e#Sempre esqueço quando tô jogando.$2",
+
+	//DIALOGOS COMUNS
+	// PRIMAVERA
+	"Mateus.MarriageDialogue.spring_1": "Finalmente tá calor denovo...#$b#Bem tranquilinho!$1",
+	"Mateus.MarriageDialogue.spring_8": "Como o inverno já acabou, vou ficar com minha espingarda mirada nos corvos.$1",
+	"Mateus.MarriageDialogue.spring_23": "Dessa vez acho que vou dançar no festival de amanhã!$1",
+	// VERAO
+	"Mateus.MarriageDialogue.summer_1": "Meu deus, tá muito quente...#$e#Sinto até saudade do inverno.",
+	"Mateus.MarriageDialogue.summer_8": "Precisamos de um Ar Condicionado urgente!$2",
+	"Mateus.MarriageDialogue.summer_15": "MOSQUITO!$5#$b#Eu cuido deles!$1",
+
+	// OUTONO
+	"Mateus.MarriageDialogue.fall_1": "Ah, tamo bem tranquilinho essse ano.$1",
+	"Mateus.MarriageDialogue.fall_8": "Pelo menos acho que a gente ta preparado pro inverno.#$b#Certo, né?",
+	"Mateus.MarriageDialogue.fall_15": "A gente não pode perder o festival de amanhã!$8",
+	"Mateus.MarriageDialogue.fall_26": "Se eu for no festival de Halloween amanhã, você vem comigo?",
+
+	// INVERNO
+	"Mateus.MarriageDialogue.winter_1": "DROGA! TÁ MUITO FRIO DENOVO!$5",
+	"Mateus.MarriageDialogue.winter_7": "Ei, vamos fazer um boneco de neve amanhã no festival?",
+	"Mateus.MarriageDialogue.winter_28": "Obrigado por mais um ano, @. Nosso próximo ano será melhor ainda!$l",
+
+	// DIALOGOS DIA
+	"Mateus.MarriageDialogue.RainyDay.0": "Está chovendo! Pelo menos não preciso ficar mais no Gus.",
+	"Mateus.MarriageDialogue.RainyDay.1": "Será que o Gus me perdoa por ter ficado chutando a porta dele pra me proteger da chuva?",
+	"Mateus.MarriageDialogue.RainyDay.2": "Bom dia! Chuvinha boa hoje não?$1",
+	"Mateus.MarriageDialogue.RainyDay.3": "Dia chuvoso, é dia de ficar na cama.$1",
+	"Mateus.MarriageDialogue.RainyDay.4": "Alguma sugestão do que comer a noite?",
+
+	"Mateus.MarriageDialogue.IndoorDay.0": "Bom dia flores do dia!$1#$e#Pronto pra mais um dia de trabalho?$1",
+	"Mateus.MarriageDialogue.IndoorDay.1": "OOOOWWWWNNNNN, que soninho.",
+	"Mateus.MarriageDialogue.IndoorDay.2": "Dormiu bem?",
+	"Mateus.MarriageDialogue.IndoorDay.3": "Que dia senhores, que dia!$1",
+	"Mateus.MarriageDialogue.IndoorDay.4": "Eae, bem tranquilinho?$1",
+
+	// DIALOGOS NOITE
+	"Mateus.MarriageDialogue.RainyNight.0": "Vou deitar naquela cama e hibernar!$l",
+	"Mateus.MarriageDialogue.RainyNight.1": "Ah...já bateu um soninho!$1",
+	"Mateus.MarriageDialogue.RainyNight.2": "Noite com chuva, é igual a Hibernação na certa!$1",
+	"Mateus.MarriageDialogue.RainyNight.3": "Soninho...$1",
+	"Mateus.MarriageDialogue.RainyNight.4": "Ei fiz uma pizza pá nois! [206]$1#$e#Partiu comer!$1",
+	"Mateus.MarriageDialogue.RainyNight.5": "E então, foi bem tranquilinho hoje?$1",
+	
+	"Mateus.MarriageDialogue.IndoorNight.0": "Terminou tudo hoje, @?#$e#Já terminei minhas tarefas, vou dormir logo logo!$1",
+	"Mateus.MarriageDialogue.IndoorNight.1": "Não teve jeito, hoje tive que dar uma jogatina...$1#$e#Velhos hábitos não mudam...",
+	"Mateus.MarriageDialogue.IndoorNight.2": "Bem vindo!$1#$e#Mó medo de ter bicho por aqui de noite!$1",
+	"Mateus.MarriageDialogue.IndoorNight.3": "Hora do relaxas, se ta ligado né!$1",
+	"Mateus.MarriageDialogue.IndoorNight.4": "Limpei tudo como um aspirador de pó!#$e#ZUUUUUUUUM!$1",
+	
+	
+	// AFEICAO
+	"Mateus.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei...$l",
+	"Mateus.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
+	"Mateus.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
+	"Mateus.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
+	"Mateus.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
+	"Mateus.MarriageDialogue.Good.5": "Eu tava admirando o amuleto de casamento, parece caro!$l#$b#Relaxa presentes eu não vendo!$1",
+	"Mateus.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai... longa história$2",
+	"Mateus.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
+	"Mateus.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Mateus.MarriageDialogue.Good.9": "Acho que tô me acostumando a ficar sem internet.#$e#É até gostosinho.$1",
+	"Mateus.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
+	"Mateus.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
+	"Mateus.MarriageDialogue.Neutral.2": "Dando uma pausa? também curto...",
+	"Mateus.MarriageDialogue.Neutral.3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
+	"Mateus.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
+	"Mateus.MarriageDialogue.Neutral.5": "Ei como ta nossa grana, @?",
+	"Mateus.MarriageDialogue.Neutral.6": "Espero que o pessoal esteja se virando bem!$1",
+	"Mateus.MarriageDialogue.Neutral.7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+	"Mateus.MarriageDialogue.Neutral.8": "Sempre tem mosquitos aqui em volta!$5#$b#Minha batalha só começou!$5",
+	"Mateus.MarriageDialogue.Neutral.9": "Vamos ficar aqui pra sempre né?$1",
+	"Mateus.MarriageDialogue.Bad.0": "...Você ainda gosta de mim?$2",
+	"Mateus.MarriageDialogue.Bad.1": "Aff... acho que fui muito jovem para sair casando.$2",
+	"Mateus.MarriageDialogue.Bad.2": "Ainda se sente feliz?$2",
+	"Mateus.MarriageDialogue.Bad.3": "Fiz algo errado? Você ta estranho ultimamente.$2",
+	"Mateus.MarriageDialogue.Bad.4": "Hmm?$2",
+	"Mateus.MarriageDialogue.Bad.5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
+	"Mateus.MarriageDialogue.Bad.6": "Ah... sério que tenho que viver com você?$2",
+	"Mateus.MarriageDialogue.Bad.7": "Antes eramos felizes... mas e agora?$2",
+	"Mateus.MarriageDialogue.Bad.8": "Você ta me dando um baita gelo ultimamente...$2",
+	"Mateus.MarriageDialogue.Bad.9": "Penso se podia ter feito algo melhor.$2",
+
+	// RONALDO DIALOGOS
+	"Ronaldo.Dialogue.Introduction": "Opa mano, prazer sou Ronaldo!$1#$b#O que era pra eu te perguntar mesmo?$2#$b#Ah esquece, prazer!$1",
+	"Ronaldo.Dialogue.MovieInvitation": "Tô dentro, pra mim não tem tempo ruim!$1",
+
+	// RESORT
+	"Ronaldo.Dialogue.Resort_Entering": "Isso que é vida!$1",
+    "Ronaldo.Dialogue.Resort_Leaving": "Ah... já é hora de ir?$2",
+    "Ronaldo.Dialogue.Resort_Shore": "Ah... a água ta fresquinha!$1",
+    "Ronaldo.Dialogue.Resort_Shore_2": "Isso que é vida!$1#$b#Queria poder nadar todo dia.",
+    "Ronaldo.Dialogue.Resort_Umbrella": "Melhor passar um protetor solar.",
+    "Ronaldo.Dialogue.Resort_Wander": "Depois de passar tanto tempo nas minas, esse é o lugar que eu quero ficar!$1",
+    "Ronaldo.Dialogue.Resort_Bar": "Vocês tem algo forte pra tomar?$1",
+    "Ronaldo.Dialogue.Resort": "Cara, essa viagem acabou valendo a pena no fim das contas!$1",
+
+	// RONALDO DIALOGO COMUM
+	//Segunda
+	"Ronaldo.Dialogue.Mon": "Opa, bão?$1",
+    "Ronaldo.Dialogue.Mon2": "Salve @, alguma novidade?#$b#Estou procurando um lugar com Wi-Fi melhor.$1",
+    "Ronaldo.Dialogue.Mon4": "@, como vai?$1#$b#Espero não estar te atrapalhando.",
+    "Ronaldo.Dialogue.Mon6": "Você acha que a Ruivinha vai ficar brava se a gente não voltar tão cedo?$2#$b#Ah... só queria ir pra casa logo.$2",
+    "Ronaldo.Dialogue.Mon8": "Algum dia ainda vou ver a Ruivinha denovo!$4#$b#Pode apostar!$4",
+    "Ronaldo.Dialogue.Mon10": "Eae @, bora dar um passeio por aí?$1",
+
+	//Terça
+	"Ronaldo.Dialogue.Tue": "Ei, você é um fazendeiro?^Ei, você é uma fazendeira?",
+    "Ronaldo.Dialogue.Tue2": "As vezes vou no Museu pra doar alguns livros que eu encontro.$1",
+    "Ronaldo.Dialogue.Tue4": "@, se precisar de ajuda pode contar comigo!$1#$b#Não, hoje não tá ligado...?",
+    "Ronaldo.Dialogue.Tue6": "Que saudade das festas, preciso de uma cervejinha gelada!$1",
+    "Ronaldo.Dialogue.Tue8": "Hora de voltar para as minas, quero encontrar alguns artefatos raros!$1",
+    "Ronaldo.Dialogue.Tue10": "Queria fazer uma festinha um dia desses com o pessoal, o que você acha?$1",
+
+	//Quarta
+	"Ronaldo.Dialogue.Wed": "Preciso te dizer...#$b#Esse vale é realmente enorme!$1",
+	"Ronaldo.Dialogue.Wed2": "Ou, tem algum banheiro por aqui, tô apertado!$2",
+	"Ronaldo.Dialogue.Wed4": "Não ligue pra mim, só estou apreciando a paisagem.",
+	"Ronaldo.Dialogue.Wed6": "Eae @, como é viver no campo?$1#$b#Honestamente, não gosto muito de dormir no chão.",
+	"Ronaldo.Dialogue.Wed8": "Saudades da Ruivinha @...$2#$b#Acho que você sabe como é esse sentimento...$2",
+	"Ronaldo.Dialogue.Wed10": "Ei, que olhos grandes você tem!$1#$b#Eu nunca tinha notado.#$b#Ah, foi um elogio! Um elogio! Calma!$2",
+
+	//Quinta
+	"Ronaldo.Dialogue.Thu": "Que horas são?#$b#Quero ir pra casa, tá ficando tarde.",
+    "Ronaldo.Dialogue.Thu2": "Preciso desvendar o próximo projetinho do Luigi, você me ajuda?",
+    "Ronaldo.Dialogue.Thu4": "Encontro alguns livros nas minas, sou muito bom nisso!$1",
+    "Ronaldo.Dialogue.Thu6": "@ é você?#$b#Que susto, nem te reconheci.$1",
+    "Ronaldo.Dialogue.Thu8": "Ei @, se você encontrar algum diamante, me mostra?!$1#$b#É uma gema rara, então quero ver de perto!$1",
+    "Ronaldo.Dialogue.Thu10": "@, bora fazer algo divertido tipo, fazer uma música?$#$b#Parece que não, mas gosto de rap!$1",
+
+	//Sexta
+	"Ronaldo.Dialogue.Fri": "Quero voltar pra casa logo, a Ruivinha ta me esperando...$2",
+    "Ronaldo.Dialogue.Fri2": "Ah, parece que não vamos voltar pra casa tão cedo...$2",
+    "Ronaldo.Dialogue.Fri4": "Poxa, mó vontade de assistir um filme hoje!$1#$b#Gosto mais daqueles engraçados.",
+    "Ronaldo.Dialogue.Fri6": "Bom dia... bão dia... boum dia...#$b#Ah @, bwon dia mano!$1",
+    "Ronaldo.Dialogue.Fri8": "Opa @, vou andar por aí.#$b#E depois falar com a Ruivinha!$1",
+    "Ronaldo.Dialogue.Fri10": "Não temos muito sucesso explorando nas minas... parece que tudo conspira contra a gente...$2#$b#Argh! Que raiva!$5",
+
+	//Sabado
+	"Ronaldo.Dialogue.Sat": "Só tô zanzando por ai, esse lugar é grande.",
+	"Ronaldo.Dialogue.Sat2": "Sem tempo irmão, falou!",
+	"Ronaldo.Dialogue.Sat4": "Ah, que fome, melhor passar no Saloon um dia desses.",
+	"Ronaldo.Dialogue.Sat6": "Preciso que você me responda...#$b#Pão com ovo ou com requeijão?",
+	"Ronaldo.Dialogue.Sat8": "Isso que você falou foi muito lindo!$1#$b#Não, não fale mais nada... já entendi a mensagem.",
+	"Ronaldo.Dialogue.Sat10": "Oxi, acho que esqueci a mina na picareta.#$b#Quer dizer... A picareta na mina!$1",
+
+	//Domingo
+	"Ronaldo.Dialogue.Sun": "Sem tempo irmão.#$b#Preciso procurar algo pra comer!$1",
+    "Ronaldo.Dialogue.Sun2": "Pera, eu falei isso?#$b#Não tô lembrado não, que dia foi isso?",
+    "Ronaldo.Dialogue.Sun4": "Espero que a Ruiva não esteja triste sem mim...#$b#Porque eu tô!$2",
+    "Ronaldo.Dialogue.Sun6": "Acho que eu devia fazer um rap com o Gustavo um dia desses!$1",
+    "Ronaldo.Dialogue.Sun8": "Queria poder dormir mais umas duas horas, mas tenho que minerar...$2#$b#Me sinto naquele jogo de blocos...$2",
+    "Ronaldo.Dialogue.Sun10": "ALÔ GALERA! VAMO ACORDA!$5#$b#Opa @, foi mal tava treinando pra aula de acordar...#$e#Acordar a rapazeada de dia!$1",
+
+	// RONALDO FESTIVAIS
+	//Egg Festival
+	"Ronaldo.Dialogue.spring_13": "Vou esconder alguns doces no bolso, não conta pra ninguém.",
+	//Flower Dance
+	"Ronaldo.Dialogue.spring_24": "Vai ter bebida no festival?$1",
+	//Luau
+	"Ronaldo.Dialogue.summer_11": "Beleza, o festival começa as...#$b#Ah... esqueci.$2",
+	//Dance of the Moonlight Jellies
+	"Ronaldo.Dialogue.summer_28": "Vamos ver as águas-vivas hoje!$1#$e#Que hora que começa o festival mesmo?",
+	//Stardew Valley Fair
+	"Ronaldo.Dialogue.fall_16": "Vou dar uma explorada no festival.#$b#Vai que eu acho comida grátis?!$1",
+	//Spirit's Eve
+	"Ronaldo.Dialogue.fall_27": "Mesmo hoje sendo Halloween não vou ter medo de nada!$1#$e#Aquilo foi um vulto?!",
+	//Festival of Ice
+	"Ronaldo.Dialogue.winter_8": "Não gosto do cheiro de peixe, acho que vou ficar longe no festival.",
+	//Night Market
+	"Ronaldo.Dialogue.winter_17": "O que é esse Mercado Noturno que todo mundo fala?",
+	//Feast of the Winter Star
+	"Ronaldo.Dialogue.winter_25": "Já me planejei e comprei o presente!$1#$e#Pera, esse não é meu amigo secreto!",
+
+	// RONALDO DIALOGOS PRIMAVERA
+	"Ronaldo.Dialogue.spring_1": "Ah cara, já se passou um ano e a gente ainda tá aqui?!$2",
+
+	// RONALDO DIALOGOS VERAO
+	"Ronaldo.Dialogue.summer_1": "Quentão hoje né?#$b#Eu tô de boa.$1",
+
+	// RONALDO DIALOGOS OUTONO
+	"Ronaldo.Dialogue.fall_1": "Olha as folhas caindo!$1",
+
+	// RONALDO DIALOGOS INVERNO
+	"Ronaldo.Dialogue.winter_1": "Tô tentando pegar um floco de neve com a lingua!$1",
+
+	// ESPECIAIS
+	"Ronaldo.Dialogue.winterTown_23_26": "Ah, hoje não deu pra ir na Mina por causa que o Luigi não tá bem...$6#$b#Ei... como assim que mina?$6#$b#%Parece que alguêm confundiu as coisas...",
+
+	// RONALDO DIALOGOS EVENTO
+	"Ronaldo.Dialogue.Evento_Celular_Bom": "...!",
+	"Ronaldo.Dialogue.Evento_Celular_Neutro": "Sei que não... mas queria que fosse...$2",
+	"Ronaldo.Dialogue.Evento_Celular_Ruim": "Esse não é o ponto...$2",
+
+	// SEBA DIALOGOS
+	"Seba.Dialogue.Introduction": "Oh, prazer meu nome é Sebastião, mas pode me chamar de Seba.#$b#Precisa de algo?",
+    "Seba.Dialogue.MovieInvitation": "Bora, eu chego lá em um minuto.$1",
+
+	// RESORT
+	"Seba.Dialogue.Resort_Entering": "Essas eram as férias que eu queria!$1",
+    "Seba.Dialogue.Resort_Leaving": "Até mais meu paraiso...$2",
+    "Seba.Dialogue.Resort_Shore": "Ah, a água ta fresquinha!$1#$b#Quero ficar aqui pra sempre.",
+    "Seba.Dialogue.Resort_Shore_2": "Isso que é vida!$1#$b#Queria poder nadar todo dia.",
+    "Seba.Dialogue.Resort_Umbrella": "Melhor passar um protetor solar, pra ficar bem tranquilinho.",
+    "Seba.Dialogue.Resort_Wander": "Queria ver algum macaquinho por aqui, será que tem?!$1",
+    "Seba.Dialogue.Resort_Bar": "O que tem de bom no bar aí?$1",
+    "Seba.Dialogue.Resort": "Hora de ficar bem tranquilinho na areia.",
+
+	// SEBA DIALOGO COMUM
+	//Segunda
+	"Seba.Dialogue.Mon": "Desculpa tô meio ocupado, vou terminar minhas coisas...",
+    "Seba.Dialogue.Mon2": "Oi @.#$e#Hm, o que foi?",
+    "Seba.Dialogue.Mon4": "Gosto de ler mangas quando estou livre!$1",
+    "Seba.Dialogue.Mon6": "Ei @, estou trabalhando no meu RPG, em breve vou fazer uma sessão.",
+	"Seba.Dialogue.Mon8": "Mas me diz aí @, você topa um RPGzinho?$1",
+    "Seba.Dialogue.Mon10": "Tenho que terminar o RPG, e vou te dizer @ é cansativo...",
+
+	//Terça
+	"Seba.Dialogue.Tue": "Olá, já nos apresentamos?",
+    "Seba.Dialogue.Tue2": "Sempre fico na floresta pegando madeira, entediante né?",
+    "Seba.Dialogue.Tue4": "Ai ai ai, que preguiça...$2#$b#Você pode me carregar?$2#$e#Brincadeira, vou indo nessa.",
+    "Seba.Dialogue.Tue6": "@, como vai seu dia?#$b#Estarei por aí qualquer coisa.",
+    "Seba.Dialogue.Tue8": "Lançou o novo capítulo, mas não traduziram ainda... ai, ai...$2",
+    "Seba.Dialogue.Tue10": "Se precisar de madeira é só me chamar!$1#$b#Tudo bem que eu não gosto de pegar madeira, mas a gente releva...",
+
+	//Quarta
+	"Seba.Dialogue.Wed": "Tô bem tranquilinho...#$e#Hm?",
+    "Seba.Dialogue.Wed2": "Levantei mas já quero ir dormir, que cansaço...$2#$b#Isso acontece com você @?",
+    "Seba.Dialogue.Wed4": "Já vou indo nessa, até mais @.",
+    "Seba.Dialogue.Wed6": "Bom, como você sabe, sempre pego madeira de segunda a sexta...$2#$b#Que chatice...$2",
+    "Seba.Dialogue.Wed8": "Deve ser trabalhoso trabalhar na fazenda...#$b#Pegar madeira já é chato, imagina plantar e colher...$2",
+    "Seba.Dialogue.Wed10": "Talvez eu devesse implementar uma mecânica nova no RPG, o que acha?",
+
+	//Quinta
+	"Seba.Dialogue.Thu": "Ah... que cansaço...$2#$b#Sabe, preciso relaxar um pouco.",
+    "Seba.Dialogue.Thu2": "Não tenho escolha, hora de fazer minha rotina.",
+    "Seba.Dialogue.Thu4": "Ei @, você devia começar a ler mangas também, é uma boa experiência.",
+    "Seba.Dialogue.Thu6": "@, que bom te ver!$1#$b#Planejando algo interessante?",
+    "Seba.Dialogue.Thu8": "Ainda não parei de escrever a história do \"The Beginning Of Nothing\", topa jogar um dia desses?",
+    "Seba.Dialogue.Thu10": "Vamos terminar de ler o último capítulo juntos!$1#$b#Esse vai ser o climax, você tem que ver!$1",
+
+	//Sexta
+	"Seba.Dialogue.Fri": "Tem outro momento?#$b#Preciso ler meu manga.",
+	"Seba.Dialogue.Fri2": "Preciso discutir com o Mateus como ele consegue burlar o sistema de venda.",
+	"Seba.Dialogue.Fri4": "Onde será que eu vou hoje?#$b#Ah é mesmo, pegar madeira...$2",
+	"Seba.Dialogue.Fri6": "Preciso ler um pouco do meu manga, estou quase terminando o capítulo.",
+	"Seba.Dialogue.Fri8": "Espero ler o novo capítulo em breve.#$e#A light novel tá chegando no seu climax!$1",
+	"Seba.Dialogue.Fri10": "Uma batalha final de respeito, agora posso ir pra próxima light novel!$1",
+
+	//Sabado
+	"Seba.Dialogue.Sat": "Vou falar com o Mateus pra vender as madeiras.",
+    "Seba.Dialogue.Sat2": "Vendo as madeiras todo sabado e domingo, não dá pra levar tudo em um dia.",
+    "Seba.Dialogue.Sat4": "Tava dormindo ontem, aí vi uma barata pulando.#$b#Tomei um susto que meeeeu amigo...$1",
+    "Seba.Dialogue.Sat6": "Bom dia @.#$e#Hm?",
+    "Seba.Dialogue.Sat8": "Hm? Nova Sessão de RPG?#$b#Quem sabe algum dia desses.$1",
+    "Seba.Dialogue.Sat10": "@! @! O RPG vai runfar semana que vem!$1#$b#Inventei um novo...#$e#Meu deus! Esquece!$2#$b#Esqueci arrumar uma coisa...$2",
+
+	//Domingo
+	"Seba.Dialogue.Sun": "Hoje o dia vai ser corrido, vamos lá...",
+	"Seba.Dialogue.Sun2": "Terminar de levar as madeiras hoje, e chega.$1",
+	"Seba.Dialogue.Sun4": "Hm?#$b#Ah, durante os sábados e domingos eu levo a madeira pra Robin...#$e#Eu já te falei isso?",
+	"Seba.Dialogue.Sun6": "Estarei fazendo minha rotina de sempre, te vejo por aí @!$1",
+	"Seba.Dialogue.Sun8": "Tenho que dar uma pausa de pouco em pouco.#$e#Cortar madeira cansa...",
+	"Seba.Dialogue.Sun10": "Vou continuar cortando madeira...#$b#Acho que não é tão...#$b#Esquece é sim.$5",
+
+	// SEBA FESTIVAIS
+	//Egg Festival
+	"Seba.Dialogue.spring_13": "Finalmente um dia de festival.$1",
+	//Flower Dance
+	"Seba.Dialogue.spring_24": "Vou dançar no festival não, tô tranquilinho.",
+	//Luau
+	"Seba.Dialogue.summer_11": "Espero comer bem no festival!$1",
+	//Dance of the Moonlight Jellies
+	"Seba.Dialogue.summer_28": "Vai ver as águas-vivas hoje também?$1",
+	//Stardew Valley Fair
+	"Seba.Dialogue.fall_16": "Quero ver as exposições hoje.#$b#Espero que você tenha preparado algo legal.",
+	//Spirit's Eve
+	"Seba.Dialogue.fall_27": "Quero assustar o Mateus, Hahaha!$1",
+	//Festival of Ice
+	"Seba.Dialogue.winter_8": "Ah, floresta...$2#$b#Não gosto de lembrar de pegar madeira.",
+	//Night Market
+	"Seba.Dialogue.winter_15": "Você vai no Mercado Noturno?",
+	//Feast of the Winter Star
+	"Seba.Dialogue.winter_25": "Já estou com o presente em mãos!$1",
+
+	// SEBA DIALOGOS PRIMAVERA
+	"Seba.Dialogue.spring_1": "As flores nessa época do ano são lindas.$1",
+
+	// SEBA DIALOGOS VERAO
+	"Seba.Dialogue.summer_1": "Chegou a estação quente...$2#$b#Só queria uma praia agora.",
+
+	// SEBA DIALOGOS OUTONO
+	"Seba.Dialogue.fall_1": "Você já tem que preparar sua fazenda pro inverno em, tá chegando!$1",
+
+	// SEBA DIALOGOS INVERNO
+	"Seba.Dialogue.winter_1": "Eu gosto do frio, é gostosinho pra dormir.",
+
+	// SEBA DIALOGOS EVENTO
+	"Seba.Dialogue.Evento_Anime_Bom": "Entendo, é muito bom mesmo!$1#$b#Pena que essa temporada não tem alguns muito interessantes.",
+    "Seba.Dialogue.Evento_Anime_Neutro": "Eu entendo, as vezes não faz o seu estilo.#$b#Mas eu ainda acho que posso te convencer!$1",
+    "Seba.Dialogue.Evento_Anime_Ruim": "...$2#$b#Existem algumas obras que não são coisa de criança, posso citar várias obras incríveis...",
+
+	// MAIL
+	"Mail.MateusDerrota": "Olá @,^^Nossa jogatina foi muito boa, queria te agradecer por jogar com a gente, vamos tentar o nosso melhor da proxima vez, ok?^^ -Mateus %item object 217 1 %%[#]Derrota contra Mateus",
+	"Mail.MateusVitoria": "Olá @,^^Fiquei impressionado com a sua habilidade de conseguir me derrotar, foram poucas as pessoas que conseguiram fazer isso, então como recompensa fique com isso, você merece.^^ -Mateus %item object 206 1 %%[#]Vitória contra Mateus",
+	"Mail.MateusSegredo": "Olá @,^^Seguinte, só estou mandando essa carta para você se lembrar de manter segredo, em breve vou realizar o meu evento dos chapéus e preciso que você não saia espalhando por aí sobre ele.^^ -Mateus[#]Segredo dos Chapéus",
+	"Mail.MateusChapeus": "Olá @,^^Foi mal por te puxar para aquele arbusto, eu tinha ficado em choque com a situação, achei que eles estavam te perseguindo também... enfim, esquece.^^ -Mateus %item object 815 1 %%[#]Evento dos Chapéus",
+	"Mail.GuilhermeReembolso": "Ei colega,^^Foi uma boa idéia pegar o reembolso, o melhor de tudo é que o Mateus não foi muito longe dessa vez, valeu pela ajuda!^^ -Guilherme %item object 400 6 %%[#]Reembolso Necessário",
+	"Mail.GuilhermeNinjutsu": "Ei @,^^Esse treinamento de Jutsus foi divertido, infelizmente não conseguimos nenhum resultado ainda... mas a esperança é a última que morre!^Enfim, vejo você em outro dia de treinamento!^^ -Sensei Guilherme %item object 115 1 %%[#]Treinando Ninjutsu",
+	"Mail.GuilhermeTaijutsu": "Ei @,^^Foi engraçado ficar vendo você e o Gustavo tentando fazer flexões, os dois tem braços mundo finos pra fazer isso!^Enfim, vejo você em outro dia de treinamento!^^ -Sensei Guilherme %item object 115 1 %%[#]Treinando Taijutsu",
+	"Mail.GuilhermeFeliz": "Ei @,^^Valeu por me dar determinação, estava meio pra baixo últimamente por não conseguir resultados, mas finalmente eu entendi, vou continuar treinando duro pra conseguir usar um Ninjutsu!^^ -Guilherme %item object 99 1 %%[#]Momento de Dúvida",
+	"Mail.GuilhermeTronco": "Ei @,^^Agora que eu consegui dominar a arte do Ninjutsu, vou focar em aprimora-la ao máximo!^Obrigado @, você foi uma pessoa muito importante para o meu desenvolvimento ninja.^^ -Com amor, Guilherme %item object 446 1 %%[#]Transformação Ninja",
+	"Mail.GustavoRimas": "Salve @,^^A nossa batalha de rimas foi empolgante! O que acha de fazermos mais vezes?! Seria muito divertido!^^ -Gustavo[#]Batalha de Rimas",
+	"Mail.GustavoBoneco": "Salve @,^^O boneco é perfeito, estou me preparando para mover ele pra floresta (não sei o porquê, mas ele é muito pesado), não quero quebrar nada da cidade sem querer sabe?^Deixei algumas madeiras pra você que sobraram do boneco, espero que seja útil, te vejo por aí!^^ -Gustavo %item object 709 20 %%[#]Contruindo Boneco de Treino",
+	"Mail.GustavoPunhos": "Salve @,^^Ah!^Que incrível!^Que épico!^Finalmente!^^Dominar o Punhos Supremos do Gustas vou um trabalho difícil pra caramba, eu com certeza quero usar ele denovo, mas... o Sensei não parece muito confiante com minha habilidade atual, então... Hora de aperfeiçoar!^^ -Gustavo %item object 773 1 %%[#]Punhos Supremos do Gustas",
+	"Mail.GustavoBatalha": "Salve @,^^No final o poder da amizade sempre prevalece, vamos comemorar!^^ -Gustavo %item object 350 1 %%[#]Batalha contra Boneco de Treino",
+	"Mail.LuigiAutoD": "Oi @,^^Foi mal, eu estava muito concentrado no projetinho, sabe como é, não posso parar até estar perfeito, hora de continuar produzindo!^^ -Luigi %item object 395 1 %%[#]Luigi Introdução",
+	"Mail.LuigiMinas": "Oi @,^^Nossa exploração na mina foi perfeita, em breve terei a quantidade de pedras necessárias pra começar a por a mão na massa com o projetinho!^^ -Luigi[#]Procurando Pedras",
+	"Mail.LuigiEncontro": "Oi @,^^Relaxa, o raio não foi tão forte quanto o esperado, estou bem. ^Além disso, obrigado, você foi muito importante pra eu conseguir seguir com o projetinho, estarei focado como sempre!^^ -Luigi %item object 201 1 %%[#]Encontro com Luigi",
+	"Mail.LuigiCosplay": "Oii @!^^Esse evento foi muito divertido!^Passei dias planejando ele e coletando os recursos necessários, espero que você também tenha gostado, foi uma grande experiência pra alguém como eu!^^ -Luigi %item object 74 1 %%[#]Evento de Cosplay",
+	"Mail.RonaldoMinas": "Opa @,^^Não consegui te falar nosso dia a dia nas minas, mas é basicamente:^-Entrar na mina^-Pegar pedra^-Correr^É isso.^^ -Ronaldo %item object 2 100 %%[#]Ronaldo Introdução",
+	"Mail.RonaldoCelular": "Opa @,^^Por sorte a Ruivinha só ouviu o final... pera, isso era pra ser sorte? Não sei, mas vamos fingir que sim.^Hora de comemorar!^^ -Ronaldo %item object 303 1 %%[#]Saudades Dela",
+	"Mail.SebaAnime": "Bom dia @,^^Seguinte, eu tinha te convidado pra minha sessão de RPG, mas... preciso confiar que você é uma pessoa boa, porque já tive muitas pessoas saindo do meu RPG no meio, e isso não é legal, então até lá... vamos ser amigos ok?^^ -Seba %item object 18 1 %%[#]Convite do Seba",
+
+	// SPOUSEROOM
+	"SpouseRoom.GuilhermeRoom.1": "A bandana ninja de Guilherme.",
+	"SpouseRoom.GuilhermeRoom.2": "O Polystation 2 de Guilherme.",
+	"SpouseRoom.GuilhermeRoom.3": "A câmera de fotos de Guilherme.",
+	"SpouseRoom.GuilhermeRoom.4": "Parece que Guilherme estava editando algumas fotos no computador.",
+	"SpouseRoom.GuilhermeRoom.5": "Guilherme estava assistindo um anime de ninjas.",
+	"SpouseRoom.GustavoRoom.1": "As caixas de som enormes de Gustavo.",
+	"SpouseRoom.GustavoRoom.2": "O Xbox 360 de Gustavo.",
+	"SpouseRoom.GustavoRoom.3": "Parece que Gustavo estava jogando Destiny com alguém chamado Lucas.",
+	"SpouseRoom.GustavoRoom.4": "A casinha de Hamster do Gustavo.#O nome dele é Tazer.",
+	"SpouseRoom.LuigiRoom.1": "Uma réplica da espada do herói.",
+	"SpouseRoom.LuigiRoom.2": "Alguns equipamentos para exploração das minas.",
+	"SpouseRoom.LuigiRoom.3": "Um livro com alguns encantamentos.",
+	"SpouseRoom.LuigiRoom.4": "Um manual sobre computadores.",
+	"SpouseRoom.LuigiRoom.5": "Luigi estava programando algumas mensagens.",
+	"SpouseRoom.MateusRoom.1": "Mateus estava criando um personagem.",
+	"SpouseRoom.MateusRoom.2": "Um livro sobre a \"Teoria das cores\".",
+	"SpouseRoom.MateusRoom.3": "Parece que Mateus estava vendo um campeonato.",
+
+	// MOVIE INVITATION SPOUSE
+	"MovieInvite.Spouse.Guilherme": "Assistir um filme só nós dois?$4#$b#Claro, vamo nessa!$1",
+	"MovieInvite.Spouse.Gustavo": "Bora, vai ser divertido!$4",
+	"MovieInvite.Spouse.Luigi": "Me parece uma boa idéia.$4",
+	"MovieInvite.Spouse.Mateus": "Estava esperando por esse momento, vamos nessa!$4",
+
+	// ENGAGEMENT DIALOGUE
+	"Engagement.Guilherme.0": "Nosso casamento vai ser incrível, mal posso esperar!$4",
+	"Engagement.Guilherme.1": "Estarei sempre do seu lado...$4",
+	"Engagement.Gustavo.0": "Até parece que foi ontem nosso primeiro encontro.$4",
+	"Engagement.Gustavo.1": "Seremos muito felizes juntos eu prometo!$4",
+	"Engagement.Luigi.0": "Vão ter muitas pessoas lá né...$4#$b#Sem problemas se eu estiver com você.$4",
+	"Engagement.Luigi.1": "Não vejo a hora de me casar com você!$4",
+	"Engagement.Mateus.0": "Estou muito nervoso!$2#$b#Mas emocionado ao mesmo tempo!$4",
+	"Engagement.Mateus.1": "Vamos ser muito felizes juntos, eu prometo!$4",
+
+	// SPECIAL DIALOGUE
+	"SpecialDialogue.GiveFlowers.0": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
+	"SpecialDialogue.GiveFlowers.1": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
+	"SpecialDialogue.StardropGift": "Tantas batalhas que já passamos juntos @, só tenho a agradecer!$1#$b#Isso não é uma despedida, isso é um grande começo!$1#$b#Fique com isso, é mais especial pra você do que pra mim.",
+	"SpecialDialogue.RejectNPC.0": "Eh... não.$2",
+	"SpecialDialogue.RejectNPC.1": "Foi mal, mas isso é um não...$2",
+
+	// DIALOGO DE ROTINA
+	// GUILHERME DIALOGO DE ROTINA
+	"Guilherme.ScheduleDialogue.jogando.000": "Meu deus!$13#$b#Não consigo--$13#$b#Ganha--$13#$b#Dele!$13",
+  	"Guilherme.ScheduleDialogue.jogando.001": "Parece que não tem como jogar Pokémon GO aqui.$13",
+  	"Guilherme.ScheduleDialogue.jogando.002": "Mateus tem sorte do 'Osu!' funcionar offline!$12",
+  	"Guilherme.ScheduleDialogue.jogando.003": "Queria ter uns jogos mais legais no meu celular...$12",
+  	"Guilherme.ScheduleDialogue.jogando.004": "Eae, quer testar meu joguinho?$12#$b#É o jogo da cobrinha, um classico!$12",
+  	"Guilherme.ScheduleDialogue.jogando.005": "Paciência, Campo Minado e Jogo da Cobrinha, só da pra jogar isso...$13",
+
+  	"Guilherme.ScheduleDialogue.jutsu.000": "Estou treinando para me tornar um ninja!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
+  	"Guilherme.ScheduleDialogue.jutsu.001": "Vou lançar meu Jutsu Supremo!! Rasenshuriken!!$9#$b#%Nada acontece...",
+  	"Guilherme.ScheduleDialogue.jutsu.002": "Preciso treinar a arte de virar um toco...$9#$b#Só assim vou virar um ninja de verdade!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
+  	"Guilherme.ScheduleDialogue.jutsu.003": "Ninjutsu, Genjutsu, Taijutsu, Senjutsu...$9#$b#Preciso dominar pelo menos 1!$9#$e#%Guilherme parece estar muito determinado.",
+  	"Guilherme.ScheduleDialogue.jutsu.004": "Nunca vou desistir SENSEI!!!$9#$e#%Guilherme está se enchendo de determinação.",
+  	"Guilherme.ScheduleDialogue.jutsu.005": "Preciso de mais foco...$9#$b#Em breve vou realizar um Jutsu incrível, só espere para ver!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
+
+  	"Guilherme.ScheduleDialogue.lista.000": "Cara, se o Mateus continuar comprando coisas inúteis, a gente não vai ter dinheiro pra comprar isso...$5#$b#Vou ter que dar uma bronca nele!$5#$e#%Guilherme está focado nas compras.",
+  	"Guilherme.ScheduleDialogue.lista.001": "Hmm, deixa eu dar uma olhada na minha lista...#$e#Certo! Precisamos disso... e disso...$10#$e#%Guilherme está focado nas compras.",
+  	"Guilherme.ScheduleDialogue.lista.002": "Que pechincha! vou levar isso!$10#$e#%Guilherme está focado nas compras.",
+  	"Guilherme.ScheduleDialogue.lista.003": "Acho que vou conseguir comprar alguns tomates...#$e#Será que da pra levar mais alguma coisa...?#$e#%Guilherme está focado nas compras.",
+
+  	"Guilherme.ScheduleDialogue.chuva.000": "O cara tomou algum buff da chuva, não é possível!$13",
+
+  	"Guilherme.ScheduleDialogue.dormindo.000": "%Guilherme está a mimir...",
+  	"Guilherme.ScheduleDialogue.dormindo.001": "%Guilherme está dormindo...",
+
+  	"Guilherme.ScheduleDialogue.frio.000": "Cara...ta nevando!$2#$b#POR QUÊ?!$5",
+  	"Guilherme.ScheduleDialogue.frio.001": "Força Guilherme, você consegue levantar...$2",
+  	"Guilherme.ScheduleDialogue.frio.002": "Aah... por que é tão difícil levantar?!$2",
+  	"Guilherme.ScheduleDialogue.frio.003": "VAMOS, TÁ FRIO MAS DÁ PRA LEVANTAAR!$5",
+  	"Guilherme.ScheduleDialogue.frio.004": "Ah, esse inverno tem que passar rápido antes que eu pegue um resfriado!$2",
+  	"Guilherme.ScheduleDialogue.frio.005": "Cara, me ajuda a levantar?$2#$e#Vou ficar louco se não conseguir levantar...$2",
+
+  	"Guilherme.ScheduleDialogue.moonlightjellies.000": "%Guilherme está tentando dormir...",
+
+	//GUSTAVO DIALOGO DE ROTINA
+	"Gustavo.ScheduleDialogue.musica.000": "Eu acelero YEEEAH!$3#$b#Mano se sabe que eu acelerei!$3#$e#%Gustavo está fazendo rimas improvisadas.",
+  	"Gustavo.ScheduleDialogue.musica.001": "Desferindo meus ataques, com velocidade e força de vontade!$3#$b#Combinando agilidade com poder do Nunchaku!$3#$e#%Gustavo está rimando muito rápido.",
+  	"Gustavo.ScheduleDialogue.musica.002": "Saigo ni mou ichido!$3#$b#Tsuyoku dakishimete!$3#$e#%Gustavo está cantando músicas em japonês.",
+  	"Gustavo.ScheduleDialogue.musica.003": "I am the storm that is approaching!$3#$b#Provoking black clouds in isolation!$3#$e#%Gustavo está cantando algumas músicas.",
+  	"Gustavo.ScheduleDialogue.musica.004": "Kimi da yo! Kimi nanda yo! Oshiete kureta!$3#$b#Kurayami mo hikaru nara!$3#$e#%Gustavo está cantando músicas em japonês.",
+  	"Gustavo.ScheduleDialogue.musica.005": "Nove da matina, o dia tá pra começar!$3#$b#Não acordo muito cedo, sou meio marajá!$3#$b#Batata doce e frango logo de primeira!$3#$e#%Gustavo está cantando músicas brasileiras.",
+
+  	"Gustavo.ScheduleDialogue.jutsu.000": "Tenho que ficar mais forte que o Guilherme-sensei!$9#$e#Ele pode até ter os jutsus, mas eu tenho a DETERMINAÇÃO!$9#$e#%Gustavo está treinando intensamente.",
+  	"Gustavo.ScheduleDialogue.jutsu.001": "Vou provar que sou digno de lutar ao lado do SENSEI!$9#$e#%Gustavo está treinando intensamente.",
+  	"Gustavo.ScheduleDialogue.jutsu.002": "Não vou vacilar quando o inimigo aparecer!$9#$e#Cada soco importa, então não desvie seu olhar!$9#$e#%Gustavo está treinando intensamente.",
+  	"Gustavo.ScheduleDialogue.jutsu.003": "HAAAAAAAAAAAAAA !!!$9#$b#PODEM VIR!$9#$e#%Gustavo está treinando intensamente.",
+  	"Gustavo.ScheduleDialogue.jutsu.004": "STANDING HERE !!!$9#$b#I REALIZE !!!$9#$e#%Gustavo está treinando intensamente e cantando",
+  	"Gustavo.ScheduleDialogue.jutsu.005": "Eu faço 100 flexões...$9#$b#100 abdominais...$9#$b#100 agachamentos...$9#$b#E uma corrida de 10km com 4.600 kg nas pernas todos os dias!$9#$e#Estou treinado para o que for preciso!$9#$e#%Gustavo está treinando intensamente.",
+  	"Gustavo.ScheduleDialogue.jutsu.006": "Sam sai daí, preciso treinar!$11",
+	
+  	"Gustavo.ScheduleDialogue.chuva.000": "A chuva continua caindo, e eu tento usar a rima impedindo!$3#$e#%Gustavo está fazendo uma rima sobre chuva.",
+
+  	"Gustavo.ScheduleDialogue.dormindo.000": "%Gustavo está descansante...",
+  	"Gustavo.ScheduleDialogue.dormindo.001": "%Gustavo está a mimir...",
+
+  	"Gustavo.ScheduleDialogue.moonlightjellies.000": "%Gustavo está tentando dormir...",
+
+	//LUIGI DIALOGO DE ROTINA
+	"Luigi.ScheduleDialogue.notebook.000": "...?$13#$b#Agora não, estou ocupado.$15#$e#%Luigi está lendo a documentação de algo.",
+  	"Luigi.ScheduleDialogue.notebook.001": "Precisa de algo?$12#$e#%Luigi está escrevendo um diálogo.",
+  	"Luigi.ScheduleDialogue.notebook.002": "A posição desse... acho que assim vai ficar legal...$12#$e#%Luigi está editando alguns sprites.",
+  	"Luigi.ScheduleDialogue.notebook.003": "Quase pronto...$12#$e#%Luigi está renderizando um vídeo.",
+  	"Luigi.ScheduleDialogue.notebook.004": "Hm...$12#$e#%Luigi está enviando relatórios para Mateus.",
+  	"Luigi.ScheduleDialogue.notebook.005": "Talvez assim funcione...$12#$e#%Luigi está programando algo.",
+	
+  	"Luigi.ScheduleDialogue.espada.000": "Estou me preparando para enfrentar os monstros.$9#$e#Precisa de algo?$10",
+  	"Luigi.ScheduleDialogue.espada.001": "Marlon me deu essa espada dourada.$9#$b#Cara, ela é bem bonita!$10#$e#Além disso, acho que ela vai causar um estrago nos monstros!$10",
+  	"Luigi.ScheduleDialogue.espada.002": "Estou só treinando uns ataques...$9#$b#Nunca se sabe o que vai encontrar mais a fundo.$10",
+  	"Luigi.ScheduleDialogue.espada.003": "Você conhece algum Sr. Qi?$9#$b#Estranho, não consegui encontrar nada sobre ele na internet.$9#$e#Hmm... qual a relação dele com a mina?$9",
+  	"Luigi.ScheduleDialogue.espada.004": "Pela direita! Pela esquerda! Pela direita!$9#$e#%Luigi parece focado em brandir a espada.$9",
+  	"Luigi.ScheduleDialogue.espada.005": "Queria que o Mago me ensinasse algumas magias de proteção.$9#$b#Nenhum monstro teria chance contra mim!$10",
+	
+  	"Luigi.ScheduleDialogue.chuva.000": "Hmm... verificando...$12#$b#Certo, isso parece em ordem!$14#$e#Nenhum problema detectado aqui também...$12#$e#%Luigi parece estar verificando se molhou muito o notebook.",
+  	"Luigi.ScheduleDialogue.chuva.001": "Ah... me molhei todo vindo pra cá.$9#$b#Espero que uma batalha me deixe seco denovo!$10",
+	
+  	"Luigi.ScheduleDialogue.dormindo.000": "%Luigi está a dormindo, isso é uma raridade...",
+  	"Luigi.ScheduleDialogue.dormindo.001": "%Luigi está em um sono pesado...",
+	
+  	"Luigi.ScheduleDialogue.frio.000": "Acho que não tô legal hoje...$2",
+	
+  	"Luigi.ScheduleDialogue.nightmarket.000": "Só vim ficar de vigia pra ver se o Mateus não compra nenhum quadro.",
+	
+  	"Luigi.ScheduleDialogue.moonlightjellies.000": "Hã?$2#$b#Ah, não consigo dormir, escuta o ronco do Mateus...$2#$b#Aliás, era pra você estar aqui a essa hora?",
+
+	//MATEUS DIALOGO DE ROTINA
+	"Mateus.ScheduleDialogue.jogando.000": "...$10#$b#%Mateus não está respondendo...",
+  	"Mateus.ScheduleDialogue.jogando.001": "...!$11#$b#%Mateus parece estar focado no jogo...",
+  	"Mateus.ScheduleDialogue.jogando.002": "Hmm...$10#$b#%Mateus está clicando em círculos...",
+  	"Mateus.ScheduleDialogue.jogando.003": "...?$10#$b#%Mateus está jogando o fino...",
+  	"Mateus.ScheduleDialogue.jogando.004": "...$10#$b#%Mateus não te notou...",
+  	"Mateus.ScheduleDialogue.jogando.005": "...!$11#$b#%Mateus está jogando a música 'Dragon Force'...",
+	
+  	"Mateus.ScheduleDialogue.chuva.000": "Não vai me derrotar se continuar distraído pela chuva.$10",
+	
+  	"Mateus.ScheduleDialogue.lendo.000": "Hmm... o que vou escrever no meu Death Note hoje?$12#$e#E não, ele não é um Death Note de verdade...$13#$b#É só um caderno que eu anoto as coisas.$12",
+  	"Mateus.ScheduleDialogue.lendo.001": "Ei pode me dizer seu nome?$13#$e#Certo @! vou anotar no meu Death Note!$13#$b#E não, ele não é de verdade... eu acho.$12",
+  	"Mateus.ScheduleDialogue.lendo.002": "Esse aqui...$12#$b#%Mateus está escrevendo o nome de várias pessoas.",
+  	"Mateus.ScheduleDialogue.lendo.003": "Acho que fui pra cá...$12#$b#%Mateus escreve sua rotina no caderno.",
+
+  	"Mateus.ScheduleDialogue.dormindo.000": "%Mateus está sucumbindo...",
+  	"Mateus.ScheduleDialogue.dormindo.001": "%Mateus está dorminte...",
+	
+  	"Mateus.ScheduleDialogue.frio.000": "Não vou sair desse cobertor até ficar quente denovo!$5",
+  	"Mateus.ScheduleDialogue.frio.001": "Neve?!$0#$b#COMO ASSIM TEM NEVE?!$5",
+  	"Mateus.ScheduleDialogue.frio.002": "QUE FRIIIO!$5",
+  	"Mateus.ScheduleDialogue.frio.003": "Aah...Só mais uns 10 minutinhos!$1",
+  	"Mateus.ScheduleDialogue.frio.004": "Não consigo levantar, a cama ta tããão boa!$1",
+  	"Mateus.ScheduleDialogue.frio.005": "Vou virar um Cubchoo ou um Vanillite!$5#$e#MEU DEUS TA MUITO FRIOOO.$5",
+	
+  	"Mateus.ScheduleDialogue.moonlightjellies.000": "%Mateus da um ronco muito alto: OOOOOOOOOWWWWWWNNNNNNNN...",
+
+	//RONALDO DIALOGOS DE ROTINA
+	"Ronaldo.ScheduleDialogue.picareta.000": "Espero encontrar vários minérios hoje!$7",
+  	"Ronaldo.ScheduleDialogue.picareta.001": "Se algum monstro aparecer eu posso dar picaretada neles.$7",
+  	"Ronaldo.ScheduleDialogue.picareta.002": "Tenho que encontrar mais minérios raros, não posso deixar nada passar!$7#$e#Que foi?$7",
+  	"Ronaldo.ScheduleDialogue.picareta.003": "Vou deixar o trabalho pro Luigi hoje, ele está melhorando sua habilidade com espadas.$7",
+  	"Ronaldo.ScheduleDialogue.picareta.004": "Minha picareta desgasta muito rápido.$7#$b#Preciso melhorar minha picareta pra de diamante.$7#$e#Pera, não tem como?!$7",
+  	"Ronaldo.ScheduleDialogue.picareta.005": "Em busca do Fragmento Prismatico episódio... já perdi a conta!$7",
+
+  	"Ronaldo.ScheduleDialogue.celular.000": "%Ronaldo está conversando com alguém chamada Ruiva.",
+  	"Ronaldo.ScheduleDialogue.celular.001": "%Ronaldo está conversando com alguém chamado Danilo.",
+
+  	"Ronaldo.ScheduleDialogue.chuva.000": "Que chuva forte, sorte que a gente veio preparado!$7",
+  	"Ronaldo.ScheduleDialogue.chuva.001": "Felizmente, não molhou nada importante!$7",
+
+  	"Ronaldo.ScheduleDialogue.dormindo.000": "%Ronaldo está a nanar...",
+  	"Ronaldo.ScheduleDialogue.dormindo.001": "%Ronaldo está em cansadito...",
+
+  	"Ronaldo.ScheduleDialogue.moonlightjellies.000": "Cara... eu vou surtar...$8",
+
+	//SEBA DIALOGOS DE ROTINA
+	"Seba.ScheduleDialogue.madeira.000": "Por que EU tenho que cortar madeira?!$8#$e#Agora que já tô aqui, não tenho escolha...$8",
+  	"Seba.ScheduleDialogue.madeira.001": "Cuidado com a cabeça!$8#$e#MADEIRAAAAAA!$8",
+  	"Seba.ScheduleDialogue.madeira.002": "Toma cuidado, não sou experiente com machados... e nunca quero ser.$8",
+  	"Seba.ScheduleDialogue.madeira.003": "Só queria poder relaxar por um mês...#$b#Talvez dois...#$e#Ou melhor, quatro meses...$8",
+  	"Seba.ScheduleDialogue.madeira.004": "Ah cara, já estou todo cansado...$8#$b#E nem cortei uma árvore sequer...$8",
+  	"Seba.ScheduleDialogue.madeira.005": "Madeira... mais madeira...$8#$b#Ah, me da um tempo mano...$8",
+
+  	"Seba.ScheduleDialogue.guardando.000": "Espera fofo, estou guardando a madeira...^Espera fofa, estou guardando a madeira...",
+  	"Seba.ScheduleDialogue.guardando.001": "Agora não meu lindo, tem muita madeira pra eu guardar...^Agora não minha linda, tem muita madeira pra eu guardar...",
+  	"Seba.ScheduleDialogue.guardando.002": "Um momento meu querido, estou guardando a madeira...^Um momento minha querida, estou guardando a madeira...",
+
+  	"Seba.ScheduleDialogue.vendendo.000": "Estou arrumando a madeira que eu peguei durante a semana enquanto o Mateus barganha.",
+  	"Seba.ScheduleDialogue.vendendo.001": "Faltam só essas, e tá feito...#$e#Ah, estou arrumando a madeira que peguei durante a semana.#$b#O Mateus está barganhando ali.",
+
+  	"Seba.ScheduleDialogue.lendo.000": "Esse capítulo de \"Zarabatana Art Online\" tá muito bom!$7#$e#Mal posso esperar para ler o próximo.$7",
+  	"Seba.ScheduleDialogue.lendo.001": "Já leu \"Zarabatana Art Online\"?$7#$b#É a melhor light novel do momento!$7#$e#Só cuidado pra não tomar Spoiler, esse pessoal sempre comenta do capítulo novo por aí.$7",
+  	"Seba.ScheduleDialogue.lendo.002": "É impressionante minha semelhança com o protagonista de \"Zarabatana Art Online\".$7#$b#Além de sermos literalmente iguais... temos o mesmo mindset.$7#$b#Ambos somos extremamente habilidosos e estrategístas em nossa forma de pensar e agir...$7#$e#%Seba claramente não está bem.",
+
+  	"Seba.ScheduleDialogue.chuva.000": "Ow, que chuva insuportável!$5#$b#Agora tô todo encharcado nessa-$5",
+
+  	"Seba.ScheduleDialogue.dormindo.000": "%Seba está cansadito e não pode levantar...",
+  	"Seba.ScheduleDialogue.dormindo.001": "%Seba está sucumbindo ao sono...",
+
+  	"Seba.ScheduleDialogue.nightmarket.000": "Ah, achei que teria algum tipo de manga por aqui...$2#$e#Que arrependimento.$2",
+
+  	"Seba.ScheduleDialogue.moonlightjellies.000": "%Seba está tentando dormir...",
+
+	//FESTIVAL DIALOGUES
+	//EGG FESTIVAL
+	"Guilherme.Festival.EggFestival": "Sem o treino necessário, eles não vão ser tão rápidos na caça aos ovos.",
+	"Guilherme.Festival.EggFestival.Spouse": "Hmpf... com nosso treinamento ninja, você está imbatível nessa caça aos ovos!$1#$e#Enfim, vai querer um omelete?$1[195]#$b#O Gus fez uma comida incrível.$1",
+	"Gustavo.Festival.EggFestival": "Esse festival tá incrível!$1#$b#Comida boa e chocolate, que dia!$1",
+	"Gustavo.Festival.EggFestival.Spouse": "Ei amor, boa sorte na caçada aos ovos!$1#$b#O que eu tô falando? Sei que não precisa de sorte!$1#$e#Ei, isso é pra você![174]#$b#O Gus fez um ovo enorme!$1",
+	"Luigi.Festival.EggFestival": "Você viu aquele coelho rosa gigante na lojinha?!$1#$b#Cara, eu queria ter um desses.",
+	"Luigi.Festival.EggFestival.Spouse": "Ei amor, achei isso nas minas!$1[107]#$b#Eu não sabia o que fazer com esse ovo então trouxe pro festival pra esconder...#$b#Mas o prefeito falou que não da pra esconder esse ovo direito...$2",
+	"Mateus.Festival.EggFestival": "Consegui pegar escondido alguns ovos escondido!$1#$e#Não questione as habilidades de um mestre.$8",
+    "Mateus.Festival.EggFestival.Spouse": "Ei amor, vai querer um ovinho frito?$1#$b#Consegui pegar alguns escondido, esse é pra você!$4[194]",
+	"Ronaldo.Festival.EggFestival": "Hmm... esse ponche tem um gosto bom!$1",
+	"Seba.Festival.EggFestival": "Tô bem tranquilinho, e você?",
+	//FLOWER DANCE
+	"Guilherme.Festival.FlowerDance": "Já dancei algumas vezes...$1#$b#Não, não sou bom.",
+	"Guilherme.Festival.FlowerDance.Spouse": "Meu treinamento deve ter aprimorado minha habilidade de dança...#$b#O que acha de testarmos?$4",
+	"Gustavo.Festival.FlowerDance": "Eae, vai dançar hoje?$1#$b#Não, não é um convite.",
+	"Gustavo.Festival.FlowerDance.Spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
+	"Luigi.Festival.FlowerDance": "Já escolheu o seu par pra dança?$1",
+	"Luigi.Festival.FlowerDance.Spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
+	"Mateus.Festival.FlowerDance": "Ah cara, eu não sou muito bom em dançar...$7",
+    "Mateus.Festival.FlowerDance.Spouse": "Ei, não sou muito bom em dança...#$b#Mas, se for com você, eu daria um arraso!$4",
+	"Ronaldo.Festival.FlowerDance": "Ah, queria que a Ruivinha estivesse aqui pra eu dançar...$2",
+	"Seba.Festival.FlowerDance": "Só vou aproveitar o show.",
+	//LUAU
+	"Guilherme.Festival.Luau": "As comidas do festival estavam ótimas!$1",
+	"Guilherme.Festival.Luau.Spouse": "Amor, você devia comer!$1#$e#Gus nunca decepciona nas comidas.",
+	"Gustavo.Festival.Luau": "Que medo de tomar aquele sopão!#$b#Não vou mentir quero experimentar!$1",
+	"Gustavo.Festival.Luau.Spouse": "Amor, vamos experimentar aquele sopão, parece incrível!$1",
+	"Luigi.Festival.Luau": "Ah... e se o plano der errado, o que eu faço depois?#$b#%Luigi parece estar confuso sobre algo.",
+	"Luigi.Festival.Luau.Spouse": "Amor, fala pro Mateus que o plano não vai dar certo!#$b#Ele quer ir na lojinha do Pierre pegar uma carambola escondido.",
+	"Mateus.Festival.Luau": "%Mateus está devorando os lanches.",
+    "Mateus.Festival.Luau.Spouse": "Ei, quer um pedaço amor?#$e#%Mateus está devorando os lanches.",
+	"Ronaldo.Festival.Luau": "O pessoal ta dançando bem!$1#$e#Hã? eu não vou não.",
+	"Seba.Festival.Luau": "Quero ver quem vai ser o corajoso que vai experimentar aquele sopão.$1",
+	//MOONLIGHT JELLIES
+	"Guilherme.Festival.MoonlightJellies": "A praia tá muito bonita hoje!$1",
+	"Guilherme.Festival.MoonlightJellies.Spouse": "Não é só a praia que está bonita hoje...$4",
+	"Gustavo.Festival.MoonlightJellies": "Essa brisa é bem refrescante.",
+	"Gustavo.Festival.MoonlightJellies.Spouse": "A brisa do mar é bem refrescante, escrevo essa rima pensando nos seus olhos brilhantes.$4",
+	"Luigi.Festival.MoonlightJellies": "Mano... O Ronaldo ta me olhando estranho...#$b#Que medo...$2",
+	"Luigi.Festival.MoonlightJellies.Spouse": "Já pensou se viesse um monstro marinho por aqui amor?#$b#Seria uma batalha épica!$1",
+	"Mateus.Festival.MoonlightJellies": "Hmm... o que comprar hoje?",
+    "Mateus.Festival.MoonlightJellies.Spouse": "Hmm... o que comprar hoje?#$e#Quer alguma coisa amor?#$b#É na conta do Guilherme não se preocupe.$1",
+	"Ronaldo.Festival.MoonlightJellies": "Ei, da pra ver o Luigi daqui!$1",
+	"Seba.Festival.MoonlightJellies": "Ah, meu deus Mateus!",
+	//STARDEW VALLEY FAIR
+	"Guilherme.Festival.SVFair": "Acabei de ver meu futuro e...#$b#Acho que vamos falir se o Mateus não parar de comprar coisas escondido.$5",
+	"Guilherme.Festival.SVFair.Spouse": "Eu vi meu futuro e...#$e#... fica por isso mesmo!$4",
+	"Gustavo.Festival.SVFair": "Acho que estou fazendo algo errado...$2#$b#A máquina de força sempre fica toda vermelha, eu tô perdendo?$2",
+	"Gustavo.Festival.SVFair.Spouse": "Finalmente descobri, quando a barrinha da máquina fica vermelha significa que eu venci!$1",
+	"Luigi.Festival.SVFair": "Wow, essas armas são de qualidade!$1#$b#Acho que vou comprar uma barra de ouro, preciso aprimorar minha espada.",
+	"Luigi.Festival.SVFair.Spouse": "Ei amor, comprei uma barra de ouro pra você!$1[336]#$b#Vou comprar mais algumas pra aprimorar minha espada.",
+	"Mateus.Festival.SVFair": "Já terminei de comprar as coisas da lojinha.$1#$b#A dificuldade daqueles jogos eram coisa de criança.$8",
+    "Mateus.Festival.SVFair.Spouse": "Aqui, pra você amor.[241]#$e#Esses hamburgers são incríveis, eles tão dando de graça lá em cima!$1",
+	"Ronaldo.Festival.SVFair": "Ei, pega um lanchão!$1#$b#Aproveita que ta de graça.",
+	"Seba.Festival.SVFair": "Cara, só faltou colocar um sapato nessa galinha que ficaria perfeito!$1",
+	//SPIRITS EVE
+	"Guilherme.Festival.SpiritsEve": "Wow, olha esses esqueletos!$8",
+	"Guilherme.Festival.SpiritsEve.Spouse": "Você já lutou contra um desses esqueletos?$8#$b#Eles são muito grandes de perto!$8",
+	"Gustavo.Festival.SpiritsEve": "Alô, tem alguém em casa?#$b#%Gustavo está encarando a janela.",
+	"Gustavo.Festival.SpiritsEve.Spouse": "Se ninguém na casa vai me responder, a força bruta vou recorrer.#$b#%Gustavo está encarando a janela.",
+	"Luigi.Festival.SpiritsEve": "Minhas habilidades de aventureiro nunca falham, chegar aqui foi moleza.$1",
+	"Luigi.Festival.SpiritsEve.Spouse": "Sabia que ia chegar aqui amor, não foi tão difícil né?$1",
+	"Mateus.Festival.SpiritsEve": "Não vou ir mais pra frente, esse é meu limite...",
+    "Mateus.Festival.SpiritsEve.Spouse": "Bom, você já sabe...#$b#Não vou dar mais nem 1 passo.",
+	"Ronaldo.Festival.SpiritsEve": "Eu não vou ali não...#$e#Talvez eu vá...#$b#Mas não agora.",
+	"Seba.Festival.SpiritsEve": "Foi muito fácil chegar aqui, sem meme.",
+	//FESTIVAL OF ICE
+	"Guilherme.Festival.IceFestival": "Acho que vou entrar nesse iglu.#$b#Parece aconchegante!$1",
+	"Guilherme.Festival.IceFestival.Spouse": "Amor, vamos entrar nesse iglu?#$b#Parece aconchegante!$1",
+	"Gustavo.Festival.IceFestival": "Que porquinho fofo!$1",
+	"Gustavo.Festival.IceFestival.Spouse": "Ei, podemos comprar um porquinho e vesitir ele assim?!$1",
+	"Luigi.Festival.IceFestival": "Os bonecos de neve ficaram estilosos!$1#$b#Acho que vou fazer um também.",
+	"Luigi.Festival.IceFestival.Spouse": "Amor, vamos fazer um boneco de neve também?$1#$b#Vamos, vai ser divertido.$1",
+	"Mateus.Festival.IceFestival": "Haha, aquela escultura ficou muito boa!$1",
+    "Mateus.Festival.IceFestival.Spouse": "Amor, o que achou daquela escultura?#$b#Muito boa né?$1",
+	"Ronaldo.Festival.IceFestival": "Já pensou se alguem cair nessa água gelada?$1#$e#Por que você ta me olhando assim?",
+	"Seba.Festival.IceFestival": "Pra onde foi toda a madeira?!$2#$b#Pelo menos agora eu tenho uma desculpa.$1",
+	//CHRISTMAS
+	"Guilherme.Festival.Christmas": "M- ajwudwa-$7#$b#Nã- cownsiguo-$7#$b#%A lingua de Guilherme parece estar presa.",
+	"Guilherme.Festival.Christmas.Spouse": "M- ajwudwa-$7#$b#Amwor- nãu- cownsiguo-$7#$b#%A lingua de Guilherme parece estar presa.",
+	"Gustavo.Festival.Christmas": "GUILHERME-SENSEI!$2#$b#EU VOU TE AJUDAR NÃO SE PREOCUPA!$2",
+	"Gustavo.Festival.Christmas.Spouse": "GUILHERME-SENSEI!$2#$b#@ ME AJUDA A LINGUA DELE TA PRESA!$2",
+	"Luigi.Festival.Christmas": "Estou de olho pra ver se o Mateus não compra nada a mais.",
+	"Luigi.Festival.Christmas.Spouse": "Não posso sair daqui ainda amor, preciso ver se o Mateus não vai comprar nada a mais!$1",
+	"Mateus.Festival.Christmas": "Quase esqueço de comprar o presente!$2",
+    "Mateus.Festival.Christmas.Spouse": "Já sabe o que vai dar pro seu amigo secreto amor?#$b#Eu ainda tô meio indeciso, mas acho que essa pessoa vai gostar.$1",
+	"Ronaldo.Festival.Christmas": "Meu deus Guilherme, você é muito pão cara!$5",
+	"Seba.Festival.Christmas": "Esse frangão ta com uma cara boa!$1",
+
+	//MOVIES REACTIONS
+	//LUIGI HORROR
+	"Luigi.MoviesReactions.BeforeMovie.Text.Horror": "Ah, eu realmente não gosto de filmes de terror...$2",
+	"Luigi.MoviesReactions.DuringMovie.Script.Horror": "Luigi está em choque.",
+	"Luigi.MoviesReactions.DuringMovie.Text.Horror": "Ah! Não dá mais pra assistir!$8",
+	"Luigi.MoviesReactions.AfterMovie.Text.Horror": "Nunca mais me chame pra assistir filmes de terror.$5",
+	//LUIGI ACTION
+	"Luigi.MoviesReactions.BeforeMovie.Text.Action": "Um filme de ação!?$1#$b#Isso vai ser legal!$1",
+	"Luigi.MoviesReactions.DuringMovie.Text.Action": "Wow, que incrível!$8",
+	"Luigi.MoviesReactions.AfterMovie.Text.Action": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1",
+	//LUIGI COMEDY
+	"Luigi.MoviesReactions.BeforeMovie.Text.Comedy": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1",
+	"Luigi.MoviesReactions.DuringMovie.Text.Comedy": "Hahahaha!$1#$b#Essa foi boa!$1",
+	"Luigi.MoviesReactions.AfterMovie.Text.Comedy": "Deu pra dar umas boas risadas!$1",
+	//LUIGI SCI-FI
+	"Luigi.MoviesReactions.BeforeMovie.Text.Scifi": "Isso deve ter sido uma escolha de Steins;Gate!$1",
+	"Luigi.MoviesReactions.DuringMovie.Text.Scifi": "Pera, é sério isso?!$8",
+	"Luigi.MoviesReactions.AfterMovie.Text.Scifi": "Esse filme foi melhor do que eu esperava!$1",
+	//LUIGI PRAIRE KING
+	"Luigi.MoviesReactions.BeforeMovie.Text.PraireKing": "Filmes de jogos costumam ser ruins, vamos ver se esse me surpreende!$1",
+	"Luigi.MoviesReactions.DuringMovie.Script.PraireKing": "Luigi parece completamente imerso.",
+	"Luigi.MoviesReactions.DuringMovie.Text.PraireKing": "Ai sim!$1#$b#Ops, acho que falei alto demais...$8",
+	"Luigi.MoviesReactions.AfterMovie.Text.PraireKing": "Esse filme foi muito bom!$1#$b#Valeu por me chamar pra assistir.",
+
+	//MATEUS HORROR
+	"Mateus.MoviesReactions.BeforeMovie.Text.Horror": "Por que você fez isso comigo...?$2",
+	"Mateus.MoviesReactions.DuringMovie.Script.Horror": "Mateus está em choque.",
+	"Mateus.MoviesReactions.DuringMovie.Text.Horror": "Ah! Não consigo! Chega!$8",
+	"Mateus.MoviesReactions.AfterMovie.Text.Horror": "Nunca mais me chame pra assistir filmes de terror... sério.$2",
+	//MATEUS ACTION
+	"Mateus.MoviesReactions.BeforeMovie.Text.Action": "Um filme de ação!?$1#$b#Isso vai ser legal!$1",
+	"Mateus.MoviesReactions.DuringMovie.Text.Action": "Isso é épico!$8",
+	"Mateus.MoviesReactions.AfterMovie.Text.Action": "Obrigado por me chamar pra assistir esse filme!$1#$b#Achei foda aquela parte lá!$1#$b#Aquela lá, pô!$1#$b#AQUELA!$1",
+	//MATEUS COMEDY
+	"Mateus.MoviesReactions.BeforeMovie.Text.Comedy": "Vou assistir esse filme sem rir em.#$b#...#$b#Não dá, já tô imaginando as teorias!$1",
+	"Mateus.MoviesReactions.DuringMovie.Text.Comedy": "Hahahaha, olha a cara dele!$1",
+	"Mateus.MoviesReactions.AfterMovie.Text.Comedy": "Ai mano, isso foi muito bom!$1",
+	//MATEUS SCI-FI
+	"Mateus.MoviesReactions.BeforeMovie.Text.Scifi": "Sci-fi?#$b#Acho que não vai ser tão interessante...",
+	"Mateus.MoviesReactions.DuringMovie.Script.Scifi": "Mateus está dormindo.",
+	"Mateus.MoviesReactions.AfterMovie.Text.Scifi": "Eh... o que aconteceu no filme?$2",
+	//MATEUS PRAIRE KING
+	"Mateus.MoviesReactions.BeforeMovie.Text.PraireKing": "Eu conheço esse, acho que vai ser bom!$1",
+	"Mateus.MoviesReactions.DuringMovie.Script.PraireKing": "Mateus parece completamente imerso.",
+	"Mateus.MoviesReactions.DuringMovie.Text.PraireKing": "Que épico!$1",
+	"Mateus.MoviesReactions.AfterMovie.Text.PraireKing": "Sabia que não ia me decepcionar!$1#$b#Nunca falha!$1",
+
+	//GUILHERME HORROR
+	"Guilherme.MoviesReactions.BeforeMovie.Text.Horror": "Não sou muito fã de filmes de terror, mas espero que seja bom.",
+	"Guilherme.MoviesReactions.DuringMovie.Script.Horror": "Guilherme deu um pulinho.",
+	"Guilherme.MoviesReactions.DuringMovie.Text.Horror": "Esse me pegou de surpresa!$8",
+	"Guilherme.MoviesReactions.AfterMovie.Text.Horror": "Não foi tão assustador assim...",
+	//GUILHERME ACTION
+	"Guilherme.MoviesReactions.BeforeMovie.Text.Action": "Um filme de ação?#$b#Espero que seja épico!$1",
+	"Guilherme.MoviesReactions.DuringMovie.Text.Action": "Olha esses efeitos visuais!$8#$b#Olha esse slow motion!$8",
+	"Guilherme.MoviesReactions.AfterMovie.Text.Action": "Esse filme tinha uns efeitos visuais incríveis!$1",
+	//GUILHERME COMEDY
+	"Guilherme.MoviesReactions.BeforeMovie.Text.Comedy": "Esse filme com certeza vai ser bom!$1",
+	"Guilherme.MoviesReactions.DuringMovie.Text.Comedy": "Hahahaha!$1#$b#Classica, classica!$1",
+	"Guilherme.MoviesReactions.AfterMovie.Text.Comedy": "Foi bom demais, me chama mais vezes pra assistir!$1",
+	//GUILHERME SCI-FI
+	"Guilherme.MoviesReactions.BeforeMovie.Text.Scifi": "Não vejo a hora de assistir esse filme!$1#$b#Será que vai ter um plot twist interessante?",
+	"Guilherme.MoviesReactions.DuringMovie.Text.Scifi": "Então era isso?!$8#$b#Que incrível!$1",
+	"Guilherme.MoviesReactions.AfterMovie.Text.Scifi": "Esse plot twist foi insano!$1#$b#Quero ver mais desses.",
+	//GUILHERME PRAIRE KING
+	"Guilherme.MoviesReactions.BeforeMovie.Text.PraireKing": "Não tenho boas memórias com esse jogo...$2#$b#Mateus sempre ganha de mim.",
+	"Guilherme.MoviesReactions.DuringMovie.Script.PraireKing": "Guilherme parece completamente imerso.",
+	"Guilherme.MoviesReactions.DuringMovie.Text.PraireKing": "É realmente igual no jogo!$1",
+	"Guilherme.MoviesReactions.AfterMovie.Text.PraireKing": "Que filme bom!$1#$b#Espero que tenha continuação.",
+
+	//GUSTAVO HORROR
+	"Gustavo.MoviesReactions.BeforeMovie.Text.Horror": "Espero dar umas risadas com esse filme!$1",
+	"Gustavo.MoviesReactions.DuringMovie.Text.Horror": "Hahahaha!$1#$b#Que tosco!$1",
+	"Gustavo.MoviesReactions.AfterMovie.Text.Horror": "Você viu a cara daquele monstro?$1#$b#Muito feio!$1",
+	//GUSTAVO CLASSIC
+	"Gustavo.MoviesReactions.BeforeMovie.Text.Classic": "Sempre é bom ver os clássicos!$1",
+	"Gustavo.MoviesReactions.DuringMovie.Text.Classic": "Hm...",
+	"Gustavo.MoviesReactions.AfterMovie.Text.Classic": "Realmente passou uma vibe antiga!$1",
+	//GUSTAVO COMEDY
+	"Gustavo.MoviesReactions.BeforeMovie.Text.Comedy": "Vamo ver no que vai dar esse filme aí!$1",
+	"Gustavo.MoviesReactions.DuringMovie.Text.Comedy": "Hahahaha!$1#$b#O cara é muito pão!$1",
+	"Gustavo.MoviesReactions.AfterMovie.Text.Comedy": "Foi bom demais! Então você vai ter que me chamar mais!$1",
+	//GUSTAVO SCI-FI
+	"Gustavo.MoviesReactions.BeforeMovie.Text.Scifi": "Parece ser bacaninha.#$b#Vamos indo?",
+	"Gustavo.MoviesReactions.DuringMovie.Text.Scifi": "Quê?$6",
+	"Gustavo.MoviesReactions.AfterMovie.Text.Scifi": "Cara, não entendi nada, mas foi bom!$1",
+
+	//RONALDO HORROR
+	"Ronaldo.MoviesReactions.BeforeMovie.Text.Horror": "Não curto filmes de terror...$2",
+	"Ronaldo.MoviesReactions.DuringMovie.Text.Horror": "Oxe, como isso é possível?!",
+	"Ronaldo.MoviesReactions.AfterMovie.Text.Horror": "Achei meio desnecessário algumas coisas desse filme.$2",
+	//RONALDO DOCUMENTARY
+	"Ronaldo.MoviesReactions.BeforeMovie.Text.Documentary": "Esse documentário é sobre o que mesmo?",
+	"Ronaldo.MoviesReactions.DuringMovie.Text.Documentary": "Nossa... não sabia disso!$1",
+	"Ronaldo.MoviesReactions.AfterMovie.Text.Documentary": "Esse documentário foi interessante, espero ver mais desses!$1",
+	//RONALDO COMEDY
+	"Ronaldo.MoviesReactions.BeforeMovie.Text.Comedy": "Espero dar umas boas risadas, vamo ver no que vai dar!$1",
+	"Ronaldo.MoviesReactions.DuringMovie.Text.Comedy": "Hahahaha!$1#$b#Esse aí é foda!$1",
+	"Ronaldo.MoviesReactions.AfterMovie.Text.Comedy": "Ri muito mano, valeu a pena!$1",
+	//RONALDO CLASSIC
+	"Ronaldo.MoviesReactions.BeforeMovie.Text.Classic": "Não sou um fã de clássicos, mas vamos ver né...",
+	"Ronaldo.MoviesReactions.DuringMovie.Text.Classic": "Ué...$2",
+	"Ronaldo.MoviesReactions.AfterMovie.Text.Classic": "Realmente, não gosto muito de clássicos.$2",
+
+	//SEBA HORROR
+	"Seba.MoviesReactions.BeforeMovie.Text.Horror": "Acho filmes de terror legais, espero gostar desse.",
+	"Seba.MoviesReactions.DuringMovie.Text.Horror": "Ué, isso era pra ser um susto?",
+	"Seba.MoviesReactions.AfterMovie.Text.Horror": "Achei fraco esse filme, meio decepcionante...$2",
+	//SEBA SCI-FI
+	"Seba.MoviesReactions.BeforeMovie.Text.Scifi": "Será que vai ter naves espaciais nesse filme?",
+	"Seba.MoviesReactions.DuringMovie.Text.Scifi": "Esses efeitos tão melhores que meus mangas!$1",
+	"Seba.MoviesReactions.AfterMovie.Text.Scifi": "Que filme bom cara!$1#$b#Valeu por me convidar pra ver uma obra prima dessas.",
+	//SEBA ACTION
+	"Seba.MoviesReactions.BeforeMovie.Text.Action": "Quero ver esses efeitos especiais, coreografia e história!$1",
+	"Seba.MoviesReactions.DuringMovie.Text.Action": "Eita, isso é possível?!$1",
+	"Seba.MoviesReactions.AfterMovie.Text.Action": "Que incrível, esse filme está na minha lista!$1",
+	//SEBA CLASSIC
+	"Seba.MoviesReactions.BeforeMovie.Text.Classic": "Espero gostar desse filme!$1",
+	"Seba.MoviesReactions.DuringMovie.Text.Classic": "Ah, que fofo.$1",
+	"Seba.MoviesReactions.AfterMovie.Text.Classic": "Foi legalzinho!$1",
+}
