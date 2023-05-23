@@ -3381,7 +3381,7 @@
 	"Quests.Guilherme.Morango.EndDialogue": "Obrigado, vou fazer um bom uso deles!$1",
 
 	"Quests.Luigi.Cafe.Title": "Preciso acordar!",
-	"Quests.Luigi.Cafe.Description": "Eu estava precisando café urgente! Os meus projetos estão me consumindo, mas não posso parar!\n        -Luigi \n \n- 1600 ouros de recompensa \n- Luigi ficará grato.",
+	"Quests.Luigi.Cafe.Description": "Eu estava precisando de café urgente! Os meus projetos estão me consumindo, mas não posso parar!\n        -Luigi \n \n- 300 ouros de recompensa \n- Luigi ficará grato.",
 	"Quests.Luigi.Cafe.Objective": "Entregue 1 Café para Luigi",
 	"Quests.Luigi.Cafe.EndDialogue": "Ah! Ainda bem que você viu meu pedido!$1#$b#Estou nas últimas...$2",
 
