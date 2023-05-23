@@ -2089,6 +2089,28 @@
 	"Event.1186001.5.Dialogue": "Hihihi!#$b#Brincadeiras à parte, estarei administrando este estabelecimento e levando ele para as alturas!#$b#Então, nos vemos por aí...#$b#\"Aqui é Vitão\"!",
 	"Event.1186001.5.Dialogue.Joja": "Hihihi!#$b#Brincadeiras à parte, estarei administrando este estabelecimento e levando ele para as alturas!#$b#Então, espero te ver nas sessões VIP...#$b#\"Aqui é Vitão\"!",
 
+	//EVENTO BARRACA
+	"Event.1186002.1.Dialogue": "Eu tô falando Gustas!$1#$b#Joja-Cola é realmente muito bom, você tem que experimentar pelo menos uma vez!$1",
+	"Event.1186002.2.Dialogue": "Mateus, eu já te disse, não vou provar algo que eu vejo todo dia no lixo ou no lago da cidade...$8#$b#Imagine se você ou eu ficasse doente por causa disso!$8",
+	"Event.1186002.3.Dialogue": "Como assim doente?#$b#Eu tô melhor do que nunca, olha só esses músculos!$6#$b#Vamos, experimenta!$1#$b#Só um golinho! Só um golinho! Eu juro!$1",
+	"Event.1186002.4.Dialogue": "Ah! Cara! Sem chance! Olha pra isso!$2",
+	"Event.1186002.5.Dialogue": "Dá para os dois ficarem quietos!$5#$b#Tô tentando dormir aqui!$5#$b#Fico pegando madeira o dia todo, e é isso que eu recebo?!$5",
+	"Event.1186002.6.Dialogue": "Hora perfeita Seba, você consegue convencer o Gu-$1",
+	"Event.1186002.7.Dialogue": "Não quero saber!$5",
+	"Event.1186002.8.Dialogue": "Ta vendo o que você faz?$8#$b#E não! É não!$5",
+	"Event.1186002.9.Dialogue": "INVASÃO!!!$7",
+	"Event.1186002.10.Dialogue": "INVADIRAM A BARRACA DE CAMPING!!!$7",
+	"Event.1186002.11.Dialogue": "EU JÁ FALEI-$5",
+	"Event.1186002.12.Dialogue": "É INVASÃO!!!$5",
+	"Event.1186002.13.Dialogue": "Que gritaria é essa logo cedo!$5",
+	"Event.1186002.14.Dialogue": "Acabei de voltar do mercado e só escuto \"INVASÃO\"!$5#$b#Ah... Voltando...#$b#Pessoal esse é o @, ele disse que ia vir aqui hoje, então...^Pessoal esse é a @, ela disse que ia vir aqui hoje, então...#$b#Chega de gritaria!$5",
+	"Event.1186002.15.Dialogue": "Ah, então ta bem tranquilinho!$1",
+	"Event.1186002.16.Dialogue": "Avisou bem na hora em, Sensei...",
+	"Event.1186002.17.Dialogue": "Não tinha como avisar via Wi-Fi, se é que você me entende...",
+	"Event.1186002.18.Dialogue": "Justo!$1",
+	"Event.1186002.19.Dialogue": "Ah... eu vou voltar a dormir que eu ganho mais...$2#$b#E por favor, silêncio!$5",
+	"Event.1186002.20.Dialogue": "Bem-vindo ao nosso quebra-galho!$1#$b#Ou como eles gostam de chamar, nossa Barraca de Camping.#$b#Sinta-se a vontade.$1",
+
 	//EVENTO GUILHERME 2 CORAÇÕES
 	"Event.1187100.1.Dialogue": "QUÊ?!!!$5",
 	"Event.1187100.2.Dialogue": "Ops...$2",
@@ -3341,10 +3363,40 @@
 	"Event.1192005.sebaRpg_Equipe2_Bad_2.8.Dialogue": "Certo, roda um Armas Brancas com Destreza.$3",
 	"Event.1192005.sebaRpg_Equipe2_Bad_2.9.Dialogue": "Deixa eu ver, deu sucesso \"Bom\".#$b#Deu 8 de dano.",
 	"Event.1192005.sebaRpg_Equipe2_Bad_2.10.Dialogue": "Argh... vamos terminar logo com isso vai tomar bala!$3",
-	"Event.1192005.sebaRpg_Equipe2_Bad_2.9.Dialogue": "Deixa eu ver, deu sucesso \"Bom\".#$b#Deu 8 de dano.",
-	"Event.1192005.sebaRpg_Equipe2_Bad_2.9.Dialogue": "Deixa eu ver, deu sucesso \"Bom\".#$b#Deu 8 de dano.",
-	"Event.1192005.sebaRpg_Equipe2_Bad_2.9.Dialogue": "Deixa eu ver, deu sucesso \"Bom\".#$b#Deu 8 de dano.",
-	"Event.1192005.sebaRpg_Equipe2_Bad_2.9.Dialogue": "Deixa eu ver, deu sucesso \"Bom\".#$b#Deu 8 de dano.",
 
+	//Quests
+	"Quests.Mateus.Pizza.Title": "Mateus quer uma pizza.",
+	"Quests.Mateus.Pizza.Description": "Olá, eu gostaria de uma pizza, por favor!\n        -Mateus \n \n- 10 ouros de recompensa. \n- Mateus ficará grato.",
+	"Quests.Mateus.Pizza.Objective": "Entregue 1 Pizza para Mateus",
+	"Quests.Mateus.Pizza.EndDialogue": "Meu deus! Alguém realmente trouxe meu pedido!$1#$b#Não esperava que alguém iria querer fazer a entrega por 10 ouros.#$b#Então, obrigado!$1",
+
+	"Quests.Gustavo.JojaCola.Title": "Inspeção do Gustavo.",
+	"Quests.Gustavo.JojaCola.Description": "Olá, eu gostaria de fazer uma certa inspeção no refrigerante Joja-Cola, acredito que ele seja perigoso para o meu amigo Mateus.\n        -Gustavo \n \n- 25 ouros de recompensa \n- Gustavo ficará grato.",
+	"Quests.Gustavo.JojaCola.Objective": "Entregue 1 Joja-Cola para Gustavo",
+	"Quests.Gustavo.JojaCola.EndDialogue": "Obrigado!$1#$b#Agora posso provar para o Mateus que Joja-Cola é um refrigerante perigoso.#$b#Espero que ele me escute dessa vez...$2",
+
+	"Quests.Guilherme.Morango.Title": "Morangos frescos!",
+	"Quests.Guilherme.Morango.Description": "Olá, eu estava precisando de alguns morangos, eles são raros de se encontrar aqui no Vale, se você encontrar alguns, por favor me traga.\n        -Guilherme \n \n- 1600 ouros de recompensa \n- Guilherme ficará grato.",
+	"Quests.Guilherme.Morango.Objective": "Entregue 6 Morangos para Guilherme",
+	"Quests.Guilherme.Morango.EndDialogue": "Obrigado, vou fazer um bom uso deles!$1",
+
+	"Quests.Luigi.Cafe.Title": "Preciso acordar!",
+	"Quests.Luigi.Cafe.Description": "Eu estava precisando café urgente! Os meus projetos estão me consumindo, mas não posso parar!\n        -Luigi \n \n- 1600 ouros de recompensa \n- Luigi ficará grato.",
+	"Quests.Luigi.Cafe.Objective": "Entregue 1 Café para Luigi",
+	"Quests.Luigi.Cafe.EndDialogue": "Ah! Ainda bem que você viu meu pedido!$1#$b#Estou nas últimas...$2",
+
+	"Quests.Ronaldo.Anao.Title": "Lingua Desconhecida.",
+	"Quests.Ronaldo.Anao.Description": "Estou procurando pelo Pergaminho dos Anões Edição IV, estou quase completando minha coleção! Será que vou conseguir falar a lingua deles?\n        -Ronaldo \n \n- 200 ouros de recompensa \n- Ronaldo ficará grato.",
+	"Quests.Ronaldo.Anao.Objective": "Entregue 1 Pergaminho dos Anões IV para Ronaldo",
+	"Quests.Ronaldo.Anao.EndDialogue": "Obrigado!$1#$b#O Gunther vem me ajudando a traduzir eles.#$b#Mas ainda é bem complicado de entender algumas frases.",
+
+	"Quests.Seba.Madeira.Title": "Cansado de Verdade.",
+	"Quests.Seba.Madeira.Description": "Seguinte meu querido(a), estou cansado de pegar madeira e replantar, se você puder me ajudar vou ficar MUITO grato.\n        -Seba \n \n- 600 ouros de recompensa \n- Seba ficará MUITO grato.",
+	"Quests.Seba.Madeira.Objective": "Entregue 200 Madeiras para Seba",
+	"Quests.Seba.Madeira.EndDialogue": "Finalmente alguém competente nesse Vale.#$b#Te respeito muito, sério!$1",
+
+	"Quests.Barraca.Title": "Novos Rostos",
+	"Quests.Barraca.Description": "Parece que temos novos visitantes no Vale.",
+	"Quests.Barraca.Objective": "Entre na Barraca.",
 
 }
