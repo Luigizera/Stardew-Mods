@@ -46,7 +46,7 @@
 	"Gift.Neutral.Seba": "Obrigado pelo presente.",
 
 	// GUILHERME DIALOGOS
-	"Guilherme.Dialogue.Introduction": "Oba, meu senhor!^Oba, minha senhora!#$b#Prazer meu nome é Guilherme...$10#$b#... E eu queria saber se tem algum mecânico por aqui?",
+	"Guilherme.Dialogue.Introduction": "Oba, meu senhor!^Oba, minha senhora!#$b#Prazer meu nome é {{i18n:Name.Guilherme}}...$10#$b#... E eu queria saber se tem algum mecânico por aqui?",
 	"Guilherme.Dialogue.danceRejection": "Er... não sou bom em dançar... foi mal.$2",
 	"Guilherme.Dialogue.divorced": "OQUÊ?! Por quê?!$2",
 	"Guilherme.Dialogue.dumped_Guys": "Não quero mais olhar pra você!$5",
@@ -55,9 +55,9 @@
 	"Guilherme.Dialogue.MovieInvitation": "Filminho?$10#$b#Vamos nessa!$1",
 
 	// RESORT
-	"Guilherme.Dialogue.Resort_Entering": "Wow, esse lugar é incrível!$1",
+	"Guilherme.Dialogue.Resort_Entering": "Uau, esse lugar é incrível!$1",
 	"Guilherme.Dialogue.Resort_Leaving": "Partiu pra casa, eu acho...$2",
-	"Guilherme.Dialogue.Resort_Leaving_2": "Mano, o Mateus fez a proeza de derrubar meu celular na água...$5#$b#Você acredita nisso?!$5",
+	"Guilherme.Dialogue.Resort_Leaving_2": "Mano, o {{i18n:Name.Mateus}} fez a proeza de derrubar meu celular na água...$5#$b#Você acredita nisso?!$5",
 	"Guilherme.Dialogue.Resort_Shore": "Ficar aqui é bem relaxante...$1",
 	"Guilherme.Dialogue.Resort_Shore_2": "Uma fotinha em grupo aqui seria legal!$1",
 	"Guilherme.Dialogue.Resort_Umbrella": "Ouf, que calor...",
@@ -69,10 +69,10 @@
 
 	// GUILHERME DIALOGO COMUM
 	//Segunda
-	"Guilherme.Dialogue.Mon": "Ei consegue ficar de olho no Mateus por mim?#$b#Ele sai gastando o dinheiro que nem um maluco...$5",
+	"Guilherme.Dialogue.Mon": "Ei consegue ficar de olho no {{i18n:Name.Mateus}} por mim?#$b#Ele sai gastando o dinheiro que nem um maluco...$5",
 	"Guilherme.Dialogue.Mon2": "O que será que o Pierre ta vendendo hoje?#$b#Melhor dar uma olhadinha, já volto...$1",
-	"Guilherme.Dialogue.Mon4": "Ah cara, tô cansado de dormir no chão.$2#$e#Queria comprar um saco de dormir melhor, mas o Mateus não para de comprar tralha...$2",
-	"Guilherme.Dialogue.Mon6": "Oba, alguma novidade hoje?$4#$e#Meu dia tá sendo o padrão de sempre...$1#$b#Sempre treinando pra ser um bom ninja...",
+	"Guilherme.Dialogue.Mon4": "Ah cara, tô cansado de dormir no chão.$2#$e#Queria comprar um saco de dormir melhor, mas o {{i18n:Name.Mateus}} não para de comprar tralha...$2",
+	"Guilherme.Dialogue.Mon6": "Oba, alguma novidade hoje?$4#$e#Meu dia tá sendo o padrão de sempre...#$b#Sempre treinando pra ser o melhor ninja!$1",
 	"Guilherme.Dialogue.Mon8": "Ei, o que acha de treinar comigo?#$b#Seria divertido se for você!$1",
 	"Guilherme.Dialogue.Mon10": "Como comemoração do nosso namoro, que tal uma cervejinha?$4",
 
@@ -82,27 +82,27 @@
 	"Guilherme.Dialogue.Tuequestion_bom": "SASUKEEEEE !!!$5#$b#Haha, esse é o verdadeiro espírito ninja!$1",
 	"Guilherme.Dialogue.Tuequestion_neutro": "Eh...Acho legal também!$1#$b#Você devia assistir comigo um dia desses...",
 	"Guilherme.Dialogue.Tuequestion_ruim": "Você não sabe o que está falando...$2",
-	"Guilherme.Dialogue.Tue2": "Ah, tô com saudades de mecher no meu Photoshop...$2#$e#Se você quiser, me manda uma foto que eu faço um meme!$1",
-	"Guilherme.Dialogue.Tue4": "Ei, toma cuidado com o Mateus de Terça-feira, ele fala até demais...$2#$e#Eu?#$b#Relaxa, não vou chegar nem perto dele...$1",
+	"Guilherme.Dialogue.Tue2": "Ah, tô com saudades de mecher no meu Photoshop e fazer minhas edições ninjas...$2#$e#Se você quiser, me manda uma foto que eu faço um meme!$1",
+	"Guilherme.Dialogue.Tue4": "Ei, toma cuidado com o {{i18n:Name.Mateus}} de Terça-feira, ele fala até demais...$2#$e#Eu?#$b#Relaxa, não vou chegar nem perto dele...$1",
 	"Guilherme.Dialogue.Tue6": "Ah, acho que tô me acostumando a viver longe da internet...#$b#Finalmente posso me tornar um verdadeiro ninja!$1",
 	"Guilherme.Dialogue.Tue8": "500... 1000... 700...#$b#Ah foi mal, tava fazendo as contas do Valor de umas paradas...$1#$e#Tenho que ficar esperto com o dinheiro para não gastarem tudo!$1",
 	"Guilherme.Dialogue.Tue10": "Ei, como vão as coisas?$1#$b#Quer vir treinar comigo?$4",
 
 	//Quarta
-	"Guilherme.Dialogue.Wed": "Tô sentindo que o Mateus vai gastar nosso dinheiro...#$b#Ah, relaxa isso já virou rotina pra ele...$2",
+	"Guilherme.Dialogue.Wed": "Tô sentindo que o {{i18n:Name.Mateus}} vai gastar nosso dinheiro...#$b#Ah, relaxa isso já virou rotina pra ele...$2",
 	"Guilherme.Dialogue.Wed2": "Bom... hora de fazer compras na cidade.#$b#Acho que vou comprar uma faixa ninja se tiver!$1",
 	"Guilherme.Dialogue.Wed4": "Ei, uma pergunta séria agora...#$q 2010/2011 Wed4question_followup#... qual jutsu eu estive treinando recentemente?#$r 2011 0 Wed4question_neutro#Taijutsu#$r 2010 15 Wed4question_bom#Ninjutsu#$r 2011 0 Wed4question_neutro#Genjutsu",
 	"Guilherme.Dialogue.Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1|Acho que vou ter que te dar uma aula de Jutsus...",
 	"Guilherme.Dialogue.Wed4question_bom": "Você acertou!$1#$b#Sabia que ia me conhecer melhor que qualquer um.$1",
-	"Guilherme.Dialogue.Wed4question_neutro": "Você errou!$2#$b#Quero melhor minhas habilidades em Ninjutsu.",
-	"Guilherme.Dialogue.Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do Gustavo!$1",
+	"Guilherme.Dialogue.Wed4question_neutro": "Você errou!$2#$b#Estou melhorando meu Ninjutsu.",
+	"Guilherme.Dialogue.Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do {{i18n:Name.Gustavo}}!$1",
 	"Guilherme.Dialogue.Wed8": "Cara, que dia lindo!$1#$b#Me lembra quando cheguei no Vale pela primeira vez!$1",
-	"Guilherme.Dialogue.Wed10": "Espero que as coisas só melhorem daqui em diante!$4",
+	"Guilherme.Dialogue.Wed10": "Espero que as coisas melhorem mais ainda daqui em diante!$4",
 
 	//Quinta
-	"Guilherme.Dialogue.Thu": "Ei, o Centro Comunitário parece esconder alguns segredos...#$b#O que você acha disso?#$e#Meu instinto ninja quer ir lá explorar...$1",
+	"Guilherme.Dialogue.Thu": "Ei, sinto que tem espíritos no Centro Comunitário...#$b#O que você acha disso?#$e#Meu instinto ninja quer ir lá explorar...$1",
 	"Guilherme.Dialogue.Thu2": "Gosto de fazer as compras!$1#$b#Consigo manusear o dinheiro bem, então o pessoal não precisa se preocupar.",
-	"Guilherme.Dialogue.Thu4": "Hmm, acho que devia me ficar mais focado no meu treinamento ninja...#$b#Não sei se vou conseguir acompanhar os outros...$2",
+	"Guilherme.Dialogue.Thu4": "Hmm, acho que devia me ficar mais focado no meu treinamento ninja...#$b#Não sei se vou conseguir acompanhar os outros ninjas incríveis...$2",
 	"Guilherme.Dialogue.Thu6": "Vou continuar focado no meu treinamento, te vejo por aí @!$1",
 	"Guilherme.Dialogue.Thu8": "Acho que consegui desbloquear uma nova forma!#$b#Toco de madeira SUPREMO!$1",
 	"Guilherme.Dialogue.Thu10": "Ei, vamos nos divertir um pouco!$1#$b#O que acha de ir no Gus comer algo?$4",
@@ -110,24 +110,24 @@
 	//Sexta
 	"Guilherme.Dialogue.Fri": "SEXTOU!$1#$b#Não que isso mude muita coisa, meu treinamento continua...",
 	"Guilherme.Dialogue.Fri2": "Acho que eu devia ficar mais tempo no Saloon um dia desses...#$b#Explorando as táticas dos inimigos...$1#$b#E bebendo um pouco, é claro.$10",
-	"Guilherme.Dialogue.Fri4": "Eae @, há quanto tempo em!$1#$b#Hm? Te vi ontem?#$b#Ah, então você estava nas sombras também?$1",
-	"Guilherme.Dialogue.Fri6": "Sexta-feira nunca muda né?#$b#Sempre um dia bom para um treinamento ninja!$1",
-	"Guilherme.Dialogue.Fri8": "Sem tempo pra descanso!$1#$b#Uma hora um jutsu sai!$1",
-	"Guilherme.Dialogue.Fri10": "Ei @, o que acha de jogar um jogo comigo?#$b#Quer dizer comigo e com o Mateus, claro...$4",
+	"Guilherme.Dialogue.Fri4": "Eae @, há quanto tempo em!$1#$b#Hm? Te vi ontem?#$b#Ah! Agora saquei, então você estava nas escondido sombras também?$1^Ah! Agora entendi, então você estava nas escondida sombras também?$1",
+	"Guilherme.Dialogue.Fri6": "Sexta-feira nunca muda, né?#$b#Sempre um dia bom para um treinamento ninja!$1",
+	"Guilherme.Dialogue.Fri8": "Sem tempo pra descanso!$1#$b#Uma hora um Jutsu sai!$1",
+	"Guilherme.Dialogue.Fri10": "@, o que acha de treinar comigo?#$b#Quer dizer comigo e com o {{i18n:Name.Gustavo}}, é claro...$4",
 
 	//Sabado
 	"Guilherme.Dialogue.Sat": "Estou planejando ir comprar algumas coisas na loja do Pierre, como sempre.$1",
-	"Guilherme.Dialogue.Sat2": "Hmm, se eu conseguir prestar atenção...#$e#%Guilherme parece focado em algo.",
+	"Guilherme.Dialogue.Sat2": "Hmm, se eu conseguir me focar... talvez...#$e#%{{i18n:Name.Guilherme}} está focado.#$e#Não, ainda não deu pra lançar um Justu...$2",
 	"Guilherme.Dialogue.Sat4": "Tenho que ficar focado em treinar hoje, não posso dar mole!$1",
-	"Guilherme.Dialogue.Sat6": "Ei, se o Mateus for apostar em algum time, pode jogar essa shuriken nele!#$e#%Guilherme parece estar falando sério.",
+	"Guilherme.Dialogue.Sat6": "@, se o {{i18n:Name.Mateus}} for apostar em algum time, pode jogar essa Shuriken nele!#$e#%{{i18n:Name.Guilherme}} está falando sério.",
 	"Guilherme.Dialogue.Sat8": "O que planejou pra esse fim de semana?$1#$b#Eu estarei treinando meu Ninjutsu, como sempre!$1",
-	"Guilherme.Dialogue.Sat10": "Quero ser um Sensei de respeito!$1#$b#Então, estou melhorando a cada dia graças a você @.$4",
+	"Guilherme.Dialogue.Sat10": "Quero ser um Sensei de respeito!$1#$b#Então, estou melhorando a cada dia graças a você @.$4#$b#Estou cada vez mais perto do meu objetivo!$4",
 
 	//Domingo
-	"Guilherme.Dialogue.Sun": "Acho que um terno branco ficaria daora em mim!#$b#O que você acha?#$b#Concordo, acho que um estilo ninja ainda é melhor!$1",
-	"Guilherme.Dialogue.Sun2": "Hm, um ninja nunca desiste!$1#$b#Sempre irei ficar focado na missão.$1",
+	"Guilherme.Dialogue.Sun": "O que você acha de eu mudar o meu estilo?#$b#Concordo, acho que meu estilo ninja ainda é melhor!$1",
+	"Guilherme.Dialogue.Sun2": "Hm, um ninja nunca desiste!$1#$b#Sempre irei ficar focado na missão.$1#$b#Tô certo!$1",
 	"Guilherme.Dialogue.Sun4": "Preciso treinar meu Jutsu supremo!$1#$b#Uma hora ele sai...$2",
-	"Guilherme.Dialogue.Sun6": "Cada dia que passa, uma habilidade nova é descoberta, não posso ficar pra trás!$1",
+	"Guilherme.Dialogue.Sun6": "Cada dia que passa, uma habilidade nova é descoberta no mundo ninja, não posso ficar pra trás!$1",
 	"Guilherme.Dialogue.Sun8": "Irei fazer as compras!$1#$e#Relaxa, eu não baixo a guarda.",
 	"Guilherme.Dialogue.Sun10": "Haha, hora de treinar como nunca!$1#$b#Você vem comigo nessa jornada ninja?!$4",
 
@@ -139,69 +139,69 @@
 	//Luau
 	"Guilherme.Dialogue.summer_11": "Será que vai ter lámen no Luau?$1",
 	//Dance of the Moonlight Jellies
-	"Guilherme.Dialogue.summer_28": "Vou ter que pegar uma água-viva no festival de hoje pra desbloquear o Shidori!$1",
+	"Guilherme.Dialogue.summer_28": "Vou ter que pegar uma água-viva no festival de hoje pra desbloquear o Shidori!$1#$b#Você acha que vai funcionar?",
 	//Stardew Valley Fair
-	"Guilherme.Dialogue.fall_16": "Meu estilingue tá na mão!#$b#Vou mostrar meu potêncial nesse festival!$1",
+	"Guilherme.Dialogue.fall_16": "Meu estilingue tá na mão!#$b#Vou mostrar meu potencial nesse festival!$1",
 	//Spirit's Eve
-	"Guilherme.Dialogue.fall_27": "Hora de arrastar o Mateus pra esse festival!$1",
+	"Guilherme.Dialogue.fall_27": "Hora de arrastar o {{i18n:Name.Mateus}} pra esse festival!$1",
 	//Festival of Ice
-	"Guilherme.Dialogue.winter_8": "Pescar? não é um problema pra mim!$1#$b#Eu treinei o suficiente para conseguir ficar mais rápido que um peixe!$10",
+	"Guilherme.Dialogue.winter_8": "Pescar? Não é um problema pra mim!$1#$b#Eu treinei o suficiente para conseguir ficar mais rápido que um peixe!$10",
 	//Night Market
 	"Guilherme.Dialogue.winter_15": "Ouvi uns rumores do mercado noturno...#$b#Vai ter café grátis!$1",
-	"Guilherme.Dialogue.winter_16": "Cara, o Mateus tá escondendo alguma coisa de mim... suspeito...",
+	"Guilherme.Dialogue.winter_16": "Cara, o {{i18n:Name.Mateus}} tá escondendo alguma coisa de mim... suspeito...",
 	"Guilherme.Dialogue.winter_17": "Descobri um quadro atrás da árvore, esse Matias!$5#$b#Você acredita que ele tava comprando quadros que nem eram originais?!$5",
 	//Feast of the Winter Star
 	"Guilherme.Dialogue.winter_25": "Estou pensando se vou dar isso mesmo de presente...#$b#Acho que vai ser bom!$1",
 
 	// GUILHERME DIALOGOS PRIMAVERA
-	"Guilherme.Dialogue.spring_1": "Escrevi uma listinha com alguns peixes que a gente precisa...#$b#Espero que o Mateus pegue!$1",
-	"Guilherme.Dialogue.spring_2": "Estou ferrado, nenhum Jutsu parece ser forte o suficiente para derrotar o Mateus no 'Osu!'...$2",
+	"Guilherme.Dialogue.spring_1": "Escrevi uma listinha com alguns peixes que a gente precisa...#$b#Espero que o {{i18n:Name.Mateus}} pegue!$1",
+	"Guilherme.Dialogue.spring_2": "Estou ferrado, nenhum Jutsu parece ser forte o suficiente para derrotar o {{i18n:Name.Mateus}} no 'Osu!'...$2",
 
 	// GUILHERME DIALOGOS VERAO
 	"Guilherme.Dialogue.summer_1": "Ouf, que calor...$2#$e#Espero não ficar queimado com todo esse Sol...$2",
 	//Segunda
 	"Guilherme.Dialogue.summer_Mon": "Você é o @ né?$1^Você é a @ né?$1#$b#Deve ser complicado trabalhar na fazenda nesse calor.",
 	"Guilherme.Dialogue.summer_Mon2": "Gosto de andar pela praia durante o verão, esse calor é de matar!$1",
-	"Guilherme.Dialogue.summer_Mon4": "Não me importo de dormir no chão... o problema é quando chove...$2",
-	"Guilherme.Dialogue.summer_Mon6": "Ser um ninja da um trabalhão!#$b#Principalmente nesse calor, fico todo encharcado...$2",
-	"Guilherme.Dialogue.summer_Mon8": "Não se preocupe @, não vou abandonar o caminho ninja!$1",
-	"Guilherme.Dialogue.summer_Mon10": "Um sorvete cairia bem!$1#$b#Vamos comprar na barraquinha do Alex, o que acha?$4",
+	"Guilherme.Dialogue.summer_Mon4": "A pior parte de dormir no chão é quando chove...$2",
+	"Guilherme.Dialogue.summer_Mon6": "Ser um ninja da um trabalhão!#$b#Principalmente nesse calor, fico todo suado...$2",
+	"Guilherme.Dialogue.summer_Mon8": "Um sorvete cairia bem!$1#$b#Vamos comprar na barraquinha do Alex, o que acha?$1",
+	"Guilherme.Dialogue.summer_Mon10": "Não se preocupe @, não vou abandonar o caminho ninja!$1#$b#Especialmente agora, que tenho você!$4",
 
 	//Terça
 	"Guilherme.Dialogue.summer_Tue": "Seria uma boa comprar um sorvete na barraquinha do Alex!$1#$b#Talvez eu passe lá na volta.",
 	"Guilherme.Dialogue.summer_Tue2": "Só consigo dizer uma coisa em questão a monetário nessa estação...$2#$b#F.$2",
 	"Guilherme.Dialogue.summer_Tue4": "Alguns me chamam de Ninja do Photoshop, não existe nenhuma imagem que não pode ser melhorada!$1",
-	"Guilherme.Dialogue.summer_Tue6": "Será que o Mago era algum tipo de aventureiro?#$b#Se ele era, talvez ele conheça algum ninja de verdade!$8",
-	"Guilherme.Dialogue.summer_Tue8": "Acho que vai ficar tudo bem se eu conseguir manusear o dinheiro corretamente!$1#$e#Não se preocupe, estou sempre de olho no Mateus.#$b#Ele não vai gastar mais nenhum tostão.$1",
-	"Guilherme.Dialogue.summer_Tue10": "Ah! Eae @!$1#$b#Tá quente hoje né?$4",
+	"Guilherme.Dialogue.summer_Tue6": "Será que o Mago era algum tipo de aventureiro?#$b#Se ele era, talvez ele conheça algum ninja realmente forte!$8",
+	"Guilherme.Dialogue.summer_Tue8": "Acho que vai ficar tudo bem se eu conseguir manusear o dinheiro corretamente!$1#$e#Não se preocupe, estou sempre de olho no {{i18n:Name.Mateus}}.#$b#Ele não vai gastar mais nenhum tostão.$1",
+	"Guilherme.Dialogue.summer_Tue10": "Ah! Eae @!$1#$b#Tá quente aqui, né?$4",
 
 	//Quarta
-	"Guilherme.Dialogue.summer_Wed": "Você viu o Mateus por aí?#$b#Preciso ficar de olho nele, se não nosso dinheiro vai sumir denovo.$2",
+	"Guilherme.Dialogue.summer_Wed": "Você viu o {{i18n:Name.Mateus}} por aí?#$b#Preciso ficar de olho nele, se não nosso dinheiro vai sumir denovo...$2",
 	"Guilherme.Dialogue.summer_Wed2": "Não posso esquecer de fazer minhas compras diárias!$1#$b#Isso é muito importante.",
 	"Guilherme.Dialogue.summer_Wed4": "Gosto de ficar pela praia, a brisa do mar é revigorante!$1",
 	"Guilherme.Dialogue.summer_Wed6": "Já passamos por tantos problemas, mas o maior deles é o dinheiro.$2",
 	"Guilherme.Dialogue.summer_Wed8": "Irei trabalhar duro para conseguir alcançar o nível de um Hokage!$1",
-	"Guilherme.Dialogue.summer_Wed10": "Terminei de fazer minha lista, e... eu acho que você vai concordar com isso...$1#$b#\"Prioridade número 3: Mateus é um perigo, o dinheiro nunca deve ficar com ele.\".#$b#\"Prioridade número 2: Fazer as compras no Pierre, quero que todos fiquem tranquilos quanto a compras.\".#$b#\"Prioridade número 1: @... é alguém muito especial.\".$4",
+	"Guilherme.Dialogue.summer_Wed10": "Terminei de fazer minha lista, e... eu acho que você vai concordar com isso...$1#$b#\"Prioridade número 3: {{i18n:Name.Mateus}} é um perigo, o dinheiro nunca deve ficar com ele.\".#$b#\"Prioridade número 2: Pierre está fechado nas quartas-feiras.\".#$b#\"Prioridade número 1: @... é alguém muito especial para mim.\".$4",
 
 	//Quinta
-	"Guilherme.Dialogue.summer_Thu": "Quanto será que ainda temos, isso é suficiente...?#$b#%Guilherme parece estar imerso nas contas.",
+	"Guilherme.Dialogue.summer_Thu": "Quanto será que ainda temos, isso é suficiente...?#$b#%{{i18n:Name.Guilherme}} parece estar imerso nas contas.",
 	"Guilherme.Dialogue.summer_Thu2": "Não temos tempo @!$8#$b#Ser um ninja requer treino pesado!",
 	"Guilherme.Dialogue.summer_Thu4": "Acho que estou pegando leve no meu treinamento, assim não vou conseguir alcançar o maior nível...$2",
 	"Guilherme.Dialogue.summer_Thu6": "Não desista @, você se tornará um grande ninja!$1^Não desista @, você se tornará uma grande ninja!$1",
-	"Guilherme.Dialogue.summer_Thu8": "Vou torcer por você, e você pode torcer por mim!$1#$b#Vamos virar os melhores ninjas dessa vila!$1",
+	"Guilherme.Dialogue.summer_Thu8": "Vou torcer por você, e você pode torcer por mim!$1#$b#Vamos virar os melhores ninjas dessa Vila!$1#$b#Quer dizer, Vale!$1",
 	"Guilherme.Dialogue.summer_Thu10": "Ficarei pra sempre do seu lado, então...#$b#Não me decepcione!$4",
 
 	//Sexta
 	"Guilherme.Dialogue.summer_Fri": "@, a quanto tempo!$1#$b#Deve estar imerso na fazenda né?^Deve estar imersa na fazenda né?#$b#Imagino que nessa calor as coisas devem estar mais complicadas ainda...$2",
-	"Guilherme.Dialogue.summer_Fri2": "Foco! Foco! Preciso de foco!$5#$b#%Guilherme está tentando MUITO calcular os gastos...",
-	"Guilherme.Dialogue.summer_Fri4": "Oi Guilherme!$10#$b#Eita, foi mal, é um tique nervoso...$8",
-	"Guilherme.Dialogue.summer_Fri6": "O Mateus pode ter ganho a partida ontem...#$b#Mas amanhã com certeza será diferente!$1",
+	"Guilherme.Dialogue.summer_Fri2": "Foco! Foco! Preciso de foco!$5#$b#%{{i18n:Name.Guilherme}} está tentando MUITO calcular os gastos...",
+	"Guilherme.Dialogue.summer_Fri4": "Oi {{i18n:Name.Guilherme}}!$10#$b#Eita, foi mal, é um tique nervoso...$8",
+	"Guilherme.Dialogue.summer_Fri6": "O {{i18n:Name.Mateus}} pode ter ganho a partida ontem...#$b#Mas amanhã com certeza será diferente!$1",
 	"Guilherme.Dialogue.summer_Fri8": "Preciso da sua ajuda!#$b#Que tal irmos treinar juntos hoje?$1",
 	"Guilherme.Dialogue.summer_Fri10": "O Gustavo está melhorando a cada dia, agora sou digno de ser o Sensei dele!$1#$b#Tudo graças a você @!$4",
 
 	//Sabado
 	"Guilherme.Dialogue.summer_Sat": "Ta tão quente que já tô todo queimado!$5",
-	"Guilherme.Dialogue.summer_Sat2": "Sabe, dar uma variada no dia a dia é bom de vez enquando!$1",
+	"Guilherme.Dialogue.summer_Sat2": "Sabe, é bom variar o treino do dia a dia de vez enquando!$1",
 	"Guilherme.Dialogue.summer_Sat4": "Vou estar no meu treinamento, então me avise se quiser falar algo!$1",
 	"Guilherme.Dialogue.summer_Sat6": "@! O que acha de me ajudar nas compras?$1#$b#Preciso de toda ajuda necessária.",
 	"Guilherme.Dialogue.summer_Sat8": "Cara, um sorvetinho agora cairia bem!$1",
@@ -209,10 +209,10 @@
 
 	//Domingo
 	"Guilherme.Dialogue.summer_Sun": "Estou indo treinar, até mais!$1",
-	"Guilherme.Dialogue.summer_Sun2": "Ainda tenho tempo pra decidir meu próximo movimento ninja!$1#$b#Então, o que foi?",
-	"Guilherme.Dialogue.summer_Sun4": "@, durante o verão é um bom momento pra nadar né!$1#$b#Queria ter trago meu shorts.$2",
-	"Guilherme.Dialogue.summer_Sun6": "Agora não é hora de ficar remoendo as coisas, preciso me adaptar para me tornar um ninja melhor!$1",
-	"Guilherme.Dialogue.summer_Sun8": "O que será que posso comprar hoje?#$b#Alguma idéia @?$1",
+	"Guilherme.Dialogue.summer_Sun2": "Ainda tenho tempo pra decidir meu próximo movimento ninja!$1#$b#O que acha de \"Ataque Especial Shuriken Destruidora dos 7 Céus\"?#$b#Verdade, nome muito grande, não vou conseguir me lembrar depois...$2",
+	"Guilherme.Dialogue.summer_Sun4": "@, durante o verão é um bom momento pra nadar né!$1#$b#Queria ter trago meu shorts, só assim eu poderia treinar a técnica de caminhar nas águas.",
+	"Guilherme.Dialogue.summer_Sun6": "Ah, eu esqueci...$2#$b#Não! Agora não é hora de ficar remoendo as coisas, preciso me adaptar para me tornar um ninja melhor!$1",
+	"Guilherme.Dialogue.summer_Sun8": "O que será que posso comprar pro jantar?#$b#Alguma idéia @?$1",
 	"Guilherme.Dialogue.summer_Sun10": "Não se preocupe, estou treinando duro pra ser digno de estar do seu lado!$4",
 
 	// GUILHERME DIALOGOS OUTONO
@@ -224,7 +224,7 @@
 	"Guilherme.Dialogue.winter_Mon": "Se continuar assim, eu vou virar um cubo de gelo daqui a pouco...$2",
 	"Guilherme.Dialogue.winter_Mon2": "Argh! Sabia que devia ter comprado mais comida!$2",
 	"Guilherme.Dialogue.winter_Mon4": "Ei @, já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
-	"Guilherme.Dialogue.winter_Mon6": "O Gustavo disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
+	"Guilherme.Dialogue.winter_Mon6": "O {{i18n:Name.Gustavo}} disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
 	"Guilherme.Dialogue.winter_Mon8": "@, vou me tornar o melhor ninja e chegar no nível de um Hokage!$1#$b#E então, quando esse frio passar, será um novo começo!$1",
 	"Guilherme.Dialogue.winter_Mon10": "Amor, tenho um treinamento ninja especial pra gente se esquentar!$4#$b#Você advinhou! Uma corrida ninja!$1",
 
