@@ -2111,6 +2111,26 @@
 	"Event.1186002.19.Dialogue": "Ah... eu vou voltar a dormir que eu ganho mais...$2#$b#E por favor, silêncio!$5",
 	"Event.1186002.20.Dialogue": "Bem-vindo ao nosso quebra-galho!$1#$b#Ou como eles gostam de chamar, nossa Barraca de Camping.#$b#Sinta-se a vontade.$1",
 
+	//EVENTO TÉRMINO
+	"Event.1186003.1.Message": "Por algum motivo, você decidiu colocar a mão no bolso...",
+	"Event.1186003.2.Message": "Você tocou no pé de coelho e sentiu um alívio...",
+	"Event.1186003.3.Message": "Parece que todos estão ocupados.#Mas você sente que isso não é algo ruim...",
+
+	"Event.1186004.1.Dialogue": "Olha só quem apareceu...$7",
+	"Event.1186004.2.Dialogue": "Coê @...$8",
+	"Event.1186004.3.Dialogue": "Explica.$8",
+	"Event.1186004.4.Dialogue": "Não se faça de desentendido!$5^Não se faça de desentendida!$5#$b#Que história é essa de sair com nós quatro ao mesmo tempo?$5",
+	"Event.1186004.5.Dialogue": "Eu confiei em você...$2",
+	"Event.1186004.6.Dialogue": "Esse foi o nosso maior erro...$2",
+	"Event.1186004.7.Dialogue": "Não queremos mais saber.$8#$b#Melhor você ir embora agora, antes que piore mais ainda para o seu lado...$5",
+	"Event.1186004.8.Dialogue": "Saia da nossa barraca agora!$5",
+	"Event.1186004.9.Dialogue": "Oi gente, cheguei!$1",
+	"Event.1186004.10.Dialogue": "Sai você também!$5",
+	"Event.1186004.11.Dialogue": "Vixe, ta bom...$2",
+	"Event.1186004.12.Message": "Você perdeu pontos de amizade com Guilherme, Gustavo, Luigi e Mateus...",
+	"Event.1186004.13.Dialogue": "Foi mal Ronaldin, foi o calor do momento!$2",
+	"Event.1186004.14.Dialogue": "Não desculpo não!$5",
+
 	//EVENTO GUILHERME 2 CORAÇÕES
 	"Event.1187100.1.Dialogue": "QUÊ?!!!$5",
 	"Event.1187100.2.Dialogue": "Ops...$2",
