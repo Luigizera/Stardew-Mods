@@ -92,7 +92,7 @@
 	"Guilherme.Dialogue.Wed": "Tô sentindo que o Mateus vai gastar nosso dinheiro...#$b#Ah, relaxa isso já virou rotina pra ele...$2",
 	"Guilherme.Dialogue.Wed2": "Bom... hora de fazer compras na cidade.#$b#Acho que vou comprar uma faixa ninja se tiver!$1",
 	"Guilherme.Dialogue.Wed4": "Ei, uma pergunta séria agora...#$q 2010/2011 Wed4question_followup#... qual Jutsu eu estive treinando recentemente?#$r 2011 0 Wed4question_neutro#Taijutsu#$r 2010 15 Wed4question_bom#Ninjutsu#$r 2011 0 Wed4question_neutro#Genjutsu",
-	"Guilherme.Dialogue.Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1|Acho que vou ter que te dar uma aula de Jutsus...",
+	"Guilherme.Dialogue.Wed4question_followup": "$p 2010# Estou melhorando meu Ninjutsu a cada dia!$1#$b#O que acha de treinar comigo?$1|Acho que vou ter que te dar uma aula de Jutsus...#$b#O que acha?$1",
 	"Guilherme.Dialogue.Wed4question_bom": "Você acertou!$1#$b#Sabia que ia me conhecer melhor que qualquer um.$1",
 	"Guilherme.Dialogue.Wed4question_neutro": "Você errou!$2#$b#Estou melhorando meu Ninjutsu.",
 	"Guilherme.Dialogue.Wed6": "Preciso melhorar a cada dia, quero ser digno de ser o Sensei do Gustavo!$1",
@@ -1098,7 +1098,7 @@
 	//Quarta
 	"Mateus.Dialogue.Wed": "Acho que eu devia comprar um chapéus na lojinha perto da Torre do Mago.#$b#Não conta pro Guilherme!$1",
 	"Mateus.Dialogue.Wed2": "Opa tranquilo? preciso te perguntar algo...$1#$q 1005/1006 Wed2question_followup#...Qual chapéu você prefere?#$r 1006 0 Wed2question_neutro#Chapéu de Palha#$r 1006 0 Wed2question_neutro#Máscara de Goblin#$r 1005 15 Wed2question_bom#Fedora",
-	"Mateus.Dialogue.Wed2question_followup": "$p 1005# Espero fazer uma dupla com chapéu Fedora.$1|Vou ter que te dar umas aulas de moda.$2",
+	"Mateus.Dialogue.Wed2question_followup": "$p 1005# Espero fazer uma dupla com chapéu Fedora, o que acha?$1|Vou ter que te dar umas aulas de moda, fechado?",
 	"Mateus.Dialogue.Wed2question_bom": "Humf, você realmente tem um bom gosto.$1",
 	"Mateus.Dialogue.Wed2question_neutro": "Hm, não acho que esse seja esiloso.$2",
 	"Mateus.Dialogue.Wed4": "Eu nunca desisto de uma partida!#$b#Nunca mesmo.$8",
