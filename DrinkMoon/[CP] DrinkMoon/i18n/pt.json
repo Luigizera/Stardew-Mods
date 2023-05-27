@@ -626,13 +626,13 @@
 
 	//GUSTAVO DIALOGOS CASADO
 	// ESPECIAL
-	"Gustavo.MarriageDialogue.OneKid.0": "Oxi, cadê %kid1?",
-	"Gustavo.MarriageDialogue.OneKid.1": "Essa criança rima que nem eu!$1",
-	"Gustavo.MarriageDialogue.OneKid.2": "Eu cuido da criança hoje, pode ir fazer seus rolê.$1",
+	"Gustavo.MarriageDialogue.OneKid.0": "%kid1 rima como um deus!$1",
+	"Gustavo.MarriageDialogue.OneKid.1": "Essa criança rima que nem eu!$1#$b#Insano!$1",
+	"Gustavo.MarriageDialogue.OneKid.2": "Eu cuido da criança hoje, pode ir fazer seus rolê.#$b#Eu vou ter \"A Batalha de Rap\"!$1",
 	"Gustavo.MarriageDialogue.OneKid.3": "Será que ela vai fazer rimas que nem eu quando crescer?$1",
-	"Gustavo.MarriageDialogue.TwoKids.0": "Essas crianças são muito incríveis!$1",
+	"Gustavo.MarriageDialogue.TwoKids.0": "Essas crianças são muito incríveis!$1#$b#Olha essa velocidade!$1",
 	"Gustavo.MarriageDialogue.TwoKids.1": "Vou brincar de Rimar com as crianças depois, fica tranqs!$1",
-	"Gustavo.MarriageDialogue.TwoKids.2": "Acho %kid2 bem parecido com você!#$b#Só que as rimas que ele faz, é só comigo!$1",
+	"Gustavo.MarriageDialogue.TwoKids.2": "Acho %kid2 bem parecido com você!#$b#Só que as rimas que ele faz, se parece só comigo!$1",
 	"Gustavo.MarriageDialogue.TwoKids.3": "Finalmente eles cansaram, mas eu queria rimar mais...$2",
 	"Gustavo.MarriageDialogue.NoBed.0": "Eae, e a cama?$2",
 	"Gustavo.MarriageDialogue.NoBed.1": "Como pode a cama sumir?!$2",
