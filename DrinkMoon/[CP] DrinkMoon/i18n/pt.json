@@ -223,7 +223,7 @@
 	//Segunda
 	"Guilherme.Dialogue.winter_Mon": "Se continuar assim, eu vou virar um cubo de gelo daqui a pouco...$2",
 	"Guilherme.Dialogue.winter_Mon2": "Argh! Sabia que devia ter comprado mais comida!$2",
-	"Guilherme.Dialogue.winter_Mon4": "Ei @, já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
+	"Guilherme.Dialogue.winter_Mon4": "Já até bateu uma saudade do Outono né?!$1#$e#Esse frio não dá não...",
 	"Guilherme.Dialogue.winter_Mon6": "O Gustavo disse que não fui eu que congelei a água...$2#$b#Eu podia jurar que foi meu Jutsu!$2#$b#Você acredita em mim, né @?#$b#@...?$2",
 	"Guilherme.Dialogue.winter_Mon8": "@, vou me tornar o melhor ninja e chegar no nível de um Hokage!$1#$b#E então, quando esse frio passar, será um novo começo!$1",
 	"Guilherme.Dialogue.winter_Mon10": "Amor, tenho um treinamento ninja especial pra gente se esquentar!$4#$b#Você advinhou! Uma corrida ninja!$1",
@@ -726,7 +726,7 @@
 	"Gustavo.MarriageDialogue.Bad.9": "Acho que é o fim mesmo...$2",
 
 	// LUIGI DIALOGOS
-	"Luigi.Dialogue.Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto?",
+	"Luigi.Dialogue.Introduction": "Eh, oi...$0#$b#...$2#$b#Meu nome é Luigi e queria saber se tem algum mecânico aqui por perto.",
 	"Luigi.Dialogue.danceRejection": "Hm, foi mal, não tenho intenção de dançar.$2",
 	"Luigi.Dialogue.divorced": "...$2#$b#Agora não...$2#$e#%Luigi não quer falar com você.",
 	"Luigi.Dialogue.secondChance_Guys": "...Ok, só mais uma chance!$1",
@@ -735,12 +735,12 @@
 
 	// RESORT
 	"Luigi.Dialogue.Resort_Entering": "Quem diria que um lugar tão bonito assim existia!$1",
-	"Luigi.Dialogue.Resort_Leaving": "Bom, não posso ficar aqui pra sempre...$0#$b#Posso?$1",
+	"Luigi.Dialogue.Resort_Leaving": "Bom, não posso ficar aqui pra sempre...#$b#Posso?$1",
 	"Luigi.Dialogue.Resort_Shore": "É bom tirar um tempo pra pensar, fazer projetos consecutivamente cansa.$1",
 	"Luigi.Dialogue.Resort_Shore_2": "Haha, ficar chutando a água aqui é incrível!$1",
 	"Luigi.Dialogue.Resort_Umbrella": "Ah, hora de passar protetor solar...$2",
 	"Luigi.Dialogue.Resort_Umbrella_2": "Talvez eu possa adicionar algo sobre a praia nos meus projetos!$1",
-	"Luigi.Dialogue.Resort_Wander": "Hmm, será que existem mistérios nessa ilha?$0#$b#Ah, queria ter tempo de explorar tudo!$1",
+	"Luigi.Dialogue.Resort_Wander": "Eu me pergunto, será que existem mistérios nessa ilha?$0#$b#Queria ter tempo de explorar tudo!$1",
 	"Luigi.Dialogue.Resort_Bar": "Que sede, tem água ai?",
 	"Luigi.Dialogue.Resort": "Bom, esse tempo definitivamente é perfeito!",
 
@@ -790,13 +790,13 @@
 	"Luigi.Dialogue.Sat2": "Ainda estou trabalhando pra deixar tudo perfeito, mas sempre acho que posso fazer melhor.",
 	"Luigi.Dialogue.Sat4": "As vezes o Ronaldo encontra alguns geodos na mina, então levamos pro Clint pra dar uma olhada!$1",
 	"Luigi.Dialogue.Sat6": "Ei @, os dias tem sido muito corridos!$1#$b#Então qual é a boa nova?",
-	"Luigi.Dialogue.Sat8": "Ah, a melhor parte de acabar um projeto por completo, é começar outro!$1",
+	"Luigi.Dialogue.Sat8": "A melhor parte de acabar um projeto por completo, é começar outro!$1",
 	"Luigi.Dialogue.Sat10": "Quais são as boas novas?$1#$b#Só estou fazendo meu treino diário, tenho que ficar forte pra te proteger...$4",
 
 	//Domingo
 	"Luigi.Dialogue.Sun": "Quero continuar ajudando a Guilda dos Aventureiros, parece ser um desafio interessante!$1",
-	"Luigi.Dialogue.Sun2": "Algo me diz que tô esquecendo algo...#$b#Deve ser só minha imaginação.",
-	"Luigi.Dialogue.Sun4": "@, precisa de ajuda em combate?#$e#Pode não parecer mas eu sou bom nisso!$1",
+	"Luigi.Dialogue.Sun2": "Estou trabalhando na tradução, adicionar pra várias linguas é importante!",
+	"Luigi.Dialogue.Sun4": "Preciso de mais café.#$b#Não quero apagar denovo...$2",
 	"Luigi.Dialogue.Sun6": "Preciso ajudar o pessoal da Vila, assim vou conseguir me tornar um verdadeiro herói!$1",
 	"Luigi.Dialogue.Sun8": "Como Protetor do Vale, tenho que ajudar quem precisa.#$e#Esse é o meu dever!$1",
 	"Luigi.Dialogue.Sun10": "Acho que tenho que fazer um Projetinho maior um dia desses!$1",
@@ -848,7 +848,7 @@
 	"Luigi.Dialogue.summer_Wed4": "Já encontrei alguns bixos pequenos por aí, acho que a mina ta consumindo minha cabeça...#$b#Espera, você já viu também @?$8#$b#Não adianta esconder, sua cara revela.$1",
 	"Luigi.Dialogue.summer_Wed6": "Vou pro andar 40 pegar gelo, é a maneira mais eficiente!$1",
 	"Luigi.Dialogue.summer_Wed8": "Se você planeja explorar as minas, recomendo o andar 40... lá é friozinho e não é muito perigoso!$1",
-	"Luigi.Dialogue.summer_Wed10": "Você seria corajoso de explorar os andares 80 pra baixo nesse calor...$6^Você seria corajosa de explorar os andares 80 pra baixo nesse calor...$6#$b#Não vou te proibir, a verdade é que sei que você é... e você faria do mesmo jeito...$4",
+	"Luigi.Dialogue.summer_Wed10": "Você seria corajoso de explorar os andares 80 pra baixo nesse calor...$6^Você seria corajosa de explorar os andares 80 pra baixo nesse calor...$6#$b#Não vou te proibir... e você faria do mesmo jeito...$4",
 
 	//Quinta
 	"Luigi.Dialogue.summer_Thu": "O que você falaria pra uma pessoa normalmente?#$b#É uma pesquisa de campo.",
