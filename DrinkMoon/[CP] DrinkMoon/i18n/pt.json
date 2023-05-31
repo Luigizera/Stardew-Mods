@@ -333,7 +333,7 @@
 	// INVERNO
 	"Guilherme.MarriageDialogue.winter_1": "O ano já ta quase acabando, fez tudo que queria?$1#$b#Eu já fiz todos os meus treinamentos!$1",
 	"Guilherme.MarriageDialogue.winter_7": "Ah, o cheiro de peixe do festival de amanhã vai me deixar enjoado...$2",
-	"Guilherme.MarriageDialogue.winter_28": "Feliz ano novo @!$1#$b#Espero que nosso próximo ano seja ainda melhor!$l",
+	"Guilherme.MarriageDialogue.winter_28": "Feliz ano novo @!$1#$b#Espero que nosso próximo ano seja ainda melhor!$1",
 
 	// DIALOGOS DIA
 	"Guilherme.MarriageDialogue.RainyDay.0": "A chuva me traz algumas memórias!$1#$b#E não são memórias boas...$2",
@@ -349,7 +349,7 @@
 	"Guilherme.MarriageDialogue.IndoorDay.4": "Ninjas sempre acordam cedo!$1#$b#Por isso você é um de verdade!$1",
 
 	// DIALOGOS NOITE
-	"Guilherme.MarriageDialogue.RainyNight.0": "Já ta tarde, melhor ir dormir se não quiser tomar um ataque surpresa amanhã!$l",
+	"Guilherme.MarriageDialogue.RainyNight.0": "Já ta tarde, melhor ir dormir se não quiser tomar um ataque surpresa amanhã!$1",
 	"Guilherme.MarriageDialogue.RainyNight.1": "Tô caindo de sono...$2#$b#...#$b#Você foi enganado pelo mestre ninja, nunca baixe a guarda!$1",
 	"Guilherme.MarriageDialogue.RainyNight.2": "Noite de chuva, é ASMR para os meus ouvidos!$1",
 	"Guilherme.MarriageDialogue.RainyNight.3": "Vou dormir de conchinha hoje...#$b#Claro, com os olhos bem abertos!$1",
@@ -364,7 +364,7 @@
 
 
 	// AFEICAO
-	"Guilherme.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei com um verdadeiro ninja!$1^Mano, nem acredito que eu casei com uma verdadeira ninja!$l",
+	"Guilherme.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei com um verdadeiro ninja!$1^Mano, nem acredito que eu casei com uma verdadeira ninja!$1",
 	"Guilherme.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$1#$b#Meu sonho ninja se realizou!$1",
 	"Guilherme.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô treinando intensamente, e isso é viver!$1",
 	"Guilherme.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$1^Wow, você ta bem bonita hoje.$1",
@@ -664,7 +664,7 @@
 	// INVERNO
 	"Gustavo.MarriageDialogue.winter_1": "O inverno chegou...#$b#Pelo menos posso me esquentar com treinamento de Taijutsu!$1",
 	"Gustavo.MarriageDialogue.winter_7": "Estou dando uma pausa nas rimas por hoje.",
-	"Gustavo.MarriageDialogue.winter_28": "@, esse ano foi imprevissivel, mas o próximo será mais que incrível!$l",
+	"Gustavo.MarriageDialogue.winter_28": "@, esse ano foi imprevissivel, mas o próximo será mais que incrível!$1",
 		
 	// DIALOGOS DIA
 	"Gustavo.MarriageDialogue.RainyDay.0": "É chuva, aeeee!$1",
@@ -695,14 +695,14 @@
 		
 	// AFEICAO
 	"Gustavo.MarriageDialogue.Good.0": "Me casar com você foi como fazer uma rima no pôr do sol...$4",
-	"Gustavo.MarriageDialogue.Good.1": "Gosto do seu estilo, é bem forte!$l",
+	"Gustavo.MarriageDialogue.Good.1": "Gosto do seu estilo, é bem forte!$1",
 	"Gustavo.MarriageDialogue.Good.2": "Meu dia sempre fica melhor quando faço rimas com você!$1",
-	"Gustavo.MarriageDialogue.Good.3": "Admiro sua força, é o seu maior ponto forte.$l",
-	"Gustavo.MarriageDialogue.Good.4": "Treinei o suficiente para poder ficar com você!$l#$b#Não me arrependo!$1",
+	"Gustavo.MarriageDialogue.Good.3": "Admiro sua força, é o seu maior ponto forte.$1",
+	"Gustavo.MarriageDialogue.Good.4": "Treinei o suficiente para poder ficar com você!$1#$b#Não me arrependo!$1",
 	"Gustavo.MarriageDialogue.Good.5": "Será que nosso amuleto de casamento faz algum som?$1",
 	"Gustavo.MarriageDialogue.Good.6": "Já pensou que em outra realidade eu não encontrei você?#$b#Que realidade triste!$1",
 	"Gustavo.MarriageDialogue.Good.7": "@! Somos uma dupla imbatível!$1",
-	"Gustavo.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Gustavo.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$1",
 	"Gustavo.MarriageDialogue.Good.9": "Vou arrumar a nossa casa pra melhor!$1#$b#Relaxa, sem festinha hoje, prometo!$1",
 	"Gustavo.MarriageDialogue.Neutral.0": "Espero que minha rima não tenha te afetado.$2",
 	"Gustavo.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo como nossas rimas são insanas?",
@@ -933,7 +933,7 @@
 	"Luigi.Dialogue.winter_Sat4": "Preciso aprender novas técnicas de combate e depois...#$b#%Luigi parece focado.",
 	"Luigi.Dialogue.winter_Sat6": "Comparado aos andares 40 pra baixo...#$b#Esse frio não é tão forte assim...$6",
 	"Luigi.Dialogue.winter_Sat8": "Nunca te contei né?$1#$b#Esse cachecol foi um presente, então não tiro ele desde então.#$b#Além de que ele me ajuda muito em combate e pra tempos frios.$1",
-	"Luigi.Dialogue.winter_Sat10": "@, vamos em uma aventura de inverno, o que acha?$4",
+	"Luigi.Dialogue.winter_Sat10": "@! Vamos em uma aventura de inverno, o que acha?$4",
 
 	//Domingo
 	"Luigi.Dialogue.winter_Sun": "O inverno tá sendo maior do que eu esperava...#$b#Pelo menos tomar um café fica mais gostoso!$1",
@@ -958,14 +958,14 @@
 
 	//LUIGI DIALOGOS CASADO
 	// ESPECIAL
-	"Luigi.MarriageDialogue.OneKid.0": "Cadê %kid1?",
-	"Luigi.MarriageDialogue.OneKid.1": "Vou ficar de olho no %kid1, ok?",
-	"Luigi.MarriageDialogue.OneKid.2": "Ah... deixa que eu fico de olho no %kid1 hoje.#$b#Relaxa, eu posso dar umas pausas no meu projeto.$1",
+	"Luigi.MarriageDialogue.OneKid.0": "%kid1 vai ser forte, eu sei disso!$1",
+	"Luigi.MarriageDialogue.OneKid.1": "Essa criança vai ser um ótimo aventureiro no futuro!$1",
+	"Luigi.MarriageDialogue.OneKid.2": "Ah... deixa que eu fico de olho no %kid1 hoje.#$b#Relaxa, eu posso dar uma pausa nos meus projetos.$1",
 	"Luigi.MarriageDialogue.OneKid.3": "Onde esse pequeno se enfiou?",
-	"Luigi.MarriageDialogue.TwoKids.0": "Essas crianças são muito pequenas!$1",
-	"Luigi.MarriageDialogue.TwoKids.1": "Vou jogar alguns Jogos com as crianças depois, te vejo mais tarde!$1",
+	"Luigi.MarriageDialogue.TwoKids.0": "Melhor criar um robô pra ajudar a cuidar dessas crianças.#$b#Esquece, não quero ver auto-destruições...$2",
+	"Luigi.MarriageDialogue.TwoKids.1": "Vou jogar alguns Jogos com as crianças, te vejo mais tarde!$1",
 	"Luigi.MarriageDialogue.TwoKids.2": "Ei @, %kid2 tem a sua cara, haha!$1",
-	"Luigi.MarriageDialogue.TwoKids.3": "Essas crianças, não tenho paz...$7",
+	"Luigi.MarriageDialogue.TwoKids.3": "Você acredita que os dois mecheram no meu notebook?!$7#$b#Pelo menos eu não encontrei nenhum vírus...$7",
 	"Luigi.MarriageDialogue.NoBed.0": "Tipo... cama... cadê?$2",
 	"Luigi.MarriageDialogue.NoBed.1": "Será que tô no lugar errado?$2#$b#Cadê a cama?$2",
 	"Luigi.MarriageDialogue.NoBed.2": "E a cama, como que fica?$2",
@@ -973,7 +973,7 @@
 	"Luigi.MarriageDialogue.Outdoor.0": "Oi @, o projetinho foi um sucesso!$1",
 	"Luigi.MarriageDialogue.Outdoor.1": "O Projetinho foi só o começo!$1#$b#Hora de fazer algo maior, tipo uma máquina do tempo...#$e#Esquece, é muito perigoso, não iria ter te conhecido.",
 	"Luigi.MarriageDialogue.Outdoor.2": "Não liga pra mim, só estou apreciando a fazenda!$1#$b#Fez um bom trabalho em...",
-	"Luigi.MarriageDialogue.Outdoor.3": "Vou ficar aqui hoje, o tempo parece bom.",
+	"Luigi.MarriageDialogue.Outdoor.3": "Vou ficar aqui hoje, o tempo parece bom.#$b#...#$b#Cansei, vou voltar pra dentro...$2",
 	"Luigi.MarriageDialogue.Outdoor.4": "Não posso ficar em casa o dia inteiro, fica muito quente.#$b#Preciso de um ar fresco!$1",
 
 	//DIALOGOS COMUNS
@@ -987,25 +987,25 @@
 	"Luigi.MarriageDialogue.summer_8": "Acho que precisamos de mais 5 ventiladores, não vou sobreviver nesse calor.$2",
 
 	// OUTONO
-	"Luigi.MarriageDialogue.fall_1": "O outono chegou, o tempo passa rápido né?$1",
-	"Luigi.MarriageDialogue.fall_8": "Está pronto pro inverno?#$b#Quero treinar na neve um dia desses!$1",
+	"Luigi.MarriageDialogue.fall_1": "O outono chegou, o tempo passa rápido, né?$1",
+	"Luigi.MarriageDialogue.fall_8": "Eu definitivamente não estou pronto pro inverno...#$b#Acho que vou ter que começar a me preparar!$1",
 	"Luigi.MarriageDialogue.fall_15": "Ei amor, não se esquece do festival amanhã!$1#$b#O Clint faz umas ferramentas interessantes pra comprar durante o festival.",
-	"Luigi.MarriageDialogue.fall_26": "Ei vamos fazer cosplay no festival de amanhã?$1",
+	"Luigi.MarriageDialogue.fall_26": "Ei! Vamos fazer cosplay no festival de amanhã?$1",
 
 	// INVERNO
 	"Luigi.MarriageDialogue.winter_1": "Ta bem frio lá fora.#$b#Melhor você levar um casaco!$1",
 	"Luigi.MarriageDialogue.winter_7": "Amanhã é o festival de pesca!$1#$b#Você vai amanhã?",
-	"Luigi.MarriageDialogue.winter_28": "Esse ano foi incrível @!$4#$b#Espero que o próximo seja melhor ainda!$4",
+	"Luigi.MarriageDialogue.winter_28": "Esse ano foi incrível @!$4#$b#Espero que nossa aventura no próximo seja melhor ainda!$4",
 
 	// DIALOGOS DIA
 	"Luigi.MarriageDialogue.RainyDay.0": "Já recolhi as roupas no varal.$1#$b#É impressionante que você tem roupas iguais as outras.",
 	"Luigi.MarriageDialogue.RainyDay.1": "A chuva ta bem forte!$8#$b#Melhor você levar uma capa de chuva.",
 	"Luigi.MarriageDialogue.RainyDay.2": "Pode ir lá fora, só não se molhe.",
-	"Luigi.MarriageDialogue.RainyDay.3": "Ah.... queria ficar deitado na cama o dia todo hoje.$1",
+	"Luigi.MarriageDialogue.RainyDay.3": "Ah.... queria ficar deitado na cama o dia todo hoje.$2",
 	"Luigi.MarriageDialogue.RainyDay.4": "Bom dia, o que quer pra janta?#$b#Sei fazer miojo!$1",
 
 	"Luigi.MarriageDialogue.IndoorDay.0": "Bom dia, quer café?$1 [395]",
-	"Luigi.MarriageDialogue.IndoorDay.1": "Te vejo mais tarde amor, divirta-se!$1",
+	"Luigi.MarriageDialogue.IndoorDay.1": "Te vejo mais tarde amor, divirta-se!$1#$b#Vou ficar aqui terminando meus projetos.",
 	"Luigi.MarriageDialogue.IndoorDay.2": "Qual seu plano pra hoje?#$b#Vai explorar as minas?$1#$e#De qualquer forma, te vejo depois!$1",
 	"Luigi.MarriageDialogue.IndoorDay.3": "Vou ficar por aqui hoje, se quiser posso pedir algo pra comer depois.",
 	"Luigi.MarriageDialogue.IndoorDay.4": "Que soninho, melhor tomar um café...",
@@ -1025,36 +1025,36 @@
 	
 	
 	// AFEICAO
-	"Luigi.MarriageDialogue.Good.0": "Que sonho, não quero que acabe!$l",
-	"Luigi.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
-	"Luigi.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
-	"Luigi.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
-	"Luigi.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
-	"Luigi.MarriageDialogue.Good.5": "Nosso amuleto de casamento é lindo!$1",
-	"Luigi.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai...Longa história$2",
-	"Luigi.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
-	"Luigi.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
-	"Luigi.MarriageDialogue.Good.9": "Precisamos de internet urgente.",
-	"Luigi.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
-	"Luigi.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
-	"Luigi.MarriageDialogue.Neutral.2": "Dando uma pausa? também curto...",
+	"Luigi.MarriageDialogue.Good.0": "Que sonho, não quero que acabe!$1",
+	"Luigi.MarriageDialogue.Good.1": "Você com certeza é o meu melhor projeto de vida!$4",
+	"Luigi.MarriageDialogue.Good.2": "Não posso parar agora @.#$b#Sabe como é, nosso projeto de vida só começou!$1",
+	"Luigi.MarriageDialogue.Good.3": "Você ta parecendo um verdadeiro rei!$1^Você ta parecendo uma verdadeira rainha!$1",
+	"Luigi.MarriageDialogue.Good.4": "Hora de terminar meus lasers!$1#$b#No projeto... é claro...#$b#...#$b#Não escondi nada, eu juro!$8",
+	"Luigi.MarriageDialogue.Good.5": "Nosso amuleto de casamento com certeza passou por grandes aventuras!$1",
+	"Luigi.MarriageDialogue.Good.6": "Sem tempo pra descansar!$1#$b#Nossa aventura é grande!$1",
+	"Luigi.MarriageDialogue.Good.7": "@! Parece um bom momento para criar nosso grande projeto de vida!$1",
+	"Luigi.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou adicionar sistemas de auto-destruição!$1",
+	"Luigi.MarriageDialogue.Good.9": "Precisamos de internet urgente...$2#$b#Isso é unânime.",
+	"Luigi.MarriageDialogue.Neutral.0": "Espero que nosso projeto funcione bem.$2",
+	"Luigi.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso projetinho?",
+	"Luigi.MarriageDialogue.Neutral.2": "Quando eu terminar meu projeto... poderei finalmente descansar.",
 	"Luigi.MarriageDialogue.Neutral.3": "Se você for pra cidade, manda um oi pra rapazeada por mim!$1",
-	"Luigi.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não me coma vivo hoje!$1",
-	"Luigi.MarriageDialogue.Neutral.5": "Ei como ta nossa grana, @?",
-	"Luigi.MarriageDialogue.Neutral.6": "Espero que o pessoal esteja se virando bem!$1",
-	"Luigi.MarriageDialogue.Neutral.7": "Ah, acho que não vou fazer nada hoje...talvez nem amanhã.$1",
+	"Luigi.MarriageDialogue.Neutral.4": "Vou lavar as roupas, espero que a máquina não exploda como da última vez!$1#$b#Eu não fiz nada.",
+	"Luigi.MarriageDialogue.Neutral.5": "Como vai nosso projeto, @?",
+	"Luigi.MarriageDialogue.Neutral.6": "Nossa barraca tem um mecanismo secreto!$1#$b#Não posso contar, é secreto!$5",
+	"Luigi.MarriageDialogue.Neutral.7": "Quando vamos treinar nas minas?$1",
 	"Luigi.MarriageDialogue.Neutral.8": "O projetinho ta progredindo bem...$1",
-	"Luigi.MarriageDialogue.Neutral.9": "Vamos ficar aqui pra sempre né?$1",
-	"Luigi.MarriageDialogue.Bad.0": "...Você ainda gosta de mim?$2",
-	"Luigi.MarriageDialogue.Bad.1": "Aff... Acho que fui muito jovem para sair casando.$2",
-	"Luigi.MarriageDialogue.Bad.2": "Ainda se sente feliz?$2",
-	"Luigi.MarriageDialogue.Bad.3": "Fiz algo errado? Você ta estranho ultimamente.$2",
-	"Luigi.MarriageDialogue.Bad.4": "Hmm?$2",
-	"Luigi.MarriageDialogue.Bad.5": "Você era divertido, o que aconteceu?$2#$e#Foi mal se eu fiz algo errado...$2",
-	"Luigi.MarriageDialogue.Bad.6": "Ah... sério que tenho que viver com você?$2",
-	"Luigi.MarriageDialogue.Bad.7": "Antes eramos felizes... mas e agora?$2",
-	"Luigi.MarriageDialogue.Bad.8": "Você ta me dando um baita gelo ultimamente...$2",
-	"Luigi.MarriageDialogue.Bad.9": "Penso se podia ter feito algo melhor.$2",
+	"Luigi.MarriageDialogue.Neutral.9": "Hora de treinar meu combate!$1",
+	"Luigi.MarriageDialogue.Bad.0": "... Você ainda quer se aventurar?$2",
+	"Luigi.MarriageDialogue.Bad.1": "Está tudo bem mesmo...?$2",
+	"Luigi.MarriageDialogue.Bad.2": "Parece que tudo acabou, ainda podemos montar nosso projetinho?$2",
+	"Luigi.MarriageDialogue.Bad.3": "Estranho... você parece diferente...$2",
+	"Luigi.MarriageDialogue.Bad.4": "...?$2",
+	"Luigi.MarriageDialogue.Bad.5": "Não era pra terminar nesse update...$2",
+	"Luigi.MarriageDialogue.Bad.6": "Nossa aventura chegou no fim...?$2",
+	"Luigi.MarriageDialogue.Bad.7": "Isso não me parece certo...$2",
+	"Luigi.MarriageDialogue.Bad.8": "Era um bom começo... mas parece que foi descontinuado...$2",
+	"Luigi.MarriageDialogue.Bad.9": "Será que quebrei nosso programa...?$2",
 
 	// MATEUS DIALOGOS
 	"Mateus.Dialogue.Introduction": "Salve!$1#$b#Meu nome é Mateus, mas geral me chama de Matias.#$b#Tem algum mecânico aqui por perto?",
@@ -1341,7 +1341,7 @@
 	// INVERNO
 	"Mateus.MarriageDialogue.winter_1": "DROGA! TÁ MUITO FRIO DENOVO!$5",
 	"Mateus.MarriageDialogue.winter_7": "Ei, vamos fazer um boneco de neve amanhã no festival?",
-	"Mateus.MarriageDialogue.winter_28": "Obrigado por mais um ano, @. Nosso próximo ano será melhor ainda!$l",
+	"Mateus.MarriageDialogue.winter_28": "Obrigado por mais um ano, @. Nosso próximo ano será melhor ainda!$1",
 
 	// DIALOGOS DIA
 	"Mateus.MarriageDialogue.RainyDay.0": "Está chovendo! Pelo menos não preciso ficar mais no Gus.",
@@ -1357,7 +1357,7 @@
 	"Mateus.MarriageDialogue.IndoorDay.4": "Eae, bem tranquilinho?$1",
 
 	// DIALOGOS NOITE
-	"Mateus.MarriageDialogue.RainyNight.0": "Vou deitar naquela cama e hibernar!$l",
+	"Mateus.MarriageDialogue.RainyNight.0": "Vou deitar naquela cama e hibernar!$1",
 	"Mateus.MarriageDialogue.RainyNight.1": "Ah...já bateu um soninho!$1",
 	"Mateus.MarriageDialogue.RainyNight.2": "Noite com chuva, é igual a Hibernação na certa!$1",
 	"Mateus.MarriageDialogue.RainyNight.3": "Soninho...$1",
@@ -1372,15 +1372,15 @@
 	
 	
 	// AFEICAO
-	"Mateus.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei...$l",
-	"Mateus.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$l",
-	"Mateus.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$l",
-	"Mateus.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$l^Wow, você ta bem bonita hoje.$l",
-	"Mateus.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$l",
-	"Mateus.MarriageDialogue.Good.5": "Eu tava admirando o amuleto de casamento, parece caro!$l#$b#Relaxa presentes eu não vendo!$1",
+	"Mateus.MarriageDialogue.Good.0": "Mano, nem acredito que eu casei...$1",
+	"Mateus.MarriageDialogue.Good.1": "Sempre gostei de você sabia?$1",
+	"Mateus.MarriageDialogue.Good.2": "Ta curtindo a vida, @?#$e#Eu tô!$1",
+	"Mateus.MarriageDialogue.Good.3": "Você ta bem bonito hoje!$1^Wow, você ta bem bonita hoje.$1",
+	"Mateus.MarriageDialogue.Good.4": "Finalmente tenho uma casa!$1",
+	"Mateus.MarriageDialogue.Good.5": "Eu tava admirando o amuleto de casamento, parece caro!$1#$b#Relaxa presentes eu não vendo!$1",
 	"Mateus.MarriageDialogue.Good.6": "As vezes tenho medo do Gus me encontrar por ai... longa história$2",
 	"Mateus.MarriageDialogue.Good.7": "@! Só queria dizer que estou muito feliz de estar com você!$1",
-	"Mateus.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$l",
+	"Mateus.MarriageDialogue.Good.8": "Não se preocupa comigo, não vou quebrar nada hoje!$1",
 	"Mateus.MarriageDialogue.Good.9": "Acho que tô me acostumando a ficar sem internet.#$e#É até gostosinho.$1",
 	"Mateus.MarriageDialogue.Neutral.0": "Espero que você ainda goste de mim quando eu ficar velho.$2",
 	"Mateus.MarriageDialogue.Neutral.1": "Acha que seu avô ficaria feliz vendo nosso trabalho?",
