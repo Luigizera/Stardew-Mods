@@ -1304,22 +1304,22 @@
 
 	//MATEUS DIALOGOS CASADO
 	// ESPECIAL
-	"Mateus.MarriageDialogue.OneKid.0": "Você já viu %kid1 hoje?",
-	"Mateus.MarriageDialogue.OneKid.1": "Onde %kid1 tá?",
-	"Mateus.MarriageDialogue.OneKid.2": "Não se preocupa, vou dar mamadeira pro %kid1 hoje, pode cuidar da fazenda!$1",
-	"Mateus.MarriageDialogue.OneKid.3": "Minha vida ficou de cabeça pra baixo de um dia pro outro.",
-	"Mateus.MarriageDialogue.TwoKids.0": "Essas crianças são muito agitadas!$1",
-	"Mateus.MarriageDialogue.TwoKids.1": "Vou brincar de Pega-Pega com as crianças depois, se cuida!$1",
-	"Mateus.MarriageDialogue.TwoKids.2": "Acho %kid2 bem parecido com você!",
-	"Mateus.MarriageDialogue.TwoKids.3": "Ah, que vida tranquila, o que mais posso pedir?",
+	"Mateus.MarriageDialogue.OneKid.0": "%kid1 tá jogando muito!$1#$b#Você tem que ver.",
+	"Mateus.MarriageDialogue.OneKid.1": "Viu %kid1 em algum lugar?$7#$b#Ah, espera...#$b#Deve ta procurando meus chapéus, certeza!$8",
+	"Mateus.MarriageDialogue.OneKid.2": "Eu cuido da criança hoje, pode cuidar da fazenda.#$b#Relaxa que a gameplay é avançada!$1",
+	"Mateus.MarriageDialogue.OneKid.3": "Eu ainda tenho muita coisa pra fazer... estudar o campeonato é um dos meus afazeres!$1",
+	"Mateus.MarriageDialogue.TwoKids.0": "Essas crianças são muito agitadas, outro dia elas tinham roubado meu chapéu favorito!$1#$b#Sorte delas que não estragou...$8",
+	"Mateus.MarriageDialogue.TwoKids.1": "Vou jogar uns jogos infantis com as crianças depois, se cuida!$1",
+	"Mateus.MarriageDialogue.TwoKids.2": "Acho impressionante a semelhança de %kid2 com você... além de compartilharem do mesm-#$b#%Mateus está ficando que nem o Seba.",
+	"Mateus.MarriageDialogue.TwoKids.3": "Chapéus, jogos e água fresca!$1#$b#Tem algo melhor?$1",
 	"Mateus.MarriageDialogue.NoBed.0": "Bom, já to acostumado a dormir no chão mesmo...?$2",
 	"Mateus.MarriageDialogue.NoBed.1": "@... cadê a cama?$2",
 	"Mateus.MarriageDialogue.NoBed.2": "Tamo sem cama, perdemo...$2",
 	"Mateus.MarriageDialogue.NoBed.3": "O que aconteceu com a cama...?$2",
 	"Mateus.MarriageDialogue.Outdoor.0": "Dia bom hoje...#$e#Partiu de gameplay!$1",
-	"Mateus.MarriageDialogue.Outdoor.1": "Vou ficar de olho na fazenda hoje!#$e#Aqueles corvos não vão ter chance!$1",
+	"Mateus.MarriageDialogue.Outdoor.1": "Vou ficar de olho na fazenda hoje!#$e#Aqueles corvos não vão ter chance, joguei Duck Hunt mais de 100 vezes!$1",
 	"Mateus.MarriageDialogue.Outdoor.2": "Eae, bem tranquilinho?!#$e#Tava pensando em ti.$1",
-	"Mateus.MarriageDialogue.Outdoor.3": "Vou ficar pensando aqui fora um tempo.#$e#Não muito, se não eu quebro.",
+	"Mateus.MarriageDialogue.Outdoor.3": "Vou ficar pensando aqui fora um tempo.#$e#Não muito, se não eu desmaio.",
 	"Mateus.MarriageDialogue.Outdoor.4": "Não esquece de comer em!#$e#Sempre esqueço quando tô jogando.$2",
 
 	//DIALOGOS COMUNS
@@ -1681,7 +1681,7 @@
 
 	// SPECIAL DIALOGUE
 	"SpecialDialogue.GiveFlowers.0": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
-	"SpecialDialogue.GiveFlowers.1": "Pera... isso mostra que somos namorados agora?#$b#Isso é só pode ser um sonho, eu também te amo!$4",
+	"SpecialDialogue.GiveFlowers.1": "Nós somos... namorados?#$b#Que incrível! Eu também te amo!$4",
 	"SpecialDialogue.StardropGift": "Tantas batalhas que já passamos juntos @, só tenho a agradecer!$1#$b#Isso não é uma despedida, isso é um grande começo!$1#$b#Fique com isso, é mais especial pra você do que pra mim.",
 	"SpecialDialogue.RejectNPC.0": "Eh... não.$2",
 	"SpecialDialogue.RejectNPC.1": "Foi mal, mas isso é um não...$2",
