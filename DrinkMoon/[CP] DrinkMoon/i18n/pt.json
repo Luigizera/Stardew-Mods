@@ -1061,12 +1061,12 @@
 	"Mateus.Dialogue.danceRejection": "Lamento estou compromissado, Confia.",
 	"Mateus.Dialogue.divorced": "Criminoso! Sai daqui!$5",
 	"Mateus.Dialogue.dumped_Guys": "Não é possível, não creio!$5",
-	"Mateus.Dialogue.secondChance_Guys": "Ah... Olha esse cara... da pa dale?$5#$b#Só há um jeito de descobrir, só bora!$1",
+	"Mateus.Dialogue.secondChance_Guys": "Ah... Olha esse cara... da pra dale?$5#$b#Só há um jeito de descobrir, só bora!$1",
 	"Mateus.Dialogue.breakUp": "Hmpf...Sucumba.$5",
 	"Mateus.Dialogue.MovieInvitation": "Uma boa escolha, estarei lá!$8",
 
 	// RESORT
-	"Mateus.Dialogue.Resort_Entering": "Já que deu merda e a gente já tá aqui...#$b#Por que não dar uma relaxada?$1",
+	"Mateus.Dialogue.Resort_Entering": "Não tem nada melhor pra fazer, então...#$b#Por que não dar uma relaxada?$1",
 	"Mateus.Dialogue.Resort_Leaving": "Bem tranquilinho, bem tranquilinho.$1",
 	"Mateus.Dialogue.Resort_Leaving_2": "Não conta pro Guilherme, sem querer eu derrubei o celular dele na àgua.",
 	"Mateus.Dialogue.Resort_Shore": "Ah, vou de um lugar sem internet, para outro lugar sem internet!$2#$b#Boa idéia Mateus...$2",
@@ -1081,15 +1081,15 @@
 	// MATEUS DIALOGO COMUM
 	//Segunda
 	"Mateus.Dialogue.Mon": "Tô com sono, vô dormi.",
-	"Mateus.Dialogue.Mon2": "Pô mano, ninguêm quer jogar isso aqui comigo...$2#$b#Mesmo assim não vou desistir de floodar aqueles criminosos!$5#$e#Ah você está interessado? Você parece ser uma pessoa daora, se quiser qualquer dia desses ta convidado!$1#$b#Mal posso esperar por um bom e velho ARAMZINHO?!$1",
-	"Mateus.Dialogue.Mon4": "Eae, bem tranquilinho?$1#$e#Cara dormir no chão é uma merda#$b#Aquele saco de dormir é muito Jhonsons.",
+	"Mateus.Dialogue.Mon2": "Pô mano, ninguêm quer jogar isso aqui comigo...$2#$b#Mesmo assim não vou desistir de floodar aqueles criminosos!$5#$e#Ah você está interessado? Você parece ser uma pessoa daora, se quiser qualquer dia desses ta convidado!$1#$b#Mal posso esperar por um bom e velho ARAMZINHO!$1",
+	"Mateus.Dialogue.Mon4": "Eae, bem tranquilinho?$1#$e#Cara dormir no chão é uma merda...#$b#Aquele saco de dormir é muito paia.",
 	"Mateus.Dialogue.Mon6": "Cara eu tava fazendo design de uns personagens pra um certo jogo...$2#$b#Me lembre de nunca mais converter uma blusa xadrez vermelha...$2#$b#...#$b#PRA PIXELS !!! $5#$b#Era só isso mesmo queria desabafar, enfim...Bora de gameplay?$1",
 	"Mateus.Dialogue.Mon8": "Cara hoje o dia rendeu em!$1#$b#Geral tiltando um com o outro...#$b#Acho que nunca ri tanto na minha vida!$1",
 	"Mateus.Dialogue.Mon10": "Não conta pra eles, mas eu tô escondendo o celular do Guilherme.#$b#Quero dar uma trollada nele!$1",
 
 	//Terça
 	"Mateus.Dialogue.Tue": "Acho que a pior parte de tudo, é que nenhuma casa daqui parece ter internet.$2#$b#COMO VOU FAZER MINHAS DIÁRIAS NO GENSHIN?!$5",
-	"Mateus.Dialogue.Tue2": "Cara, imagine a cena...#$b#...Jogo de 50 minutos...#$b#...Nexus exposto...#$b#...Eu...#$b#...Riven 0/18...#$b#...Após eu contribuir para o time inimigo conseguir MASSACRAR o time aliado...$5#$b#...Vejo uma luz no fim do túnel...#$b#...Uma oportunidade de OURO...#$b#...Rapidamente aplico meu teleporte na base inimiga!$5#$b#...E com um único golpe...#$b#...a história foi feita!$1#$b#Nunca vou me esquecer dessa vitória.$1",
+	"Mateus.Dialogue.Tue2": "Cara, imagine a cena...#$b#... Jogo de 50 minutos...#$b#... Nexus exposto...#$b#... Eu...#$b#... Riven 0/18...#$b#... Após eu contribuir para o time inimigo conseguir MASSACRAR o time aliado...$5#$b#... Vejo uma luz no fim do túnel...#$b#... Uma oportunidade de OURO...#$b#... Rapidamente aplico meu teleporte na base inimiga!$5#$b#... E com um único golpe...#$b#... a história foi feita!$1#$b#Nunca vou me esquecer dessa vitória.$1",
 	"Mateus.Dialogue.Tue4": "Quer um conselho? Não confie no Luigi enquanto ele joga Ragnarok Online...#$b#'Por quê?' você deve estar se perguntando...#$b#O personagem dele tinha uma Habilidade...E advinha quem foi a cobaia?$5#$b#EU!#$b#E o pior de tudo, é que a Habilidade precisava de um item para funcionar...$5#$b#E ELE NÃO TINHAAAAAA!$5#$e#NÃO TINHAAAAAAAA!$5",
 	"Mateus.Dialogue.Tue6": "Sabe eu tinha um grande sonho...#$b#E o caminho era longo, várias pedras bloqueando a passagem...#$b#Espinhos por todo lado...#$b#Sem descanso, com apenas um único objetivo em mente...#$b#...Passar Dragon Force no mais difícil!",
 	"Mateus.Dialogue.Tue8": "Você sabia que eu já estive no Top 250.008 do Osu!?$1#$b#Sim, 8 pessoas desalmadas roubaram o que poderia ser o número perfeito!$5",
@@ -1097,9 +1097,9 @@
 
 	//Quarta
 	"Mateus.Dialogue.Wed": "Acho que eu devia comprar um chapéus na lojinha perto da Torre do Mago.#$b#Não conta pro Guilherme!$1",
-	"Mateus.Dialogue.Wed2": "Opa tranquilo? preciso te perguntar algo...$1#$q 1005/1006 Wed2question_followup#...Qual chapéu você prefere?#$r 1006 0 Wed2question_neutro#Chapéu de Palha#$r 1006 0 Wed2question_neutro#Máscara de Goblin#$r 1005 15 Wed2question_bom#Fedora",
+	"Mateus.Dialogue.Wed2": "Opa tranquilo?#$b#Preciso te perguntar algo...$1#$q 1005/1006 Wed2question_followup#...Qual chapéu você prefere?#$r 1006 0 Wed2question_neutro#Chapéu de Palha#$r 1006 0 Wed2question_neutro#Máscara de Goblin#$r 1005 15 Wed2question_bom#Fedora",
 	"Mateus.Dialogue.Wed2question_followup": "$p 1005# Espero fazer uma dupla com chapéu Fedora, o que acha?$1|Vou ter que te dar umas aulas de moda, fechado?",
-	"Mateus.Dialogue.Wed2question_bom": "Humf, você realmente tem um bom gosto.$1",
+	"Mateus.Dialogue.Wed2question_bom": "Hm, você realmente tem um bom gosto.$1",
 	"Mateus.Dialogue.Wed2question_neutro": "Hm, não acho que esse seja esiloso.$2",
 	"Mateus.Dialogue.Wed4": "Eu nunca desisto de uma partida!#$b#Nunca mesmo.$8",
 	"Mateus.Dialogue.Wed6": "@, quer jogar uma partida comigo?#$b#Seria divertido!$1",
@@ -1124,7 +1124,7 @@
 
 	//Sabado
 	"Mateus.Dialogue.Sat": "Hoje é dia de campeonato de Moba!$1#$b#Eu com certeza vou virar um Pro Player!$1",
-	"Mateus.Dialogue.Sat2": "Hmm, esse campeonato vai ser complicado...#$b#Hã? ah, vou assistir um campeonato hoje.",
+	"Mateus.Dialogue.Sat2": "Hmm, esse campeonato vai ser complicado...#$b#Vou ter que assistir!",
 	"Mateus.Dialogue.Sat4": "Vou virar o melhor jogador de todos, quero que você veja!$1",
 	"Mateus.Dialogue.Sat6": "Acho que vou apostar no meu time preferido, não conta pro Guilherme!$1",
 	"Mateus.Dialogue.Sat8": "Uhul, finalmente estou lucrando com minhas apostas!$1#$b#@, esse é o nosso sonho!$1",
@@ -1166,19 +1166,19 @@
     "Mateus.Dialogue.springquestion_2_followup": "$p 1000#Sonic é o meu AMIGOO, Sonic é o meu HERÓI!$1|Hmf, essas pessoas que não conhecem o Ouriço azul...ai ai.$2",
     "Mateus.Dialogue.springquestion_2_bom": "Perfeito, vamos falar um pouco sobre ele...#$b#Brincadeirinha! você já deve saber o quão incrivel ele é!$1",
     "Mateus.Dialogue.springquestion_2_neutro": "Hm, achei que você ia pegar a referência.$2",
-    "Mateus.Dialogue.springquestion_2_ruim": "Perfeito, vamos falar um pouco sobre ele...#$b#Sonic the Hedgehog é um ouriço azul nascido em Green Hill, na South Island. Lá ele vive e tem muitos amigos. Desde pequeno sempre foi famoso por ser um pouco diferente: ser o mais veloz dos animais da floresta!$1#$b#O Sonic vive num mundo cheio de animais, e sustentado pelo poder de pedras especiais, as Chaos Emerald. As Chaos Emerald (ou Esmeraldas do Caos, ou simplesmente Esmeralda Caóticas) são uma poderosa e misteriosa fonte de poder.$1#$b#Dr Robotnik, ou Dr Eggman, um maluco cientista, resolveu dominar o mundo do Sonic. Para tal, ele raptou todos os animais, para transformá-los em robôs, compondo um poderoso e grande exército, através do qual ele irá dominar o planeta, e para isso, as Chaos Emerald são fundamentais.$5#$b#Com isso, Sonic tem o objetivo de salvar os animais indefesos, recuperar as Esmeraldas do Caos, e parar Dr.Eggman!$1#$b#Ouf, cansei!",
+    "Mateus.Dialogue.springquestion_2_ruim": "Perfeito, vamos falar um pouco sobre ele...#$b#Sonic the Hedgehog é um ouriço azul nascido em Green Hill, na South Island.#$b#Lá ele vive e tem muitos amigos.$1#$b#Desde pequeno sempre foi famoso por ser um pouco diferente: ser o mais veloz dos animais da floresta!$1#$b#O Sonic vive num mundo cheio de animais, e sustentado pelo poder de pedras especiais, as Chaos Emerald.#$b#As Chaos Emerald (ou Esmeraldas do Caos, ou simplesmente Esmeralda Caóticas) são uma poderosa e misteriosa fonte de poder.$1#$b#Dr Robotnik, ou Dr Eggman, um maluco cientista que resolveu dominar o mundo do Sonic.#$b#Para tal, ele raptou todos os animais, para transformá-los em robôs, compondo um poderoso e grande exército, através do qual ele irá dominar o planeta, e para isso, as Chaos Emerald são fundamentais.$5#$b#Com isso, Sonic tem o objetivo de salvar os animais indefesos, recuperar as Esmeraldas do Caos, e parar Dr.Eggman!$1#$b#Ouf! Cansei!",
     
 	// MATEUS DIALOGOS VERAO
 	"Mateus.Dialogue.summer_1": "Mano, como ficou quente tão rápido?#q 1010/1011#Você acha que eu deveria comprar um Chapéu de Palha?#$r 1010 15 summerquestion_1_bom#Acho que sim!#$r 1011 0 summerquestion_1_neutro#Acho que você devia economizar.#$r 1011 -10 summerquestion_1_ruim#Acho que não é uma boa idéia",
     "Mateus.Dialogue.summerquestion_1_followup": "$p 1010#Bom, vou comprar um bem bonito!$1|Esquece... vocês só sabem economizar dinheiro...$2#$b#Vou comprar um pra você também, aí você vai ver como é necessário!$1",
     "Mateus.Dialogue.summerquestion_1_bom": "Sabia que você ia entender a necessidade!$1",
     "Mateus.Dialogue.summerquestion_1_neutro": "Não.",
-    "Mateus.Dialogue.summerquestion_1_ruim": "Ah, achei que você ia entender a necessidade disso...$2",
+    "Mateus.Dialogue.summerquestion_1_ruim": "Ah... achei que você ia entender a necessidade disso...$2",
 	//Segunda
 	"Mateus.Dialogue.summer_Mon": "Ah, ta muito quente, não vou conseguir andar mais nenhum centímetro...$7#$b#Ouf... cansei...$2#$b#Ai minha barriga...$2",
 	"Mateus.Dialogue.summer_Mon2": "E aí @, planeja comprar algumas coisas hoje?$1#$b#Tenho algumas recomendações se precisar, principalmente se for comida!$6#$b#Isso se o estoque de verão não for diferente.",
 	"Mateus.Dialogue.summer_Mon4": "O Guilherme nunca vai ganhar de mim no \"Rei da Pradaria\" se ele continuar andando pra frente e atirando...$8",
-	"Mateus.Dialogue.summer_Mon6": "Eae @!$1#$b#Sabe, tava querendo tomar um sorvete... mas acho que o Guilherme não vai deixar...$2#$b#Então, vou ter que pegar escondido.$8",
+	"Mateus.Dialogue.summer_Mon6": "Eae @!$1#$b#Sabe, tava querendo tomar um sorvete... mas acho que o Guilherme não vai deixar...$2#$b#Então, vou ter que pegar um no modo stealth.$8",
 	"Mateus.Dialogue.summer_Mon8": "Argh!$7#$b#Que susto @, achei que era o Guilherme...$1#$b#Não... não fiz nada de errado... confia...#$b#...#$b#Com licença...$8",
 	"Mateus.Dialogue.summer_Mon10": "Ah, parece que meu time não jogou bem ontem...$2#$b#Com certeza essa semana vai, vamos torcer juntos @!$1",
 
@@ -1186,7 +1186,7 @@
 	"Mateus.Dialogue.summer_Tue": "@! É você!$1#$b#Não esqueço o nome de um novo desafiante.$8",
     "Mateus.Dialogue.summer_Tue2": "Ué!? Cadê meu celular!?$7#$b#Ah, ta na minha mão.#$b#Que susto...$1",
     "Mateus.Dialogue.summer_Tue4": "@, você parece um oponente digno... venha pra uma batalha no joguinho agora!$8^@, você parece uma oponente digna... venha pra uma batalha no joguinho agora!$8#$b#Ah, você não tem um celular, esqueci disso...$2",
-    "Mateus.Dialogue.summer_Tue6": "Já completei o arcade mais de 10 vezes, mas não gosto de salvar o meu record...#$b#Se eu não colocar meu \"Nickname\" inteiro não tem valor!$1",
+    "Mateus.Dialogue.summer_Tue6": "Já completei o arcade mais de 10 vezes, mas não gosto de salvar o meu record...#$b#Se eu não colocar meu nome de usuário completo não tem valor!$1",
     "Mateus.Dialogue.summer_Tue8": "Sabe @, tenho que derrotar meu oponente com estilo, então...#$b#Não vou tirar meu chapéu tão facilmente!$8#$b#Pera, deixei meu chapéu no saco de dormir!$7",
     "Mateus.Dialogue.summer_Tue10": "@... @...$8#$b#Temos que ir comprar os novos chapéus de verão, bora!$1#$b#Relaxa, ganhei uma aposta contra o Guilherme, então eu posso.",
             
