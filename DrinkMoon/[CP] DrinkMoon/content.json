@@ -52,7 +52,7 @@
       {
          //Adiciona os Dados dos NPCs
          "Action": "Include",
-         "FromFile": "Data/NPCData/Sprites.json, Data/NPCData/Portraits.json, Data/NPCData/Dialogues.json, Data/NPCData/Schedules.json, Data/NPCData/Dispositions.json, Data/NPCData/GiftTastes.json, Data/NPCData/Animations.json, Data/NPCData/Romance.json, Data/NPCData/Mail.json, Data/NPCData/MovieData.json"
+         "FromFile": "Data/NPCData/Sprites.json, Data/NPCData/Portraits.json, Data/NPCData/Dialogues.json, Data/NPCData/Schedules.json, Data/NPCData/SchedulesDialogues.json, Data/NPCData/Dispositions.json, Data/NPCData/GiftTastes.json, Data/NPCData/Animations.json, Data/NPCData/Romance.json, Data/NPCData/Mail.json, Data/NPCData/MovieData.json"
       },
 
       {
