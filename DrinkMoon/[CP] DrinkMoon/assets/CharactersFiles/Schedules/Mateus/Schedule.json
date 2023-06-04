@@ -1,83 +1,94 @@
 {
-    // PRIMAVERA E OUTONO
-    "Mon": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+    "Changes": 
+    [
+        {
+            //Schedule Mateus
+            "Action": "EditData",
+            "Target": "Characters/Schedules/Mateus",
+            "Entries": 
+            {
+                // PRIMAVERA E OUTONO
+                "Mon": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:jogando.000\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "Tue": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Town 11 15 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "Tue": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Town 11 15 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "Wed": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "Wed": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:jogando.002\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "Thu": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Town 11 15 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "Thu": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Town 11 15 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "Fri": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "Fri": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:jogando.001\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "Sat": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 ScienceHouse 7 20 0/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "Sat": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 ScienceHouse 7 20 0/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "Sun": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 ScienceHouse 7 20 0/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "Sun": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 ScienceHouse 7 20 0/1300 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1500 Town 35 97 0/1700 Town 32 97 1/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    // VERÃO
-    "summer_Mon": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                // VERÃO
+                "summer_Mon": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "summer_Tue": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "summer_Tue": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "summer_Wed": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "summer_Wed": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "summer_Thu": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "summer_Thu": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "summer_Fri": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "summer_Fri": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    "summer_Sat": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "summer_Sat": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.000\"/750 Beach 54 7 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1300 Town 88 93 0/1410 ArchaeologyHouse 13 5 0/1600 Town 88 93 0/1640 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    "summer_Sun": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "summer_Sun": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Alex Schedule fix
-    "summer_16": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                //Alex Schedule fix
+                "summer_16": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/700 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.002\"/750 Beach 54 7 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.002\"/1300 ArchaeologyHouse 13 5 0/1600 Town 104 89 2/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    // INVERNO
-    "winter_Mon": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
-    
-    "winter_Tue": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.001\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
-    
-    "winter_Wed": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.002\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
-    
-    "winter_Thu": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.002\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
-    
-    "winter_Fri": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
-    
-    "winter_Sat": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
-    
-    "winter_Sun": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.000\"/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                // INVERNO
+                "winter_Mon": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    // ESPECIAIS
-    // Chuva
-    "rain": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/800 Custom_DMBarraca 2 6 2 mateus_jogando \"Strings\\schedules\\Mateus:chuva.000\"/1600 Custom_DMBarraca 5 11 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.003\"/1800 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "winter_Tue": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.001\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Egg Festival
-    "spring_13": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "winter_Wed": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.002\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    //Flower Dance
-    "spring_24": "610 Town 3 93 2 mateus_jogando/900 Forest 73 50 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "winter_Thu": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.002\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Luau
-    "summer_11": "610 Town 53 102 2 mateus_jogando2/900 Beach 28 4 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                "winter_Fri": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.002\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.001\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    //Dance of the Moonlight Jellies
-    "summer_28": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 53 102 2 mateus_jogando2/2130 Beach 29 14 2 mateus_dormindo \"Strings\\schedules\\Mateus:moonlightjellies.000\"",
+                "winter_Sat": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.001\"/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Stardew Valley Fair
-    "fall_16": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "winter_Sun": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.000\"/1030 Town 46 57 2 mateus_lendo2 \"Strings\\schedules\\Mateus:lendo.000\"/1200 Saloon 36 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/1600 Town 37 77 3/1900 Town 18 18 0/2100 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    //Spirit's Eve
-    "fall_27": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.003\"/1000 BusStop 6 19 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.001\"/1600 BusStop 31 22 2 mateus_lendo2/2100 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/2350 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                // ESPECIAIS
+                // Chuva
+                "rain": "610 Custom_DMBarraca 3 10 2 mateus_dormindo/800 Custom_DMBarraca 2 6 2 mateus_jogando \"Strings\\schedules\\Mateus:chuva.000\"/1600 Custom_DMBarraca 5 11 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.003\"/1800 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Festival of Ice
-    "winter_8": "610 Town 3 93 2 mateus_jogando/900 Forest 73 50 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+                //Egg Festival
+                "spring_13": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
 
-    //Night Market
-    "winter_15": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
-    "winter_16": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
-    "winter_17": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                //Flower Dance
+                "spring_24": "610 Town 3 93 2 mateus_jogando/900 Forest 73 50 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
-    //Feast of the Winter Star
-    "winter_25": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                //Luau
+                "summer_11": "610 Town 53 102 2 mateus_jogando2/900 Beach 28 4 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
 
+                //Dance of the Moonlight Jellies
+                "summer_28": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.000\"/750 Town 11 15 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.003\"/1300 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1500 Town 35 97 0/1700 Town 53 102 2 mateus_jogando2/2130 Beach 29 14 2 mateus_dormindo \"Strings\\schedules\\Mateus:moonlightjellies.000\"",
+
+                //Stardew Valley Fair
+                "fall_16": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+
+                //Spirit's Eve
+                "fall_27": "610 BusStop 6 19 2 mateus_lendo \"Strings\\schedules\\Mateus:lendo.003\"/1000 BusStop 6 19 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.001\"/1600 BusStop 31 22 2 mateus_lendo2/2100 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/2350 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+
+                //Festival of Ice
+                "winter_8": "610 Town 3 93 2 mateus_jogando/900 Forest 73 50 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.001\"",
+
+                //Night Market
+                "winter_15": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.005\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.005\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "winter_16": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.004\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.004\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+                "winter_17": "610 Custom_DMBarraca 3 10 2 mateus_frio \"Strings\\schedules\\Mateus:frio.003\"/1200 Saloon 35 21 2 mateus_jogando2 \"Strings\\schedules\\Mateus:jogando.003\"/1700 Beach 40 36 0/2000 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+
+                //Feast of the Winter Star
+                "winter_25": "610 BusStop 31 22 2 mateus_jogando/900 Town 23 48 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.000\"/1600 Saloon 34 17 2 mateus_jogando \"Strings\\schedules\\Mateus:jogando.005\"/2200 Custom_DMBarraca 3 10 2 mateus_dormindo \"Strings\\schedules\\Mateus:dormindo.000\"",
+
+            }
+        }
+    ]
 }

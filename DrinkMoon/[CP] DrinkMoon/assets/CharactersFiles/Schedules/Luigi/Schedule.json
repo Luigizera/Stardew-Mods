@@ -1,56 +1,90 @@
 {
-    // PRIMAVERA, VERÃO E OUTONO
-    //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
-    "Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+    "Changes": 
+    [
+        {
+            //Fake Schedule Luigi
+            "Action": "EditData",
+            "Target": "Characters/Schedules/Luigi",
+            "When": { "HasFlag |contains=landslideDone": false },
+            "Entries": 
+            {
+                // FAKE SCHEDULE
+                //6:00~9:30 acorda e vai pra montanha programar, 13:00 vai olhar as pedras no caminho da mina, 15:00 vai olhar o centro comunitário, 17:00 Vai olhar o boletim, 18:00 vai ficar andando em volta de uma árvore, 23:00 vai programar no ônibus
+                "spring": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                "Tue": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"",
+                "Wed": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+                "Thu": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"",
+                "Fri": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"",
+                "Sat": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
+                "Sun": "610 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/1300 Mountain 45 6 1/1500 Town 53 24 0/1700 Town 41 57 0/1800 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+            
+                // Chuva
+                "rain": "610 Custom_DMBarraca 8 8 luigi_dormindo/900 Custom_DMBarraca 8 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2200 Custom_DMBarraca 4 4 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\""
+            }
+        },
 
-    "Tue": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.001\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"",
-    
-    "Wed": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
-    
-    "Thu": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.003\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Saloon 17 20 0/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"",
-    
-    "Fri": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.004\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 Town 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"",
-    
-    "Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
-    
-    "Sun": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 AdventureGuild 4 13 0/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+        {
+            //Schedule Luigi
+            "Action": "EditData",
+            "Target": "Characters/Schedules/Luigi",
+            "When": { "HasFlag": "landslideDone" },
+            "Entries": 
+            {
+                // PRIMAVERA, VERÃO E OUTONO
+                //6:00~6:20 acorda e vai ler perto do ônibus, 7:50~09:00 vai para o parquinho para jogar, 13:00 vai para o Saloon jogar, 21:00 vai dormir perto do ônibus.
+                "Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
 
-    // INVERNO
-    "winter_Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
-    
-    "winter_Tue": "610 BusStop 11 5 2 luigi_frio \"Strings\\schedules\\Luigi:frio.000\"/1000 Hospital 5 17 0/1400 Saloon 31 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/1700 Town 41 57 0/1800 Town 56 52 2/2300 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\"",
-    
-    "winter_Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0//2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
+                "Tue": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.001\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"",
 
-    // ESPECIAIS
-    // Chuva
-    "rain": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:chuva.001\"/1300 Mine 16 4 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/2000 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.001\"",
+                "Wed": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
 
-    //Egg Festival
-    "spring_13": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                "Thu": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.003\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.003\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Saloon 17 20 0/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"",
 
-    //Flower Dance
-    "spring_24": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                "Fri": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.004\"/1300 Blacksmith 2 16 1/1700 Town 41 57 0/1830 Town 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"",
 
-    //Luau
-    "summer_11": "610 Town 57 100 2 luigi_notebook/900 Beach 42 5 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+                "Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
 
-    //Dance of the Moonlight Jellies
-    "summer_28": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 57 100 2 luigi_notebook/2130 Beach 31 11 2 luigi_notebook \"Strings\\schedules\\Luigi:moonlightjellies.000\"",
+                "Sun": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.002\"/1300 AdventureGuild 4 13 0/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
 
-    //Stardew Valley Fair
-    "fall_16": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                // INVERNO
+                "winter_Mon": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
 
-    //Spirit's Eve
-    "fall_27": "610 BusStop 17 15 1 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1200 BusStop 16 10 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1600 BusStop 28 22 2 luigi_espada/2100 Town 24 44 2/2350 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                "winter_Tue": "610 BusStop 11 5 2 luigi_frio \"Strings\\schedules\\Luigi:frio.000\"/1000 Hospital 5 17 0/1400 Saloon 31 6 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"/1700 Town 41 57 0/1800 Town 56 52 2/2300 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.000\"",
 
-    //Festival of Ice
-    "winter_8": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                "winter_Sat": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.005\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.005\"/1500 Town 41 57 0/1700 Saloon 22 18 0//2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.001\"",
 
-    //Night Market
-    "winter_17": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 20 20 2 \"Strings\\schedules\\Luigi:nightmarket.000\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                // ESPECIAIS
+                // Chuva
+                "rain": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:chuva.001\"/1300 Mine 16 4 2 luigi_notebook \"Strings\\schedules\\Luigi:chuva.000\"/2000 Custom_DMBarraca 8 8 2 luigi_dormindo \"Strings\\schedules\\Luigi:dormindo.001\"",
 
-    //Feast of the Winter Star
-    "winter_25": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+                //Egg Festival
+                "spring_13": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
 
+                //Flower Dance
+                "spring_24": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+                //Luau
+                "summer_11": "610 Town 57 100 2 luigi_notebook/900 Beach 42 5 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1700 Town 41 57 0/1830 39 67 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.004\"",
+
+                //Dance of the Moonlight Jellies
+                "summer_28": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 57 100 2 luigi_notebook/2130 Beach 31 11 2 luigi_notebook \"Strings\\schedules\\Luigi:moonlightjellies.000\"",
+
+                //Stardew Valley Fair
+                "fall_16": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+                //Spirit's Eve
+                "fall_27": "610 BusStop 17 15 1 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1200 BusStop 16 10 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1600 BusStop 28 22 2 luigi_espada/2100 Town 24 44 2/2350 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+                //Festival of Ice
+                "winter_8": "610 BusStop 11 5 luigi_frio/700 Town 1 89 2 luigi_notebook/900 Forest 76 47 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+                //Night Market
+                "winter_17": "610 Mine 16 4 2 luigi_espada \"Strings\\schedules\\Luigi:espada.000\"/1300 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 20 20 2 \"Strings\\schedules\\Luigi:nightmarket.000\"/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+                //Feast of the Winter Star
+                "winter_25": "610 BusStop 11 5 luigi_frio/700 BusStop 28 22 2 luigi_espada/900 Mountain 16 8 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.000\"/1500 Town 53 24 0/1700 Town 41 57 0/1800 Town 11 64 2 square_4_4/2300 BusStop 14 4 2 luigi_notebook \"Strings\\schedules\\Luigi:notebook.002\"",
+
+            }
+        }
+    ]
 }
