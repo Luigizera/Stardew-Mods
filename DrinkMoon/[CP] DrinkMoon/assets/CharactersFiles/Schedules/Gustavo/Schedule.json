@@ -22,9 +22,9 @@
 
                 //Sam schedule fix
                 "spring_9": "NOT friendship Penny 6/610 Custom_DMBarraca 1 8 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 23 97 1 gustavo_jutsu_idle \"Strings\\schedules\\Gustavo:jutsu.006\"/1900 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/2230 Custom_DMBarraca 1 8 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
-                "spring_23": "NOT friendship Penny 6/GOTO 9",
+                "spring_23": "NOT friendship Penny 6/610 Custom_DMBarraca 1 8 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 23 97 1 gustavo_jutsu_idle \"Strings\\schedules\\Gustavo:jutsu.006\"/1900 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/2230 Custom_DMBarraca 1 8 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
                 "fall_9": "NOT friendship Penny 6/610 Custom_DMBarraca 1 8 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 23 97 1 gustavo_jutsu_idle \"Strings\\schedules\\Gustavo:jutsu.006\"/1900 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/2230 Custom_DMBarraca 1 8 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
-                "fall_23": "NOT friendship Penny 6/GOTO 9",
+                "fall_23": "NOT friendship Penny 6/610 Custom_DMBarraca 1 8 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.005\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 23 97 1 gustavo_jutsu_idle \"Strings\\schedules\\Gustavo:jutsu.006\"/1900 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.005\"/2230 Custom_DMBarraca 1 8 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.001\"",
 
                 "Sun": "610 Custom_DMBarraca 1 8 0 gustavo_sono/710 Town 44 34 0 gustavo_musica \"Strings\\schedules\\Gustavo:musica.002\"/1100 Town 74 38 2/1400 Town 54 71 0/1700 Town 24 97 2 gustavo_jutsu \"Strings\\schedules\\Gustavo:jutsu.002\"/2230 Custom_DMBarraca 1 8 2 gustavo_dormindo \"Strings\\schedules\\Gustavo:dormindo.000\"",
 
