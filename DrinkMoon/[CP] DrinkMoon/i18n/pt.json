@@ -1698,13 +1698,13 @@
   	"Guilherme.ScheduleDialogue.jutsu.000": "Estou treinando para me tornar um ninja!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
   	"Guilherme.ScheduleDialogue.jutsu.001": "Vou lançar meu Jutsu Supremo!! Rasenshuriken!!$9#$b#%Nada acontece...",
   	"Guilherme.ScheduleDialogue.jutsu.002": "Preciso treinar a arte de virar um toco...$9#$b#Só assim vou virar um ninja de verdade!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
-  	"Guilherme.ScheduleDialogue.jutsu.003": "Ninjutsu, Genjutsu, Taijutsu, Senjutsu...$9#$b#Preciso dominar pelo menos 1!$9#$e#%Guilherme parece estar muito determinado.",
-  	"Guilherme.ScheduleDialogue.jutsu.004": "Nunca vou desistir SENSEI!!!$9#$e#%Guilherme está se enchendo de determinação.",
+  	"Guilherme.ScheduleDialogue.jutsu.003": "Ninjutsu, Genjutsu, Taijutsu, Senjutsu...$9#$b#Preciso dominar pelo menos um!$9#$e#%Guilherme parece estar muito determinado.",
+  	"Guilherme.ScheduleDialogue.jutsu.004": "Nunca vou desistir!!!$9#$e#%Guilherme está se enchendo de determinação.",
   	"Guilherme.ScheduleDialogue.jutsu.005": "Preciso de mais foco...$9#$b#Em breve vou realizar um Jutsu incrível, só espere para ver!$9#$e#%Guilherme está fazendo movimentos rápidos com as mãos.",
 
   	"Guilherme.ScheduleDialogue.lista.000": "Cara, se o Mateus continuar comprando coisas inúteis, a gente não vai ter dinheiro pra comprar isso...$5#$b#Vou ter que dar uma bronca nele!$5#$e#%Guilherme está focado nas compras.",
   	"Guilherme.ScheduleDialogue.lista.001": "Hmm, deixa eu dar uma olhada na minha lista...#$e#Certo! Precisamos disso... e disso...$10#$e#%Guilherme está focado nas compras.",
-  	"Guilherme.ScheduleDialogue.lista.002": "Que pechincha! vou levar isso!$10#$e#%Guilherme está focado nas compras.",
+  	"Guilherme.ScheduleDialogue.lista.002": "Que pechincha! Vou levar isso!$10#$e#%Guilherme está focado nas compras.",
   	"Guilherme.ScheduleDialogue.lista.003": "Acho que vou conseguir comprar alguns tomates...#$e#Será que da pra levar mais alguma coisa...?#$e#%Guilherme está focado nas compras.",
 
   	"Guilherme.ScheduleDialogue.chuva.000": "O cara tomou algum buff da chuva, não é possível!$13",
@@ -1792,7 +1792,7 @@
   	"Mateus.ScheduleDialogue.frio.000": "Não vou sair desse cobertor até ficar quente denovo!$5",
   	"Mateus.ScheduleDialogue.frio.001": "Neve?!$0#$b#COMO ASSIM TEM NEVE?!$5",
   	"Mateus.ScheduleDialogue.frio.002": "QUE FRIIIO!$5",
-  	"Mateus.ScheduleDialogue.frio.003": "Aah...Só mais uns 10 minutinhos!$1",
+  	"Mateus.ScheduleDialogue.frio.003": "Aah... Só mais uns 10 minutinhos!$1",
   	"Mateus.ScheduleDialogue.frio.004": "Não consigo levantar, a cama ta tããão boa!$1",
   	"Mateus.ScheduleDialogue.frio.005": "Vou virar um Cubchoo ou um Vanillite!$5#$e#MEU DEUS TA MUITO FRIOOO.$5",
 	
@@ -1818,12 +1818,12 @@
   	"Ronaldo.ScheduleDialogue.moonlightjellies.000": "Cara... eu vou surtar...$8",
 
 	//SEBA DIALOGOS DE ROTINA
-	"Seba.ScheduleDialogue.madeira.000": "Por que EU tenho que cortar madeira?!$8#$e#Agora que já tô aqui, não tenho escolha...$8",
-  	"Seba.ScheduleDialogue.madeira.001": "Cuidado com a cabeça!$8#$e#MADEIRAAAAAA!$8",
-  	"Seba.ScheduleDialogue.madeira.002": "Toma cuidado, não sou experiente com machados... e nunca quero ser.$8",
-  	"Seba.ScheduleDialogue.madeira.003": "Só queria poder relaxar por um mês...#$b#Talvez dois...#$e#Ou melhor, quatro meses...$8",
+	"Seba.ScheduleDialogue.madeira.000": "Advinha quem foi selecionado no dado para pegar madeira?!$8#$b#Advinhou...$8",
+  	"Seba.ScheduleDialogue.madeira.001": "Os dados da sorte não estão do meu lado...$8#$b#Cuidado com a cabeça!$8#$e#MADEIRAAAAAA!$8",
+  	"Seba.ScheduleDialogue.madeira.002": "Toma cuidado, não sou experiente com machados.$8#$b#Outro dia uma árvore quase caiu na minha cabeça.$8#$b#Azarado como sempre...$8",
+  	"Seba.ScheduleDialogue.madeira.003": "Só queria poder relaxar por um mês...#$b#Talvez dois...#$e#Ou melhor, quatro meses!$8",
   	"Seba.ScheduleDialogue.madeira.004": "Ah cara, já estou todo cansado...$8#$b#E nem cortei uma árvore sequer...$8",
-  	"Seba.ScheduleDialogue.madeira.005": "Madeira... mais madeira...$8#$b#Ah, me da um tempo mano...$8",
+  	"Seba.ScheduleDialogue.madeira.005": "Madeira... mais madeira...$8#$b#Não é como no \"Zarabatana Art Online\"...$8",
 
   	"Seba.ScheduleDialogue.guardando.000": "Espera fofo, estou guardando a madeira...^Espera fofa, estou guardando a madeira...",
   	"Seba.ScheduleDialogue.guardando.001": "Agora não meu lindo, tem muita madeira pra eu guardar...^Agora não minha linda, tem muita madeira pra eu guardar...",
@@ -1841,7 +1841,7 @@
   	"Seba.ScheduleDialogue.dormindo.000": "%Seba está cansadito e não pode levantar...",
   	"Seba.ScheduleDialogue.dormindo.001": "%Seba está sucumbindo ao sono...",
 
-  	"Seba.ScheduleDialogue.nightmarket.000": "Ah, achei que teria algum tipo de manga por aqui...$2#$e#Que arrependimento.$2",
+  	"Seba.ScheduleDialogue.nightmarket.000": "Achei que teria algum tipo de manga por aqui...$2#$e#Que arrependimento.$2",
 
   	"Seba.ScheduleDialogue.moonlightjellies.000": "%Seba está tentando dormir...",
 
@@ -1863,7 +1863,7 @@
 	"Gustavo.Festival.FlowerDance": "Eae, vai dançar hoje?$1#$b#Não, não é um convite.",
 	"Gustavo.Festival.FlowerDance.Spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
 	"Luigi.Festival.FlowerDance": "Já escolheu o seu par pra dança?$1",
-	"Luigi.Festival.FlowerDance.Spouse": "Ei, o que acha de dançarmos?$1#$b#Acho que vai ser divertido!$1",
+	"Luigi.Festival.FlowerDance.Spouse": "Só consigo brandir uma espada porque treinei muito, será que dançar também é muito difícil?$1#$b#Acho que vou ter que descobrir!$4",
 	"Mateus.Festival.FlowerDance": "Ah cara, eu não sou muito bom em dançar...$7",
     "Mateus.Festival.FlowerDance.Spouse": "Ei, não sou muito bom em dança...#$b#Mas, se for com você, eu daria um arraso!$4",
 	"Ronaldo.Festival.FlowerDance": "Ah, queria que a Ruivinha estivesse aqui pra eu dançar...$2",
@@ -1875,8 +1875,8 @@
 	"Gustavo.Festival.Luau.Spouse": "Amor, vamos experimentar aquele sopão, parece incrível!$1",
 	"Luigi.Festival.Luau": "Ah... e se o plano der errado, o que eu faço depois?#$b#%Luigi parece estar confuso sobre algo.",
 	"Luigi.Festival.Luau.Spouse": "Amor, fala pro Mateus que o plano não vai dar certo!#$b#Ele quer ir na lojinha do Pierre pegar uma carambola escondido.",
-	"Mateus.Festival.Luau": "%Mateus está devorando os lanches.",
-    "Mateus.Festival.Luau.Spouse": "Ei, quer um pedaço amor?#$e#%Mateus está devorando os lanches.",
+	"Mateus.Festival.Luau": "O Plano vai dar certo, confia!$1#$b#%Mateus está devorando os lanches.",
+    "Mateus.Festival.Luau.Spouse": "Fala pro Luigi que o plano vai funcionar amor.#$b#Sem tempo pra explicar, minha boca ta cheia!$1#$e#%Mateus está devorando os lanches.",
 	"Ronaldo.Festival.Luau": "O pessoal ta dançando bem!$1#$e#Hã? eu não vou não.",
 	"Seba.Festival.Luau": "Quero ver quem vai ser o corajoso que vai experimentar aquele sopão.$1",
 	//MOONLIGHT JELLIES
@@ -1889,28 +1889,28 @@
 	"Mateus.Festival.MoonlightJellies": "Hmm... o que comprar hoje?",
     "Mateus.Festival.MoonlightJellies.Spouse": "Hmm... o que comprar hoje?#$e#Quer alguma coisa amor?#$b#É na conta do Guilherme não se preocupe.$1",
 	"Ronaldo.Festival.MoonlightJellies": "Ei, da pra ver o Luigi daqui!$1",
-	"Seba.Festival.MoonlightJellies": "Ah, meu deus Mateus!",
+	"Seba.Festival.MoonlightJellies": "Ah, meu deus Mateus, sem tempo pra isso cara!",
 	//STARDEW VALLEY FAIR
 	"Guilherme.Festival.SVFair": "Acabei de ver meu futuro e...#$b#Acho que vamos falir se o Mateus não parar de comprar coisas escondido.$5",
 	"Guilherme.Festival.SVFair.Spouse": "Eu vi meu futuro e...#$e#... fica por isso mesmo!$4",
-	"Gustavo.Festival.SVFair": "Acho que estou fazendo algo errado...$2#$b#A máquina de força sempre fica toda vermelha, eu tô perdendo?$2",
-	"Gustavo.Festival.SVFair.Spouse": "Finalmente descobri, quando a barrinha da máquina fica vermelha significa que eu venci!$1",
-	"Luigi.Festival.SVFair": "Wow, essas armas são de qualidade!$1#$b#Acho que vou comprar uma barra de ouro, preciso aprimorar minha espada.",
+	"Gustavo.Festival.SVFair": "Acho que estou fazendo algo errado...$2#$b#A máquina de força sempre fica toda amarela, eu tô perdendo?$2",
+	"Gustavo.Festival.SVFair.Spouse": "Finalmente descobri, quando a barrinha da máquina fica amarela significa que eu venci!$1",
+	"Luigi.Festival.SVFair": "Uou, essas armas são de qualidade!$1#$b#Acho que vou comprar uma barra de ouro, preciso aprimorar minha espada.",
 	"Luigi.Festival.SVFair.Spouse": "Ei amor, comprei uma barra de ouro pra você!$1[336]#$b#Vou comprar mais algumas pra aprimorar minha espada.",
 	"Mateus.Festival.SVFair": "Já terminei de comprar as coisas da lojinha.$1#$b#A dificuldade daqueles jogos eram coisa de criança.$8",
     "Mateus.Festival.SVFair.Spouse": "Aqui, pra você amor.[241]#$e#Esses hamburgers são incríveis, eles tão dando de graça lá em cima!$1",
 	"Ronaldo.Festival.SVFair": "Ei, pega um lanchão!$1#$b#Aproveita que ta de graça.",
 	"Seba.Festival.SVFair": "Cara, só faltou colocar um sapato nessa galinha que ficaria perfeito!$1",
 	//SPIRITS EVE
-	"Guilherme.Festival.SpiritsEve": "Wow, olha esses esqueletos!$8",
+	"Guilherme.Festival.SpiritsEve": "Uou, olha esses esqueletos!$8",
 	"Guilherme.Festival.SpiritsEve.Spouse": "Você já lutou contra um desses esqueletos?$8#$b#Eles são muito grandes de perto!$8",
-	"Gustavo.Festival.SpiritsEve": "Alô, tem alguém em casa?#$b#%Gustavo está encarando a janela.",
+	"Gustavo.Festival.SpiritsEve": "Alô!? Tem alguém em casa?#$b#%Gustavo está encarando a janela.",
 	"Gustavo.Festival.SpiritsEve.Spouse": "Se ninguém na casa vai me responder, a força bruta vou recorrer.#$b#%Gustavo está encarando a janela.",
 	"Luigi.Festival.SpiritsEve": "Minhas habilidades de aventureiro nunca falham, chegar aqui foi moleza.$1",
 	"Luigi.Festival.SpiritsEve.Spouse": "Sabia que ia chegar aqui amor, não foi tão difícil né?$1",
 	"Mateus.Festival.SpiritsEve": "Não vou ir mais pra frente, esse é meu limite...",
-    "Mateus.Festival.SpiritsEve.Spouse": "Bom, você já sabe...#$b#Não vou dar mais nem 1 passo.",
-	"Ronaldo.Festival.SpiritsEve": "Eu não vou ali não...#$e#Talvez eu vá...#$b#Mas não agora.",
+    "Mateus.Festival.SpiritsEve.Spouse": "Bom, você já sabe...#$b#Não vou dar mais nem um passo.",
+	"Ronaldo.Festival.SpiritsEve": "Eu não vou ali não...#$e#Não que eu esteja com medo sabe?#$b#Com certeza não estou com medo...",
 	"Seba.Festival.SpiritsEve": "Foi muito fácil chegar aqui, sem meme.",
 	//FESTIVAL OF ICE
 	"Guilherme.Festival.IceFestival": "Acho que vou entrar nesse iglu.#$b#Parece aconchegante!$1",
@@ -1921,7 +1921,7 @@
 	"Luigi.Festival.IceFestival.Spouse": "Amor, vamos fazer um boneco de neve também?$1#$b#Vamos, vai ser divertido.$1",
 	"Mateus.Festival.IceFestival": "Haha, aquela escultura ficou muito boa!$1",
     "Mateus.Festival.IceFestival.Spouse": "Amor, o que achou daquela escultura?#$b#Muito boa né?$1",
-	"Ronaldo.Festival.IceFestival": "Já pensou se alguem cair nessa água gelada?$1#$e#Por que você ta me olhando assim?",
+	"Ronaldo.Festival.IceFestival": "Já pensou se alguem cair nessa água gelada?#$e#Por que você ta me olhando assim?$2",
 	"Seba.Festival.IceFestival": "Pra onde foi toda a madeira?!$2#$b#Pelo menos agora eu tenho uma desculpa.$1",
 	//CHRISTMAS
 	"Guilherme.Festival.Christmas": "M- ajwudwa-$7#$b#Nã- cownsiguo-$7#$b#%A lingua de Guilherme parece estar presa.",
@@ -1943,7 +1943,7 @@
 	"Luigi.MoviesReactions.AfterMovie.Text.Horror": "Nunca mais me chame pra assistir filmes de terror.$5",
 	//LUIGI ACTION
 	"Luigi.MoviesReactions.BeforeMovie.Text.Action": "Um filme de ação!?$1#$b#Isso vai ser legal!$1",
-	"Luigi.MoviesReactions.DuringMovie.Text.Action": "Wow, que incrível!$8",
+	"Luigi.MoviesReactions.DuringMovie.Text.Action": "Uou, que incrível!$8",
 	"Luigi.MoviesReactions.AfterMovie.Text.Action": "Obrigado por me chamar pra assistir esse filme.#$b#Foi muito bom!$1",
 	//LUIGI COMEDY
 	"Luigi.MoviesReactions.BeforeMovie.Text.Comedy": "Espero que esse filme seja engraçado.#$b#E olha que é bem facil me fazer rir!$1",
