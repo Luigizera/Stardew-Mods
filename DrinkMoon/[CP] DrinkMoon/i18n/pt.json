@@ -2279,7 +2279,7 @@
 	//EVENTO GUSTAVO 4 CORAÇÕES
 	"Event.1188005.1.Dialogue": "O Boneco já tá tomando uma forma!$1",
 	"Event.1188005.2.Dialogue": "Não se preocupe, vou acabar em breve!$1",
-	"Event.1188005.3.Dialogue": "Ah...Não tô aguentando segurar isso aqui mais...$2",
+	"Event.1188005.3.Dialogue": "Ah... Não tô aguentando segurar isso aqui mais...$2",
 	"Event.1188005.4.Dialogue": "Ei @, vem ver nosso Boneco de Treino!$1",
 	"Event.1188005.5.Dialogue": "Eu estava com essa idéia na cabeça de fazer um boneco de treino.#$b#Mas, não sou bom o suficiente pra construir um por conta própria.$2#$b#Então chamei o Guilherme e a Robin pra me ajudarem, eu já tinha as madeiras de árvores que eu quebrei no soco.",
 	"Event.1188005.6.Dialogue": "Guilherme, já pode soltar o essa parte do Boneco.",
@@ -2494,7 +2494,7 @@
 	"Event.1190010.luiEncontro_Final.2.Dialogue": "Quero te contar uma coisa...$2#$b#Desde que cheguei no Vale estive trabalhando no meu projeto ultra secreto...$2#$b#Mas agora, não sei se vou conseguir seguir em frente com ele...$2",
 	"Event.1190010.luiEncontro_Final.3.Dialogue": "Sempre se passa pela minha cabeça...$2#$b#Será que vai ser divertido?$2#$b#As pessoas vão gostar?$2#$b#Será que vou parecer estranho?$2#$b#Qual dessas escolhas é a correta?$2",
 	"Event.1190010.luiEncontro_Final.4.Question": "Isso não importa, você está fazendo isso porque gosta certo?#No final, todas essas perguntas não importam né?#E se não gostarem, o que isso muda?#O que importa é o quanto você se divertiu no final!",
-	"Event.1190010.luiEncontro_Final.5.Dialogue": "Você tem razão!#$b#Nada disso importa, porque no final eu fiz isso por mim!$1#$b#Porquê no final... o que conta foi a jornada que passamos juntos!$1#$b#Obrigado por finalmente fazer eu entender @.$4#$b#Obrigado por me escutar por todo esse tempo, você é muito especial pra mim.$4",
+	"Event.1190010.luiEncontro_Final.5.Dialogue": "Você tem razão!#$b#Nada disso importa, porque no final eu fiz isso por mim!$1#$b#Porque no final... o que conta foi a jornada que passamos juntos!$1#$b#Obrigado por finalmente fazer eu entender @.$4#$b#Obrigado por me escutar por todo esse tempo, você é muito especial pra mim.$4",
 	"Event.1190010.luiEncontro_Final.6.TextAboveHead": "Eu fiz isso por mim!",
 	"Event.1190010.luiEncontro_Final.7.Dialogue": "Ah...$11#$b#Que dia...$11#$b#Não me arrependo nem um pouco...$11",
 
