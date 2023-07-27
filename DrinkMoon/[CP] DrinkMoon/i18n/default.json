@@ -2058,14 +2058,14 @@
 
 	//EVENTS
 	//EVENTO INICIAL
-	"Event.1186000.1.Dialogue": "Ah, that's it...$2#$b#Our Misery Machine is done...$2#$b#We won't be able to go home...$2",
-	"Event.1186000.2.Dialogue": "Relax Mateus, I'll take a look at my cellphone to see if there's a signal nearby.",
+	"Event.1186000.1.Dialogue": "Ah... that's it...$2#$b#Our Misery Machine is broken...$2#$b#We won't be able to go home...$2",
+	"Event.1186000.2.Dialogue": "Relax Mateus, I'll take a look at my cellphone to see if there's signal nearby.",
 	"Event.1186000.3.Dialogue": "But what if we get stuck here?!$2#$b#Man we gotta fix this as soon as possible...$2",
-	"Event.1186000.4.Dialogue": "You're overthinking this Mateus!$5#$b#We were going to camp here anyway...",
+	"Event.1186000.4.Dialogue": "You're overthinking this Mateus!$5#$b#We were going to camp around here anyway...",
 	"Event.1186000.5.Dialogue": "I think you are right Gustas...",
 	"Event.1186000.6.Dialogue": "Anyway, how is the situation over there Guilherme?$1#$b#Some sign of life?",
 	"Event.1186000.7.Dialogue": "Well guys... I don't think you can call someone from here...$2",
-	"Event.1186000.8.Dialogue": "It's impressive that we ended up on a dead end street.",
+	"Event.1186000.8.Dialogue": "It's impressive that we ended up on a dead end.",
 	"Event.1186000.9.Dialogue": "Dude, someone know where we are?$5#$b#Who took the map of the camp region?!$5",
 	"Event.1186000.10.TextAboveHead": "GUYS?!",
 	"Event.1186000.11.Dialogue": "We may have gone a little bit far away from the camp region, you know?$7",
