@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="10" height="14" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="1">
  <properties>
-  <property name="DayTiles" value="Buildings 8 5 59 Buildings 9 5 60 Buildings 11 7 8 Buildings 11 8 19 Buildings 6 7 32 Buildings 6 8 43"/>
-  <property name="NightTiles" value="Buildings 8 5 2 Buildings 9 5 3 Buildings 11 7 74 Buildings 11 8 85 Buildings 6 7 73 Buildings 6 8 84"/>
-  <property name="Warp" value="8 18 BusStop 10 6"/>
-  <property name="WindowLight" value="11 7 2 6 7 2"/>
+  <property name="DayTiles" value="Buildings 4 1 59 Buildings 5 1 60 Buildings 7 3 8 Buildings 7 4 19 Buildings 2 3 32 Buildings 2 4 43"/>
+  <property name="NightTiles" value="Buildings 4 1 2 Buildings 5 1 3 Buildings 7 3 74 Buildings 7 4 85 Buildings 2 3 73 Buildings 2 4 84"/>
+  <property name="Warp" value="4 14 BusStop 10 6"/>
+  <property name="WindowLight" value="7 3 2 2 3 2"/>
  </properties>
  <tileset firstgid="1" name="DMBarraca" tilewidth="16" tileheight="16" tilecount="88" columns="11">
   <image source="DMBarraca.png" width="176" height="128"/>
