@@ -19,7 +19,6 @@
                     "Optimism": "Neutral",
                     "CanBeRomanced": true,
                     "LoveInterest": "Abigail",
-
                     "Home": 
 					[
                         {
@@ -28,7 +27,18 @@
                             "Tile": { "X": 6, "Y": 10 },
                             "Direction": "Left"
                         }
-                    ]
+                    ],
+
+                    "SpouseRoom": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseRooms",
+                        "MapSourceRect": { "X": 0, "Y": 0, "Width": 6, "Height": 9 }
+                    },
+                    "SpousePatio": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
+                        "MapSourceRect": { "X": 0, "Y": 0, "Width": 4, "Height": 4 }
+                    },
                 },
 
 				"{{ModId}}_Gustavo": 
@@ -53,7 +63,18 @@
                             "Tile": { "X": 1, "Y": 8 },
                             "Direction": "Left"
                         }
-                    ]
+                    ],
+
+                    "SpouseRoom": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseRooms",
+                        "MapSourceRect": { "X": 6, "Y": 0, "Width": 6, "Height": 9 }
+                    },
+                    "SpousePatio": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
+                        "MapSourceRect": { "X": 4, "Y": 0, "Width": 4, "Height": 4 }
+                    },
                 },
 
 				"{{ModId}}_Luigi": 
@@ -78,7 +99,18 @@
                             "Tile": { "X": 8, "Y": 8 },
                             "Direction": "Left"
                         }
-                    ]
+                    ],
+
+                    "SpouseRoom": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseRooms",
+                        "MapSourceRect": { "X": 12, "Y": 0, "Width": 6, "Height": 9 }
+                    },
+                    "SpousePatio": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
+                        "MapSourceRect": { "X": 8, "Y": 0, "Width": 4, "Height": 4 }
+                    },
                 },
 
 				"{{ModId}}_Mateus": 
@@ -103,7 +135,17 @@
                             "Tile": { "X": 3, "Y": 10 },
                             "Direction": "Left"
                         }
-                    ]
+                    ],
+                    "SpouseRoom": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseRooms",
+                        "MapSourceRect": { "X": 18, "Y": 0, "Width": 6, "Height": 9 }
+                    },
+                    "SpousePatio": 
+                    {
+                        "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
+                        "MapSourceRect": { "X": 12, "Y": 0, "Width": 4, "Height": 4 }
+                    },
                 },
 
 				"{{ModId}}_Ronaldo": 

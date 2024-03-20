@@ -84,31 +84,6 @@
             }
         },
 		
-		//SpouseRooms e Patios
-		{
-			"Action": "EditData",
-			"Target": "Data/SpouseRooms",
-			"Entries": 
-			{
-				"{{ModId}}_Guilherme": "{{ModId}}_DrinkMoonSpouseRooms/0",
-				"{{ModId}}_Gustavo": "{{ModId}}_DrinkMoonSpouseRooms/1",
-				"{{ModId}}_Luigi": "{{ModId}}_DrinkMoonSpouseRooms/2",
-			   	"{{ModId}}_Mateus": "{{ModId}}_DrinkMoonSpouseRooms/3"
-			}
-		},
-
-		{
-			"Action": "EditData",
-			"Target": "Data/SpousePatios",
-			"Entries": 
-			{
-				"{{ModId}}_Guilherme": "{{ModId}}_DrinkMoonSpouseAreas/0",
-				"{{ModId}}_Gustavo": "{{ModId}}_DrinkMoonSpouseAreas/1",
-				"{{ModId}}_Luigi": "{{ModId}}_DrinkMoonSpouseAreas/2",
-			   	"{{ModId}}_Mateus": "{{ModId}}_DrinkMoonSpouseAreas/3"
-			}
-		},
-
 		//SpouseRooms Strings
 		{
 			"Action": "EditData",
