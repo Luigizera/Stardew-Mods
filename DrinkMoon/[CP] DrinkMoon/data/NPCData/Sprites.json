@@ -5,51 +5,86 @@
 		{
         	//Sprite Guilherme
         	"Action": "Load",
-        	"Target": "Characters/Guilherme, Characters/Gustavo, Characters/Luigi, Characters/Mateus, Characters/Ronaldo, Characters/Seba",
-        	"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}.png"
+        	"Target": "Characters/{{ModId}}_Guilherme",
+        	"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme.png"
+    	},
+
+		{
+        	//Sprite Gustavo
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_Gustavo",
+        	"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo.png"
+    	},
+
+		{
+        	//Sprite Luigi
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_Luigi",
+        	"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi.png"
+    	},
+
+		{
+        	//Sprite Mateus
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_Mateus",
+        	"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus.png"
+    	},
+
+		{
+        	//Sprite Ronaldo
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_Ronaldo",
+        	"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo.png"
+    	},
+
+		{
+        	//Sprite Seba
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_Seba",
+        	"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba.png"
     	},
 	
 		//Beach Sprites
 		{
 			//Sprite Guilherme Beach
 			"Action": "Load",
-			"Target": "Characters/Guilherme_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Guilherme_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_Beach.png"
 		},
    
 		{
 			//Sprite Gustavo Beach
 			"Action": "Load",
-			"Target": "Characters/Gustavo_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Gustavo_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_Beach.png"
 		},
 
 		{
 			//Sprite Luigi Beach
 			"Action": "Load",
-			"Target": "Characters/Luigi_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Luigi/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Luigi_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_Beach.png"
 		},
 
 		{
 			//Sprite Mateus Beach
 			"Action": "Load",
-			"Target": "Characters/Mateus_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Mateus/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Mateus_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_Beach.png"
 		},
    
 		{
 			//Sprite Ronaldo Beach
 			"Action": "Load",
-			"Target": "Characters/Ronaldo_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Ronaldo_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_Beach.png"
 		},
    
 		{
 			//Sprite Seba Beach
 			"Action": "Load",
-			"Target": "Characters/Seba_Beach",
-			"FromFile": "assets/CharactersFiles/Sprites/Seba/{{TargetWithoutPath}}.png"
+			"Target": "Characters/{{ModId}}_Seba_Beach",
+			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_Beach.png"
 		},
 	]
 }

@@ -4,7 +4,7 @@
 		//Carrega os diálogos como nulo
 		{
 			"Action": "Load",
-			"Target": "Strings/schedules/Guilherme, Strings/schedules/Gustavo, Strings/schedules/Luigi, Strings/schedules/Mateus, Strings/schedules/Ronaldo, Strings/schedules/Seba",
+			"Target": "Strings/schedules/{{ModId}}_Guilherme, Strings/schedules/{{ModId}}_Gustavo, Strings/schedules/{{ModId}}_Luigi, Strings/schedules/{{ModId}}_Mateus, Strings/schedules/{{ModId}}_Ronaldo, Strings/schedules/{{ModId}}_Seba",
 			"FromFile": "Data/LoadData/EmptyJson.json"
 		},
 		
@@ -12,200 +12,200 @@
 		//Guilherme
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Guilherme",
+			"Target": "Strings/schedules/{{ModId}}_Guilherme",
 			"Entries": 
 			{
-				"jogando.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.000}}",
-  				"jogando.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.001}}",
-  				"jogando.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.002}}",
-  				"jogando.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.003}}",
-  				"jogando.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.004}}",
-  				"jogando.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.005}}",
+				"jogando.000": "{{i18n:Guilherme.ScheduleDialogue.jogando.000}}",
+  				"jogando.001": "{{i18n:Guilherme.ScheduleDialogue.jogando.001}}",
+  				"jogando.002": "{{i18n:Guilherme.ScheduleDialogue.jogando.002}}",
+  				"jogando.003": "{{i18n:Guilherme.ScheduleDialogue.jogando.003}}",
+  				"jogando.004": "{{i18n:Guilherme.ScheduleDialogue.jogando.004}}",
+  				"jogando.005": "{{i18n:Guilherme.ScheduleDialogue.jogando.005}}",
 
-  				"jutsu.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.000}}",
-  				"jutsu.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.001}}",
-  				"jutsu.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.002}}",
-  				"jutsu.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.003}}",
-  				"jutsu.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.004}}",
-  				"jutsu.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.005}}",
+  				"jutsu.000": "{{i18n:Guilherme.ScheduleDialogue.jutsu.000}}",
+  				"jutsu.001": "{{i18n:Guilherme.ScheduleDialogue.jutsu.001}}",
+  				"jutsu.002": "{{i18n:Guilherme.ScheduleDialogue.jutsu.002}}",
+  				"jutsu.003": "{{i18n:Guilherme.ScheduleDialogue.jutsu.003}}",
+  				"jutsu.004": "{{i18n:Guilherme.ScheduleDialogue.jutsu.004}}",
+  				"jutsu.005": "{{i18n:Guilherme.ScheduleDialogue.jutsu.005}}",
 
-  				"lista.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lista.000}}",
-  				"lista.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lista.001}}",
-  				"lista.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lista.002}}",
-  				"lista.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lista.003}}",
+  				"lista.000": "{{i18n:Guilherme.ScheduleDialogue.lista.000}}",
+  				"lista.001": "{{i18n:Guilherme.ScheduleDialogue.lista.001}}",
+  				"lista.002": "{{i18n:Guilherme.ScheduleDialogue.lista.002}}",
+  				"lista.003": "{{i18n:Guilherme.ScheduleDialogue.lista.003}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.000}}",
+  				"chuva.000": "{{i18n:Guilherme.ScheduleDialogue.chuva.000}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.001}}",
+  				"dormindo.000": "{{i18n:Guilherme.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.001": "{{i18n:Guilherme.ScheduleDialogue.dormindo.001}}",
 
-  				"frio.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.000}}",
-  				"frio.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.001}}",
-  				"frio.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.002}}",
-  				"frio.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.003}}",
-  				"frio.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.004}}",
-  				"frio.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.005}}",
+  				"frio.000": "{{i18n:Guilherme.ScheduleDialogue.frio.000}}",
+  				"frio.001": "{{i18n:Guilherme.ScheduleDialogue.frio.001}}",
+  				"frio.002": "{{i18n:Guilherme.ScheduleDialogue.frio.002}}",
+  				"frio.003": "{{i18n:Guilherme.ScheduleDialogue.frio.003}}",
+  				"frio.004": "{{i18n:Guilherme.ScheduleDialogue.frio.004}}",
+  				"frio.005": "{{i18n:Guilherme.ScheduleDialogue.frio.005}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.moonlightjellies.000}}",
+  				"moonlightjellies.000": "{{i18n:Guilherme.ScheduleDialogue.moonlightjellies.000}}",
 			}
 		},
 
 		//Gustavo
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Gustavo",
+			"Target": "Strings/schedules/{{ModId}}_Gustavo",
 			"Entries":
 			{
-				"musica.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.000}}",
-  				"musica.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.001}}",
-  				"musica.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.002}}",
-  				"musica.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.003}}",
-  				"musica.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.004}}",
-  				"musica.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.musica.005}}",
+				"musica.000": "{{i18n:Gustavo.ScheduleDialogue.musica.000}}",
+  				"musica.001": "{{i18n:Gustavo.ScheduleDialogue.musica.001}}",
+  				"musica.002": "{{i18n:Gustavo.ScheduleDialogue.musica.002}}",
+  				"musica.003": "{{i18n:Gustavo.ScheduleDialogue.musica.003}}",
+  				"musica.004": "{{i18n:Gustavo.ScheduleDialogue.musica.004}}",
+  				"musica.005": "{{i18n:Gustavo.ScheduleDialogue.musica.005}}",
 
-  				"jutsu.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.000}}",
-  				"jutsu.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.001}}",
-  				"jutsu.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.002}}",
-  				"jutsu.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.003}}",
-  				"jutsu.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.004}}",
-  				"jutsu.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.005}}",
-  				"jutsu.006": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jutsu.006}}",
+  				"jutsu.000": "{{i18n:Gustavo.ScheduleDialogue.jutsu.000}}",
+  				"jutsu.001": "{{i18n:Gustavo.ScheduleDialogue.jutsu.001}}",
+  				"jutsu.002": "{{i18n:Gustavo.ScheduleDialogue.jutsu.002}}",
+  				"jutsu.003": "{{i18n:Gustavo.ScheduleDialogue.jutsu.003}}",
+  				"jutsu.004": "{{i18n:Gustavo.ScheduleDialogue.jutsu.004}}",
+  				"jutsu.005": "{{i18n:Gustavo.ScheduleDialogue.jutsu.005}}",
+  				"jutsu.006": "{{i18n:Gustavo.ScheduleDialogue.jutsu.006}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.000}}",
+  				"chuva.000": "{{i18n:Gustavo.ScheduleDialogue.chuva.000}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.001}}",
+  				"dormindo.000": "{{i18n:Gustavo.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.001": "{{i18n:Gustavo.ScheduleDialogue.dormindo.001}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.moonlightjellies.000}}"
+  				"moonlightjellies.000": "{{i18n:Gustavo.ScheduleDialogue.moonlightjellies.000}}"
 			}
 		},
 
 		//Luigi
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Luigi",
+			"Target": "Strings/schedules/{{ModId}}_Luigi",
 			"Entries":
 			{
-				"notebook.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.000}}",
-  				"notebook.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.001}}",
-  				"notebook.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.002}}",
-  				"notebook.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.003}}",
-  				"notebook.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.004}}",
-  				"notebook.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.notebook.005}}",
+				"notebook.000": "{{i18n:Luigi.ScheduleDialogue.notebook.000}}",
+  				"notebook.001": "{{i18n:Luigi.ScheduleDialogue.notebook.001}}",
+  				"notebook.002": "{{i18n:Luigi.ScheduleDialogue.notebook.002}}",
+  				"notebook.003": "{{i18n:Luigi.ScheduleDialogue.notebook.003}}",
+  				"notebook.004": "{{i18n:Luigi.ScheduleDialogue.notebook.004}}",
+  				"notebook.005": "{{i18n:Luigi.ScheduleDialogue.notebook.005}}",
 
-  				"espada.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.000}}",
-  				"espada.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.001}}",
-  				"espada.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.002}}",
-  				"espada.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.003}}",
-  				"espada.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.004}}",
-  				"espada.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.espada.005}}",
+  				"espada.000": "{{i18n:Luigi.ScheduleDialogue.espada.000}}",
+  				"espada.001": "{{i18n:Luigi.ScheduleDialogue.espada.001}}",
+  				"espada.002": "{{i18n:Luigi.ScheduleDialogue.espada.002}}",
+  				"espada.003": "{{i18n:Luigi.ScheduleDialogue.espada.003}}",
+  				"espada.004": "{{i18n:Luigi.ScheduleDialogue.espada.004}}",
+  				"espada.005": "{{i18n:Luigi.ScheduleDialogue.espada.005}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.000}}",
-  				"chuva.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.001}}",
+  				"chuva.000": "{{i18n:Luigi.ScheduleDialogue.chuva.000}}",
+  				"chuva.001": "{{i18n:Luigi.ScheduleDialogue.chuva.001}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.000": "{{i18n:Luigi.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.001": "{{i18n:Luigi.ScheduleDialogue.dormindo.000}}",
 
-  				"frio.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.000}}",
+  				"frio.000": "{{i18n:Luigi.ScheduleDialogue.frio.000}}",
 
-  				"nightmarket.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.nightmarket.000}}",
+  				"nightmarket.000": "{{i18n:Luigi.ScheduleDialogue.nightmarket.000}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.moonlightjellies.000}}"
+  				"moonlightjellies.000": "{{i18n:Luigi.ScheduleDialogue.moonlightjellies.000}}"
 			}
 		},
 
 		//Mateus
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Mateus",
+			"Target": "Strings/schedules/{{ModId}}_Mateus",
 			"Entries": 
 			{
-				"jogando.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.000}}",
-  				"jogando.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.001}}",
-  				"jogando.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.002}}",
-  				"jogando.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.003}}",
-  				"jogando.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.004}}",
-  				"jogando.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.jogando.005}}",
+				"jogando.000": "{{i18n:Mateus.ScheduleDialogue.jogando.000}}",
+  				"jogando.001": "{{i18n:Mateus.ScheduleDialogue.jogando.001}}",
+  				"jogando.002": "{{i18n:Mateus.ScheduleDialogue.jogando.002}}",
+  				"jogando.003": "{{i18n:Mateus.ScheduleDialogue.jogando.003}}",
+  				"jogando.004": "{{i18n:Mateus.ScheduleDialogue.jogando.004}}",
+  				"jogando.005": "{{i18n:Mateus.ScheduleDialogue.jogando.005}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.000}}",
+  				"chuva.000": "{{i18n:Mateus.ScheduleDialogue.chuva.000}}",
 
-  				"lendo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.000}}",
-  				"lendo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.001}}",
-  				"lendo.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.002}}",
-  				"lendo.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.003}}",
+  				"lendo.000": "{{i18n:Mateus.ScheduleDialogue.lendo.000}}",
+  				"lendo.001": "{{i18n:Mateus.ScheduleDialogue.lendo.001}}",
+  				"lendo.002": "{{i18n:Mateus.ScheduleDialogue.lendo.002}}",
+  				"lendo.003": "{{i18n:Mateus.ScheduleDialogue.lendo.003}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.001}}",
+  				"dormindo.000": "{{i18n:Mateus.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.001": "{{i18n:Mateus.ScheduleDialogue.dormindo.001}}",
 
-  				"frio.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.000}}",
-  				"frio.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.001}}",
-  				"frio.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.002}}",
-  				"frio.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.003}}",
-  				"frio.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.004}}",
-  				"frio.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.frio.005}}",
+  				"frio.000": "{{i18n:Mateus.ScheduleDialogue.frio.000}}",
+  				"frio.001": "{{i18n:Mateus.ScheduleDialogue.frio.001}}",
+  				"frio.002": "{{i18n:Mateus.ScheduleDialogue.frio.002}}",
+  				"frio.003": "{{i18n:Mateus.ScheduleDialogue.frio.003}}",
+  				"frio.004": "{{i18n:Mateus.ScheduleDialogue.frio.004}}",
+  				"frio.005": "{{i18n:Mateus.ScheduleDialogue.frio.005}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.moonlightjellies.000}}"
+  				"moonlightjellies.000": "{{i18n:Mateus.ScheduleDialogue.moonlightjellies.000}}"
 			}
 		},
 
 		//Ronaldo
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Ronaldo",
+			"Target": "Strings/schedules/{{ModId}}_Ronaldo",
 			"Entries": 
 			{
-				"picareta.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.000}}",
-  				"picareta.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.001}}",
-  				"picareta.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.002}}",
-  				"picareta.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.003}}",
-  				"picareta.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.004}}",
-  				"picareta.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.005}}",
+				"picareta.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  				"picareta.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
+  				"picareta.002": "{{i18n:Ronaldo.ScheduleDialogue.picareta.002}}",
+  				"picareta.003": "{{i18n:Ronaldo.ScheduleDialogue.picareta.003}}",
+  				"picareta.004": "{{i18n:Ronaldo.ScheduleDialogue.picareta.004}}",
+  				"picareta.005": "{{i18n:Ronaldo.ScheduleDialogue.picareta.005}}",
 
-  				"celular.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.000}}",
-  				"celular.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.001}}",
+  				"celular.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  				"celular.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.000}}",
-  				"chuva.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.001}}",
+  				"chuva.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  				"chuva.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.001}}",
+  				"dormindo.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}",
+  				"dormindo.001": "{{i18n:Ronaldo.ScheduleDialogue.picareta.001}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.picareta.000}}"
+  				"moonlightjellies.000": "{{i18n:Ronaldo.ScheduleDialogue.picareta.000}}"
 			}
 		},
 
 		//Seba
 		{
 			"Action": "EditData",
-			"Target": "Strings/schedules/Seba",
+			"Target": "Strings/schedules/{{ModId}}_Seba",
 			"Entries": 
 			{
-				"madeira.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.000}}",
-  				"madeira.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.001}}",
-  				"madeira.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.002}}",
-  				"madeira.003": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.003}}",
-  				"madeira.004": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.004}}",
-  				"madeira.005": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.madeira.005}}",
+				"madeira.000": "{{i18n:Seba.ScheduleDialogue.madeira.000}}",
+  				"madeira.001": "{{i18n:Seba.ScheduleDialogue.madeira.001}}",
+  				"madeira.002": "{{i18n:Seba.ScheduleDialogue.madeira.002}}",
+  				"madeira.003": "{{i18n:Seba.ScheduleDialogue.madeira.003}}",
+  				"madeira.004": "{{i18n:Seba.ScheduleDialogue.madeira.004}}",
+  				"madeira.005": "{{i18n:Seba.ScheduleDialogue.madeira.005}}",
 
-  				"guardando.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.guardando.000}}",
-  				"guardando.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.guardando.001}}",
-  				"guardando.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.guardando.002}}",
+  				"guardando.000": "{{i18n:Seba.ScheduleDialogue.guardando.000}}",
+  				"guardando.001": "{{i18n:Seba.ScheduleDialogue.guardando.001}}",
+  				"guardando.002": "{{i18n:Seba.ScheduleDialogue.guardando.002}}",
 
-  				"vendendo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.vendendo.000}}",
-  				"vendendo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.vendendo.000}}",
+  				"vendendo.000": "{{i18n:Seba.ScheduleDialogue.vendendo.000}}",
+  				"vendendo.001": "{{i18n:Seba.ScheduleDialogue.vendendo.000}}",
 
-  				"lendo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.000}}",
-  				"lendo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.001}}",
-  				"lendo.002": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.lendo.002}}",
+  				"lendo.000": "{{i18n:Seba.ScheduleDialogue.lendo.000}}",
+  				"lendo.001": "{{i18n:Seba.ScheduleDialogue.lendo.001}}",
+  				"lendo.002": "{{i18n:Seba.ScheduleDialogue.lendo.002}}",
 
-  				"chuva.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.chuva.000}}",
+  				"chuva.000": "{{i18n:Seba.ScheduleDialogue.chuva.000}}",
 
-  				"dormindo.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.000}}",
-  				"dormindo.001": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.dormindo.001}}",
+  				"dormindo.000": "{{i18n:Seba.ScheduleDialogue.dormindo.000}}",
+  				"dormindo.001": "{{i18n:Seba.ScheduleDialogue.dormindo.001}}",
 
-  				"nightmarket.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.nightmarket.000}}",
+  				"nightmarket.000": "{{i18n:Seba.ScheduleDialogue.nightmarket.000}}",
 
-  				"moonlightjellies.000": "{{i18n:{{TargetWithoutPath}}.ScheduleDialogue.moonlightjellies.000}}"
+  				"moonlightjellies.000": "{{i18n:Seba.ScheduleDialogue.moonlightjellies.000}}"
 			}
 		}
 	]

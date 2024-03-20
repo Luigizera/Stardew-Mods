@@ -4,7 +4,7 @@
     {
           
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Seba",
+      "Target": "Characters/Dialogue/{{ModId}}_Seba",
       "Entries": 
       {
         // ESPECIAIS

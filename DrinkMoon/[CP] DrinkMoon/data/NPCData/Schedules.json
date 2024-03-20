@@ -4,7 +4,7 @@
 		//Carrega os Schedules como nulo
 		{
 			"Action": "Load",
-			"Target": "Characters/schedules/Guilherme, Characters/schedules/Gustavo, Characters/schedules/Luigi, Characters/schedules/Mateus, Characters/schedules/Ronaldo, Characters/schedules/Seba",
+			"Target": "Characters/schedules/{{ModId}}_Guilherme, Characters/schedules/{{ModId}}_Gustavo, Characters/schedules/{{ModId}}_Luigi, Characters/schedules/{{ModId}}_Mateus, Characters/schedules/{{ModId}}_Ronaldo, Characters/schedules/{{ModId}}_Seba",
 			"FromFile": "Data/LoadData/EmptyJson.json"
 		},
 		

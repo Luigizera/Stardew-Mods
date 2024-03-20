@@ -2,18 +2,158 @@
 	"Changes": 
 	[
 		{
-			//NPC Dispositions
 			"Action": "EditData",
-			"Target": "Data/NPCDispositions",
-			"Entries": 
+            "Target": "Data/Characters",
+            "Entries": 
 			{
-				"Guilherme": "teen/neutral/outgoing/neutral/male/datable/null/Town/fall 03//Custom_DMBarraca 6 10/{{i18n:Name.Guilherme}}",
-				"Gustavo": "teen/neutral/shy/positive/male/datable/null/Town/fall 06//Custom_DMBarraca 1 8/{{i18n:Name.Gustavo}}",
-				"Luigi": "teen/polite/shy/negative/male/datable/null/Town/fall 26//Custom_DMBarraca 8 8/{{i18n:Name.Luigi}}",
-				"Mateus": "teen/neutral/shy/positive/male/datable/null/Town/winter 28//Custom_DMBarraca 3 10/{{i18n:Name.Mateus}}",
-				"Ronaldo": "teen/rude/outgoing/negative/male/not-datable/null/Town/fall 28//Custom_DMBarraca 8 11/{{i18n:Name.Ronaldo}}",
-				"Seba": "teen/polite/shy/negative/male/not-datable/null/Town/summer 27//Custom_DMBarraca 1 11/{{i18n:Name.Seba}}"
-			}
+                "{{ModId}}_Guilherme": 
+				{
+                    "DisplayName": "{{i18n:Name.Guilherme}}",
+                    "BirthSeason": "Fall",
+                    "BirthDay": 3,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Neutral",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Neutral",
+                    "CanBeRomanced": true,
+                    "LoveInterest": "Abigail",
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 6, "Y": 10 },
+                            "Direction": "Left"
+                        }
+                    ]
+                },
+
+				"{{ModId}}_Gustavo": 
+				{
+                    "DisplayName": "{{i18n:Name.Gustavo}}",
+                    "BirthSeason": "Fall",
+                    "BirthDay": 6,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Neutral",
+                    "SocialAnxiety": "Shy",
+                    "Optimism": "Positive",
+                    "CanBeRomanced": true,
+                    "LoveInterest": "Emily",
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 1, "Y": 8 },
+                            "Direction": "Left"
+                        }
+                    ]
+                },
+
+				"{{ModId}}_Luigi": 
+				{
+                    "DisplayName": "{{i18n:Name.Luigi}}",
+                    "BirthSeason": "Fall",
+                    "BirthDay": 26,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Neutral",
+                    "SocialAnxiety": "Shy",
+                    "Optimism": "Negative",
+                    "CanBeRomanced": true,
+                    "LoveInterest": "Haley",
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 8, "Y": 8 },
+                            "Direction": "Left"
+                        }
+                    ]
+                },
+
+				"{{ModId}}_Mateus": 
+				{
+                    "DisplayName": "{{i18n:Name.Mateus}}",
+                    "BirthSeason": "Winter",
+                    "BirthDay": 28,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Neutral",
+                    "SocialAnxiety": "Shy",
+                    "Optimism": "Positive",
+                    "CanBeRomanced": true,
+                    "LoveInterest": "Leah",
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 3, "Y": 10 },
+                            "Direction": "Left"
+                        }
+                    ]
+                },
+
+				"{{ModId}}_Ronaldo": 
+				{
+                    "DisplayName": "{{i18n:Name.Ronaldo}}",
+                    "BirthSeason": "Fall",
+                    "BirthDay": 28,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Rude",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Negative",
+                    "CanBeRomanced": false,
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 8, "Y": 11 },
+                            "Direction": "Left"
+                        }
+                    ]
+                },
+
+				"{{ModId}}_Seba": 
+				{
+                    "DisplayName": "{{i18n:Name.Seba}}",
+                    "BirthSeason": "Summer",
+                    "BirthDay": 27,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Polite",
+                    "SocialAnxiety": "Shy",
+                    "Optimism": "Negative",
+                    "CanBeRomanced": false,
+
+                    "Home": 
+					[
+                        {
+                            "Id": "Default",
+                            "Location": "{{ModId}}_DMBarraca",
+                            "Tile": { "X": 1, "Y": 11 },
+                            "Direction": "Left"
+                        }
+                    ]
+                }
+            }
 		}
 	]
 }

@@ -4,7 +4,7 @@
     {
           
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Gustavo",
+      "Target": "Characters/Dialogue/{{ModId}}_Gustavo",
       "Entries": 
       {
         // ESPECIAIS

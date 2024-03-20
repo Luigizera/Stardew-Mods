@@ -5,51 +5,86 @@
 		{
 			//Portrait Guilherme
 			"Action": "Load",
-			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
-			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Guilherme",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme.png"
+		},
+
+		{
+			//Portrait Gustavo
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Gustavo",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo.png"
+		},
+
+		{
+			//Portrait Luigi
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Luigi",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi.png"
+		},
+
+		{
+			//Portrait Mateus
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Mateus",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus.png"
+		},
+
+		{
+			//Portrait Ronaldo
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo.png"
+		},
+
+		{
+			//Portrait Seba
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Seba",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba.png"
 		},
 		
 		//Portraits Ilha Gengibre
 		{
 			//Portrait Guilherme Beach
 			"Action": "Load",
-			"Target": "Portraits/Guilherme_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Guilherme_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_Beach.png"
 		},
 
 		{
 			//Portrait Gustavo Beach
 			"Action": "Load",
-			"Target": "Portraits/Gustavo_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Gustavo_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_Beach.png"
 		},
    
 		{
 			//Portrait Luigi Beach
 			"Action": "Load",
-			"Target": "Portraits/Luigi_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Luigi/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Luigi_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_Beach.png"
 		},
    
 		{
 			//Portrait Mateus Beach
 			"Action": "Load",
-			"Target": "Portraits/Mateus_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Mateus/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Mateus_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_Beach.png"
 		},
    
 		{
 			//Portrait Ronaldo Beach
 			"Action": "Load",
-			"Target": "Portraits/Ronaldo_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Ronaldo_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_Beach.png"
 		},
    
 		{
 			//Portrait Seba Beach
 			"Action": "Load",
-			"Target": "Portraits/Seba_Beach",
-			"FromFile": "assets/CharactersFiles/Portraits/Seba/{{TargetWithoutPath}}.png"
+			"Target": "Portraits/{{ModId}}_Seba_Beach",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_Beach.png"
 		},
 	]
 }

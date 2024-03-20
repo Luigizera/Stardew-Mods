@@ -8,42 +8,42 @@
 			"Target": "Data/ConcessionTastes",
 			"Entries": 
 			{
-				"Luigi": 
+				"{{ModId}}_Luigi": 
 				{
 					"Name": "Luigi",
 					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Star Cookie", "Stardrop Sorbet"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Joja Cola", "JojaCorn", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Truffle Popcorn"],
 					"DislikedTags": ["Apple Slices", "Black Licorice", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Rock Candy", "Sour Slimes"] 
 				},
-				"Mateus": 
+				"{{ModId}}_Mateus": 
 				{
 					"Name": "Mateus",
 					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Joja Cola", "Nachos", "Personal Pizza", "Star Cookie", "Stardrop Sorbet"],
 					"LikedTags": ["Black Licorice", "Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Jasmine Tea", "Jawbreaker", "JojaCorn", "Kale Smoothie", "Panzanella Salad", "Popcorn", "Rock Candy", "Salted Peanuts", "Sour Slimes"],
 					"DislikedTags": ["Apple Slices", "Salmon Burger", "Truffle Popcorn"] 
 				},
-				"Guilherme": 
+				"{{ModId}}_Guilherme": 
 				{
 					"Name": "Guilherme",
 					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Hummus Snack Pack", "Ice Cream Sandwich", "Rock Candy", "Sour Slimes"],
 					"DislikedTags": ["Truffle Popcorn", "Salted Peanuts", "Salmon Burger", "Black Licorice", "Apple Slices", "Star Cookie", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad","JojaCorn", "Joja Cola"] 
 				},
-				"Gustavo": 
+				"{{ModId}}_Gustavo": 
 				{
 					"Name": "Gustavo",
 					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Hummus Snack Pack", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
 					"LikedTags": ["Apple Slices", "Cappuccino Mousse Cake", "Fries", "Kale Smoothie", "Panzanella Salad", "Rock Candy", "Salted Peanuts", "Sour Slimes", "Star Cookie"],
 					"DislikedTags": ["Black Licorice", "Jasmine Tea", "Jawbreaker", "Salmon Burger", "Truffle Popcorn", "JojaCorn", "Joja Cola"] 
 				},
-				"Ronaldo": 
+				"{{ModId}}_Ronaldo": 
 				{
 					"Name": "Ronaldo",
 					"LovedTags": ["JojaCorn", "Joja Cola", "Chocolate Popcorn", "Cotton Candy", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Sour Slimes"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Star Cookie", "Stardrop Sorbet"],
 					"DislikedTags": ["Apple Slices", "Black Licorice", "Hummus Snack Pack", "Rock Candy", "Truffle Popcorn"] 
 				},
-				"Seba": 
+				"{{ModId}}_Seba": 
 				{
 					"Name": "Seba",
 					"LovedTags": ["Black Licorice", "Chocolate Popcorn", "Ice Cream Sandwich", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
@@ -59,7 +59,7 @@
 			"Target": "Data/MoviesReactions",
 			"Entries": 
 			{
-				"Luigi": 
+				"{{ModId}}_Luigi": 
 				{
 					"NPCName": "Luigi",
 					"Reactions": 
@@ -202,7 +202,7 @@
 					]
 				},
 	
-				"Mateus": 
+				"{{ModId}}_Mateus": 
 				{
 					"NPCName": "Mateus",
 					"Reactions": 
@@ -345,7 +345,7 @@
 					]
 				},
 	
-				"Guilherme": 
+				"{{ModId}}_Guilherme": 
 				{
 					"NPCName": "Guilherme",
 					"Reactions": 
@@ -488,7 +488,7 @@
 					]
 				},
 	
-				"Gustavo": 
+				"{{ModId}}_Gustavo": 
 				{
 					"NPCName": "Gustavo",
 					"Reactions": 
@@ -604,7 +604,7 @@
 					]
 				},
 	
-				"Ronaldo": 
+				"{{ModId}}_Ronaldo": 
 				{
 					"NPCName": "Ronaldo",
 					"Reactions": 
@@ -720,7 +720,7 @@
 					]
 				},
 	
-				"Seba": 
+				"{{ModId}}_Seba": 
 				{
 					"NPCName": "Seba",
 					"Reactions": 

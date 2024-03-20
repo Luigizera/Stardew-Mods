@@ -22,7 +22,7 @@
 			"Target": "Maps/BusStop",
 			"FromFile": "assets/Maps/MapPatches/DMBusStop.tmx",
 			"FromArea": { "X": 9, "Y": 1, "Width": 3, "Height": 5 },
-			"ToArea": { "X": 9, "Y": 1, "Width": 3, "Height": 5 },
+			"ToArea": { "X": 20, "Y": 1, "Width": 3, "Height": 5 },
 			"PatchMode": "Replace"
 		},
    

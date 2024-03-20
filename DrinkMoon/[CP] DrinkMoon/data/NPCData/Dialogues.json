@@ -5,7 +5,7 @@
 		//Carrega os diálogos como nulo
 		{
 			"Action": "Load",
-			"Target": "Characters/Dialogue/Guilherme, Characters/Dialogue/Gustavo, Characters/Dialogue/Luigi, Characters/Dialogue/Mateus, Characters/Dialogue/Ronaldo, Characters/Dialogue/Seba",
+			"Target": "Characters/Dialogue/{{ModId}}_Guilherme, Characters/Dialogue/{{ModId}}_Gustavo, Characters/Dialogue/{{ModId}}_Luigi, Characters/Dialogue/{{ModId}}_Mateus, Characters/Dialogue/{{ModId}}_Ronaldo, Characters/Dialogue/{{ModId}}_Seba",
 			"FromFile": "data/LoadData/EmptyJson.json"
 		},
 		//Edita os Diálogos

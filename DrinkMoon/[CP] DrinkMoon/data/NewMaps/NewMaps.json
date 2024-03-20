@@ -1,0 +1,137 @@
+{
+    "Changes":
+    [
+        // DMBarraca
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_DMBarraca",
+            "FromFile": "assets/Maps/NewMaps/DMBarraca.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_DMBarraca": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_DMBarraca" },
+                    "FormerLocationNames": [ "Custom_DMBarraca" ]
+                }
+            }
+        },
+
+        //Town Heart Events
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_TownHeartEvents",
+            "FromFile": "assets/Maps/NewMaps/Town_HeartEvents.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_TownHeartEvents": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_TownHeartEvents" },
+                    "FormerLocationNames": [ "Custom_TownHeartEvents" ]
+                }
+            }
+        },
+
+        //Arbusto
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_Arbusto",
+            "FromFile": "assets/Maps/NewMaps/Arbusto.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_Arbusto": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_Arbusto" },
+                    "FormerLocationNames": [ "Custom_Arbusto" ]
+                }
+            }
+        },
+
+        //Mina Ronaldo
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_MineRonaldo",
+            "FromFile": "assets/Maps/NewMaps/Mine_Ronaldo.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_MineRonaldo": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_MineRonaldo" },
+                    "FormerLocationNames": [ "Custom_MineRonaldo" ]
+                }
+            }
+        },
+
+        //Mina RPG 1
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_MineRpg1",
+            "FromFile": "assets/Maps/NewMaps/Mine_Rpg1.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_MineRpg1": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_MineRpg1" },
+                    "FormerLocationNames": [ "Custom_MineRpg1" ]
+                }
+            }
+        },
+
+        //Mina RPG 2
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_MineRpg2",
+            "FromFile": "assets/Maps/NewMaps/Mine_Rpg2.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_MineRpg2": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_MineRpg2" },
+                    "FormerLocationNames": [ "Custom_MineRpg2" ]
+                }
+            }
+        },
+
+        //Mina RPG Boss
+        {
+            "Action": "Load",
+            "Target": "Maps/{{ModId}}_MineRpgBoss",
+            "FromFile": "assets/Maps/NewMaps/Mine_RpgBoss.tmx"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "Entries": 
+            {
+                "{{ModId}}_MineRpgBoss": 
+                {
+                    "CreateOnLoad": { "MapPath": "Maps/{{ModId}}_MineRpgBoss" },
+                    "FormerLocationNames": [ "Custom_Mine_RpgBoss" ]
+                }
+            }
+        },
+    ]
+}

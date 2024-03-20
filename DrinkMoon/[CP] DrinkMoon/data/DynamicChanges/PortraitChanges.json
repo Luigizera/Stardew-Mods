@@ -4,8 +4,63 @@
 		//Portraits Estações
 		{
 			"Action": "EditImage",
-			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
-			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_{{season}}.png",
+			"Target": "Portraits/{{ModId}}_Guilherme, Portraits/{{ModId}}_Gustavo, Portraits/Luigi, Portraits/{{ModId}}_Mateus, Portraits/{{ModId}}_Ronaldo, Portraits/{{ModId}}_Seba",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Gustavo",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Luigi",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Mateus",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Ronaldo",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_{{season}}.png",
+			"When": 
+			{
+				"SeasonalOutfits": true, 
+				"Season": "summer, fall, winter"
+			}
+		},
+
+		{
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Seba",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_{{season}}.png",
 			"When": 
 			{
 				"SeasonalOutfits": true, 
@@ -16,8 +71,8 @@
 		//Portraits Estações Nevando
 		{
 			"Action": "EditImage",
-			"Target": "Portraits/Ronaldo",
-			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_{{season}}_{{weather}}.png",
+			"Target": "Portraits/{{ModId}}_Ronaldo",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_{{season}}_{{weather}}.png",
 			"When": 
 			{
 				"SeasonalOutfits": true, 
@@ -30,8 +85,83 @@
 		{
 			
 			"Action": "EditImage",
-			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
-			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_Halloween.png",
+			"Target": "Portraits/{{ModId}}_Guilherme",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Gustavo",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Luigi",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Mateus",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Ronaldo",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_Halloween.png",
+			"When": 
+			{ 
+				"HalloweenOutfits": true,
+			   	"LocationName": "Temp", 
+			   	"DayEvent": "spirit's eve", 
+			   	"HasSeenEvent": "1190015"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Seba",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_Halloween.png",
 			"When": 
 			{ 
 				"HalloweenOutfits": true,
@@ -46,8 +176,73 @@
 		{
 			
 			"Action": "EditImage",
-			"Target": "Portraits/Guilherme, Portraits/Gustavo, Portraits/Luigi, Portraits/Mateus, Portraits/Ronaldo, Portraits/Seba",
-			"FromFile": "assets/CharactersFiles/{{Target}}/{{TargetWithoutPath}}_Halloween.png",
+			"Target": "Portraits/{{ModId}}_Guilherme",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Gustavo",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Luigi",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Mateus",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Ronaldo",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_Halloween.png",
+			"When": 
+			{ 
+			   	"LocationName": "Custom_TownHeartEvents",
+			   	"DayOfWeek": "Friday, Saturday, Sunday"
+			},
+			"Update": "OnLocationChange"
+		},
+
+		{
+			
+			"Action": "EditImage",
+			"Target": "Portraits/{{ModId}}_Seba",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_Halloween.png",
 			"When": 
 			{ 
 			   	"LocationName": "Custom_TownHeartEvents",

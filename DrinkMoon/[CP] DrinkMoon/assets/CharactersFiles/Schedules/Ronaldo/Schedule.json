@@ -4,71 +4,71 @@
         {
             //Fake Schedule Ronaldo
             "Action": "EditData",
-            "Target": "Characters/Schedules/Ronaldo",
+            "Target": "Characters/Schedules/{{ModId}}_Ronaldo",
             "When": { "HasFlag |contains=landslideDone": false },
             "Entries": 
             {
                 // FAKE SCHEDULE
                 //6:00~9:30 acorda e vai pra montanha programar, 13:00 vai olhar as pedras no caminho da mina, 15:00 vai olhar o centro comunitário, 17:00 Vai olhar o boletim, 18:00 vai ficar andando em volta de uma árvore, 23:00 vai programar no ônibus
-                "spring": "610 ArchaeologyHouse 5 10 0/1000 ArchaeologyHouse 13 9 0/1400 ArchaeologyHouse 32 12 2/1500 ArchaeologyHouse 41 16 1/1530 ArchaeologyHouse 44 9 0/1600 Saloon 3 17 3/1900 Town 24 62 2/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "spring": "610 ArchaeologyHouse 5 10 0/1000 ArchaeologyHouse 13 9 0/1400 ArchaeologyHouse 32 12 2/1500 ArchaeologyHouse 41 16 1/1530 ArchaeologyHouse 44 9 0/1600 Saloon 3 17 3/1900 Town 24 62 2/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 // Chuva
-                "rain": "610 Custom_DMBarraca 8 11 2 ronaldo_dormindo/1500 Custom_DMBarraca 7 12 1 \"Strings\\schedules\\Ronaldo:chuva.000\"/1700 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\""
+                "rain": "610 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo/1500 {{ModId}}_DMBarraca 7 12 1 \"Strings\\schedules\\{{ModId}}_Ronaldo:chuva.000\"/1700 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\""
             }
         },
 
         {
             //Schedule Ronaldo
             "Action": "EditData",
-            "Target": "Characters/Schedules/Ronaldo",
+            "Target": "Characters/Schedules/{{ModId}}_Ronaldo",
             "When": { "HasFlag": "landslideDone" },
             "Entries": 
             {
                 // PRIMAVERA E OUTONO
-                "Mon": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.000\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "Mon": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.000\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
-                "Tue": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.001\"/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "Tue": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.001\"/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
-                "Wed": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.002\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "Wed": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.002\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
-                "Thu": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.003\"/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "Thu": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.003\"/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
-                "Fri": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.004\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "Fri": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.004\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
-                "Sat": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.005\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "Sat": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.005\"/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
-                "Sun": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:picareta.002\"/1300 AdventureGuild 10 12 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.001\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "Sun": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:picareta.002\"/1300 AdventureGuild 10 12 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.001\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 // INVERNO
-                "winter_Tue": "610 Town 23 26 1 ronaldo_celular/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "winter_Tue": "610 Town 23 26 1 ronaldo_celular/1300 Blacksmith 2 16 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
                 // ESPECIAIS
                 // Chuva
-                "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\Ronaldo:chuva.001\"/1400 Mine 22 9 1/2000 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "rain": "610 Mine 18 4 2 ronaldo_picareta \"Strings\\schedules\\{{ModId}}_Ronaldo:chuva.001\"/1400 Mine 22 9 1/2000 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 //Egg Festival
-                "spring_13": "610 Custom_DMBarraca 8 11 ronaldo_frio/700 BusStop 27 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "spring_13": "610 {{ModId}}_DMBarraca 8 11 ronaldo_frio/700 BusStop 37 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 //Flower Dance
-                "spring_24": "610 Custom_DMBarraca 8 11 ronaldo_frio/700 Town 2 89 2/900 Forest 43 33 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "spring_24": "610 {{ModId}}_DMBarraca 8 11 ronaldo_frio/700 Town 2 89 2/900 Forest 43 33 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
                 //Luau
-                "summer_11": "610 Town 55 107 1/900 Beach 47 21 2/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "summer_11": "610 Town 55 107 1/900 Beach 47 21 2/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
                 //Dance of the Moonlight Jellies
-                "summer_28": "610 ArchaeologyHouse 5 10 0/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/1900 Town 55 107 1/2100 Beach 31 14 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:moonlightjellies.000\"",
+                "summer_28": "610 ArchaeologyHouse 5 10 0/1300 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/1900 Town 55 107 1/2100 Beach 31 14 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:moonlightjellies.000\"",
 
                 //Stardew Valley Fair
-                "fall_16": "610 Custom_DMBarraca 8 11 ronaldo_frio/700 BusStop 27 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "fall_16": "610 {{ModId}}_DMBarraca 8 11 ronaldo_frio/700 BusStop 37 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 //Spirit's Eve
-                "fall_27": "610 BusStop 9 14 2/1200 BusStop 8 11 3/1500 BusStop 27 22 2/2100 Town 15 51 2/2350 BusStop 10 5 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "fall_27": "610 BusStop 19 14 2/1200 BusStop 18 11 3/1500 BusStop 37 22 2/2100 Town 15 51 2/2350 BusStop 20 5 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
 
                 //Festival of Ice
-                "winter_8": "610 Custom_DMBarraca 8 11 ronaldo_frio/700 Town 2 89 2/900 Forest 43 33 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.001\"",
+                "winter_8": "610 {{ModId}}_DMBarraca 8 11 ronaldo_frio/700 Town 2 89 2/900 Forest 43 33 1/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.001\"",
 
                 //Feast of the Winter Star
-                "winter_25": "610 Custom_DMBarraca 8 11 ronaldo_frio/700 BusStop 27 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\Ronaldo:celular.000\"/2200 Custom_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\Ronaldo:dormindo.000\"",
+                "winter_25": "610 {{ModId}}_DMBarraca 8 11 ronaldo_frio/700 BusStop 37 22 2/900 ArchaeologyHouse 13 9 0/1600 ArchaeologyHouse 32 12 2/1630 ArchaeologyHouse 41 16 1/1700 ArchaeologyHouse 44 9 0/1800 Saloon 3 17 3/2000 Town 24 62 2 ronaldo_celular \"Strings\\schedules\\{{ModId}}_Ronaldo:celular.000\"/2200 {{ModId}}_DMBarraca 8 11 2 ronaldo_dormindo \"Strings\\schedules\\{{ModId}}_Ronaldo:dormindo.000\"",
             }
         }
     ]

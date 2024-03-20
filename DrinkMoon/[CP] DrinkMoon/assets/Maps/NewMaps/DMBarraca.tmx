@@ -3,7 +3,7 @@
  <properties>
   <property name="DayTiles" value="Buildings 4 1 59 Buildings 5 1 60 Buildings 7 3 8 Buildings 7 4 19 Buildings 2 3 32 Buildings 2 4 43"/>
   <property name="NightTiles" value="Buildings 4 1 2 Buildings 5 1 3 Buildings 7 3 74 Buildings 7 4 85 Buildings 2 3 73 Buildings 2 4 84"/>
-  <property name="Warp" value="4 14 BusStop 10 6"/>
+  <property name="Warp" value="4 14 BusStop 21 6"/>
   <property name="WindowLight" value="7 3 2 2 3 2"/>
  </properties>
  <tileset firstgid="1" name="DMBarraca" tilewidth="16" tileheight="16" tilecount="88" columns="11">

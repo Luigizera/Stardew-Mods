@@ -4,7 +4,7 @@
     {
           
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Ronaldo",
+      "Target": "Characters/Dialogue/{{ModId}}_Ronaldo",
       "Entries": 
       {
         // ESPECIAIS

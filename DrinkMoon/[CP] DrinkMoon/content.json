@@ -1,6 +1,6 @@
 {
    //ATENÇÃO: SPOILERS ABAIXO.
-   "Format": "1.24.0",
+   "Format": "2.0.0",
    
    "ConfigSchema": 
    {
@@ -15,40 +15,15 @@
          "AllowValues": "true, false",
       }
    },
-   "CustomLocations": 
-   [
-      {
-         "Name": "Custom_DMBarraca",
-         "FromMapFile": "assets/Maps/NewMaps/DMBarraca.tmx"
-      },
-      {
-         "Name": "Custom_TownHeartEvents",
-         "FromMapFile": "assets/Maps/NewMaps/Town_HeartEvents.tmx"
-      },
-      {
-         "Name": "Custom_Arbusto",
-         "FromMapFile": "assets/Maps/NewMaps/Arbusto.tmx"
-      },
-      {
-         "Name": "Custom_Mine_Ronaldo",
-         "FromMapFile": "assets/Maps/NewMaps/Mine_Ronaldo.tmx"
-      },
-      {
-         "Name": "Custom_Mine_Rpg1",
-         "FromMapFile": "assets/Maps/NewMaps/Mine_Rpg1.tmx"
-      },
-      {
-         "Name": "Custom_Mine_Rpg2",
-         "FromMapFile": "assets/Maps/NewMaps/Mine_Rpg2.tmx"
-      },
-      {
-         "Name": "Custom_Mine_RpgBoss",
-         "FromMapFile": "assets/Maps/NewMaps/Mine_RpgBoss.tmx"
-      }
-   ],
 
    "Changes":
    [
+      {
+         //Adiciona os Mapas
+         "Action": "Include",
+         "FromFile": "Data/NewMaps/NewMaps.json"
+      },
+
       {
          //Adiciona os Dados dos NPCs
          "Action": "Include",
