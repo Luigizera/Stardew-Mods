@@ -78,7 +78,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},
@@ -92,7 +92,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},
@@ -106,7 +106,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},
@@ -120,7 +120,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},
@@ -134,7 +134,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},
@@ -148,7 +148,7 @@
 				"HalloweenOutfits": true,
 				"LocationName": "Temp", 
 				"DayEvent": "spirit's eve", 
-				"HasSeenEvent": "1190015"
+				"HasSeenEvent": "{{ModId}}_1190015"
 			},
 			"Update": "OnLocationChange"
 		},

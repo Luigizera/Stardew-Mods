@@ -10,42 +10,42 @@
 			{
 				"{{ModId}}_Luigi": 
 				{
-					"Name": "Luigi",
+					"Name": "{{i18n:Name.Luigi}}",
 					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Star Cookie", "Stardrop Sorbet"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Joja Cola", "JojaCorn", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Truffle Popcorn"],
 					"DislikedTags": ["Apple Slices", "Black Licorice", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Rock Candy", "Sour Slimes"] 
 				},
 				"{{ModId}}_Mateus": 
 				{
-					"Name": "Mateus",
+					"Name": "{{i18n:Name.Mateus}}",
 					"LovedTags": ["Chocolate Popcorn", "Fries", "Ice Cream Sandwich", "Joja Cola", "Nachos", "Personal Pizza", "Star Cookie", "Stardrop Sorbet"],
 					"LikedTags": ["Black Licorice", "Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Jasmine Tea", "Jawbreaker", "JojaCorn", "Kale Smoothie", "Panzanella Salad", "Popcorn", "Rock Candy", "Salted Peanuts", "Sour Slimes"],
 					"DislikedTags": ["Apple Slices", "Salmon Burger", "Truffle Popcorn"] 
 				},
 				"{{ModId}}_Guilherme": 
 				{
-					"Name": "Guilherme",
+					"Name": "{{i18n:Name.Guilherme}}",
 					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Hummus Snack Pack", "Ice Cream Sandwich", "Rock Candy", "Sour Slimes"],
 					"DislikedTags": ["Truffle Popcorn", "Salted Peanuts", "Salmon Burger", "Black Licorice", "Apple Slices", "Star Cookie", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad","JojaCorn", "Joja Cola"] 
 				},
 				"{{ModId}}_Gustavo": 
 				{
-					"Name": "Gustavo",
+					"Name": "{{i18n:Name.Gustavo}}",
 					"LovedTags": ["Chocolate Popcorn", "Cotton Candy", "Hummus Snack Pack", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
 					"LikedTags": ["Apple Slices", "Cappuccino Mousse Cake", "Fries", "Kale Smoothie", "Panzanella Salad", "Rock Candy", "Salted Peanuts", "Sour Slimes", "Star Cookie"],
 					"DislikedTags": ["Black Licorice", "Jasmine Tea", "Jawbreaker", "Salmon Burger", "Truffle Popcorn", "JojaCorn", "Joja Cola"] 
 				},
 				"{{ModId}}_Ronaldo": 
 				{
-					"Name": "Ronaldo",
+					"Name": "{{i18n:Name.Ronaldo}}",
 					"LovedTags": ["JojaCorn", "Joja Cola", "Chocolate Popcorn", "Cotton Candy", "Fries", "Ice Cream Sandwich", "Nachos", "Personal Pizza", "Popcorn", "Sour Slimes"],
 					"LikedTags": ["Cappuccino Mousse Cake", "Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad", "Salmon Burger", "Salted Peanuts", "Star Cookie", "Stardrop Sorbet"],
 					"DislikedTags": ["Apple Slices", "Black Licorice", "Hummus Snack Pack", "Rock Candy", "Truffle Popcorn"] 
 				},
 				"{{ModId}}_Seba": 
 				{
-					"Name": "Seba",
+					"Name": "{{i18n:Name.Seba}}",
 					"LovedTags": ["Black Licorice", "Chocolate Popcorn", "Ice Cream Sandwich", "Fries", "Nachos", "Personal Pizza", "Popcorn", "Stardrop Sorbet"],
 					"LikedTags": ["Apple Slices", "Cappuccino Mousse Cake", "Cotton Candy", "Hummus Snack Pack", "Salmon Burger", "Salted Peanuts", "Sour Slimes", "Star Cookie"],
 					"DislikedTags": ["Jasmine Tea", "Jawbreaker", "Kale Smoothie", "Panzanella Salad", "Rock Candy", "Truffle Popcorn", "JojaCorn", "Joja Cola"] 
@@ -61,7 +61,7 @@
 			{
 				"{{ModId}}_Luigi": 
 				{
-					"NPCName": "Luigi",
+					"NPCName": "{{i18n:Name.Luigi}}",
 					"Reactions": 
 					[
 						{
@@ -204,7 +204,7 @@
 	
 				"{{ModId}}_Mateus": 
 				{
-					"NPCName": "Mateus",
+					"NPCName": "{{i18n:Name.Mateus}}",
 					"Reactions": 
 					[
 						{
@@ -347,7 +347,7 @@
 	
 				"{{ModId}}_Guilherme": 
 				{
-					"NPCName": "Guilherme",
+					"NPCName": "{{i18n:Name.Guilherme}}",
 					"Reactions": 
 					[
 						{
@@ -490,7 +490,7 @@
 	
 				"{{ModId}}_Gustavo": 
 				{
-					"NPCName": "Gustavo",
+					"NPCName": "{{i18n:Name.Gustavo}}",
 					"Reactions": 
 					[
 						{
@@ -606,7 +606,7 @@
 	
 				"{{ModId}}_Ronaldo": 
 				{
-					"NPCName": "Ronaldo",
+					"NPCName": "{{i18n:Name.Ronaldo}}",
 					"Reactions": 
 					[
 						{
@@ -722,7 +722,7 @@
 	
 				"{{ModId}}_Seba": 
 				{
-					"NPCName": "Seba",
+					"NPCName": "{{i18n:Name.Seba}}",
 					"Reactions": 
 					[
 						{
