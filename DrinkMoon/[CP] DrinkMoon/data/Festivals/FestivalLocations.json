@@ -11,78 +11,78 @@
 			   	{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 12 59 2",
+					"Value": "{{ModId}}_Guilherme 12 59 2",
 					"Delimiter": "/"
 			   	},
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Guilherme 37 66 3",
+					"Value": "{{ModId}}_Guilherme 37 66 3",
 					"Delimiter": "/"
 				},
 				//Gustavo Egg Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 13 60 3",
+					"Value": "{{ModId}}_Gustavo 13 60 3",
 					"Delimiter": "/"
 			    },
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Gustavo 37 65 3",
+					"Value": "{{ModId}}_Gustavo 37 65 3",
 					"Delimiter": "/"
 			    },
 				//Luigi Egg Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 12 61 0",
+					"Value": "{{ModId}}_Luigi 12 61 0",
 					"Delimiter": "/"
 			    },
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Luigi 36 68 3",
+					"Value": "{{ModId}}_Luigi 36 68 3",
 					"Delimiter": "/"
 			    },
 				//Mateus Egg Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 11 60 1",
+					"Value": "{{ModId}}_Mateus 11 60 1",
 					"Delimiter": "/"
 			    },
 			   	{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Mateus 33 65 2",
+					"Value": "{{ModId}}_Mateus 33 65 2",
 					"Delimiter": "/"
 			    },
 				//Ronaldo Egg Festival Location
 				{    
               		"Operation": "Append",
               		"Target": ["Entries", "Set-Up_additionalCharacters"],
-              		"Value": "Ronaldo 27 56 2",
+              		"Value": "{{ModId}}_Ronaldo 27 56 2",
               		"Delimiter": "/"
             	},
             	{
               		"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Ronaldo 37 64 3",
+					"Value": "{{ModId}}_Ronaldo 37 64 3",
 					"Delimiter": "/"
             	},
 				//Seba Egg Festival Location
 				{    
              		 "Operation": "Append",
              		 "Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 8 63 1",
+					"Value": "{{ModId}}_Seba 8 63 1",
 					"Delimiter": "/"
             	},
             	{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Seba 37 67 3",
+					"Value": "{{ModId}}_Seba 37 67 3",
 					"Delimiter": "/"
             	},
 			]
@@ -97,78 +97,78 @@
 			    {    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 17 25 2",
+					"Value": "{{ModId}}_Guilherme 17 25 2",
 					"Delimiter": "/"
 			    },
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Guilherme 11 21 2",
+					"Value": "{{ModId}}_Guilherme 11 21 2",
 					"Delimiter": "/"
 			    },
 				//Gustavo Flower Dance Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 16 26 1",
+					"Value": "{{ModId}}_Gustavo 16 26 1",
 					"Delimiter": "/"
 			    },
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Gustavo 23 22 3",
+					"Value": "{{ModId}}_Gustavo 23 22 3",
 					"Delimiter": "/"
 			    },
 				//Luigi Flower Dance Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 18 26 3",
+					"Value": "{{ModId}}_Luigi 18 26 3",
 					"Delimiter": "/"
 			    },
 			    {
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Luigi 23 23 3",
+					"Value": "{{ModId}}_Luigi 23 23 3",
 					"Delimiter": "/"
 			    },
 				//Mateus Flower Dance Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 17 27 0",
+					"Value": "{{ModId}}_Mateus 17 27 0",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Mateus 8 21 2",
+					"Value": "{{ModId}}_Mateus 8 21 2",
 					"Delimiter": "/"
 				},
 				//Ronaldo Flower Dance Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 19 20 1",
+					"Value": "{{ModId}}_Ronaldo 19 20 1",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Ronaldo 4 25 1",
+					"Value": "{{ModId}}_Ronaldo 4 25 1",
 					"Delimiter": "/"
 				},
 				//Seba Flower Dance Festival Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 23 31 1",
+					"Value": "{{ModId}}_Seba 23 31 1",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Seba 5 29 1",
+					"Value": "{{ModId}}_Seba 5 29 1",
 					"Delimiter": "/"
 				},
 			]
@@ -183,78 +183,78 @@
 			   	{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 52 11 2",
+					"Value": "{{ModId}}_Guilherme 52 11 2",
 					"Delimiter": "/"
 			   	},
 			   	{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Guilherme 39 19 0",
+					"Value": "{{ModId}}_Guilherme 39 19 0",
 					"Delimiter": "/"
 			   	},
 				//Gustavo Luau Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 53 12 3",
+					"Value": "{{ModId}}_Gustavo 53 12 3",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Gustavo 38 19 0", 
+					"Value": "{{ModId}}_Gustavo 38 19 0", 
 					"Delimiter": "/"
 				},
 				//Luigi Luau Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 31 19 0",
+					"Value": "{{ModId}}_Luigi 31 19 0",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Luigi 44 6 3", 
+					"Value": "{{ModId}}_Luigi 44 6 3", 
 					"Delimiter": "/"
 				},
 				//Mateus Luau Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 32 19 0",
+					"Value": "{{ModId}}_Mateus 32 19 0",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Mateus 43 6 2",
+					"Value": "{{ModId}}_Mateus 43 6 2",
 					"Delimiter": "/"
 				},
 				//Ronaldo Luau Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 23 7 2",
+					"Value": "{{ModId}}_Ronaldo 23 7 2",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Ronaldo 40 6 2", 
+					"Value": "{{ModId}}_Ronaldo 40 6 2", 
 					"Delimiter": "/"
 				},
 				//Seba Luau Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 51 12 1",
+					"Value": "{{ModId}}_Seba 51 12 1",
 					"Delimiter": "/"
 				},
 				{
 					"Operation": "Append",
 					"Target": ["Entries", "MainEvent_additionalCharacters"],
-					"Value": "Seba 43 15 3", 
+					"Value": "{{ModId}}_Seba 43 15 3", 
 					"Delimiter": "/"
 				},
 			]
@@ -269,42 +269,42 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 34 36 2",
+					"Value": "{{ModId}}_Guilherme 34 36 2",
 					"Delimiter": "/"
 				},
 				//Gustavo Moonlight Jellies Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 16 24 2",
+					"Value": "{{ModId}}_Gustavo 16 24 2",
 					"Delimiter": "/"
 				},
 				//Luigi Moonlight Jellies Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 39 31 1",
+					"Value": "{{ModId}}_Luigi 39 31 1",
 					"Delimiter": "/"
 				},
 				//Mateus Moonlight Jellies Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 11 7 0",
+					"Value": "{{ModId}}_Mateus 11 7 0",
 					"Delimiter": "/"
 				},
 				//Ronaldo Moonlight Jellies Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 43 24 2",
+					"Value": "{{ModId}}_Ronaldo 43 24 2",
 					"Delimiter": "/"
 				},
 				//Seba Moonlight Jellies Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 12 7 3",
+					"Value": "{{ModId}}_Seba 12 7 3",
 					"Delimiter": "/"
 				},
 			]
@@ -319,42 +319,42 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 47 88 0",
+					"Value": "{{ModId}}_Guilherme 47 88 0",
 					"Delimiter": "/"
 				},
 				//Gustavo Stardew Valley Fair Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 23 57 1",
+					"Value": "{{ModId}}_Gustavo 23 57 1",
 					"Delimiter": "/"
 				},
 				//Luigi Stardew Valley Fair Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 36 81 0",
+					"Value": "{{ModId}}_Luigi 36 81 0",
 					"Delimiter": "/"
 				},
 				//Mateus Stardew Valley Fair Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 18 53 2",
+					"Value": "{{ModId}}_Mateus 18 53 2",
 					"Delimiter": "/"
 				},
 				//Ronaldo Stardew Valley Fair Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 32 34 0",
+					"Value": "{{ModId}}_Ronaldo 32 34 0",
 					"Delimiter": "/"
 				},
 				//Seba Stardew Valley Fair Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 60 65 2",
+					"Value": "{{ModId}}_Seba 60 65 2",
 					"Delimiter": "/"
 				},
 			]
@@ -369,42 +369,42 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 34 62 0",
+					"Value": "{{ModId}}_Guilherme 34 62 0",
 					"Delimiter": "/"
 				},
 				//Gustavo Spirit's Eve Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 37 13 0",
+					"Value": "{{ModId}}_Gustavo 37 13 0",
 					"Delimiter": "/"
 				},
 				//Luigi Spirit's Eve Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 33 11 2",
+					"Value": "{{ModId}}_Luigi 33 11 2",
 					"Delimiter": "/"
 				},
 				//Mateus Spirit's Eve Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 14 51 2",
+					"Value": "{{ModId}}_Mateus 14 51 2",
 					"Delimiter": "/"
 				},
 				//Ronaldo Spirit's Eve Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 30 25 3",
+					"Value": "{{ModId}}_Ronaldo 30 25 3",
 					"Delimiter": "/"
 				},
 				//Seba Spirit's Eve Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 31 11 2",
+					"Value": "{{ModId}}_Seba 31 11 2",
 					"Delimiter": "/"
 				},
 			]
@@ -419,42 +419,42 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 60 25 0",
+					"Value": "{{ModId}}_Guilherme 60 25 0",
 					"Delimiter": "/"
 				},
 				//Gustavo Festival of Ice Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 60 31 3",
+					"Value": "{{ModId}}_Gustavo 60 31 3",
 					"Delimiter": "/"
 				},
 				//Luigi Festival of Ice Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 86 28 2",
+					"Value": "{{ModId}}_Luigi 86 28 2",
 					"Delimiter": "/"
 				},
 				//Mateus Festival of Ice Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 76 17 3",
+					"Value": "{{ModId}}_Mateus 76 17 3",
 					"Delimiter": "/"
 				},
 				//Ronaldo Festival of Ice Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 34 25 2",
+					"Value": "{{ModId}}_Ronaldo 34 25 2",
 					"Delimiter": "/"
 				},
 				//Seba Festival of Ice Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 31 46 2",
+					"Value": "{{ModId}}_Seba 31 46 2",
 					"Delimiter": "/"
 				},
 			]
@@ -469,42 +469,42 @@
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Guilherme 31 76 1",
+					"Value": "{{ModId}}_Guilherme 31 76 1",
 					"Delimiter": "/"
 				},
 				//Gustavo Christmas Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Gustavo 31 77 0",
+					"Value": "{{ModId}}_Gustavo 31 77 0",
 					"Delimiter": "/"
 				},
 				//Luigi Christmas Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Luigi 16 62 1",
+					"Value": "{{ModId}}_Luigi 16 62 1",
 					"Delimiter": "/"
 				},
 				//Mateus Christmas Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Mateus 19 62 0",
+					"Value": "{{ModId}}_Mateus 19 62 0",
 					"Delimiter": "/"
 				},
 				//Ronaldo Christmas Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Ronaldo 28 76 1",
+					"Value": "{{ModId}}_Ronaldo 28 76 1",
 					"Delimiter": "/"
 				},
 				//Seba Christmas Location
 				{    
 					"Operation": "Append",
 					"Target": ["Entries", "Set-Up_additionalCharacters"],
-					"Value": "Seba 24 67 2",
+					"Value": "{{ModId}}_Seba 24 67 2",
 					"Delimiter": "/"
 				},
 			]
