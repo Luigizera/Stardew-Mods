@@ -229,18 +229,6 @@
 		//Sprites Evento RPG
 		{
 			"Action": "EditImage",
-			"Target": "Characters/Guilherme, Characters/Luigi, Characters/Mateus, Characters/Ronaldo",
-			"FromFile": "assets/CharactersFiles/Sprites/{{TargetWithoutPath}}/{{TargetWithoutPath}}_RPG.png",
-			"When": 
-			{ 
-			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
-			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
-			},
-			"Update": "OnLocationChange"
-		},
-
-		{
-			"Action": "EditImage",
 			"Target": "Characters/{{ModId}}_Guilherme",
 			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_RPG.png",
 			"When": 

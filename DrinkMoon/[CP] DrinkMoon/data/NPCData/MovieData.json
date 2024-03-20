@@ -79,7 +79,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Luigi 2000/pause 500/message \"{{i18n:Luigi.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Script": "/shake {{ModId}}_Luigi 2000/pause 500/message \"{{i18n:Luigi.MoviesReactions.DuringMovie.Script.Horror}}\"",
 									"Text": "{{i18n:Luigi.MoviesReactions.DuringMovie.Text.Horror}}"
 								},
 								"AfterMovie": 
@@ -187,7 +187,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Luigi 2000/pause 500/message \"{{i18n: Luigi.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Script": "/shake {{ModId}}_Luigi 2000/pause 500/message \"{{i18n: Luigi.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
 									"Text": "{{i18n: Luigi.MoviesReactions.DuringMovie.Text.PraireKing}}"
 								},
 								"AfterMovie": 
@@ -222,7 +222,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Script": "/shake {{ModId}}_Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.Horror}}\"",
 									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.Horror}}"
 								},
 								"AfterMovie": 
@@ -330,7 +330,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Script": "/shake {{ModId}}_Mateus 2000/pause 500/message \"{{i18n: Mateus.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
 									"Text": "{{i18n: Mateus.MoviesReactions.DuringMovie.Text.PraireKing}}"
 								},
 								"AfterMovie": 
@@ -365,7 +365,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/jump Guilherme 7/pause 500/message \"{{i18n: Guilherme.MoviesReactions.DuringMovie.Script.Horror}}\"",
+									"Script": "/jump {{ModId}}_Guilherme 7/pause 500/message \"{{i18n: Guilherme.MoviesReactions.DuringMovie.Script.Horror}}\"",
 									"Text": "{{i18n: Guilherme.MoviesReactions.DuringMovie.Text.Horror}}"
 								},
 								"AfterMovie": 
@@ -473,7 +473,7 @@
 								"DuringMovie": 
 								{
 									"ResponsePoint": null,
-									"Script": "/shake Guilherme 2000/pause 500/message \"{{i18n:Guilherme.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
+									"Script": "/shake {{ModId}}_Guilherme 2000/pause 500/message \"{{i18n:Guilherme.MoviesReactions.DuringMovie.Script.PraireKing}}\"",
 									"Text": "{{i18n:Guilherme.MoviesReactions.DuringMovie.Text.PraireKing}}"
 								},
 								"AfterMovie": 
