@@ -12,7 +12,7 @@
 			"PatchMode": "Replace",
 			"When":
 			{
-			   "HasSeenEvent": "1186001"
+			   "HasSeenEvent": "{{ModId}}_1186001"
 			}
 		},
    
