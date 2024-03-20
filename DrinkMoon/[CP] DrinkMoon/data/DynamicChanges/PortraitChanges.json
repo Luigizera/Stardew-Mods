@@ -4,7 +4,7 @@
 		//Portraits Estações
 		{
 			"Action": "EditImage",
-			"Target": "Portraits/{{ModId}}_Guilherme, Portraits/{{ModId}}_Gustavo, Portraits/Luigi, Portraits/{{ModId}}_Mateus, Portraits/{{ModId}}_Ronaldo, Portraits/{{ModId}}_Seba",
+			"Target": "Portraits/{{ModId}}_Guilherme",
 			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_{{season}}.png",
 			"When": 
 			{
