@@ -38,7 +38,7 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 0, "Y": 0, "Width": 4, "Height": 4 }
-                    },
+                    }
                 },
 
 				"{{ModId}}_Gustavo": 
@@ -74,7 +74,7 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 4, "Y": 0, "Width": 4, "Height": 4 }
-                    },
+                    }
                 },
 
 				"{{ModId}}_Luigi": 
@@ -110,7 +110,7 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 8, "Y": 0, "Width": 4, "Height": 4 }
-                    },
+                    }
                 },
 
 				"{{ModId}}_Mateus": 
@@ -145,7 +145,7 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 12, "Y": 0, "Width": 4, "Height": 4 }
-                    },
+                    }
                 },
 
 				"{{ModId}}_Ronaldo": 

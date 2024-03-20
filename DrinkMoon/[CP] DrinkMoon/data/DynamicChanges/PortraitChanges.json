@@ -180,7 +180,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -193,7 +193,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -206,7 +206,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -219,7 +219,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -232,7 +232,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -245,7 +245,7 @@
 			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"

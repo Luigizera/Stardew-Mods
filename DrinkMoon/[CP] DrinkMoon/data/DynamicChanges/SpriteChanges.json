@@ -160,7 +160,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -172,7 +172,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -184,7 +184,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -196,7 +196,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -208,7 +208,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -220,7 +220,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_Halloween.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_TownHeartEvents",
+			   	"LocationName": "{{ModId}}_TownHeartEvents",
 			   	"DayOfWeek": "Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -233,7 +233,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_RPG.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
+			   	"LocationName": "{{ModId}}_MineRpg1, {{ModId}}_MineRpg2, {{ModId}}_MineRpgBoss",
 			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -245,7 +245,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_RPG.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
+			   	"LocationName": "{{ModId}}_MineRpg1, {{ModId}}_MineRpg2, {{ModId}}_MineRpgBoss",
 			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -257,7 +257,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_RPG.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
+			   	"LocationName": "{{ModId}}_MineRpg1, {{ModId}}_MineRpg2, {{ModId}}_MineRpgBoss",
 			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
@@ -269,7 +269,7 @@
 			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_RPG.png",
 			"When": 
 			{ 
-			   	"LocationName": "Custom_Mine_Rpg1, Custom_Mine_Rpg2, Custom_Mine_RpgBoss",
+			   	"LocationName": "{{ModId}}_MineRpg1, {{ModId}}_MineRpg2, {{ModId}}_MineRpgBoss",
 			   	"DayOfWeek": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
 			},
 			"Update": "OnLocationChange"
