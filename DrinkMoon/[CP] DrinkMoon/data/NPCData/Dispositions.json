@@ -38,7 +38,81 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 0, "Y": 0, "Width": 4, "Height": 4 }
-                    }
+                    },
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "Winter",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": true,
+                          "Portrait": "Portraits/{{ModId}}_Guilherme_winter",
+                          "Sprite": "Characters/{{ModId}}_Guilherme_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Guilherme_summer",
+                            "Sprite": "Characters/{{ModId}}_Guilherme_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Guilherme_fall",
+                            "Sprite": "Characters/{{ModId}}_Guilherme_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Guilherme_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Guilherme_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Guilherme_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Guilherme_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "RPG",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_MineRpg1\" \"LOCATION_NAME Here {{ModId}}_MineRpg2\" \"LOCATION_NAME Here {{ModId}}_MineRpgBoss\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Guilherme",
+                            "Sprite": "Characters/{{ModId}}_Guilherme_RPG",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        }
+                    ]
                 },
 
 				"{{ModId}}_Gustavo": 
@@ -74,7 +148,70 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 4, "Y": 0, "Width": 4, "Height": 4 }
-                    }
+                    },
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "Winter",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": true,
+                          "Portrait": "Portraits/{{ModId}}_Gustavo_winter",
+                          "Sprite": "Characters/{{ModId}}_Gustavo_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Gustavo_summer",
+                            "Sprite": "Characters/{{ModId}}_Gustavo_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Gustavo_fall",
+                            "Sprite": "Characters/{{ModId}}_Gustavo_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Gustavo_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Gustavo_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Gustavo_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Gustavo_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        }
+                    ]
                 },
 
 				"{{ModId}}_Luigi": 
@@ -110,7 +247,81 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 8, "Y": 0, "Width": 4, "Height": 4 }
-                    }
+                    },
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "Winter",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": true,
+                          "Portrait": "Portraits/{{ModId}}_Luigi_winter",
+                          "Sprite": "Characters/{{ModId}}_Luigi_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Luigi_summer",
+                            "Sprite": "Characters/{{ModId}}_Luigi_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Luigi_fall",
+                            "Sprite": "Characters/{{ModId}}_Luigi_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Luigi_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Luigi_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Luigi_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Luigi_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "RPG",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_MineRpg1\" \"LOCATION_NAME Here {{ModId}}_MineRpg2\" \"LOCATION_NAME Here {{ModId}}_MineRpgBoss\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Luigi",
+                            "Sprite": "Characters/{{ModId}}_Luigi_RPG",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        }
+                    ]
                 },
 
 				"{{ModId}}_Mateus": 
@@ -145,7 +356,81 @@
                     {
                         "MapAsset": "{{ModId}}_DrinkMoonSpouseAreas",
                         "MapSourceRect": { "X": 12, "Y": 0, "Width": 4, "Height": 4 }
-                    }
+                    },
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "Winter",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": true,
+                          "Portrait": "Portraits/{{ModId}}_Mateus_winter",
+                          "Sprite": "Characters/{{ModId}}_Mateus_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Mateus_summer",
+                            "Sprite": "Characters/{{ModId}}_Mateus_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Mateus_fall",
+                            "Sprite": "Characters/{{ModId}}_Mateus_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Mateus_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Mateus_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Mateus_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Mateus_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "RPG",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_MineRpg1\" \"LOCATION_NAME Here {{ModId}}_MineRpg2\" \"LOCATION_NAME Here {{ModId}}_MineRpgBoss\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Mateus",
+                            "Sprite": "Characters/{{ModId}}_Mateus_RPG",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        }
+                    ]
                 },
 
 				"{{ModId}}_Ronaldo": 
@@ -168,6 +453,92 @@
                             "Location": "{{ModId}}_DMBarraca",
                             "Tile": { "X": 8, "Y": 11 },
                             "Direction": "Left"
+                        }
+                    ],
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "WinterIndoors",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": false,
+                          "Portrait": "Portraits/{{ModId}}_Ronaldo_winter",
+                          "Sprite": "Characters/{{ModId}}_Ronaldo_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "WinterOutdoors",
+                            "Condition": null,
+                            "Season": "Winter",
+                            "Indoors": false,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo_winter_snow",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_winter_snow",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                          },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo_summer",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo_fall",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "RPG",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_MineRpg1\" \"LOCATION_NAME Here {{ModId}}_MineRpg2\" \"LOCATION_NAME Here {{ModId}}_MineRpgBoss\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Ronaldo",
+                            "Sprite": "Characters/{{ModId}}_Ronaldo_RPG",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
                         }
                     ]
                 },
@@ -193,6 +564,69 @@
                             "Tile": { "X": 1, "Y": 11 },
                             "Direction": "Left"
                         }
+                    ],
+                    "TextureName": null,
+                    "Appearance": 
+                    [
+                        {
+                          "Id": "Winter",
+                          "Condition": null,
+                          "Season": "Winter",
+                          "Indoors": true,
+                          "Outdoors": true,
+                          "Portrait": "Portraits/{{ModId}}_Seba_winter",
+                          "Sprite": "Characters/{{ModId}}_Seba_winter",
+                          "IsIslandAttire": false,
+                          "Precedence": -100,
+                          "Weight": 0
+                        },
+                        {
+                            "Id": "Summer",
+                            "Condition": null,
+                            "Season": "Summer",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Seba_summer",
+                            "Sprite": "Characters/{{ModId}}_Seba_summer",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Fall",
+                            "Condition": null,
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Seba_fall",
+                            "Sprite": "Characters/{{ModId}}_Seba_fall",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Halloween",
+                            "Condition": "ANY \"IS_EVENT festival_fall27, {{HalloweenOutfits}}, LOCATION_NAME Here Temp, PLAYER_HAS_SEEN_EVENT Any {{ModId}}_1190015\"",
+                            "Season": "Fall",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Seba_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Seba_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
+                        {
+                            "Id": "Cosplay",
+                            "Condition": "ANY \"LOCATION_NAME Here {{ModId}}_TownHeartEvents, DAY_OF_WEEK Friday Saturday Sunday\"",
+                            "Indoors": true,
+                            "Outdoors": true,
+                            "Portrait": "Portraits/{{ModId}}_Seba_Halloween",
+                            "Sprite": "Characters/{{ModId}}_Seba_Halloween",
+                            "IsIslandAttire": false,
+                            "Precedence": -100,
+                            "Weight": 0
+                        },
                     ]
                 }
             }

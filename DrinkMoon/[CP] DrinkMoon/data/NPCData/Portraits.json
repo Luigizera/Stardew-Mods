@@ -43,6 +43,161 @@
 			"Target": "Portraits/{{ModId}}_Seba",
 			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba.png"
 		},
+
+		//Portraits Estações
+		//Guilherme Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Guilherme_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Guilherme_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Guilherme_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_winter.png"
+		},
+
+		//Gustavo Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Gustavo_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Gustavo_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Gustavo_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_winter.png"
+		},
+
+		//Luigi Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Luigi_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Luigi_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Luigi_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_winter.png"
+		},
+
+		//Mateus Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Mateus_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Mateus_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Mateus_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_winter.png"
+		},
+
+		//Ronaldo Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_winter.png"
+		},
+
+		//Seba Estações
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Seba_summer",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Seba_fall",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Seba_winter",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_winter.png"
+		},
+
+		//Portraits Estações Nevando
+		//Ronaldo Estações Nevando
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo_winter_snow",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_winter_snow.png"
+		},
+
+		//Portraits Halloween/Cosplay
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Guilherme_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Guilherme/Guilherme_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Gustavo_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Gustavo/Gustavo_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Luigi_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Luigi/Luigi_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Mateus_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Mateus/Mateus_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Ronaldo_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Ronaldo/Ronaldo_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/{{ModId}}_Seba_Halloween",
+			"FromFile": "assets/CharactersFiles/Portraits/Seba/Seba_Halloween.png"
+		},
 		
 		//Portraits Ilha Gengibre
 		{

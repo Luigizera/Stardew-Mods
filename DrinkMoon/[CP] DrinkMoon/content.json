@@ -45,7 +45,7 @@
       {
          //Adiciona os Dados de Alterações Dinâmicas
          "Action": "Include",
-         "FromFile": "Data/DynamicChanges/MapChanges.json, Data/DynamicChanges/PortraitChanges.json, Data/DynamicChanges/SpriteChanges.json"
+         "FromFile": "Data/DynamicChanges/MapChanges.json"
       },
 
       {

@@ -43,6 +43,175 @@
         	"Target": "Characters/{{ModId}}_Seba",
         	"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba.png"
     	},
+
+		//Estações Sprites
+		//Sprite Guilherme Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Guilherme_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Guilherme_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Guilherme_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_winter.png"
+		},
+
+		//Sprite Gustavo Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Gustavo_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Gustavo_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Gustavo_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_winter.png"
+		},
+
+		//Sprite Luigi Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Luigi_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Luigi_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Luigi_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_winter.png"
+		},
+
+		//Sprite Mateus Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Mateus_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Mateus_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Mateus_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_winter.png"
+		},
+
+		//Sprite Ronaldo Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Ronaldo_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Ronaldo_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Ronaldo_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_winter.png"
+		},
+
+		//Sprite Seba Estações
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Seba_summer",
+			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_summer.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Seba_fall",
+			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_fall.png"
+		},
+
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Seba_winter",
+			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_winter.png"
+		},
+
+		//Sprites Halloween/Cosplay
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Guilherme_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Gustavo_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Gustavo/Gustavo_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Luigi_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Mateus_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Ronaldo_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_Halloween.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Seba_Halloween",
+			"FromFile": "assets/CharactersFiles/Sprites/Seba/Seba_Halloween.png"
+		},
+
+		//Sprites RPG
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Guilherme_RPG",
+			"FromFile": "assets/CharactersFiles/Sprites/Guilherme/Guilherme_RPG.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Luigi_RPG",
+			"FromFile": "assets/CharactersFiles/Sprites/Luigi/Luigi_RPG.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Mateus_RPG",
+			"FromFile": "assets/CharactersFiles/Sprites/Mateus/Mateus_RPG.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/{{ModId}}_Ronaldo_RPG",
+			"FromFile": "assets/CharactersFiles/Sprites/Ronaldo/Ronaldo_RPG.png"
+		},
 	
 		//Beach Sprites
 		{
