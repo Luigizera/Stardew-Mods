@@ -44,7 +44,7 @@
                     [
                         {
                           "Id": "Winter",
-                          "Condition": null,
+                          "Condition": "ANY \"{{SeasonalOutfits}}\"",
                           "Season": "Winter",
                           "Indoors": true,
                           "Outdoors": true,
@@ -56,7 +56,7 @@
                         },
                         {
                             "Id": "Summer",
-                            "Condition": null,
+                            "Condition": "ANY \"{{SeasonalOutfits}}\"",
                             "Season": "Summer",
                             "Indoors": true,
                             "Outdoors": true,
@@ -68,7 +68,7 @@
                         },
                         {
                             "Id": "Fall",
-                            "Condition": null,
+                            "Condition": "ANY \"{{SeasonalOutfits}}\"",
                             "Season": "Fall",
                             "Indoors": true,
                             "Outdoors": true,
