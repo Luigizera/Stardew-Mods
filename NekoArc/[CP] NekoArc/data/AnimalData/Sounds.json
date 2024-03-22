@@ -1,0 +1,21 @@
+{
+	"Changes": 
+	[
+		{
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": 
+			{
+                "{{ModId}}_NekoArc_1": 
+				{
+                    "ID": "{{ModId}}_NekoArc_1",
+                    "Category": "Sound",
+                    "FilePaths": [ "{{AbsoluteFilePath: assets/Animal/Sounds/nekoarc_1.ogg}}" ],
+                    "StreamedVorbis": false,
+                    "Looped": false
+                }
+			}
+		}
+
+	]
+}

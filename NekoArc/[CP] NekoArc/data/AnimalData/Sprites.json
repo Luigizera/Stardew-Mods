@@ -1,0 +1,12 @@
+{
+	"Changes": 
+	[
+		//Default Sprites
+		{
+        	//Sprite Neko Arc
+        	"Action": "Load",
+        	"Target": "Characters/{{ModId}}_NekoArc",
+        	"FromFile": "assets/Animal/NekoArc/NekoArc.png"
+    	}
+	]
+}

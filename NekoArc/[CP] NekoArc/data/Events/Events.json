@@ -1,0 +1,14 @@
+{
+	"Changes": 
+	[
+        {
+			"Action": "EditData",
+			"Target": "Data/Events/Farm",
+			"Entries": 
+            {
+                "{{ModId}}_1590166/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h {{ModId}}_NekoArc/H": "continue/64 15/farmer 64 15 2 pet 63 16 2 Marnie 64 19 0/skippable/warp Marnie 64 19/positionOffset PetActor 30 0/faceDirection PetActor 2/pause 1000/emote farmer 8/pause 1000/faceDirection PetActor 0/pause 1000/playPetSound {{ModId}}_NekoArc_1/shake PetActor 150/pause 1000/emote farmer 40/pause 1000/playPetSound {{ModId}}_NekoArc_1/shake PetActor 150/pause 500/playPetSound {{ModId}}_NekoArc_1/shake PetActor 150/pause 500/playPetSound {{ModId}}_NekoArc_1/shake PetActor 150/pause 1000/catQuestion/pause 500/playPetSound {{ModId}}_NekoArc_1/shake PetActor 150/pause 500/globalFade/viewport -1000 -1000/end"
+            }
+        }
+        
+    ]
+}

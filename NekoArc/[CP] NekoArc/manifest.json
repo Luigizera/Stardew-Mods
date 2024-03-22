@@ -1,0 +1,12 @@
+{
+  "Name": "NekoArc",
+  "Author": "Lugonico",
+  "Version": "1.0.0",
+  "Description": "Adiciona a Neko Arc como Pet no Stardew Valley!",
+  "UniqueID": "Lugonico.NekoArc",
+  "UpdateKeys": [ "GitHub:Lugom/Stardew-Mods" ],
+  "ContentPackFor": 
+  {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

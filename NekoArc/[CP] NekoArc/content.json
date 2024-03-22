@@ -1,0 +1,18 @@
+{
+   "Format": "2.0.0",
+
+   "Changes":
+   [
+      {
+         //Adiciona Animais
+         "Action":"Include",
+         "FromFile": "Data/AnimalData/Icons.json, Data/AnimalData/Sprites.json, Data/AnimalData/Sounds.json, Data/AnimalData/Animal.json",
+      },
+      {
+         //Adiciona Eventos
+         "Action":"Include",
+         "FromFile": "Data/Events/Events.json",
+      }
+
+   ]
+}
